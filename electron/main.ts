@@ -3,6 +3,7 @@ import { fileURLToPath } from 'node:url'
 import path from 'node:path'
 import fs from 'node:fs/promises'
 import { spawn } from 'node:child_process'
+import iconv from 'iconv-lite'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 
@@ -31,8 +32,10 @@ const IPC_CHANNELS = {
   LIST_DIRECTORY: 'workspace:list-directory',
   READ_FILE: 'file:read',
   WRITE_FILE: 'file:write',
-  RUN_COMMAND: 'command:run',
-  COMMAND_OUTPUT: 'command:output',
+  READ_PDF_DATA_URL: 'pdf:read-data-url',
+  DETECT_COMPILERS: 'compile:detect-compilers',
+  RUN_COMPILE: 'compile:run',
+  COMPILE_OUTPUT: 'compile:output',
 } as const
 
 type EntryType = 'file' | 'directory'
@@ -43,13 +46,22 @@ interface DirectoryEntry {
   type: EntryType
 }
 
-interface CommandPayload {
-  command: string
-  args?: string[]
+interface CompilerInfo {
+  id: string
+  label: string
+  available: boolean
+}
+
+interface CompilePayload {
+  compilerId: string
+  texFilePath: string
   cwd: string
 }
 
-const COMMAND_ALLOWLIST = new Set(['pdflatex', 'xelatex', 'lualatex'])
+const COMPILER_CANDIDATES = [
+  { id: 'latexmk', label: 'latexmk', command: 'latexmk' },
+  { id: 'pdflatex', label: 'pdflatex', command: 'pdflatex' },
+] as const
 
 function createWindow() {
   win = new BrowserWindow({
@@ -96,13 +108,76 @@ app.on('activate', () => {
   }
 })
 
-function sendCommandOutput(payload: {
+function sendCompileOutput(payload: {
   runId: string
   stream: 'stdout' | 'stderr' | 'close'
   chunk: string
   code?: number | null
+  compilerId: string
 }) {
-  win?.webContents.send(IPC_CHANNELS.COMMAND_OUTPUT, payload)
+  win?.webContents.send(IPC_CHANNELS.COMPILE_OUTPUT, payload)
+}
+
+function runProbe(command: string, args: string[]) {
+  return new Promise<boolean>((resolve) => {
+    const child = spawn(command, args, {
+      shell: true,
+      windowsHide: true,
+      stdio: 'ignore',
+    })
+
+    const timer = setTimeout(() => {
+      child.kill()
+      resolve(false)
+    }, 2500)
+
+    child.on('error', () => {
+      clearTimeout(timer)
+      resolve(false)
+    })
+
+    child.on('close', (code) => {
+      clearTimeout(timer)
+      resolve(code === 0)
+    })
+  })
+}
+
+async function detectAvailableCompilers() {
+  const results = await Promise.all(
+    COMPILER_CANDIDATES.map(async (compiler): Promise<CompilerInfo> => {
+      const available = await runProbe(compiler.command, ['--version'])
+      return {
+        id: compiler.id,
+        label: compiler.label,
+        available,
+      }
+    })
+  )
+
+  return results
+}
+
+function getCompilerCommand(compilerId: string) {
+  return COMPILER_CANDIDATES.find((compiler) => compiler.id === compilerId) ?? null
+}
+
+function decodeCompilerChunk(chunk: unknown) {
+  if (Buffer.isBuffer(chunk)) {
+    if (process.platform === 'win32') {
+      return iconv.decode(chunk, 'gbk')
+    }
+    return chunk.toString('utf-8')
+  }
+
+  return String(chunk)
+}
+
+function buildCompilerArgs(compilerId: string, texFilePath: string) {
+  if (compilerId === 'latexmk') {
+    return ['-pdf', '-interaction=nonstopmode', '-halt-on-error', texFilePath]
+  }
+  return ['-interaction=nonstopmode', '-halt-on-error', texFilePath]
 }
 
 function registerIpcHandlers() {
@@ -144,52 +219,91 @@ function registerIpcHandlers() {
     return true
   })
 
-  ipcMain.handle(IPC_CHANNELS.RUN_COMMAND, async (_event, payload: CommandPayload) => {
-    const { command, args = [], cwd } = payload
-
-    if (!COMMAND_ALLOWLIST.has(command)) {
-      throw new Error(`Command not allowed: ${command}`)
+  ipcMain.handle(IPC_CHANNELS.READ_PDF_DATA_URL, async (_event, filePath: string) => {
+    try {
+      const pdfBuffer = await fs.readFile(filePath)
+      const base64 = pdfBuffer.toString('base64')
+      return `data:application/pdf;base64,${base64}`
+    } catch {
+      return null
     }
+  })
+
+  ipcMain.handle(IPC_CHANNELS.DETECT_COMPILERS, async () => {
+    const compilers = await detectAvailableCompilers()
+    const defaultCompiler = compilers.find((compiler) => compiler.available)?.id ?? null
+    return {
+      compilers,
+      defaultCompiler,
+    }
+  })
+
+  ipcMain.handle(IPC_CHANNELS.RUN_COMPILE, async (_event, payload: CompilePayload) => {
+    const { compilerId, texFilePath, cwd } = payload
+
+    const compiler = getCompilerCommand(compilerId)
+    if (!compiler) {
+      throw new Error(`Unknown compiler: ${compilerId}`)
+    }
+
+    const isAvailable = await runProbe(compiler.command, ['--version'])
+    if (!isAvailable) {
+      throw new Error(`Compiler not available: ${compiler.label}`)
+    }
+
+    const args = buildCompilerArgs(compilerId, texFilePath)
 
     const runId = `${Date.now()}-${Math.random().toString(16).slice(2)}`
 
+    sendCompileOutput({
+      runId,
+      stream: 'stdout',
+      chunk: `[compile:start] ${compiler.label} ${args.join(' ')}\n`,
+      compilerId,
+    })
+
     return await new Promise<{ runId: string; code: number | null; signal: NodeJS.Signals | null }>((resolve, reject) => {
-      const child = spawn(command, args, {
+      const child = spawn(compiler.command, args, {
         cwd,
-        shell: false,
+        shell: true,
+        windowsHide: true,
       })
 
       child.stdout.on('data', (chunk) => {
-        sendCommandOutput({
+        sendCompileOutput({
           runId,
           stream: 'stdout',
-          chunk: String(chunk),
+          chunk: decodeCompilerChunk(chunk),
+          compilerId,
         })
       })
 
       child.stderr.on('data', (chunk) => {
-        sendCommandOutput({
+        sendCompileOutput({
           runId,
           stream: 'stderr',
-          chunk: String(chunk),
+          chunk: decodeCompilerChunk(chunk),
+          compilerId,
         })
       })
 
       child.on('error', (error) => {
-        sendCommandOutput({
+        sendCompileOutput({
           runId,
           stream: 'stderr',
-          chunk: error.message,
+          chunk: `${error.message}\n`,
+          compilerId,
         })
         reject(error)
       })
 
       child.on('close', (code, signal) => {
-        sendCommandOutput({
+        sendCompileOutput({
           runId,
           stream: 'close',
           chunk: '',
           code,
+          compilerId,
         })
         resolve({ runId, code, signal })
       })

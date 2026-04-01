@@ -6,21 +6,28 @@ export interface DirectoryEntry {
   type: EntryType
 }
 
-export interface CommandRunPayload {
-  command: string
-  args?: string[]
+export interface CompilerInfo {
+  id: string
+  label: string
+  available: boolean
+}
+
+export interface CompileRequest {
+  compilerId: string
+  texFilePath: string
   cwd: string
 }
 
-export interface CommandResult {
+export interface CompileResult {
   runId: string
   code: number | null
   signal: string | null
 }
 
-export interface CommandOutputEvent {
+export interface CompileOutputEvent {
   runId: string
   stream: 'stdout' | 'stderr' | 'close'
   chunk: string
   code?: number | null
+  compilerId: string
 }

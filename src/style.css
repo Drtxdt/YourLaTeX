@@ -87,6 +87,16 @@ body {
   gap: 0.5rem;
 }
 
+.compiler-select {
+  border: 1px solid var(--line);
+  background: var(--bg-elevated);
+  color: var(--ink-strong);
+  border-radius: 8px;
+  padding: 0.45rem 0.55rem;
+  font-size: 0.85rem;
+  min-width: 170px;
+}
+
 .btn {
   border: 1px solid var(--line);
   background: var(--bg-elevated);
@@ -241,9 +251,11 @@ body {
   margin: 0;
   padding: 0.65rem 0.85rem;
   overflow: auto;
+  white-space: pre-wrap;
+  word-break: break-word;
   color: #392e21;
   font-size: 0.82rem;
-  font-family: 'Iosevka Term', 'Fira Code', Consolas, monospace;
+  font-family: 'Iosevka Term', 'Fira Code', 'Microsoft YaHei UI', 'PingFang SC', 'Noto Sans SC', Consolas, monospace;
 }
 
 @media (max-width: 1180px) {
