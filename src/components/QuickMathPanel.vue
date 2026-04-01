@@ -4,20 +4,20 @@ const emit = defineEmits<{
 }>()
 
 const symbols = [
-  { label: 'alpha', latex: '\\alpha ' },
-  { label: 'beta', latex: '\\beta ' },
-  { label: 'gamma', latex: '\\gamma ' },
-  { label: 'sum', latex: '\\sum_{i=1}^{n} ' },
-  { label: 'int', latex: '\\int_{a}^{b} ' },
-  { label: 'frac', latex: '\\frac{ }{ }' },
-  { label: 'sqrt', latex: '\\sqrt{ }' },
-  { label: 'infty', latex: '\\infty ' },
-  { label: 'cdot', latex: '\\cdot ' },
-  { label: 'pm', latex: '\\pm ' },
-  { label: 'leq', latex: '\\leq ' },
-  { label: 'geq', latex: '\\geq ' },
-  { label: 'Rightarrow', latex: '\\Rightarrow ' },
-  { label: 'forall', latex: '\\forall ' },
+  { symbol: 'α', latex: '\\alpha ' },
+  { symbol: 'β', latex: '\\beta ' },
+  { symbol: 'γ', latex: '\\gamma ' },
+  { symbol: '∑', latex: '\\sum_{i=1}^{n} ' },
+  { symbol: '∫', latex: '\\int_{a}^{b} ' },
+  { symbol: 'x/y', latex: '\\frac{ }{ }' },
+  { symbol: '√', latex: '\\sqrt{ }' },
+  { symbol: '∞', latex: '\\infty ' },
+  { symbol: '·', latex: '\\cdot ' },
+  { symbol: '±', latex: '\\pm ' },
+  { symbol: '≤', latex: '\\leq ' },
+  { symbol: '≥', latex: '\\geq ' },
+  { symbol: '⇒', latex: '\\Rightarrow ' },
+  { symbol: '∀', latex: '\\forall ' },
 ]
 </script>
 
@@ -27,12 +27,13 @@ const symbols = [
     <div class="symbol-grid">
       <button
         v-for="item in symbols"
-        :key="item.label"
+        :key="item.latex"
         type="button"
         class="symbol-btn"
         @click="emit('insert', item.latex)"
       >
-        {{ item.label }}
+        <span class="symbol-glyph">{{ item.symbol }}</span>
+        <span class="symbol-latex">{{ item.latex }}</span>
       </button>
     </div>
   </section>

@@ -15,6 +15,8 @@ type MonacoPaneExpose = {
 const workspacePath = ref('')
 const entries = ref<DirectoryEntry[]>([])
 const currentFilePath = ref('')
+const activeTexFilePath = ref('')
+const selectedPdfPath = ref('')
 const editorContent = ref('')
 const logs = ref<string[]>([])
 const compiling = ref(false)
@@ -30,11 +32,18 @@ const latexCandidates = computed(() =>
   entries.value.filter((entry) => entry.type === 'file' && entry.name.toLowerCase().endsWith('.tex'))
 )
 
+const canSaveCurrentFile = computed(() => currentFilePath.value.toLowerCase().endsWith('.tex'))
+
 const pdfPath = computed(() => {
-  if (!currentFilePath.value.toLowerCase().endsWith('.tex')) {
+  if (selectedPdfPath.value) {
+    return selectedPdfPath.value
+  }
+
+  if (!activeTexFilePath.value.toLowerCase().endsWith('.tex')) {
     return ''
   }
-  return currentFilePath.value.replace(/\.tex$/i, '.pdf')
+
+  return activeTexFilePath.value.replace(/\.tex$/i, '.pdf')
 })
 
 function appendLog(message: string) {
@@ -63,7 +72,28 @@ async function selectFile(entry: DirectoryEntry) {
   if (entry.type !== 'file') return
   isHydratingContent.value = true
   currentFilePath.value = entry.path
-  editorContent.value = await window.electronAPI.readFile(entry.path)
+
+  const lowerName = entry.name.toLowerCase()
+
+  if (lowerName.endsWith('.pdf')) {
+    selectedPdfPath.value = entry.path
+    appendLog(`[preview] ${entry.path}\n`)
+    await refreshPdfPreview()
+    isHydratingContent.value = false
+    return
+  }
+
+  selectedPdfPath.value = ''
+
+  if (lowerName.endsWith('.tex')) {
+    activeTexFilePath.value = entry.path
+    editorContent.value = await window.electronAPI.readFile(entry.path)
+    await refreshPdfPreview()
+    isHydratingContent.value = false
+    return
+  }
+
+  appendLog(`[info] ${entry.path} is not editable in Monaco.\n`)
   await refreshPdfPreview()
   isHydratingContent.value = false
 }
@@ -79,13 +109,13 @@ async function refreshPdfPreview() {
 }
 
 async function saveCurrentFile() {
-  if (!currentFilePath.value) return
+  if (!canSaveCurrentFile.value) return
   await window.electronAPI.writeFile(currentFilePath.value, editorContent.value)
   appendLog(`[saved] ${currentFilePath.value}\n`)
 }
 
 function scheduleDebouncedCompile() {
-  if (!workspacePath.value || !currentFilePath.value.toLowerCase().endsWith('.tex')) {
+  if (!workspacePath.value || !canSaveCurrentFile.value) {
     return
   }
 
@@ -111,7 +141,7 @@ async function compileCurrentFile(options?: { skipSave?: boolean }) {
     return
   }
 
-  const targetTex = currentFilePath.value || latexCandidates.value[0]?.path
+  const targetTex = activeTexFilePath.value || latexCandidates.value[0]?.path
   if (!targetTex) {
     appendLog('[error] No .tex file found in workspace root.\n')
     return
@@ -199,6 +229,7 @@ watch(editorContent, () => {
       :workspace-path="workspacePath"
       :current-file-path="currentFilePath"
       :compiling="compiling"
+      :can-save="canSaveCurrentFile"
       :selected-compiler="selectedCompiler"
       :available-compilers="availableCompilers"
       @open-workspace="openWorkspace"

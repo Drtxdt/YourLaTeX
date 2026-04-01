@@ -55,6 +55,10 @@ onMounted(() => {
   editor.onDidChangeModelContent(() => {
     emit('update:modelValue', editor?.getValue() ?? '')
   })
+
+  requestAnimationFrame(() => {
+    editor?.layout()
+  })
 })
 
 watch(
@@ -79,3 +83,15 @@ onBeforeUnmount(() => {
     <div ref="editorHost" class="editor-host"></div>
   </section>
 </template>
+
+<style scoped>
+.editor-pane {
+  min-height: 0;
+}
+
+.editor-host {
+  width: 100%;
+  height: 100%;
+  min-height: 320px;
+}
+</style>

@@ -15,6 +15,19 @@ function handleClick(entry: DirectoryEntry) {
     emit('selectFile', entry)
   }
 }
+
+function getFileIcon(entry: DirectoryEntry) {
+  if (entry.type === 'directory') return 'DIR'
+
+  const lower = entry.name.toLowerCase()
+  if (lower.endsWith('.tex')) return 'TEX'
+  if (lower.endsWith('.pdf')) return 'PDF'
+  if (lower.endsWith('.bib')) return 'BIB'
+  if (lower.endsWith('.md')) return 'DOC'
+  if (lower.endsWith('.png') || lower.endsWith('.jpg') || lower.endsWith('.jpeg') || lower.endsWith('.svg')) return 'IMG'
+
+  return 'FILE'
+}
 </script>
 
 <template>
@@ -27,7 +40,7 @@ function handleClick(entry: DirectoryEntry) {
         :class="['file-item', entry.type, { selected: entry.path === props.selectedFilePath }]"
         @click="handleClick(entry)"
       >
-        <span class="icon">{{ entry.type === 'directory' ? 'DIR' : 'TEX' }}</span>
+        <span class="icon">{{ getFileIcon(entry) }}</span>
         <span class="name">{{ entry.name }}</span>
       </li>
     </ul>

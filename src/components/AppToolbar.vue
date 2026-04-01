@@ -3,6 +3,7 @@ const props = defineProps<{
   workspacePath: string
   currentFilePath: string
   compiling: boolean
+  canSave: boolean
   selectedCompiler: string
   availableCompilers: Array<{ id: string; label: string; available: boolean }>
 }>()
@@ -48,7 +49,7 @@ function handleCompilerChange(event: Event) {
         </option>
       </select>
       <button class="btn btn-soft" type="button" @click="emit('openWorkspace')">Open Folder</button>
-      <button class="btn btn-soft" type="button" :disabled="!props.currentFilePath" @click="emit('saveFile')">Save</button>
+      <button class="btn btn-soft" type="button" :disabled="!props.canSave" @click="emit('saveFile')">Save</button>
       <button class="btn btn-accent" type="button" :disabled="!props.workspacePath || props.compiling" @click="emit('compile')">
         {{ props.compiling ? 'Compiling...' : 'Compile PDF' }}
       </button>
