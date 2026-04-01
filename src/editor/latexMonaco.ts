@@ -4,31 +4,91 @@ const LATEX_LANGUAGE_ID = 'latex-workshop-lite'
 
 let isLanguageRegistered = false
 
-const LATEX_COMMANDS = [
-  'section',
-  'subsection',
-  'subsubsection',
-  'paragraph',
-  'textbf',
-  'textit',
-  'emph',
-  'begin',
-  'end',
-  'item',
-  'itemize',
-  'enumerate',
-  'figure',
-  'table',
-  'label',
-  'ref',
-  'cite',
-  'includegraphics',
+interface LatexCompletionOptions {
+  getCitationKeys?: () => string[]
+  getLabelKeys?: () => string[]
+  getTexTargets?: () => string[]
+  getImageTargets?: () => string[]
+  getBibTargets?: () => string[]
+}
+
+const LATEX_MARKER_OWNER = 'latex-workshop-lite-diagnostics'
+
+interface LatexCommandSnippet {
+  command: string
+  snippet: string
+  detail: string
+}
+
+const LATEX_COMMAND_SNIPPETS: LatexCommandSnippet[] = [
+  { command: 'section', snippet: '\\section{$1}', detail: 'Section heading' },
+  { command: 'subsection', snippet: '\\subsection{$1}', detail: 'Subsection heading' },
+  { command: 'subsubsection', snippet: '\\subsubsection{$1}', detail: 'Subsubsection heading' },
+  { command: 'paragraph', snippet: '\\paragraph{$1}', detail: 'Paragraph heading' },
+  { command: 'textbf', snippet: '\\textbf{$1}', detail: 'Bold text' },
+  { command: 'textit', snippet: '\\textit{$1}', detail: 'Italic text' },
+  { command: 'emph', snippet: '\\emph{$1}', detail: 'Emphasis text' },
+  { command: 'begin', snippet: '\\begin{$1}\n\t$0\n\\end{$1}', detail: 'Environment block' },
+  { command: 'item', snippet: '\\item $0', detail: 'List item' },
+  { command: 'itemize', snippet: '\\begin{itemize}\n\t\\item $0\n\\end{itemize}', detail: 'Bulleted list' },
+  { command: 'enumerate', snippet: '\\begin{enumerate}\n\t\\item $0\n\\end{enumerate}', detail: 'Numbered list' },
+  { command: 'figure', snippet: '\\begin{figure}[htbp]\n\t\\centering\n\t\\includegraphics[width=0.8\\textwidth]{$1}\n\t\\caption{$2}\n\t\\label{fig:$3}\n\\end{figure}', detail: 'Figure environment' },
+  { command: 'table', snippet: '\\begin{table}[htbp]\n\t\\centering\n\t\\caption{$1}\n\t\\label{tab:$2}\n\t$0\n\\end{table}', detail: 'Table environment' },
+  { command: 'label', snippet: '\\label{$1}', detail: 'Insert label' },
+  { command: 'ref', snippet: '\\ref{$1}', detail: 'Insert reference' },
+  { command: 'eqref', snippet: '\\eqref{$1}', detail: 'Insert equation reference' },
+  { command: 'pageref', snippet: '\\pageref{$1}', detail: 'Insert page reference' },
+  { command: 'cite', snippet: '\\cite{$1}', detail: 'Insert citation' },
+  { command: 'autocite', snippet: '\\autocite{$1}', detail: 'Insert autocite (biblatex)' },
+  { command: 'parencite', snippet: '\\parencite{$1}', detail: 'Insert parencite (biblatex)' },
+  { command: 'textcite', snippet: '\\textcite{$1}', detail: 'Insert textcite (biblatex)' },
+  { command: 'includegraphics', snippet: '\\includegraphics[width=$1\\textwidth]{$2}', detail: 'Include image' },
+  { command: 'caption', snippet: '\\caption{$1}', detail: 'Insert caption' },
+  { command: 'usepackage', snippet: '\\usepackage{$1}', detail: 'Load package' },
+  { command: 'documentclass', snippet: '\\documentclass[12pt]{article}', detail: 'Set document class' },
+  { command: 'maketitle', snippet: '\\maketitle', detail: 'Render title block' },
+  { command: 'author', snippet: '\\author{$1}', detail: 'Author declaration' },
+  { command: 'title', snippet: '\\title{$1}', detail: 'Title declaration' },
+  { command: 'frac', snippet: '\\frac{$1}{$2}', detail: 'Fraction' },
+  { command: 'sqrt', snippet: '\\sqrt{$1}', detail: 'Square root' },
+  { command: 'sum', snippet: '\\sum_{$1}^{$2}', detail: 'Summation' },
+  { command: 'int', snippet: '\\int_{$1}^{$2}', detail: 'Integral' },
+  { command: 'left', snippet: '\\left($1\\right)', detail: 'Auto-sized delimiters' },
+  { command: 'mathbf', snippet: '\\mathbf{$1}', detail: 'Bold math symbol' },
+  { command: 'mathbb', snippet: '\\mathbb{$1}', detail: 'Blackboard bold symbol' },
+]
+
+const LATEX_COMMANDS = LATEX_COMMAND_SNIPPETS.map((item) => item.command)
+
+const LATEX_PACKAGES = [
+  'amsmath',
+  'amssymb',
+  'amsthm',
+  'mathtools',
+  'graphicx',
+  'xcolor',
+  'hyperref',
+  'cleveref',
+  'biblatex',
+  'natbib',
+  'booktabs',
+  'siunitx',
+  'geometry',
+  'fancyhdr',
+  'titlesec',
   'caption',
-  'usepackage',
-  'documentclass',
-  'maketitle',
-  'author',
-  'title',
+  'subcaption',
+  'float',
+  'enumitem',
+  'csquotes',
+  'fontspec',
+  'xeCJK',
+  'listings',
+  'minted',
+  'tikz',
+  'pgfplots',
+  'algorithm',
+  'algorithmicx',
 ]
 
 const LATEX_ENVIRONMENTS = [
@@ -93,6 +153,7 @@ function ensureLatexLanguageRegistered() {
 function createCompletionItems(
   model: monaco.editor.ITextModel,
   position: monaco.Position,
+  options?: LatexCompletionOptions,
 ): monaco.languages.CompletionList {
   const linePrefix = model.getValueInRange({
     startLineNumber: position.lineNumber,
@@ -101,13 +162,161 @@ function createCompletionItems(
     endColumn: position.column,
   })
 
+  const includeMatch = linePrefix.match(/\\(?:input|include)\{([^}]*)$/)
+  if (includeMatch) {
+    const filePrefix = includeMatch[1] || ''
+    const texTargets = [...(options?.getTexTargets?.() ?? [])]
+      .sort((a, b) => sortByPrefixThenAlpha(a, b, filePrefix))
+
+    return {
+      suggestions: texTargets
+        .filter((target) => target.startsWith(filePrefix))
+        .map((target, index) => ({
+          label: target,
+          kind: monaco.languages.CompletionItemKind.File,
+          insertText: target,
+          range: {
+            startLineNumber: position.lineNumber,
+            endLineNumber: position.lineNumber,
+            startColumn: position.column - filePrefix.length,
+            endColumn: position.column,
+          },
+          detail: 'TeX file path',
+          sortText: String(index).padStart(4, '0'),
+        })),
+    }
+  }
+
+  const graphicsMatch = linePrefix.match(/\\includegraphics(?:\[[^\]]*\])?\{([^}]*)$/)
+  if (graphicsMatch) {
+    const filePrefix = graphicsMatch[1] || ''
+    const imageTargets = [...(options?.getImageTargets?.() ?? [])]
+      .sort((a, b) => sortByPrefixThenAlpha(a, b, filePrefix))
+
+    return {
+      suggestions: imageTargets
+        .filter((target) => target.startsWith(filePrefix))
+        .map((target, index) => ({
+          label: target,
+          kind: monaco.languages.CompletionItemKind.File,
+          insertText: target,
+          range: {
+            startLineNumber: position.lineNumber,
+            endLineNumber: position.lineNumber,
+            startColumn: position.column - filePrefix.length,
+            endColumn: position.column,
+          },
+          detail: 'Image file path',
+          sortText: String(index).padStart(4, '0'),
+        })),
+    }
+  }
+
+  const bibPathMatch = linePrefix.match(/\\(bibliography|addbibresource)\{([^}]*)$/)
+  if (bibPathMatch) {
+    const filePrefix = bibPathMatch[2] || ''
+    const bibTargets = [...(options?.getBibTargets?.() ?? [])]
+      .sort((a, b) => sortByPrefixThenAlpha(a, b, filePrefix))
+
+    return {
+      suggestions: bibTargets
+        .filter((target) => target.startsWith(filePrefix))
+        .map((target, index) => ({
+          label: target,
+          kind: monaco.languages.CompletionItemKind.File,
+          insertText: target,
+          range: {
+            startLineNumber: position.lineNumber,
+            endLineNumber: position.lineNumber,
+            startColumn: position.column - filePrefix.length,
+            endColumn: position.column,
+          },
+          detail: 'Bib file path',
+          sortText: String(index).padStart(4, '0'),
+        })),
+    }
+  }
+
+  const packageMatch = linePrefix.match(/\\usepackage(?:\[[^\]]*\])?\{([^}]*)$/)
+  if (packageMatch) {
+    const packagePrefix = packageMatch[1] || ''
+    const matchedPackages = LATEX_PACKAGES
+      .filter((pkg) => pkg.startsWith(packagePrefix))
+      .sort((a, b) => sortByPrefixThenAlpha(a, b, packagePrefix))
+
+    return {
+      suggestions: matchedPackages.map((pkg, index) => ({
+        label: pkg,
+        kind: monaco.languages.CompletionItemKind.Module,
+        insertText: pkg,
+        range: {
+          startLineNumber: position.lineNumber,
+          endLineNumber: position.lineNumber,
+          startColumn: position.column - packagePrefix.length,
+          endColumn: position.column,
+        },
+        detail: 'LaTeX package',
+        sortText: String(index).padStart(3, '0'),
+      })),
+    }
+  }
+
+  const citeMatch = linePrefix.match(/\\(?:cite|autocite|parencite|textcite)\{([^}]*)$/)
+  if (citeMatch) {
+    const keyPrefix = citeMatch[1] || ''
+    const citationKeys = [...(options?.getCitationKeys?.() ?? [])].sort((a, b) => sortByPrefixThenAlpha(a, b, keyPrefix))
+    return {
+      suggestions: citationKeys
+        .filter((key) => key.startsWith(keyPrefix))
+        .map((key, index) => ({
+          label: key,
+          kind: monaco.languages.CompletionItemKind.Reference,
+          insertText: key,
+          range: {
+            startLineNumber: position.lineNumber,
+            endLineNumber: position.lineNumber,
+            startColumn: position.column - keyPrefix.length,
+            endColumn: position.column,
+          },
+          detail: 'BibTeX key',
+          sortText: String(index).padStart(4, '0'),
+        })),
+    }
+  }
+
+  const refMatch = linePrefix.match(/\\(?:ref|eqref|pageref)\{([^}]*)$/)
+  if (refMatch) {
+    const keyPrefix = refMatch[1] || ''
+    const labelKeys = [...(options?.getLabelKeys?.() ?? [])].sort((a, b) => sortByPrefixThenAlpha(a, b, keyPrefix))
+    return {
+      suggestions: labelKeys
+        .filter((key) => key.startsWith(keyPrefix))
+        .map((key, index) => ({
+          label: key,
+          kind: monaco.languages.CompletionItemKind.Reference,
+          insertText: key,
+          range: {
+            startLineNumber: position.lineNumber,
+            endLineNumber: position.lineNumber,
+            startColumn: position.column - keyPrefix.length,
+            endColumn: position.column,
+          },
+          detail: 'Label key',
+          sortText: String(index).padStart(4, '0'),
+        })),
+    }
+  }
+
   const beginMatch = linePrefix.match(/\\begin\{([a-zA-Z]*)$/)
   if (beginMatch) {
     const envPrefix = beginMatch[1] || ''
+    const matchedEnvironments = LATEX_ENVIRONMENTS
+      .filter((env) => env.startsWith(envPrefix))
+      .sort((a, b) => sortByPrefixThenAlpha(a, b, envPrefix))
+
     return {
-      suggestions: LATEX_ENVIRONMENTS
-        .filter((env) => env.startsWith(envPrefix))
-        .map((env) => ({
+      suggestions: matchedEnvironments
+        .map((env, index) => ({
           label: env,
           kind: monaco.languages.CompletionItemKind.Snippet,
           insertText: `${env}}\n\t$0\n\\end{${env}}`,
@@ -119,6 +328,8 @@ function createCompletionItems(
             endColumn: position.column,
           },
           documentation: `Insert ${env} environment block`,
+          detail: 'Environment',
+          sortText: String(index).padStart(4, '0'),
         })),
     }
   }
@@ -126,25 +337,50 @@ function createCompletionItems(
   const commandMatch = linePrefix.match(/\\([a-zA-Z]*)$/)
   if (commandMatch) {
     const commandPrefix = commandMatch[1] || ''
+    const matchedCommands = LATEX_COMMANDS
+      .filter((cmd) => cmd.startsWith(commandPrefix))
+      .sort((a, b) => sortByPrefixThenAlpha(a, b, commandPrefix))
+
     return {
-      suggestions: LATEX_COMMANDS
-        .filter((cmd) => cmd.startsWith(commandPrefix))
-        .map((cmd) => ({
-          label: `\\${cmd}`,
-          kind: monaco.languages.CompletionItemKind.Function,
-          insertText: `\\${cmd}`,
-          range: {
-            startLineNumber: position.lineNumber,
-            endLineNumber: position.lineNumber,
-            startColumn: position.column - commandPrefix.length - 1,
-            endColumn: position.column,
-          },
-          documentation: `LaTeX command \\${cmd}`,
-        })),
+      suggestions: matchedCommands
+        .map((cmd, index) => {
+          const snippet = LATEX_COMMAND_SNIPPETS.find((item) => item.command === cmd)
+          return {
+            label: `\\${cmd}`,
+            kind: monaco.languages.CompletionItemKind.Snippet,
+            insertText: snippet?.snippet ?? `\\${cmd}`,
+            insertTextRules: monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet,
+            range: {
+              startLineNumber: position.lineNumber,
+              endLineNumber: position.lineNumber,
+              startColumn: position.column - commandPrefix.length - 1,
+              endColumn: position.column,
+            },
+            documentation: `LaTeX command \\${cmd}`,
+            detail: snippet?.detail ?? 'LaTeX command',
+            sortText: String(index).padStart(4, '0'),
+          }
+        }),
     }
   }
 
   return { suggestions: [] }
+}
+
+function sortByPrefixThenAlpha(a: string, b: string, prefix: string) {
+  const aExact = a === prefix
+  const bExact = b === prefix
+  if (aExact !== bExact) {
+    return aExact ? -1 : 1
+  }
+
+  const aStarts = a.startsWith(prefix)
+  const bStarts = b.startsWith(prefix)
+  if (aStarts !== bStarts) {
+    return aStarts ? -1 : 1
+  }
+
+  return a.localeCompare(b)
 }
 
 function enableBeginBraceAutoClose(editor: monaco.editor.IStandaloneCodeEditor) {
@@ -186,7 +422,136 @@ function enableBeginBraceAutoClose(editor: monaco.editor.IStandaloneCodeEditor) 
   })
 }
 
-export function setupLatexEnhancements(editor: monaco.editor.IStandaloneCodeEditor) {
+function registerLatexDiagnostics(editor: monaco.editor.IStandaloneCodeEditor, options?: LatexCompletionOptions) {
+  let timer: ReturnType<typeof setTimeout> | null = null
+
+  const runDiagnostics = () => {
+    const model = editor.getModel()
+    if (!model) {
+      return
+    }
+
+    const markers: monaco.editor.IMarkerData[] = []
+    const content = model.getValue()
+
+    const knownCitations = new Set(options?.getCitationKeys?.() ?? [])
+    const knownLabels = new Set(options?.getLabelKeys?.() ?? [])
+
+    const environmentRegex = /\\(begin|end)\{([a-zA-Z*]+)\}/g
+    const envStack: Array<{ name: string; index: number }> = []
+    let envMatch: RegExpExecArray | null
+    while ((envMatch = environmentRegex.exec(content)) !== null) {
+      const kind = envMatch[1]
+      const envName = envMatch[2]
+      const tokenIndex = envMatch.index
+
+      if (kind === 'begin') {
+        envStack.push({ name: envName, index: tokenIndex })
+        continue
+      }
+
+      const top = envStack[envStack.length - 1]
+      if (!top || top.name !== envName) {
+        const pos = model.getPositionAt(tokenIndex)
+        markers.push({
+          message: `Environment mismatch: expected \\end{${top?.name ?? '?'}} but got \\end{${envName}}`,
+          severity: monaco.MarkerSeverity.Warning,
+          startLineNumber: pos.lineNumber,
+          startColumn: pos.column,
+          endLineNumber: pos.lineNumber,
+          endColumn: pos.column + envMatch[0].length,
+        })
+      } else {
+        envStack.pop()
+      }
+    }
+
+    for (const remaining of envStack) {
+      const pos = model.getPositionAt(remaining.index)
+      markers.push({
+        message: `Environment not closed: \\begin{${remaining.name}}`,
+        severity: monaco.MarkerSeverity.Warning,
+        startLineNumber: pos.lineNumber,
+        startColumn: pos.column,
+        endLineNumber: pos.lineNumber,
+        endColumn: pos.column + remaining.name.length + 8,
+      })
+    }
+
+    const citeRegex = /\\(?:cite|autocite|parencite|textcite)\{([^}]+)\}/g
+    let citeMatch: RegExpExecArray | null
+    while ((citeMatch = citeRegex.exec(content)) !== null) {
+      const keys = citeMatch[1].split(',').map((part) => part.trim()).filter(Boolean)
+      const unknown = keys.find((key) => !knownCitations.has(key))
+      if (!unknown) continue
+
+      const full = citeMatch[0]
+      const startOffset = full.indexOf('{') + 1 + Math.max(0, citeMatch[1].indexOf(unknown))
+      const pos = model.getPositionAt(citeMatch.index + startOffset)
+      markers.push({
+        message: `Unknown citation key: ${unknown}`,
+        severity: monaco.MarkerSeverity.Warning,
+        startLineNumber: pos.lineNumber,
+        startColumn: pos.column,
+        endLineNumber: pos.lineNumber,
+        endColumn: pos.column + unknown.length,
+      })
+    }
+
+    const refRegex = /\\(?:ref|eqref|pageref)\{([^}]+)\}/g
+    let refMatch: RegExpExecArray | null
+    while ((refMatch = refRegex.exec(content)) !== null) {
+      const key = refMatch[1].trim()
+      if (!key || knownLabels.has(key)) {
+        continue
+      }
+
+      const full = refMatch[0]
+      const startOffset = full.indexOf('{') + 1
+      const pos = model.getPositionAt(refMatch.index + startOffset)
+      markers.push({
+        message: `Unknown label key: ${key}`,
+        severity: monaco.MarkerSeverity.Warning,
+        startLineNumber: pos.lineNumber,
+        startColumn: pos.column,
+        endLineNumber: pos.lineNumber,
+        endColumn: pos.column + key.length,
+      })
+    }
+
+    monaco.editor.setModelMarkers(model, LATEX_MARKER_OWNER, markers)
+  }
+
+  const scheduleDiagnostics = () => {
+    if (timer) {
+      clearTimeout(timer)
+    }
+
+    timer = setTimeout(runDiagnostics, 180)
+  }
+
+  const changeDisposable = editor.onDidChangeModelContent(() => {
+    scheduleDiagnostics()
+  })
+
+  runDiagnostics()
+
+  return {
+    dispose: () => {
+      if (timer) {
+        clearTimeout(timer)
+      }
+      const model = editor.getModel()
+      if (model) {
+        monaco.editor.setModelMarkers(model, LATEX_MARKER_OWNER, [])
+      }
+      changeDisposable.dispose()
+    },
+    refresh: runDiagnostics,
+  }
+}
+
+export function setupLatexEnhancements(editor: monaco.editor.IStandaloneCodeEditor, options?: LatexCompletionOptions) {
   ensureLatexLanguageRegistered()
 
   const model = editor.getModel()
@@ -196,13 +561,18 @@ export function setupLatexEnhancements(editor: monaco.editor.IStandaloneCodeEdit
 
   const completionDisposable = monaco.languages.registerCompletionItemProvider(LATEX_LANGUAGE_ID, {
     triggerCharacters: ['\\', '{'],
-    provideCompletionItems: (model, position) => createCompletionItems(model, position),
+    provideCompletionItems: (model, position) => createCompletionItems(model, position, options),
   })
 
   const autoCloseDisposable = enableBeginBraceAutoClose(editor)
+  const diagnosticsController = registerLatexDiagnostics(editor, options)
 
-  return () => {
-    completionDisposable.dispose()
-    autoCloseDisposable.dispose()
+  return {
+    dispose: () => {
+      completionDisposable.dispose()
+      autoCloseDisposable.dispose()
+      diagnosticsController.dispose()
+    },
+    refreshDiagnostics: diagnosticsController.refresh,
   }
 }

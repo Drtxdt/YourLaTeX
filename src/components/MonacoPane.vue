@@ -5,6 +5,11 @@ import { setupLatexEnhancements } from '../editor/latexMonaco'
 
 const props = defineProps<{
   modelValue: string
+  citationKeys: string[]
+  labelKeys: string[]
+  texTargets: string[]
+  imageTargets: string[]
+  bibTargets: string[]
 }>()
 
 const emit = defineEmits<{
@@ -13,7 +18,7 @@ const emit = defineEmits<{
 
 const editorHost = ref<HTMLElement | null>(null)
 let editor: monaco.editor.IStandaloneCodeEditor | null = null
-let disposeLatexEnhancements: (() => void) | null = null
+let latexController: { dispose: () => void; refreshDiagnostics: () => void } | null = null
 
 function insertLatexAtCursor(snippet: string) {
   if (!editor) return
@@ -50,7 +55,13 @@ onMounted(() => {
     fontFamily: "'Iosevka Term', 'Fira Code', Consolas, monospace",
   })
 
-  disposeLatexEnhancements = setupLatexEnhancements(editor)
+  latexController = setupLatexEnhancements(editor, {
+    getCitationKeys: () => props.citationKeys,
+    getLabelKeys: () => props.labelKeys,
+    getTexTargets: () => props.texTargets,
+    getImageTargets: () => props.imageTargets,
+    getBibTargets: () => props.bibTargets,
+  })
 
   editor.onDidChangeModelContent(() => {
     emit('update:modelValue', editor?.getValue() ?? '')
@@ -71,8 +82,16 @@ watch(
   }
 )
 
+watch(
+  () => [props.citationKeys, props.labelKeys],
+  () => {
+    latexController?.refreshDiagnostics()
+  },
+  { deep: true }
+)
+
 onBeforeUnmount(() => {
-  disposeLatexEnhancements?.()
+  latexController?.dispose()
   editor?.dispose()
 })
 </script>

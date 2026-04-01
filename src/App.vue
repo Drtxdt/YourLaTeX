@@ -23,6 +23,11 @@ const compiling = ref(false)
 const availableCompilers = ref<CompilerInfo[]>([])
 const selectedCompiler = ref('')
 const pdfDataUrl = ref('')
+const citationKeys = ref<string[]>([])
+const workspaceLabelKeys = ref<string[]>([])
+const texTargets = ref<string[]>([])
+const imageTargets = ref<string[]>([])
+const bibTargets = ref<string[]>([])
 const monacoPaneRef = ref<MonacoPaneExpose | null>(null)
 const isHydratingContent = ref(false)
 
@@ -33,6 +38,8 @@ const latexCandidates = computed(() =>
 )
 
 const canSaveCurrentFile = computed(() => currentFilePath.value.toLowerCase().endsWith('.tex'))
+const activeDocumentLabelKeys = computed(() => extractLabelsFromTex(editorContent.value))
+const allLabelKeys = computed(() => Array.from(new Set([...workspaceLabelKeys.value, ...activeDocumentLabelKeys.value])))
 
 const pdfPath = computed(() => {
   if (selectedPdfPath.value) {
@@ -50,9 +57,97 @@ function appendLog(message: string) {
   logs.value.push(message)
 }
 
+function extractLabelsFromTex(content: string) {
+  const labels = new Set<string>()
+  const pattern = /\\label\{([^}]+)\}/g
+  let match: RegExpExecArray | null
+  while ((match = pattern.exec(content)) !== null) {
+    if (match[1]) {
+      labels.add(match[1].trim())
+    }
+  }
+  return Array.from(labels)
+}
+
+function extractBibKeys(content: string) {
+  const keys = new Set<string>()
+  const pattern = /^\s*@\w+\s*\{\s*([^,\s]+)\s*,/gm
+  let match: RegExpExecArray | null
+  while ((match = pattern.exec(content)) !== null) {
+    if (match[1]) {
+      keys.add(match[1].trim())
+    }
+  }
+  return Array.from(keys)
+}
+
+async function rebuildCompletionIndex() {
+  if (!workspacePath.value) {
+    citationKeys.value = []
+    workspaceLabelKeys.value = []
+    texTargets.value = []
+    imageTargets.value = []
+    bibTargets.value = []
+    return
+  }
+
+  const files = await listWorkspaceFilesRecursively(workspacePath.value)
+  const bibFiles = files.filter((entry) => entry.path.toLowerCase().endsWith('.bib'))
+  const texFiles = files.filter((entry) => entry.path.toLowerCase().endsWith('.tex'))
+  const imageFiles = files.filter((entry) => /\.(png|jpg|jpeg|svg|pdf)$/i.test(entry.path))
+
+  const toRelativePath = (absolutePath: string) =>
+    absolutePath
+      .slice(workspacePath.value.length)
+      .replace(/^[/\\]+/, '')
+      .replace(/\\/g, '/')
+
+  texTargets.value = texFiles
+    .map((entry) => toRelativePath(entry.path))
+    .map((relativePath) => relativePath.replace(/\.tex$/i, ''))
+
+  imageTargets.value = imageFiles
+    .map((entry) => toRelativePath(entry.path))
+    .filter((relativePath) => relativePath.length > 0)
+
+  bibTargets.value = bibFiles
+    .map((entry) => toRelativePath(entry.path))
+    .flatMap((relativePath) => [relativePath, relativePath.replace(/\.bib$/i, '')])
+    .filter((relativePath) => relativePath.length > 0)
+
+  const bibContents = await Promise.all(
+    bibFiles.map((entry) => window.electronAPI.readFile(entry.path).catch(() => ''))
+  )
+  const texContents = await Promise.all(
+    texFiles.map((entry) => window.electronAPI.readFile(entry.path).catch(() => ''))
+  )
+
+  citationKeys.value = Array.from(new Set(bibContents.flatMap((content) => extractBibKeys(content))))
+  workspaceLabelKeys.value = Array.from(new Set(texContents.flatMap((content) => extractLabelsFromTex(content))))
+}
+
+async function listWorkspaceFilesRecursively(rootPath: string, depth = 0): Promise<DirectoryEntry[]> {
+  if (depth > 6) {
+    return []
+  }
+
+  const currentEntries = await window.electronAPI.listDirectory(rootPath)
+  const files = currentEntries.filter((entry) => entry.type === 'file')
+  const directories = currentEntries
+    .filter((entry) => entry.type === 'directory')
+    .filter((entry) => !['.git', 'node_modules', 'dist', 'release', '.vscode'].includes(entry.name))
+
+  const nested = await Promise.all(
+    directories.map((dir) => listWorkspaceFilesRecursively(dir.path, depth + 1))
+  )
+
+  return [...files, ...nested.flat()]
+}
+
 async function refreshDirectory() {
   if (!workspacePath.value) return
   entries.value = await window.electronAPI.listDirectory(workspacePath.value)
+  await rebuildCompletionIndex()
 }
 
 async function openWorkspace() {
@@ -112,6 +207,7 @@ async function saveCurrentFile() {
   if (!canSaveCurrentFile.value) return
   await window.electronAPI.writeFile(currentFilePath.value, editorContent.value)
   appendLog(`[saved] ${currentFilePath.value}\n`)
+  await rebuildCompletionIndex()
 }
 
 function scheduleDebouncedCompile() {
@@ -241,7 +337,15 @@ watch(editorContent, () => {
       <FileTreePanel :entries="entries" :selected-file-path="currentFilePath" @select-file="selectFile" />
       <div class="editor-stack">
         <QuickMathPanel @insert="insertMathSymbol" />
-        <MonacoPane ref="monacoPaneRef" v-model="editorContent" />
+        <MonacoPane
+          ref="monacoPaneRef"
+          v-model="editorContent"
+          :citation-keys="citationKeys"
+          :label-keys="allLabelKeys"
+          :tex-targets="texTargets"
+          :image-targets="imageTargets"
+          :bib-targets="bibTargets"
+        />
       </div>
       <PdfPreviewPane :pdf-data-url="pdfDataUrl" />
     </main>
