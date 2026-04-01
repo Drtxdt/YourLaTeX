@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { onBeforeUnmount, onMounted, ref, watch } from 'vue'
 import * as monaco from 'monaco-editor'
+import { setupLatexEnhancements } from '../editor/latexMonaco'
 
 const props = defineProps<{
   modelValue: string
@@ -12,20 +13,24 @@ const emit = defineEmits<{
 
 const editorHost = ref<HTMLElement | null>(null)
 let editor: monaco.editor.IStandaloneCodeEditor | null = null
+let disposeLatexEnhancements: (() => void) | null = null
 
 onMounted(() => {
   if (!editorHost.value) return
 
   editor = monaco.editor.create(editorHost.value, {
     value: props.modelValue,
-    language: 'latex',
+    language: 'plaintext',
     automaticLayout: true,
     minimap: { enabled: false },
     fontSize: 14,
     lineHeight: 22,
+    smoothScrolling: true,
     theme: 'vs',
     fontFamily: "'Iosevka Term', 'Fira Code', Consolas, monospace",
   })
+
+  disposeLatexEnhancements = setupLatexEnhancements(editor)
 
   editor.onDidChangeModelContent(() => {
     emit('update:modelValue', editor?.getValue() ?? '')
@@ -43,6 +48,7 @@ watch(
 )
 
 onBeforeUnmount(() => {
+  disposeLatexEnhancements?.()
   editor?.dispose()
 })
 </script>
