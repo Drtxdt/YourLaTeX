@@ -1,11 +1,16 @@
 <script setup lang="ts">
-import { computed, onMounted, onUnmounted, ref } from 'vue'
+import { computed, onMounted, onUnmounted, ref, watch } from 'vue'
 import AppToolbar from './components/AppToolbar.vue'
 import FileTreePanel from './components/FileTreePanel.vue'
 import MonacoPane from './components/MonacoPane.vue'
 import PdfPreviewPane from './components/PdfPreviewPane.vue'
 import LogPanel from './components/LogPanel.vue'
+import QuickMathPanel from './components/QuickMathPanel.vue'
 import type { CompileOutputEvent, CompilerInfo, DirectoryEntry } from './types/ipc'
+
+type MonacoPaneExpose = {
+  insertLatexAtCursor: (snippet: string) => void
+}
 
 const workspacePath = ref('')
 const entries = ref<DirectoryEntry[]>([])
@@ -16,6 +21,10 @@ const compiling = ref(false)
 const availableCompilers = ref<CompilerInfo[]>([])
 const selectedCompiler = ref('')
 const pdfDataUrl = ref('')
+const monacoPaneRef = ref<MonacoPaneExpose | null>(null)
+const isHydratingContent = ref(false)
+
+let compileDebounceTimer: ReturnType<typeof setTimeout> | null = null
 
 const latexCandidates = computed(() =>
   entries.value.filter((entry) => entry.type === 'file' && entry.name.toLowerCase().endsWith('.tex'))
@@ -52,9 +61,11 @@ async function openWorkspace() {
 
 async function selectFile(entry: DirectoryEntry) {
   if (entry.type !== 'file') return
+  isHydratingContent.value = true
   currentFilePath.value = entry.path
   editorContent.value = await window.electronAPI.readFile(entry.path)
   await refreshPdfPreview()
+  isHydratingContent.value = false
 }
 
 async function refreshPdfPreview() {
@@ -71,10 +82,22 @@ async function saveCurrentFile() {
   if (!currentFilePath.value) return
   await window.electronAPI.writeFile(currentFilePath.value, editorContent.value)
   appendLog(`[saved] ${currentFilePath.value}\n`)
+}
 
-  if (currentFilePath.value.toLowerCase().endsWith('.tex')) {
-    await compileCurrentFile({ skipSave: true })
+function scheduleDebouncedCompile() {
+  if (!workspacePath.value || !currentFilePath.value.toLowerCase().endsWith('.tex')) {
+    return
   }
+
+  if (compileDebounceTimer) {
+    clearTimeout(compileDebounceTimer)
+  }
+
+  compileDebounceTimer = setTimeout(async () => {
+    if (compiling.value) return
+    await saveCurrentFile()
+    await compileCurrentFile({ skipSave: true })
+  }, 1200)
 }
 
 async function compileCurrentFile(options?: { skipSave?: boolean }) {
@@ -120,6 +143,10 @@ function changeCompiler(compilerId: string) {
   appendLog(`[compiler] switched to ${compilerId}\n`)
 }
 
+function insertMathSymbol(latex: string) {
+  monacoPaneRef.value?.insertLatexAtCursor(latex)
+}
+
 let disposeOutputListener: (() => void) | null = null
 
 onMounted(() => {
@@ -154,7 +181,15 @@ onMounted(() => {
 })
 
 onUnmounted(() => {
+  if (compileDebounceTimer) {
+    clearTimeout(compileDebounceTimer)
+  }
   disposeOutputListener?.()
+})
+
+watch(editorContent, () => {
+  if (isHydratingContent.value) return
+  scheduleDebouncedCompile()
 })
 </script>
 
@@ -173,7 +208,10 @@ onUnmounted(() => {
     />
     <main class="workspace-grid">
       <FileTreePanel :entries="entries" :selected-file-path="currentFilePath" @select-file="selectFile" />
-      <MonacoPane v-model="editorContent" />
+      <div class="editor-stack">
+        <QuickMathPanel @insert="insertMathSymbol" />
+        <MonacoPane ref="monacoPaneRef" v-model="editorContent" />
+      </div>
       <PdfPreviewPane :pdf-data-url="pdfDataUrl" />
     </main>
     <LogPanel :logs="logs" />

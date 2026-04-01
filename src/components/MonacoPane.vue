@@ -15,6 +15,26 @@ const editorHost = ref<HTMLElement | null>(null)
 let editor: monaco.editor.IStandaloneCodeEditor | null = null
 let disposeLatexEnhancements: (() => void) | null = null
 
+function insertLatexAtCursor(snippet: string) {
+  if (!editor) return
+  const position = editor.getPosition()
+  if (!position) return
+
+  const range = new monaco.Range(
+    position.lineNumber,
+    position.column,
+    position.lineNumber,
+    position.column,
+  )
+
+  editor.executeEdits('quick-math-panel', [{ range, text: snippet, forceMoveMarkers: true }])
+  editor.focus()
+}
+
+defineExpose({
+  insertLatexAtCursor,
+})
+
 onMounted(() => {
   if (!editorHost.value) return
 
