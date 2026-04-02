@@ -28,6 +28,7 @@ interface Window {
     listDirectory: (dirPath: string) => Promise<Array<{ name: string; path: string; type: 'file' | 'directory' }>>
     readFile: (filePath: string) => Promise<string>
     writeFile: (filePath: string, content: string) => Promise<boolean>
+    getLatexPackageList: () => Promise<string[]>
     getLatexPackageSymbols: (packageName: string) => Promise<{ commands: string[]; environments: string[] }>
     readPdfDataUrl: (filePath: string) => Promise<string | null>
     detectCompilers: () => Promise<{ compilers: Array<{ id: string; label: string; available: boolean }>; defaultCompiler: string | null }>

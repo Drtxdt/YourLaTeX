@@ -10,6 +10,7 @@ const props = defineProps<{
   texTargets: string[]
   imageTargets: string[]
   bibTargets: string[]
+  knownPackages: string[]
   activePackages: string[]
   packageSymbols: Record<string, { commands: string[]; environments: string[] }>
 }>()
@@ -63,6 +64,7 @@ onMounted(() => {
     getTexTargets: () => props.texTargets,
     getImageTargets: () => props.imageTargets,
     getBibTargets: () => props.bibTargets,
+    getKnownPackages: () => props.knownPackages,
     getActivePackages: () => props.activePackages,
     getPackageSymbols: () => props.packageSymbols,
   })

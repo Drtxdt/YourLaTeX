@@ -10,6 +10,7 @@ interface LatexCompletionOptions {
   getTexTargets?: () => string[]
   getImageTargets?: () => string[]
   getBibTargets?: () => string[]
+  getKnownPackages?: () => string[]
   getActivePackages?: () => string[]
   getPackageSymbols?: () => Record<string, { commands: string[]; environments: string[] }>
 }
@@ -100,165 +101,17 @@ const LATEX_COMMAND_SNIPPETS: LatexCommandSnippet[] = [
   { command: 'mathcal', snippet: '\\mathcal{$1}', detail: 'Calligraphic symbol' },
 ]
 
-const PACKAGE_JS_RULES: Record<string, { commands: LatexCommandSnippet[]; environments: string[] }> = {
-  amsmath: {
-    commands: [
-      { command: 'align', snippet: '\\begin{align}\n\t$0\n\\end{align}', detail: 'amsmath align environment' },
-      { command: 'gather', snippet: '\\begin{gather}\n\t$0\n\\end{gather}', detail: 'amsmath gather environment' },
-      { command: 'split', snippet: '\\begin{split}\n\t$0\n\\end{split}', detail: 'amsmath split environment' },
-      { command: 'dfrac', snippet: '\\dfrac{$1}{$2}', detail: 'Display style fraction' },
-      { command: 'text', snippet: '\\text{$1}', detail: 'Text inside math mode' },
-    ],
-    environments: ['align', 'align*', 'gather', 'gather*', 'multline', 'split', 'cases'],
-  },
-  amssymb: {
-    commands: [
-      { command: 'mathbb', snippet: '\\mathbb{$1}', detail: 'Blackboard bold' },
-      { command: 'mathfrak', snippet: '\\mathfrak{$1}', detail: 'Fraktur symbol' },
-    ],
-    environments: [],
-  },
-  amsthm: {
-    commands: [
-      { command: 'newtheorem', snippet: '\\newtheorem{$1}{$2}', detail: 'Define theorem environment' },
-      { command: 'theoremstyle', snippet: '\\theoremstyle{$1}', detail: 'Set theorem style' },
-      { command: 'qedhere', snippet: '\\qedhere', detail: 'Place qed symbol here' },
-    ],
-    environments: ['theorem', 'lemma', 'proposition', 'corollary', 'definition', 'remark', 'proof'],
-  },
-  mathtools: {
-    commands: [
-      { command: 'coloneqq', snippet: '\\coloneqq', detail: 'Definition equals' },
-      { command: 'DeclarePairedDelimiter', snippet: '\\DeclarePairedDelimiter{\\$1}{$2}{$3}', detail: 'Declare paired delimiter' },
-      { command: 'prescript', snippet: '\\prescript{$1}{$2}{$3}', detail: 'Left superscript/subscript' },
-    ],
-    environments: ['multlined', 'dcases'],
-  },
-  graphicx: {
-    commands: [
-      { command: 'includegraphics', snippet: '\\includegraphics[width=$1\\textwidth]{$2}', detail: 'Insert graphic' },
-      { command: 'graphicspath', snippet: '\\graphicspath{{$1/}}', detail: 'Set graphics search path' },
-    ],
-    environments: [],
-  },
-  biblatex: {
-    commands: [
-      { command: 'addbibresource', snippet: '\\addbibresource{$1.bib}', detail: 'Register bib resource' },
-      { command: 'printbibliography', snippet: '\\printbibliography', detail: 'Print bibliography' },
-      { command: 'autocite', snippet: '\\autocite{$1}', detail: 'Autocite command' },
-      { command: 'parencite', snippet: '\\parencite{$1}', detail: 'Parenthetical cite' },
-      { command: 'textcite', snippet: '\\textcite{$1}', detail: 'Textual cite' },
-    ],
-    environments: [],
-  },
-  xcolor: {
-    commands: [
-      { command: 'textcolor', snippet: '\\textcolor{$1}{$2}', detail: 'Set text color' },
-      { command: 'color', snippet: '\\color{$1}', detail: 'Set current color' },
-      { command: 'definecolor', snippet: '\\definecolor{$1}{$2}{$3}', detail: 'Define custom color' },
-      { command: 'colorbox', snippet: '\\colorbox{$1}{$2}', detail: 'Color box' },
-    ],
-    environments: [],
-  },
-  hyperref: {
-    commands: [
-      { command: 'href', snippet: '\\href{$1}{$2}', detail: 'Hyperlink' },
-      { command: 'url', snippet: '\\url{$1}', detail: 'URL' },
-      { command: 'autoref', snippet: '\\autoref{$1}', detail: 'Automatic reference' },
-      { command: 'hyperref', snippet: '\\hyperref[$1]{$2}', detail: 'Hyperref with label' },
-    ],
-    environments: [],
-  },
-  cleveref: {
-    commands: [
-      { command: 'cref', snippet: '\\cref{$1}', detail: 'Clever reference' },
-      { command: 'Cref', snippet: '\\Cref{$1}', detail: 'Capitalized clever reference' },
-      { command: 'cpageref', snippet: '\\cpageref{$1}', detail: 'Clever page reference' },
-    ],
-    environments: [],
-  },
-  natbib: {
-    commands: [
-      { command: 'citet', snippet: '\\citet{$1}', detail: 'Text citation' },
-      { command: 'citep', snippet: '\\citep{$1}', detail: 'Parenthetical citation' },
-      { command: 'citeauthor', snippet: '\\citeauthor{$1}', detail: 'Citation author' },
-      { command: 'citeyear', snippet: '\\citeyear{$1}', detail: 'Citation year' },
-    ],
-    environments: [],
-  },
-  booktabs: {
-    commands: [
-      { command: 'toprule', snippet: '\\toprule', detail: 'Top table rule' },
-      { command: 'midrule', snippet: '\\midrule', detail: 'Middle table rule' },
-      { command: 'bottomrule', snippet: '\\bottomrule', detail: 'Bottom table rule' },
-      { command: 'cmidrule', snippet: '\\cmidrule{$1-$2}', detail: 'Partial table rule' },
-    ],
-    environments: [],
-  },
-  siunitx: {
-    commands: [
-      { command: 'SI', snippet: '\\SI{$1}{$2}', detail: 'Number with unit' },
-      { command: 'si', snippet: '\\si{$1}', detail: 'Unit only' },
-      { command: 'num', snippet: '\\num{$1}', detail: 'Formatted number' },
-      { command: 'qty', snippet: '\\qty{$1}{$2}', detail: 'Quantity' },
-    ],
-    environments: [],
-  },
-  enumitem: {
-    commands: [
-      { command: 'setlist', snippet: '\\setlist[$1]{$2}', detail: 'Configure list style' },
-      { command: 'setitemize', snippet: '\\setitemize{$1}', detail: 'Configure itemize' },
-      { command: 'setenumerate', snippet: '\\setenumerate{$1}', detail: 'Configure enumerate' },
-    ],
-    environments: [],
-  },
-  caption: {
-    commands: [
-      { command: 'captionsetup', snippet: '\\captionsetup{$1}', detail: 'Configure captions' },
-      { command: 'captionof', snippet: '\\captionof{$1}{$2}', detail: 'Caption outside float' },
-    ],
-    environments: [],
-  },
-  subcaption: {
-    commands: [
-      { command: 'subcaption', snippet: '\\subcaption{$1}', detail: 'Sub-caption text' },
-      { command: 'subref', snippet: '\\subref{$1}', detail: 'Reference subfigure/subtable' },
-    ],
-    environments: ['subfigure', 'subtable'],
-  },
-  listings: {
-    commands: [
-      { command: 'lstset', snippet: '\\lstset{$1}', detail: 'Configure listings' },
-      { command: 'lstinline', snippet: '\\lstinline|$1|', detail: 'Inline code listing' },
-      { command: 'lstinputlisting', snippet: '\\lstinputlisting[$1]{$2}', detail: 'Import source file' },
-    ],
-    environments: ['lstlisting'],
-  },
-  minted: {
-    commands: [
-      { command: 'mint', snippet: '\\mint{$1}{$2}', detail: 'Inline minted code' },
-      { command: 'inputminted', snippet: '\\inputminted[$1]{$2}{$3}', detail: 'Input minted file' },
-      { command: 'setminted', snippet: '\\setminted{$1}', detail: 'Configure minted defaults' },
-    ],
-    environments: ['minted'],
-  },
-  tikz: {
-    commands: [
-      { command: 'tikzset', snippet: '\\tikzset{$1}', detail: 'Configure tikz styles' },
-      { command: 'draw', snippet: '\\draw $0;', detail: 'TikZ draw command' },
-      { command: 'node', snippet: '\\node ($1) at ($2) {$3};', detail: 'TikZ node command' },
-      { command: 'path', snippet: '\\path $0;', detail: 'TikZ path command' },
-    ],
-    environments: ['tikzpicture', 'scope'],
-  },
-  pgfplots: {
-    commands: [
-      { command: 'addplot', snippet: '\\addplot {$1};', detail: 'Add plot curve' },
-      { command: 'addlegendentry', snippet: '\\addlegendentry{$1}', detail: 'Add legend entry' },
-      { command: 'pgfplotsset', snippet: '\\pgfplotsset{$1}', detail: 'Configure pgfplots' },
-    ],
-    environments: ['axis', 'semilogxaxis', 'semilogyaxis', 'loglogaxis'],
-  },
+const PACKAGE_COMMAND_TEMPLATES: Record<string, { snippet: string; detail: string }> = {
+  frac: { snippet: '\\frac{$1}{$2}', detail: 'Fraction' },
+  sqrt: { snippet: '\\sqrt{$1}', detail: 'Square root' },
+  includegraphics: { snippet: '\\includegraphics[width=$1\\textwidth]{$2}', detail: 'Include image' },
+  cite: { snippet: '\\cite{$1}', detail: 'Insert citation' },
+  ref: { snippet: '\\ref{$1}', detail: 'Insert reference' },
+  eqref: { snippet: '\\eqref{$1}', detail: 'Insert equation reference' },
+  newcommand: { snippet: '\\newcommand{\\$1}[$2]{$0}', detail: 'Define new command' },
+  newenvironment: { snippet: '\\newenvironment{$1}{$2}{$3}', detail: 'Define new environment' },
+  addbibresource: { snippet: '\\addbibresource{$1.bib}', detail: 'Add biblatex resource' },
+  bibliography: { snippet: '\\bibliography{$1}', detail: 'Insert bibliography files' },
 }
 
 const MATH_MODE_COMMANDS: LatexCommandSnippet[] = [
@@ -285,37 +138,6 @@ const MATH_MODE_COMMANDS: LatexCommandSnippet[] = [
   { command: 'left', snippet: '\\left($1\\right)', detail: 'Auto-sized delimiters' },
   { command: 'mathbf', snippet: '\\mathbf{$1}', detail: 'Bold math symbol' },
   { command: 'mathbb', snippet: '\\mathbb{$1}', detail: 'Blackboard bold symbol' },
-]
-
-const LATEX_PACKAGES = [
-  'amsmath',
-  'amssymb',
-  'amsthm',
-  'mathtools',
-  'graphicx',
-  'xcolor',
-  'hyperref',
-  'cleveref',
-  'biblatex',
-  'natbib',
-  'booktabs',
-  'siunitx',
-  'geometry',
-  'fancyhdr',
-  'titlesec',
-  'caption',
-  'subcaption',
-  'float',
-  'enumitem',
-  'csquotes',
-  'fontspec',
-  'xeCJK',
-  'listings',
-  'minted',
-  'tikz',
-  'pgfplots',
-  'algorithm',
-  'algorithmicx',
 ]
 
 const LATEX_ENVIRONMENTS = [
@@ -474,9 +296,11 @@ function createCompletionItems(
   const packageMatch = linePrefix.match(/\\usepackage(?:\[[^\]]*\])?\{([^}]*)$/)
   if (packageMatch) {
     const packagePrefix = packageMatch[1] || ''
-    const matchedPackages = LATEX_PACKAGES
+    const activePackages = (options?.getActivePackages?.() ?? []).map((pkg) => pkg.toLowerCase().trim())
+    const knownPackages = (options?.getKnownPackages?.() ?? []).map((pkg) => pkg.toLowerCase().trim())
+    const matchedPackages = Array.from(new Set(knownPackages))
       .filter((pkg) => pkg.startsWith(packagePrefix))
-      .sort((a, b) => sortByPrefixThenAlpha(a, b, packagePrefix))
+      .sort((a, b) => sortPackages(a, b, packagePrefix, activePackages))
 
     return {
       suggestions: matchedPackages.map((pkg, index) => ({
@@ -626,26 +450,23 @@ function getDynamicPackageCommands(options?: LatexCompletionOptions): LatexComma
   const activePackages = (options?.getActivePackages?.() ?? []).map((pkg) => pkg.toLowerCase().trim())
   const packageSymbols = options?.getPackageSymbols?.() ?? {}
 
-  const fromJsRules = activePackages.flatMap((pkg) => PACKAGE_JS_RULES[pkg]?.commands ?? [])
-  const fromParsedSymbols = activePackages.flatMap((pkg) =>
-    (packageSymbols[pkg]?.commands ?? []).map((command) => ({
-      command: command.replace(/^\\/, ''),
-      snippet: command,
-      detail: `${pkg} package command`,
-    }))
-  )
+  const fromParsedSymbols = activePackages.flatMap((pkg) => {
+    const commands = packageSymbols[pkg]?.commands ?? []
+    return commands
+      .map((rawCommand) => createPackageCommandSnippet(pkg, rawCommand))
+      .filter((item): item is LatexCommandSnippet => item !== null)
+  })
 
-  return mergeCommandSnippets([...fromJsRules, ...fromParsedSymbols])
+  return mergeCommandSnippets(fromParsedSymbols)
 }
 
 function getDynamicPackageEnvironments(options?: LatexCompletionOptions) {
   const activePackages = (options?.getActivePackages?.() ?? []).map((pkg) => pkg.toLowerCase().trim())
   const packageSymbols = options?.getPackageSymbols?.() ?? {}
 
-  const jsEnvs = activePackages.flatMap((pkg) => PACKAGE_JS_RULES[pkg]?.environments ?? [])
   const parsedEnvs = activePackages.flatMap((pkg) => packageSymbols[pkg]?.environments ?? [])
 
-  return Array.from(new Set([...jsEnvs, ...parsedEnvs]))
+  return Array.from(new Set(parsedEnvs))
 }
 
 function isMathContext(contentBeforeCursor: string) {
@@ -680,6 +501,31 @@ function sortByPrefixThenAlpha(a: string, b: string, prefix: string) {
   }
 
   return a.localeCompare(b)
+}
+
+function sortPackages(a: string, b: string, prefix: string, activePackages: string[]) {
+  const aActive = activePackages.includes(a)
+  const bActive = activePackages.includes(b)
+  if (aActive !== bActive) {
+    return aActive ? -1 : 1
+  }
+
+  return sortByPrefixThenAlpha(a, b, prefix)
+}
+
+function createPackageCommandSnippet(packageName: string, rawCommand: string): LatexCommandSnippet | null {
+  const normalizedCommand = rawCommand.trim().replace(/^\\+/, '')
+  if (!normalizedCommand) {
+    return null
+  }
+
+  const template = PACKAGE_COMMAND_TEMPLATES[normalizedCommand.toLowerCase()]
+
+  return {
+    command: normalizedCommand,
+    snippet: template?.snippet ?? `\\${normalizedCommand}`,
+    detail: template?.detail ?? `${packageName} package command`,
+  }
 }
 
 function enableBeginBraceAutoClose(editor: monaco.editor.IStandaloneCodeEditor) {

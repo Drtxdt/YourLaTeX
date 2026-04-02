@@ -28,6 +28,7 @@ const workspaceLabelKeys = ref<string[]>([])
 const texTargets = ref<string[]>([])
 const imageTargets = ref<string[]>([])
 const bibTargets = ref<string[]>([])
+const knownPackages = ref<string[]>([])
 const activePackages = ref<string[]>([])
 const packageSymbolsMap = ref<Record<string, { commands: string[]; environments: string[] }>>({})
 const monacoPaneRef = ref<MonacoPaneExpose | null>(null)
@@ -148,6 +149,7 @@ async function rebuildCompletionIndex() {
     texTargets.value = []
     imageTargets.value = []
     bibTargets.value = []
+    knownPackages.value = []
     return
   }
 
@@ -184,6 +186,12 @@ async function rebuildCompletionIndex() {
 
   citationKeys.value = Array.from(new Set(bibContents.flatMap((content) => extractBibKeys(content))))
   workspaceLabelKeys.value = Array.from(new Set(texContents.flatMap((content) => extractLabelsFromTex(content))))
+
+  try {
+    knownPackages.value = await window.electronAPI.getLatexPackageList()
+  } catch {
+    knownPackages.value = []
+  }
 }
 
 async function listWorkspaceFilesRecursively(rootPath: string, depth = 0): Promise<DirectoryEntry[]> {
@@ -410,6 +418,7 @@ watch(editorContent, () => {
           :tex-targets="texTargets"
           :image-targets="imageTargets"
           :bib-targets="bibTargets"
+          :known-packages="knownPackages"
           :active-packages="activePackages"
           :package-symbols="packageSymbolsMap"
         />

@@ -31,3 +31,8 @@ export interface CompileOutputEvent {
   code?: number | null
   compilerId: string
 }
+
+export interface PackageSymbols {
+  commands: string[]
+  environments: string[]
+}

@@ -32,6 +32,7 @@ const IPC_CHANNELS = {
   LIST_DIRECTORY: 'workspace:list-directory',
   READ_FILE: 'file:read',
   WRITE_FILE: 'file:write',
+  LATEX_PACKAGE_LIST: 'latex:package-list',
   LATEX_PACKAGE_SYMBOLS: 'latex:package-symbols',
   READ_PDF_DATA_URL: 'pdf:read-data-url',
   DETECT_COMPILERS: 'compile:detect-compilers',
@@ -296,6 +297,21 @@ async function getPackageSymbols(packageName: string): Promise<PackageSymbols> {
   }
 }
 
+async function getKnownPackageList(): Promise<string[]> {
+  const packagesDir = path.join(process.env.APP_ROOT, 'packages')
+
+  try {
+    const entries = await fs.readdir(packagesDir, { withFileTypes: true })
+    return entries
+      .filter((entry) => entry.isFile() && entry.name.toLowerCase().endsWith('.json'))
+      .map((entry) => path.basename(entry.name, '.json').toLowerCase())
+      .filter(Boolean)
+      .sort((a, b) => a.localeCompare(b))
+  } catch {
+    return []
+  }
+}
+
 function registerIpcHandlers() {
   ipcMain.handle(IPC_CHANNELS.OPEN_DIRECTORY, async () => {
     const result = await dialog.showOpenDialog({
@@ -333,6 +349,10 @@ function registerIpcHandlers() {
   ipcMain.handle(IPC_CHANNELS.WRITE_FILE, async (_event, payload: { filePath: string; content: string }) => {
     await fs.writeFile(payload.filePath, payload.content, 'utf-8')
     return true
+  })
+
+  ipcMain.handle(IPC_CHANNELS.LATEX_PACKAGE_LIST, async () => {
+    return getKnownPackageList()
   })
 
   ipcMain.handle(IPC_CHANNELS.LATEX_PACKAGE_SYMBOLS, async (_event, packageName: string) => {
