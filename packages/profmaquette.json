@@ -1,0 +1,21 @@
+{
+  "commands": [
+    "\\arraystretch",
+    "\\Brm",
+    "\\Compo",
+    "\\compog",
+    "\\Compog",
+    "\\compogb",
+    "\\dispogb",
+    "\\JustifyingParindent",
+    "\\vecteur"
+  ],
+  "environments": [
+    "CRNote",
+    "CRRemarque",
+    "exerciceBase",
+    "exerciceBaseHTML",
+    "exercicePdT",
+    "SOS"
+  ]
+}

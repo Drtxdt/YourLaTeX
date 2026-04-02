@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\Currentlabel",
+    "\\Ifanswerfiles",
+    "\\Iffileundefined",
+    "\\Ifopen",
+    "\\Newassociation",
+    "\\newsolution",
+    "\\solutionextension",
+    "\\solutionpoint",
+    "\\solutionstyle",
+    "\\Writetofile"
+  ],
+  "environments": [
+    "Filesave"
+  ]
+}

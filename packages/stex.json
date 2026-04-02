@@ -1,0 +1,9 @@
+{
+  "commands": [],
+  "environments": [
+    "backmatter",
+    "frontmatter",
+    "spfsketchenv",
+    "spfstepenv"
+  ]
+}

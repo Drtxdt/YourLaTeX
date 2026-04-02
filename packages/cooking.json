@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\@oddfoot",
+    "\\ingredientfont",
+    "\\makelabel",
+    "\\recipeendhook"
+  ],
+  "environments": [
+    "recipe"
+  ]
+}

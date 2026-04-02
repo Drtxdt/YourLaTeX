@@ -1,0 +1,28 @@
+{
+  "commands": [
+    "\\@@dualboxes",
+    "\\@dualboxes",
+    "\\arrowsymb",
+    "\\aster",
+    "\\bul",
+    "\\centered",
+    "\\checksymb",
+    "\\cstrut",
+    "\\dash",
+    "\\ddash",
+    "\\dualboxes",
+    "\\eg",
+    "\\footnote",
+    "\\footnoteindent",
+    "\\footnotespace",
+    "\\hand",
+    "\\ie",
+    "\\indent",
+    "\\vstrut"
+  ],
+  "environments": [
+    "compactlist",
+    "indentblock",
+    "juxtapose"
+  ]
+}

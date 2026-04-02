@@ -1,0 +1,27 @@
+{
+  "commands": [
+    "\\@postvennhook",
+    "\\@venn@computecircleintersects",
+    "\\@venn@hgap",
+    "\\@venn@label@A",
+    "\\@venn@label@AB",
+    "\\@venn@label@ABC",
+    "\\@venn@label@B",
+    "\\@venn@label@C",
+    "\\@venn@label@NotAB",
+    "\\@venn@label@NotABC",
+    "\\@venn@label@OnlyA",
+    "\\@venn@label@OnlyAB",
+    "\\@venn@label@OnlyAC",
+    "\\@venn@label@OnlyB",
+    "\\@venn@label@OnlyBC",
+    "\\@venn@label@OnlyC",
+    "\\@venn@overlap",
+    "\\@venn@radius",
+    "\\@venn@shade",
+    "\\@venn@tikzoptions",
+    "\\@venn@vgap",
+    "\\setpostvennhook"
+  ],
+  "environments": []
+}

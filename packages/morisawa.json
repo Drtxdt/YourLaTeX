@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\gtdefault",
+    "\\mcdefault",
+    "\\mgdefault"
+  ],
+  "environments": []
+}

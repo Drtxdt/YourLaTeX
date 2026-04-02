@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\bchordbox",
+    "\\chordbox"
+  ],
+  "environments": [
+    "chordboxenv"
+  ]
+}

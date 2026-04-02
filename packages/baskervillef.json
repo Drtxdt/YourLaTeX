@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\BaskervilleF@scale",
+    "\\familydefault",
+    "\\rmdefault",
+    "\\textcircled",
+    "\\textfrac"
+  ],
+  "environments": []
+}

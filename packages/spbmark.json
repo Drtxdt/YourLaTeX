@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\AfterPreamble",
+    "\\IfFormatAtLeastTF",
+    "\\IfPackageLoadedTF",
+    "\\NewHookWithArguments",
+    "\\UseHookWithArguments"
+  ],
+  "environments": []
+}

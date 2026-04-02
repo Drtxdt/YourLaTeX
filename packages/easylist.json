@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\el@Error",
+    "\\el@GenericDef",
+    "\\el@GenericNumberCheck",
+    "\\el@GenericUnitSearch"
+  ],
+  "environments": []
+}

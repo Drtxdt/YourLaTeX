@@ -1,0 +1,23 @@
+{
+  "commands": [
+    "\\gfiCurrentConfig",
+    "\\gfiGetAuthorMail",
+    "\\gfiGetAuthorName",
+    "\\gfiGetCommit",
+    "\\gfiGetCommitAbr",
+    "\\gfiGetDate",
+    "\\gfiGetDay",
+    "\\gfiGetHour",
+    "\\gfiGetMin",
+    "\\gfiGetMonth",
+    "\\gfiGetYear",
+    "\\gfiInclude",
+    "\\gfiInitInc",
+    "\\gfiInitJob",
+    "\\gfiInput",
+    "\\gfiSetAuthor",
+    "\\gfiSetCommit",
+    "\\gfiSetDate"
+  ],
+  "environments": []
+}

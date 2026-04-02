@@ -1,0 +1,24 @@
+{
+  "commands": [
+    "\\Competence",
+    "\\CV@ajout@apport",
+    "\\CV@init",
+    "\\Date",
+    "\\Descr",
+    "\\Duree",
+    "\\FonteApport",
+    "\\FonteLieu",
+    "\\FonteTitre",
+    "\\Lieu",
+    "\\PostApport",
+    "\\PostPostApports",
+    "\\PreApport",
+    "\\PrePreApports",
+    "\\TailleApport",
+    "\\Titre"
+  ],
+  "environments": [
+    "rubrique",
+    "sousrubrique"
+  ]
+}

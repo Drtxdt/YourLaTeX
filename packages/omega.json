@@ -1,0 +1,16 @@
+{
+  "commands": [],
+  "environments": [
+    "arab",
+    "berber",
+    "greek",
+    "latberber",
+    "pashto",
+    "pashtop",
+    "sindhi",
+    "smallarab",
+    "smallurdu",
+    "tifinagh",
+    "urdu"
+  ]
+}

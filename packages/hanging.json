@@ -1,0 +1,23 @@
+{
+  "commands": [
+    "\\h@ngallowhyphens",
+    "\\h@ngcolon",
+    "\\h@ngcomma",
+    "\\h@ngexcl",
+    "\\h@ngfstop",
+    "\\h@nglqq",
+    "\\h@nglquote",
+    "\\h@ngquery",
+    "\\h@ngrqq",
+    "\\h@ngrquote",
+    "\\h@ngscolon",
+    "\\hangpara",
+    "\\nhlq",
+    "\\nhpt",
+    "\\nhrq"
+  ],
+  "environments": [
+    "hangparas",
+    "hangpunct"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\name",
+    "\\namedtensorstrut",
+    "\\nbin",
+    "\\ncat",
+    "\\ndef",
+    "\\ndot",
+    "\\nfun",
+    "\\nsum"
+  ],
+  "environments": []
+}

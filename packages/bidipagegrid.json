@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\bidipagegrid@x@coordinate",
+    "\\bidipagegridsetup",
+    "\\setLTRpagegrid",
+    "\\setRTLpagegrid"
+  ],
+  "environments": []
+}

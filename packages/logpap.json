@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "\\deflp@logline",
+    "\\getlp@logline"
+  ],
+  "environments": []
+}

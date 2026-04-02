@@ -1,0 +1,21 @@
+{
+  "commands": [
+    "\\degree",
+    "\\degrees",
+    "\\diff",
+    "\\fig",
+    "\\haiku",
+    "\\haikus",
+    "\\headrulewidth",
+    "\\maketitle",
+    "\\name",
+    "\\sectionstyle",
+    "\\sfprod",
+    "\\sfsum",
+    "\\sqrt",
+    "\\subtitlestyle",
+    "\\titlestyle",
+    "\\ww"
+  ],
+  "environments": []
+}

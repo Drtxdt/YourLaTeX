@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\declaration",
+    "\\dedication",
+    "\\degreetext",
+    "\\maketitle",
+    "\\stretchfactor",
+    "\\yfourdeclaration"
+  ],
+  "environments": [
+    "acknowledgements",
+    "laysummary"
+  ]
+}

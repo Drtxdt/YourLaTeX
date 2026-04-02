@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\prf@streq"
+  ],
+  "environments": [
+    "prfenv"
+  ]
+}

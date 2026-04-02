@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\listfiles",
+    "\\maxBaseEmptyList",
+    "\\MaxBaseEmptyList",
+    "\\MFfillelement",
+    "\\NFL@filerow",
+    "\\NFLnodate",
+    "\\NFLnotfound",
+    "\\NFLnoversion",
+    "\\NFLspaceI",
+    "\\NFLspaceII",
+    "\\NFLspaceIII"
+  ],
+  "environments": []
+}

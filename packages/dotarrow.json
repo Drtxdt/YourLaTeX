@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\allPart",
+    "\\allPartFront",
+    "\\ARROWHEAD",
+    "\\dotarrow",
+    "\\DotArrowSetHead",
+    "\\DotArrowSetRaise",
+    "\\DotArrowSetSep",
+    "\\onePartX"
+  ],
+  "environments": []
+}

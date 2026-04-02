@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\add",
+    "\\addColor",
+    "\\alert",
+    "\\alertColor",
+    "\\comment",
+    "\\highlight",
+    "\\remove",
+    "\\removeColor",
+    "\\replace",
+    "\\setreviewsoff",
+    "\\setreviewson",
+    "\\substitute"
+  ],
+  "environments": []
+}

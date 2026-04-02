@@ -1,0 +1,18 @@
+{
+  "commands": [
+    "\\newpixelartcolors",
+    "\\pixelart",
+    "\\pixelartheart",
+    "\\pixelartheartbw",
+    "\\pixelartlogo",
+    "\\pixelartlogobw",
+    "\\pixelartname",
+    "\\pixelartnamebw",
+    "\\renewpixelartcolors",
+    "\\setpixelartdebugoff",
+    "\\setpixelartdebugon",
+    "\\setpixelartdefault",
+    "\\tikzpixelart"
+  ],
+  "environments": []
+}

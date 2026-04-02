@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\bg",
+    "\\gridslides@page",
+    "\\gridslides@setsteps",
+    "\\gridslides@slide",
+    "\\institute",
+    "\\rgb",
+    "\\theauthor",
+    "\\thedate",
+    "\\theinstitute",
+    "\\thetitle"
+  ],
+  "environments": []
+}

@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\textcher",
+    "\\textucher"
+  ],
+  "environments": [
+    "cherokee",
+    "ucherokee"
+  ]
+}

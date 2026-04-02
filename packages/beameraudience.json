@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\framefor",
+    "\\ifinclude",
+    "\\ifshow",
+    "\\justfor",
+    "\\showcontentfor"
+  ],
+  "environments": []
+}

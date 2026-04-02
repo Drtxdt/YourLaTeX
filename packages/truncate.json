@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "\\truncate",
+    "\\TruncateMarker"
+  ],
+  "environments": []
+}

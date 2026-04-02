@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\addmetaproperty",
+    "\\contribution",
+    "\\hyperrefloaded",
+    "\\metaauthor",
+    "\\metatitle",
+    "\\newpropertycommand",
+    "\\researchfield",
+    "\\uri"
+  ],
+  "environments": []
+}

@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\chex",
+    "\\findnewlevel",
+    "\\levelchange",
+    "\\leveldown",
+    "\\levelmultiup",
+    "\\levelstay",
+    "\\levelup"
+  ],
+  "environments": []
+}

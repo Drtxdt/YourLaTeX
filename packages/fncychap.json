@@ -1,0 +1,25 @@
+{
+  "commands": [
+    "\\AlphaDecNo",
+    "\\AlphaNo",
+    "\\BL",
+    "\\BLrule",
+    "\\BR",
+    "\\ChNameVar",
+    "\\ChNumVar",
+    "\\ChRuleWidth",
+    "\\ChTitleVar",
+    "\\CNoV",
+    "\\CNV",
+    "\\CTV",
+    "\\DOCH",
+    "\\DOTI",
+    "\\DOTIS",
+    "\\FmN",
+    "\\FmTi",
+    "\\TheAlphaChapter",
+    "\\TL",
+    "\\TR"
+  ],
+  "environments": []
+}

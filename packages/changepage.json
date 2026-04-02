@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\cp@whoopsusingmemoir",
+    "\\cplabel",
+    "\\easypagecheck",
+    "\\newpmemlabel",
+    "\\pmemlabel",
+    "\\pmemlabelref",
+    "\\strictpagecheck"
+  ],
+  "environments": [
+    "adjustwidth",
+    "adjustwidth*"
+  ]
+}

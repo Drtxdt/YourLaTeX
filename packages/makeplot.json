@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\MPbg",
+    "\\MPcolor"
+  ],
+  "environments": [
+    "makeplot"
+  ]
+}

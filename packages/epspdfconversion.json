@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "\\epspdfconversioncmdline",
+    "\\epspdfconversionsetup"
+  ],
+  "environments": []
+}

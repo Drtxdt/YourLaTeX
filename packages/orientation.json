@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\setcounterlandscape",
+    "\\setlandscape",
+    "\\setportrait",
+    "\\setupsidedown",
+    "\\thispagecounterlandscape",
+    "\\thispagelandscape",
+    "\\thispageportrait",
+    "\\thispageupsidedown"
+  ],
+  "environments": []
+}

@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\colorpalette",
+    "\\printcolorvalue",
+    "\\XCM@definecolor",
+    "\\XCM@extractcolor"
+  ],
+  "environments": []
+}

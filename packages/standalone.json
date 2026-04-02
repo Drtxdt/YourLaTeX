@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\sa@documentclass",
+    "\\sa@usepackagewithoutoptions",
+    "\\standaloneconfig"
+  ],
+  "environments": [
+    "standalone",
+    "standaloneframe"
+  ]
+}

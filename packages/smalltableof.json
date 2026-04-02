@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\chapterNoNumber",
+    "\\mabibliographie",
+    "\\sectionNoNumber",
+    "\\sectiontable",
+    "\\sectiontableoffigure",
+    "\\sectiontableoftable",
+    "\\stdtables",
+    "\\tablechapter",
+    "\\tablesname",
+    "\\toc"
+  ],
+  "environments": []
+}

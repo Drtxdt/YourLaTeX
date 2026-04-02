@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\agendaautomatica",
+    "\\dataapresentacao",
+    "\\email"
+  ],
+  "environments": []
+}

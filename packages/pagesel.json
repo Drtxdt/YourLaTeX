@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\ps@ifinset",
+    "\\ps@lastpage",
+    "\\ps@pagetest",
+    "\\ps@store"
+  ],
+  "environments": []
+}

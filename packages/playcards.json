@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\cardbackgroundverso",
+    "\\cardborder",
+    "\\cardcontent",
+    "\\cardcorner",
+    "\\carddebug",
+    "\\cardpadding",
+    "\\drawcardrecto",
+    "\\drawcardsrecto",
+    "\\drawcardsverso",
+    "\\drawcardverso"
+  ],
+  "environments": []
+}

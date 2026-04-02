@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\big",
+    "\\Bigg",
+    "\\rmdefault"
+  ],
+  "environments": []
+}

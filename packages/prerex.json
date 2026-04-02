@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\arraystretch",
+    "\\background",
+    "\\baselineAdj",
+    "\\boldwidth",
+    "\\CourseURL",
+    "\\dashedwidth",
+    "\\DefaultCurvature",
+    "\\dottedwidth",
+    "\\dpi",
+    "\\PixelsPerUnit",
+    "\\smallersize",
+    "\\solidwidth"
+  ],
+  "environments": [
+    "chart"
+  ]
+}

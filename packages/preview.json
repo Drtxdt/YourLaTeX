@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\PreviewSnarfEnvironment"
+  ],
+  "environments": [
+    "nopreview",
+    "preview"
+  ]
+}

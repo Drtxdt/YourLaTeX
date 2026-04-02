@@ -1,0 +1,40 @@
+{
+  "commands": [
+    "\\@enumbinary",
+    "\\@enumhex",
+    "\\@enumHex",
+    "\\@enumoctal",
+    "\\@levelnth",
+    "\\@nthwords",
+    "\\@Nthwords",
+    "\\@NTHWORDS",
+    "\\@nwords",
+    "\\@Nwords",
+    "\\@NWORDS",
+    "\\@raisenth",
+    "\\@single@greek",
+    "\\@Single@Greek",
+    "\\enumbinary",
+    "\\enumhex",
+    "\\enumHex",
+    "\\enumoctal",
+    "\\greek",
+    "\\Greek",
+    "\\levelnth",
+    "\\nthwords",
+    "\\Nthwords",
+    "\\NTHWORDS",
+    "\\nwords",
+    "\\Nwords",
+    "\\NWORDS",
+    "\\raisenth",
+    "\\single@greek",
+    "\\Single@Greek"
+  ],
+  "environments": [
+    "enumbinzero",
+    "enumhexzero",
+    "enumHexzero",
+    "enumoctzero"
+  ]
+}

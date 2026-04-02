@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\mcitedefaultendpunct",
+    "\\mcitedefaultmaxwidthbibitemform",
+    "\\mcitedefaultmaxwidthbibitemforminit",
+    "\\mcitedefaultmaxwidthsubitemform",
+    "\\mcitedefaultmaxwidthsubitemforminit",
+    "\\mcitedefaultmidpunct",
+    "\\mcitedefaultseppunct",
+    "\\mcitedefaultsublistbegin",
+    "\\mcitedefaultsublistend",
+    "\\mcitedefaultsublistlabel",
+    "\\mcitesubrefform"
+  ],
+  "environments": []
+}

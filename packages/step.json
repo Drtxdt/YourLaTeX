@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\familydefault",
+    "\\rmdefault",
+    "\\STEP@scale"
+  ],
+  "environments": []
+}

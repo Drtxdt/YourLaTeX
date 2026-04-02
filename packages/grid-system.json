@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\gridsystem@cellwidth",
+    "\\gridsystem@finishcell",
+    "\\gridsystem@finishlastcell",
+    "\\gridsystem@finishrow"
+  ],
+  "environments": [
+    "cell",
+    "row",
+    "Row"
+  ]
+}

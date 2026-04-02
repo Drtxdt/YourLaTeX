@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\C",
+    "\\Cl",
+    "\\Cr",
+    "\\newconstantfamily",
+    "\\renewconstantfamily",
+    "\\resetconstant"
+  ],
+  "environments": []
+}

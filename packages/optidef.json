@@ -1,0 +1,26 @@
+{
+  "commands": [
+    "\\bodyBreakObjectiveDefinition",
+    "\\bodyobj",
+    "\\bodyobjLong",
+    "\\bodyobjShort",
+    "\\bodySubjectTo",
+    "\\bodySubjectToDefinition",
+    "\\breakObjective",
+    "\\defaultConstraintFormat",
+    "\\defaultOCPConstraint",
+    "\\defaultProblemFormat",
+    "\\equalsNothing",
+    "\\labelOP",
+    "\\localOptimalVariable",
+    "\\localProblemFormat",
+    "\\localProblemType",
+    "\\selectConstraint",
+    "\\selectConstraintMult",
+    "\\setFormatLong",
+    "\\setFormatShort",
+    "\\setStandardMini",
+    "\\spanit"
+  ],
+  "environments": []
+}

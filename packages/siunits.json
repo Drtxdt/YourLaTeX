@@ -1,0 +1,21 @@
+{
+  "commands": [
+    "\\@cdot",
+    "\\@mediumqspace",
+    "\\@mediumspace",
+    "\\@qsk",
+    "\\@thickqspace",
+    "\\@thickspace",
+    "\\@thinqspace",
+    "\\@thinspace",
+    "\\cdot",
+    "\\degreecelsius",
+    "\\gray",
+    "\\Gray",
+    "\\period@active",
+    "\\square",
+    "\\squaren",
+    "\\usk"
+  ],
+  "environments": []
+}

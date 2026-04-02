@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\addauthor",
+    "\\coloredits@addauthorcomment",
+    "\\coloredits@addauthordelete",
+    "\\coloredits@addauthordeletecomment",
+    "\\coloredits@addauthoredit",
+    "\\coloredits@addauthormargincomment",
+    "\\coloredits@addauthorreplace"
+  ],
+  "environments": []
+}

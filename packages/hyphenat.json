@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\BreakableBackslash",
+    "\\BreakableColon",
+    "\\BreakableHyphen",
+    "\\BreakablePeriod",
+    "\\BreakableSlash",
+    "\\BreakableUnderscore",
+    "\\nohyphens",
+    "\\prw@zbreak",
+    "\\touchextrattfonts",
+    "\\touchttfonts"
+  ],
+  "environments": []
+}

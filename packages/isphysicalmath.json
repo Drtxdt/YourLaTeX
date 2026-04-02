@@ -1,0 +1,29 @@
+{
+  "commands": [
+    "\\ispm",
+    "\\ispmcomma",
+    "\\ispmdexpm",
+    "\\ispmdexpmt",
+    "\\ispmdexpp",
+    "\\ispmdexppt",
+    "\\ispmeighth",
+    "\\ispmfifth",
+    "\\ispmfourth",
+    "\\ispmn",
+    "\\ispmninth",
+    "\\ispmntone",
+    "\\ispmnttwo",
+    "\\ispmone",
+    "\\ispmpl",
+    "\\ispmpr",
+    "\\ispms",
+    "\\ispmseventh",
+    "\\ispmsixth",
+    "\\ispmss",
+    "\\ispmten",
+    "\\ispmtenf",
+    "\\ispmthird",
+    "\\ispmtwo"
+  ],
+  "environments": []
+}

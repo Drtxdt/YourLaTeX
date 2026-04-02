@@ -1,0 +1,21 @@
+{
+  "commands": [
+    "\\annotate",
+    "\\annotatetwo",
+    "\\EAxshift",
+    "\\eqnannotateCurrentNode",
+    "\\eqnannotationfont",
+    "\\eqnannotationstrut",
+    "\\eqncolor",
+    "\\eqnhighlight",
+    "\\eqnhighlightcolorbox",
+    "\\eqnhighlightfbox",
+    "\\eqnhighlightheight",
+    "\\eqnhighlightshade",
+    "\\eqnmark",
+    "\\eqnmarkbox",
+    "\\swapNorthSouth",
+    "\\swapWestEast"
+  ],
+  "environments": []
+}

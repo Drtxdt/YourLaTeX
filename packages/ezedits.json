@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\@draftstyle",
+    "\\defineEdit",
+    "\\draftnote",
+    "\\makeeditreport",
+    "\\setnotestyle"
+  ],
+  "environments": []
+}

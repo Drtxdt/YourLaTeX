@@ -1,0 +1,35 @@
+{
+  "commands": [
+    "\\AtBeginExercise",
+    "\\AtBeginSubexercise",
+    "\\AtEndExercise",
+    "\\AtEndSubexercise",
+    "\\bonuspoints",
+    "\\currentexercisenumber",
+    "\\currentexercisepoints",
+    "\\currentexercisetitle",
+    "\\currentsubexercisenumber",
+    "\\currentsubexercisepoints",
+    "\\currentsubexercisetitle",
+    "\\exercisepoints@begin",
+    "\\exercisepoints@end",
+    "\\exercisepoints@itempointsunit@plural",
+    "\\exercisepoints@itempointsunit@singular",
+    "\\exercisepoints@readfromaux",
+    "\\exercisepoints@storetoaux",
+    "\\exercisepoints@sub@begin",
+    "\\exercisepoints@sub@end",
+    "\\getbonuspoints",
+    "\\getpoints",
+    "\\itempoints",
+    "\\numberofexercises",
+    "\\points",
+    "\\setitempointsunit",
+    "\\totalpoints",
+    "\\totalpointswithbonus"
+  ],
+  "environments": [
+    "exercise",
+    "subexercise"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\footnotesize",
+    "\\huge",
+    "\\Huge",
+    "\\large",
+    "\\Large",
+    "\\LARGE",
+    "\\normalfont",
+    "\\normalsize",
+    "\\scriptsize",
+    "\\small",
+    "\\tiny",
+    "\\veryHuge",
+    "\\VeryHuge",
+    "\\VERYHuge"
+  ],
+  "environments": []
+}

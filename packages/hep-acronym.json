@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\@gls@write@entrycounts",
+    "\\acronymtype",
+    "\\begin@sentence",
+    "\\dummyacronym",
+    "\\gGlsXtrSetField",
+    "\\glsdonohyperlink",
+    "\\glsxtrsetfieldifexists",
+    "\\glsxtrusefield",
+    "\\hep@disable",
+    "\\hep@if@begin@of@sentence",
+    "\\resetacronym",
+    "\\sentence"
+  ],
+  "environments": []
+}

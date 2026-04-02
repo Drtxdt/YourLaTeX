@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\AXO@DefaultArrowScale",
+    "\\AXO@DefaultArrowStroke"
+  ],
+  "environments": [
+    "axopicture"
+  ]
+}

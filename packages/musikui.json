@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\musidepth",
+    "\\musiheight",
+    "\\musihgap",
+    "\\musiopsymbol",
+    "\\musirule",
+    "\\musivgap",
+    "\\musiwarikakko",
+    "\\musiwidth"
+  ],
+  "environments": [
+    "musikui"
+  ]
+}

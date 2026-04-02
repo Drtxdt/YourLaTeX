@@ -1,0 +1,22 @@
+{
+  "commands": [
+    "\\del",
+    "\\descr",
+    "\\error",
+    "\\head",
+    "\\headpara",
+    "\\headtabbed",
+    "\\init",
+    "\\meth@defheadpara",
+    "\\meth@defpara",
+    "\\para",
+    "\\postcond",
+    "\\precond",
+    "\\return",
+    "\\see"
+  ],
+  "environments": [
+    "data",
+    "method"
+  ]
+}

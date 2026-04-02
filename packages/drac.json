@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\@declarerobustactchar",
+    "\\DeclareRobustActChar",
+    "\\ReDeclareRobActChar"
+  ],
+  "environments": []
+}

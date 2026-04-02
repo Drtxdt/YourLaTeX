@@ -1,0 +1,27 @@
+{
+  "commands": [
+    "\\hiddenlayer",
+    "\\inputlayer",
+    "\\layer",
+    "\\link",
+    "\\linklayers",
+    "\\nn@defaultlinklabel",
+    "\\nn@defaultnodetext",
+    "\\nn@del",
+    "\\nn@get",
+    "\\nn@if",
+    "\\nn@inc",
+    "\\nn@layerindex",
+    "\\nn@linklabel",
+    "\\nn@node@xb",
+    "\\nn@nodecaption",
+    "\\nn@set",
+    "\\nn@var",
+    "\\nnGridX",
+    "\\nnGridY",
+    "\\outputlayer",
+    "\\setdefaultlinklabel",
+    "\\setdefaultnodetext"
+  ],
+  "environments": []
+}

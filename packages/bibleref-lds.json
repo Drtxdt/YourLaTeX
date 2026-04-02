@@ -1,0 +1,27 @@
+{
+  "commands": [
+    "\\brl@bkchsep",
+    "\\brl@chvsep",
+    "\\brl@foreachbook@abbrv",
+    "\\brl@foreachbook@bible@abbrv",
+    "\\brl@foreachbook@bible@thumb",
+    "\\brl@foreachbook@full",
+    "\\brl@foreachbook@thumb",
+    "\\brl@formatchapter",
+    "\\brl@formatverse",
+    "\\brl@ldsdotorg@consumeargs",
+    "\\brl@ldsdotorg@href",
+    "\\brl@ldsdotorg@list",
+    "\\brl@ldsdotorg@providestyle",
+    "\\brl@ldsdotorg@range",
+    "\\brl@ldsdotorg@samechapter",
+    "\\brl@ldsdotorg@spanchapter",
+    "\\brl@ldsdotorg@style",
+    "\\brl@ldsdotorgurl@list",
+    "\\brl@ldsdotorgurl@passage",
+    "\\brl@number@empty",
+    "\\brl@text@filter",
+    "\\provideldsdotorgstyle"
+  ],
+  "environments": []
+}

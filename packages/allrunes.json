@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\bldefault",
+    "\\cwdefault",
+    "\\DeclareFontShapeWithSizes",
+    "\\DeclareRuneSeparators",
+    "\\lfdefault",
+    "\\lldefault",
+    "\\mldefault",
+    "\\rodefault",
+    "\\rwdefault",
+    "\\stdefault",
+    "\\swdefault"
+  ],
+  "environments": []
+}

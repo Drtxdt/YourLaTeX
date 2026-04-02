@@ -1,0 +1,18 @@
+{
+  "commands": [
+    "\\greek@bold@shape",
+    "\\greek@bold@sl",
+    "\\greek@shape",
+    "\\math@encoding",
+    "\\math@lph@encoding",
+    "\\math@sfdefault",
+    "\\math@sfGreek",
+    "\\mathbf@lph",
+    "\\mathit@bold@series",
+    "\\mathit@lph",
+    "\\mathnormal@bold@shape",
+    "\\mathrm@lph",
+    "\\mathsf@lph"
+  ],
+  "environments": []
+}

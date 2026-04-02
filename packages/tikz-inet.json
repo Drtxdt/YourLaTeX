@@ -1,0 +1,18 @@
+{
+  "commands": [
+    "\\inet@defaultangle",
+    "\\inetbox",
+    "\\inetboxstyle",
+    "\\inetcell",
+    "\\inetcellstyle",
+    "\\inetcolor",
+    "\\inetfancy",
+    "\\inetloop",
+    "\\inetnofancy",
+    "\\inetprombox",
+    "\\inetsetfancycellstyle",
+    "\\inetsetfancywirestyle",
+    "\\inetwirestyle"
+  ],
+  "environments": []
+}

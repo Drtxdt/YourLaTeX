@@ -1,0 +1,35 @@
+{
+  "commands": [
+    "\\@motto",
+    "\\@parish",
+    "\\@printbookletbackpage",
+    "\\@title",
+    "\\@titlepicture",
+    "\\AvToAiv",
+    "\\bookletbackpagestyle",
+    "\\bookletemptypagestyle",
+    "\\bookletfrontpagestyle",
+    "\\date",
+    "\\ifbooklet",
+    "\\makebooklettitlepage",
+    "\\motto",
+    "\\parish",
+    "\\prayer@item",
+    "\\prayer@leader",
+    "\\prayer@responder",
+    "\\prayer@response",
+    "\\prayer@response@item",
+    "\\printbookletbackpage",
+    "\\setupprayer",
+    "\\title",
+    "\\titlepicture"
+  ],
+  "environments": [
+    "bookletbackpage",
+    "bookletemptypage",
+    "bookletfrontpage",
+    "bookletpage",
+    "prayer",
+    "samedoublepage"
+  ]
+}

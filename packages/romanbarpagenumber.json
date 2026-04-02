@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "\\pagenumbering",
+    "\\thepage"
+  ],
+  "environments": []
+}

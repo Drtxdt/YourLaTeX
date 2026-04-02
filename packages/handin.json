@@ -1,0 +1,18 @@
+{
+  "commands": [
+    "\\@atMargin",
+    "\\@domark",
+    "\\AddEverypageHook",
+    "\\AddThispageHook",
+    "\\epage@ep@init",
+    "\\epage@everypage@hook",
+    "\\epage@op@postamble",
+    "\\epage@op@preamble",
+    "\\epage@thispage@hook",
+    "\\footrulewidth",
+    "\\headrulewidth",
+    "\\set@tr",
+    "\\settable"
+  ],
+  "environments": []
+}

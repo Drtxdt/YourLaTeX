@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\ndjustformat",
+    "\\ndrefformat"
+  ],
+  "environments": [
+    "fitchproof",
+    "fitchproof*",
+    "nd",
+    "ndresume"
+  ]
+}

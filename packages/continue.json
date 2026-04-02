@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\c@ntevenpagepos",
+    "\\c@ntoddpagepos",
+    "\\c@outcontpage",
+    "\\contgo",
+    "\\contstop",
+    "\\flagcont",
+    "\\flagend",
+    "\\flagword",
+    "\\postflagword",
+    "\\preflagword"
+  ],
+  "environments": []
+}

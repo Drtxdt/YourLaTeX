@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\ArduinoInline",
+    "\\ArduinoSketch",
+    "\\FormatDigit",
+    "\\ProcessingInline",
+    "\\ProcessingSketch"
+  ],
+  "environments": []
+}

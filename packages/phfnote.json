@@ -1,0 +1,35 @@
+{
+  "commands": [
+    "\\inlinetoc",
+    "\\noteabstractnamefont",
+    "\\noteabstracttextfont",
+    "\\noteabstracttextwidth",
+    "\\noteparagraphfont",
+    "\\noteparagraphsetfonts",
+    "\\notesectionallfont",
+    "\\notesectionallfontfamily",
+    "\\notesectionfont",
+    "\\notesectionsetfonts",
+    "\\notesubparagraphfont",
+    "\\notesubsectionfont",
+    "\\notesubsubsectionfont",
+    "\\notetitle@style@default",
+    "\\notetitle@stylesetup@article",
+    "\\notetitleauthorfont",
+    "\\notetitlebelowspace",
+    "\\notetitledatefont",
+    "\\notetitlefont",
+    "\\notetitlehrule",
+    "\\notetitletopspace",
+    "\\phfnote@bibfont",
+    "\\phfnote@bibliography",
+    "\\phfnote@bibliographystyle",
+    "\\phfnote@bibstyle",
+    "\\phfnote@do@pagegeom",
+    "\\phfnotePdfLinkColor",
+    "\\sfdefault"
+  ],
+  "environments": [
+    "noteabstract"
+  ]
+}

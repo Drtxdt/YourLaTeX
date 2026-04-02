@@ -1,0 +1,23 @@
+{
+  "commands": [
+    "\\bnf@morenn",
+    "\\bnf@moreyn",
+    "\\bnf@prodnn",
+    "\\bnf@prodyn",
+    "\\bnf@tsfont",
+    "\\bnfes",
+    "\\bnfmore",
+    "\\bnfor",
+    "\\bnfpn",
+    "\\bnfpo",
+    "\\bnfprod",
+    "\\bnfsk",
+    "\\bnfsp",
+    "\\bnftd",
+    "\\bnfts"
+  ],
+  "environments": [
+    "bnf",
+    "bnf*"
+  ]
+}

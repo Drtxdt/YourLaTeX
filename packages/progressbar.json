@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\progressbar",
+    "\\progressbarchange",
+    "\\setBarHeightCenter",
+    "\\setBarWidthCenter"
+  ],
+  "environments": []
+}

@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\bibnamedash",
+    "\\biburlsetup",
+    "\\do",
+    "\\enoteformat",
+    "\\makeenmark"
+  ],
+  "environments": []
+}

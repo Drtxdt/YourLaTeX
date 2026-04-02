@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\check@checksum",
+    "\\m@fpmakehashletter",
+    "\\m@fpmakeuscoreletter",
+    "\\Makem@fpPrivateLetters",
+    "\\PrintMfpName",
+    "\\routineheadname",
+    "\\routinestring",
+    "\\SpecialMainMfpIndex",
+    "\\SpecialMfpIndex",
+    "\\variableheadname",
+    "\\variablestring"
+  ],
+  "environments": []
+}

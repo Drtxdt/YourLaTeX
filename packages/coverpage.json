@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\CoverPageBody",
+    "\\CoverPageFooter",
+    "\\CoverPageFooterInfo",
+    "\\CoverPageFooterLogo",
+    "\\CoverPageHeader",
+    "\\CoverPageSetup",
+    "\\CP@PrintCoverPage",
+    "\\CPAuthorFont",
+    "\\CPCopyrightFont",
+    "\\CPInSourceFont",
+    "\\CPInstituteFont",
+    "\\CPTitleFont"
+  ],
+  "environments": []
+}

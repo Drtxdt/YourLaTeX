@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\AngloZiffer",
+    "\\EuroZiffer",
+    "\\ZifferAn",
+    "\\ZifferAus",
+    "\\ZifferLeer",
+    "\\ZifferPunktAn",
+    "\\ZifferPunktAus",
+    "\\ZifferStrich",
+    "\\ZifferStrichAn",
+    "\\ZifferStrichAus"
+  ],
+  "environments": []
+}

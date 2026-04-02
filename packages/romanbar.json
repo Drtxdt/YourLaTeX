@@ -1,0 +1,6 @@
+{
+  "commands": [
+    "\\ifnumeric"
+  ],
+  "environments": []
+}

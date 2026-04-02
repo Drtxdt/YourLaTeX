@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\Bbbk",
+    "\\Big",
+    "\\bigg",
+    "\\Bigg",
+    "\\fdsy@scale"
+  ],
+  "environments": []
+}

@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\@saveprimitive",
+    "\\cfrac",
+    "\\negmedspace",
+    "\\negthickspace",
+    "\\prime",
+    "\\smash"
+  ],
+  "environments": [
+    "aligned",
+    "alignedat",
+    "equation*",
+    "gathered",
+    "subequations"
+  ]
+}

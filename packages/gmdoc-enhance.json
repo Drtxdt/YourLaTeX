@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\activateVisibleComments",
+    "\\InlineCommentsWithPercent",
+    "\\normalInlineComments",
+    "\\normalInput",
+    "\\setVisibleCommentChar",
+    "\\setVisibleCommentColor"
+  ],
+  "environments": []
+}

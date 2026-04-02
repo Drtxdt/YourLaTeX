@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\@outext",
+    "\\@outextspace",
+    "\\@tmpdir",
+    "\\digraph",
+    "\\inputdigraph",
+    "\\neatograph"
+  ],
+  "environments": []
+}

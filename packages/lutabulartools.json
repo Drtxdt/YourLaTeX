@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\gmidrule",
+    "\\ltt@ActivatePackageWarning",
+    "\\ltt@DeactivatePackageWarning",
+    "\\lttdebugOFF",
+    "\\lttdebugON",
+    "\\lttdebugprt",
+    "\\PackageWarning"
+  ],
+  "environments": []
+}

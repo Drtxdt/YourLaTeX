@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\@rightalign",
+    "\\arraystretch",
+    "\\overarc",
+    "\\Tdaikakko",
+    "\\Ttyuubracket",
+    "\\Ttyuukakko",
+    "\\Tzettaiti",
+    "\\vvtext"
+  ],
+  "environments": []
+}

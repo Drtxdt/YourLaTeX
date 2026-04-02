@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\LinuxBiolinumT@scale",
+    "\\LinuxLibertineDisplayT@scale",
+    "\\LinuxLibertineInitialsT@scale",
+    "\\LinuxLibertineMonoT@scale",
+    "\\LinuxLibertineT@scale"
+  ],
+  "environments": []
+}

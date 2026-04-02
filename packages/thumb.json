@@ -1,0 +1,28 @@
+{
+  "commands": [
+    "\\chaptermark",
+    "\\footrulewidth",
+    "\\headrulewidth",
+    "\\Overviewfont",
+    "\\Overviewname",
+    "\\Overviewpage",
+    "\\OverviewPage",
+    "\\Overviewtitlefont",
+    "\\preface",
+    "\\Prefacename",
+    "\\secname",
+    "\\sectionmark",
+    "\\subsectionmark",
+    "\\thumbauthorfont",
+    "\\thumbbox",
+    "\\thumbdatefont",
+    "\\thumbfilledbox",
+    "\\thumbfilledoval",
+    "\\thumbheaderfont",
+    "\\thumboval",
+    "\\thumboverview",
+    "\\thumbsecnum",
+    "\\thumbtitlefont"
+  ],
+  "environments": []
+}

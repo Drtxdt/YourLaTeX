@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\bibliography",
+    "\\cite",
+    "\\idemtext",
+    "\\last@cited",
+    "\\newBibCommand",
+    "\\opcit@cite",
+    "\\opcit@cite@star",
+    "\\opcittext",
+    "\\renew@cites",
+    "\\sameauthors",
+    "\\thebib@renew"
+  ],
+  "environments": []
+}

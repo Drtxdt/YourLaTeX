@@ -1,0 +1,25 @@
+{
+  "commands": [
+    "\\@gitFootRev",
+    "\\@gitlFootRev",
+    "\\@gitPage",
+    "\\@gitrFootRev",
+    "\\gitAbbrevHash",
+    "\\gitAuthorDate",
+    "\\gitAuthorEmail",
+    "\\gitAuthorIsoDate",
+    "\\gitAuthorName",
+    "\\gitAuthorUnixDate",
+    "\\gitCommitterDate",
+    "\\gitCommitterEmail",
+    "\\gitCommitterIsoDate",
+    "\\gitCommitterName",
+    "\\gitCommitterUnixDate",
+    "\\gitHash",
+    "\\gitReferences",
+    "\\gitVtag",
+    "\\gitVtagn",
+    "\\gitVtags"
+  ],
+  "environments": []
+}

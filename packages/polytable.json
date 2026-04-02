@@ -1,0 +1,32 @@
+{
+  "commands": [
+    "\\beginpolytable",
+    "\\defaultcolumn",
+    "\\disktables",
+    "\\memorytables",
+    "\\nodefaultcolumn",
+    "\\PT@checkendentry",
+    "\\PT@checkglobalfrom",
+    "\\PT@debug",
+    "\\PT@dodofrom",
+    "\\PT@dofrom",
+    "\\PT@dospecfrom",
+    "\\PT@endentry",
+    "\\PT@fill",
+    "\\PT@from",
+    "\\PT@fromopt",
+    "\\PT@fromto",
+    "\\PT@getglobalfrom",
+    "\\PT@gobbleoptional",
+    "\\PT@ignorefrom",
+    "\\PT@info",
+    "\\PT@resetandcr",
+    "\\PT@resetcolumn",
+    "\\PT@restorewidths",
+    "\\PT@savewidths",
+    "\\PT@scantoend",
+    "\\PT@setmaxwidth",
+    "\\PT@toopt"
+  ],
+  "environments": []
+}

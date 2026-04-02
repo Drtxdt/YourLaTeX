@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\lref"
+  ],
+  "environments": [
+    "bframe",
+    "code",
+    "numquotation",
+    "numquotation*",
+    "numquote",
+    "numquote*"
+  ]
+}

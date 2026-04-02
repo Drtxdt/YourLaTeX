@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\acknow",
+    "\\cref",
+    "\\mop"
+  ],
+  "environments": []
+}

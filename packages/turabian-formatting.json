@@ -1,0 +1,27 @@
+{
+  "commands": [
+    "\\@makefntext",
+    "\\bibhang",
+    "\\bibitemsep",
+    "\\bibsetup",
+    "\\enoteformat",
+    "\\enotesize",
+    "\\footnoterule",
+    "\\labelenumi",
+    "\\labelenumii",
+    "\\labelenumiii",
+    "\\labelenumiv",
+    "\\listfigurename",
+    "\\listillustrationname",
+    "\\listoffigures",
+    "\\listofillustrations",
+    "\\listoftables",
+    "\\listtablename",
+    "\\section",
+    "\\subsection",
+    "\\subsubsection",
+    "\\tableofcontents",
+    "\\thefootnote"
+  ],
+  "environments": []
+}

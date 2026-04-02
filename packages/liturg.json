@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\caplettrine",
+    "\\latin",
+    "\\latinpart",
+    "\\leslettrine",
+    "\\lessonheading",
+    "\\lessonsource",
+    "\\lessontitle",
+    "\\LettrineFontHook",
+    "\\massenglish",
+    "\\prayerheading",
+    "\\psalmheading"
+  ],
+  "environments": []
+}

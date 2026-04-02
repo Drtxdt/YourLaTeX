@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\AfterInputEncoding",
+    "\\BeforeInputEncoding",
+    "\\CurrentInputEncodingName",
+    "\\CurrentInputEncodingOption",
+    "\\InputEncoding"
+  ],
+  "environments": []
+}

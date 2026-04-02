@@ -1,0 +1,42 @@
+{
+  "commands": [
+    "\\@bscontmark",
+    "\\@bsmtitlempty",
+    "\\and",
+    "\\appendiargdef",
+    "\\calccentering",
+    "\\cancelthanksrule",
+    "\\continuousmarks",
+    "\\emptythanks",
+    "\\keepthetitle",
+    "\\killtitle",
+    "\\makethanksmark",
+    "\\makethanksmarkhook",
+    "\\maketitle",
+    "\\maketitlehooka",
+    "\\maketitlehookb",
+    "\\maketitlehookc",
+    "\\maketitlehookd",
+    "\\postauthor",
+    "\\postdate",
+    "\\posttitle",
+    "\\preauthor",
+    "\\predate",
+    "\\pretitle",
+    "\\symbolthanksmark",
+    "\\tamark",
+    "\\thanks",
+    "\\thanksfootextra",
+    "\\thanksfootmark",
+    "\\thanksgap",
+    "\\thanksheadextra",
+    "\\thanksmark",
+    "\\thanksmarkseries",
+    "\\thanksscript",
+    "\\thefootnote",
+    "\\usethanksrule"
+  ],
+  "environments": [
+    "titlingpage"
+  ]
+}

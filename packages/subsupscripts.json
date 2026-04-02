@@ -1,0 +1,26 @@
+{
+  "commands": [
+    "\\dblleftscriptskip",
+    "\\dblrightscriptskip",
+    "\\fourscripts",
+    "\\fourscriptsC",
+    "\\largerSkips",
+    "\\lrsubscripts",
+    "\\lrsubscriptsC",
+    "\\lrsuperscripts",
+    "\\lrsuperscriptsC",
+    "\\lsubscript",
+    "\\lsuperscript",
+    "\\rsubscript",
+    "\\rsuperscript",
+    "\\setDblLSkip",
+    "\\setDblRSkip",
+    "\\setSingleLSkip",
+    "\\setSingleRSkip",
+    "\\singleleftscriptskip",
+    "\\singlerightscriptskip",
+    "\\twolscripts",
+    "\\tworscripts"
+  ],
+  "environments": []
+}

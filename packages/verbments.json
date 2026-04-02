@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\@listofpyglistingsname",
+    "\\l@pyglist",
+    "\\listofpyglistings",
+    "\\listofpyglistingsname",
+    "\\lol@caption"
+  ],
+  "environments": [
+    "pyglist"
+  ]
+}

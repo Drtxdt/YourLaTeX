@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\AddEverypageHook",
+    "\\GP@declaredotpat",
+    "\\GP@declarehexpat",
+    "\\GP@declarelightconepat",
+    "\\GP@declaretripat",
+    "\\GP@innerpatterncode",
+    "\\GP@patterncode",
+    "\\GP@patterndefaultgeometry",
+    "\\GP@patterndefaultsize",
+    "\\GP@patternsize",
+    "\\GP@setpattern"
+  ],
+  "environments": []
+}

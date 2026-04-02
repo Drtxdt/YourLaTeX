@@ -1,0 +1,20 @@
+{
+  "commands": [
+    "\\@ordpt@capitalize",
+    "\\@ordpt@lowercase",
+    "\\@ordpt@ordinal",
+    "\\@ordpt@print",
+    "\\@ordpt@printhundreds",
+    "\\@ordpt@printtens",
+    "\\@ordpt@printthousands",
+    "\\@ordpt@printunits",
+    "\\@ordpt@uppercase",
+    "\\ordptfem",
+    "\\Ordptfem",
+    "\\ORDPTFEM",
+    "\\ordptmasc",
+    "\\Ordptmasc",
+    "\\ORDPTMASC"
+  ],
+  "environments": []
+}

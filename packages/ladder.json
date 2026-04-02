@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\ladderC",
+    "\\ladderLine",
+    "\\ladderNC",
+    "\\ladderNO",
+    "\\ladderText",
+    "\\setParallel",
+    "\\startParallel",
+    "\\unsetParallel"
+  ],
+  "environments": []
+}

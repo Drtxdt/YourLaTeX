@@ -1,0 +1,39 @@
+{
+  "commands": [
+    "\\dspCPArc",
+    "\\dspCPArcn",
+    "\\dspCPCircle",
+    "\\dspCPCirclePoint",
+    "\\dspCPPoint",
+    "\\dspCPPointSC",
+    "\\dspCustomTicks",
+    "\\dspDiracs",
+    "\\dspFunc",
+    "\\dspFuncData",
+    "\\dspFuncDataAt",
+    "\\dspFuncFile",
+    "\\dspFuncOpt",
+    "\\dspImageFile",
+    "\\dspMainPeriod",
+    "\\dspPeriod",
+    "\\dspPeriodize",
+    "\\dspPlotFrame",
+    "\\dspPoints",
+    "\\dspPointValue",
+    "\\dspPointValueSC",
+    "\\dspPZ",
+    "\\dspShowImage",
+    "\\dspSignal",
+    "\\dspSignalOpt",
+    "\\dspTaps",
+    "\\dspTapsAt",
+    "\\dspTapsFile",
+    "\\dspText"
+  ],
+  "environments": [
+    "dspClip",
+    "dspCP",
+    "dspPlot",
+    "dspPZPlot"
+  ]
+}

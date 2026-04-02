@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\mathsPIC",
+    "\\MathsPIC",
+    "\\mathsPICp",
+    "\\MathsPICp",
+    "\\mathsPICperl",
+    "\\MathsPICperl"
+  ],
+  "environments": []
+}

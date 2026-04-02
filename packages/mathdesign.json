@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\ficshape",
+    "\\fscshape",
+    "\\ProcessUnusedOptions",
+    "\\selectgreekfamily"
+  ],
+  "environments": []
+}

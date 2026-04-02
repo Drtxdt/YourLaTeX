@@ -1,0 +1,41 @@
+{
+  "commands": [
+    "\\BeamerProgramBlockBlocksOnlyItem",
+    "\\BeamerProgramBlockItem",
+    "\\BeamerProgramListCancelItem",
+    "\\BeamerProgramListExamItem",
+    "\\BeamerProgramListItem",
+    "\\DTMdisplaydate",
+    "\\DTMDisplaydate",
+    "\\LecDuration",
+    "\\LecInstitute",
+    "\\LecInstructor",
+    "\\LecInterval",
+    "\\LecRoom",
+    "\\LecStartDate",
+    "\\LecStartTime",
+    "\\LecSubTitle",
+    "\\LecTitle",
+    "\\LecTitleSep",
+    "\\LecType",
+    "\\LecUni",
+    "\\ProgramBlockItem",
+    "\\ProgramListBreak",
+    "\\ProgramListCancelItem",
+    "\\ProgramListExamItem",
+    "\\ProgramListItem",
+    "\\SessionTitleSep",
+    "\\SetAutoOffset"
+  ],
+  "environments": [
+    "BeamerPresList",
+    "BeamerProgramList",
+    "BeamerProgramListExam",
+    "labeling",
+    "PresList",
+    "ProgramList",
+    "ProgramListBlock",
+    "ProgramListExam",
+    "SessionBlock"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "\\xhrectanglefill",
+    "\\xhrulefill"
+  ],
+  "environments": []
+}

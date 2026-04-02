@@ -1,0 +1,21 @@
+{
+  "commands": [
+    "\\exec@option",
+    "\\lbl",
+    "\\lbl@cmd",
+    "\\lp@coordscmd",
+    "\\lp@dimens",
+    "\\lp@figframecmd",
+    "\\lp@getcoords",
+    "\\lp@gridcmd",
+    "\\lp@ifnumber",
+    "\\lp@lblframecmd",
+    "\\lp@msg",
+    "\\lp@pictframecmd",
+    "\\lp@putepsfigurecmd",
+    "\\lp@skipthis"
+  ],
+  "environments": [
+    "lpic"
+  ]
+}

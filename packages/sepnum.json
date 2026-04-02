@@ -1,0 +1,24 @@
+{
+  "commands": [
+    "\\printnum",
+    "\\printnumKomma",
+    "\\printnumTrenner",
+    "\\sepnum",
+    "\\sepnum@AfterComma",
+    "\\sepnum@BeforeComma",
+    "\\sepnum@doform",
+    "\\sepnum@DoNothing",
+    "\\sepnum@DoReverseNumber",
+    "\\sepnum@DoThreeDigits",
+    "\\sepnum@ReverseNumber",
+    "\\sepnum@SepComma",
+    "\\sepnum@Sign",
+    "\\sepnum@ThreeDigits",
+    "\\sepnumform",
+    "\\sepnumReturnElseFi",
+    "\\sepnumReturnFi",
+    "\\sepnumReturnOrFi",
+    "\\themoney"
+  ],
+  "environments": []
+}

@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\callornament",
+    "\\resetpgfornamentstyle"
+  ],
+  "environments": [
+    "newfamily"
+  ]
+}

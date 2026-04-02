@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\index",
+    "\\indexprologue",
+    "\\indexsetup",
+    "\\indltl@afterindexMessage",
+    "\\indtl@closeandrundidxsplit",
+    "\\indtl@closeandrundidxunique",
+    "\\innote",
+    "\\innotenumber",
+    "\\makeindex",
+    "\\printindex"
+  ],
+  "environments": []
+}

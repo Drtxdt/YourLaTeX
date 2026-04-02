@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\tooltip",
+    "\\tooltip@NoStar",
+    "\\tooltip@Star",
+    "\\tooltipanim",
+    "\\tooltipanim@NoStar",
+    "\\tooltipanim@Star",
+    "\\TooltipHidden"
+  ],
+  "environments": []
+}

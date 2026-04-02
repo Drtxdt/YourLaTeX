@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\@setcpagerefrange",
+    "\\@setCpagerefrange",
+    "\\@setlabelcpagerefrange"
+  ],
+  "environments": []
+}

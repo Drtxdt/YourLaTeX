@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\includecode",
+    "\\lexercommand",
+    "\\proglang",
+    "\\pygment",
+    "\\usestyle"
+  ],
+  "environments": [
+    "pygmented"
+  ]
+}

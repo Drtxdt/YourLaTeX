@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\@PrintEnvelope",
+    "\\mlabel",
+    "\\opening",
+    "\\PrintAddress",
+    "\\PrintBarCode",
+    "\\PrintBigLabel",
+    "\\PrintEnvelope",
+    "\\PrintLabel",
+    "\\PrintReturnAddress",
+    "\\printreturnlabels",
+    "\\re"
+  ],
+  "environments": []
+}

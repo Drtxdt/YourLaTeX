@@ -1,0 +1,33 @@
+{
+  "commands": [
+    "\\appointment",
+    "\\deadline",
+    "\\encircle",
+    "\\exam",
+    "\\lecture",
+    "\\meeting",
+    "\\officehour",
+    "\\oral",
+    "\\phigh",
+    "\\plow",
+    "\\pmandatory",
+    "\\pmid",
+    "\\pnone",
+    "\\seminar",
+    "\\tba",
+    "\\tbd",
+    "\\teams",
+    "\\ttlegend",
+    "\\tutorial",
+    "\\written",
+    "\\youtube",
+    "\\zoom"
+  ],
+  "environments": [
+    "appointments",
+    "deadlines",
+    "exams",
+    "legend",
+    "timetable"
+  ]
+}

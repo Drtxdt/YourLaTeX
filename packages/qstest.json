@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\EndInternalSetValue",
+    "\\LogTests",
+    "\\TestErrors"
+  ],
+  "environments": [
+    "ExpectCallSequence",
+    "qstest"
+  ]
+}

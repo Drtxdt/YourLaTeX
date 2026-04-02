@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\downplay",
+    "\\firstcase",
+    "\\firstcasesubtil",
+    "\\formal@Coloneqq",
+    "\\formal@rowstyle",
+    "\\gralt",
+    "\\highlight",
+    "\\lochighlight",
+    "\\nonterm",
+    "\\nontermsubtil",
+    "\\otherform",
+    "\\rowstyle"
+  ],
+  "environments": []
+}

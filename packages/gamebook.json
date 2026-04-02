@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\gbdebug",
+    "\\gbdebugx",
+    "\\gbheader",
+    "\\gbheadtext",
+    "\\gbitem",
+    "\\gbsection",
+    "\\gbturn",
+    "\\gbturntext",
+    "\\gbvillain",
+    "\\PrelimText",
+    "\\PrelimWords",
+    "\\sectionmark"
+  ],
+  "environments": [
+    "gbtabbing"
+  ]
+}

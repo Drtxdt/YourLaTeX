@@ -1,0 +1,28 @@
+{
+  "commands": [
+    "\\lensBase",
+    "\\lensMath",
+    "\\lensMathL",
+    "\\lensPts",
+    "\\lensRays",
+    "\\lensSphGauss",
+    "\\lensSphGaussCoord",
+    "\\lensSphGaussFixed",
+    "\\lensSphGaussFixedCoord",
+    "\\lensSphGaussL",
+    "\\lensSphGaussLCoord",
+    "\\lensSphGaussLFixed",
+    "\\lensSphGaussLFixedCoord",
+    "\\mirrorBase",
+    "\\mirrorLensCoord",
+    "\\mirrorLensObjIma",
+    "\\mirrorMath",
+    "\\mirrorPts",
+    "\\mirrorRays",
+    "\\mirrorSphGauss",
+    "\\mirrorSphGaussCoord",
+    "\\mirrorSphGaussFixed",
+    "\\mirrorSphGaussFixedCoord"
+  ],
+  "environments": []
+}

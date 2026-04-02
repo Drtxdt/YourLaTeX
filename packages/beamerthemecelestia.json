@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\@font@warning",
+    "\\@testcolor",
+    "\\alert",
+    "\\celestiaCircle",
+    "\\celestiaDiamond",
+    "\\celestiaSmallCircle",
+    "\\lstinputlisting",
+    "\\mathdef",
+    "\\mathterm",
+    "\\setblockopacity",
+    "\\texttt"
+  ],
+  "environments": []
+}

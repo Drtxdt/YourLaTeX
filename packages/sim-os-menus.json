@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\TermOSXgreen",
+    "\\TermOSXLG",
+    "\\TermOSXOrange",
+    "\\TermOSXRed",
+    "\\TermUbuntuClose",
+    "\\TermUbuntuMax",
+    "\\TermUbuntuMin",
+    "\\TermUbuntuWhite"
+  ],
+  "environments": []
+}

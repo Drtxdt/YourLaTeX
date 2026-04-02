@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\AmSfont",
+    "\\rmdefault",
+    "\\sfdefault",
+    "\\ttdefault"
+  ],
+  "environments": []
+}

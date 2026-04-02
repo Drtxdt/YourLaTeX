@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\@starttoc",
+    "\\addtocontents",
+    "\\see",
+    "\\seename"
+  ],
+  "environments": []
+}

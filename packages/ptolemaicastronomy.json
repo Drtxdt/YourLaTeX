@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\proposition",
+    "\\propositionintersect",
+    "\\propositionplot",
+    "\\spherefill",
+    "\\sphereintersect",
+    "\\spherelayer",
+    "\\sphereplot",
+    "\\spherepos",
+    "\\spheresystem"
+  ],
+  "environments": []
+}

@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\AccSuppSetup",
+    "\\ActualTextDriverDefault",
+    "\\BeginAccSupp",
+    "\\EndAccSupp"
+  ],
+  "environments": []
+}

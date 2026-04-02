@@ -1,0 +1,26 @@
+{
+  "commands": [
+    "\\exercisename",
+    "\\exercisesfontsize",
+    "\\exercisesname",
+    "\\GPES@write@detok",
+    "\\GPESS@write@detok",
+    "\\GPFORCOL@write@detok",
+    "\\GPFORCOLONLY@write@detok",
+    "\\GPSS@write@detok",
+    "\\noexercisesinchapter",
+    "\\noexercisesinnextchapter",
+    "\\seriesname",
+    "\\solutionname",
+    "\\solutionsname",
+    "\\theexercise",
+    "\\theexerciseseries"
+  ],
+  "environments": [
+    "exercises",
+    "exerciseseries",
+    "exsol@exercise",
+    "exsol@solution",
+    "solutionseries"
+  ]
+}

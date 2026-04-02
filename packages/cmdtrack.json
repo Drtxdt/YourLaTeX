@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "\\ShowPackageInfo",
+    "\\untrack"
+  ],
+  "environments": []
+}

@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\COOL@intEnd",
+    "\\COOL@strEnd",
+    "\\ifstrchareq",
+    "\\ifstrleneq",
+    "\\isdecimal",
+    "\\isint",
+    "\\isnumeric",
+    "\\setstrEnd",
+    "\\strchar",
+    "\\strlen",
+    "\\strlenstore",
+    "\\substr"
+  ],
+  "environments": []
+}

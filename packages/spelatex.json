@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\spel@chunkwrite",
+    "\\spel@idxwrite",
+    "\\spel@registerelement",
+    "\\spelitem",
+    "\\tableofcontents"
+  ],
+  "environments": []
+}

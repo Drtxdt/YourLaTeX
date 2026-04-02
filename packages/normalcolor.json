@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "\\@@setnormalcolor",
+    "\\@setnormalcolor"
+  ],
+  "environments": []
+}

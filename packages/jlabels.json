@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\beginjlabels",
+    "\\jlabel",
+    "\\jlabelLengths",
+    "\\jlabelt",
+    "\\myjlabel"
+  ],
+  "environments": []
+}

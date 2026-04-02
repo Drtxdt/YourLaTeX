@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\breaklig",
+    "\\keeplig",
+    "\\nolig",
+    "\\uselig"
+  ],
+  "environments": []
+}

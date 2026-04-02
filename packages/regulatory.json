@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\aref",
+    "\\Aref",
+    "\\glossarysection",
+    "\\glsnamefont",
+    "\\l@article",
+    "\\l@para",
+    "\\thearticle",
+    "\\thepara"
+  ],
+  "environments": []
+}

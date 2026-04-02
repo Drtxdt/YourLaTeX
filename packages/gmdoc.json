@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\DocInput"
+  ],
+  "environments": [
+    "copyrnote",
+    "enumargs*",
+    "gmlonely",
+    "macro",
+    "macrocode",
+    "macrocode*",
+    "theglossary"
+  ]
+}

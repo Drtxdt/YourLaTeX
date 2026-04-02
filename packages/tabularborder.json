@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\@tb@tbtabarray",
+    "\\tb@array",
+    "\\tb@ialign",
+    "\\tb@tbtabarray",
+    "\\tboff",
+    "\\tbon"
+  ],
+  "environments": []
+}

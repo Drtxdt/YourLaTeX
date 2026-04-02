@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "\\luaModularAdd",
+    "\\luaModularMult"
+  ],
+  "environments": []
+}

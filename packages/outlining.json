@@ -1,0 +1,18 @@
+{
+  "commands": [
+    "\\@disableMajors",
+    "\\@disableMinors",
+    "\\@disableOutlining",
+    "\\@disableTopics",
+    "\\@outlineAtBegin",
+    "\\@outlineAtEnd",
+    "\\listOutline",
+    "\\major",
+    "\\minor",
+    "\\outlineTopics",
+    "\\outlineTopicsMajors",
+    "\\outlineTopicsMajorsMinors",
+    "\\topic"
+  ],
+  "environments": []
+}

@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\mpg@formatname",
+    "\\mpg@graphicsextension",
+    "\\mpg@graphicsformatname",
+    "\\mpgfigname",
+    "\\mpgnoprocess",
+    "\\mpgOff",
+    "\\mpgOn",
+    "\\mpgraphics@date",
+    "\\mpgraphics@version"
+  ],
+  "environments": [
+    "ltxpreamble",
+    "mpdefs",
+    "mpdisplay",
+    "mpinline"
+  ]
+}

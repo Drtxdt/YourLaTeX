@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\arraystretch",
+    "\\frac",
+    "\\lim",
+    "\\sqrt"
+  ],
+  "environments": [
+    "signchart",
+    "simul*"
+  ]
+}

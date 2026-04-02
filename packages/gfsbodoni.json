@@ -1,0 +1,32 @@
+{
+  "commands": [
+    "\\bodonitextparagraph",
+    "\\careof",
+    "\\estimated",
+    "\\eurocurrency",
+    "\\interrobang",
+    "\\LaTeX",
+    "\\LaTeXe",
+    "\\numero",
+    "\\oldstylenums",
+    "\\onehalf",
+    "\\onethird",
+    "\\rmdefault",
+    "\\scslshape",
+    "\\stirling",
+    "\\stirlingoldstyle",
+    "\\tabnums",
+    "\\TeX",
+    "\\textbodoni",
+    "\\textbullet",
+    "\\textfrac",
+    "\\textlozenge",
+    "\\textscsl",
+    "\\twothirds",
+    "\\whitebullet",
+    "\\yencurrency"
+  ],
+  "environments": [
+    "bodoni"
+  ]
+}

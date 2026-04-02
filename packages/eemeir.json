@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\@eemeir",
+    "\\@eemeirF",
+    "\\@eemeirM",
+    "\\@eemeirword",
+    "\\@newwordpair",
+    "\\askforgender",
+    "\\female",
+    "\\male",
+    "\\newwordpair",
+    "\\renewwordpair"
+  ],
+  "environments": [
+    "swapgender"
+  ]
+}

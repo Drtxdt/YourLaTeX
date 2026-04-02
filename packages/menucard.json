@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\Allergens",
+    "\\ColSubTextColor",
+    "\\ColTextColor",
+    "\\zapf"
+  ],
+  "environments": [
+    "Group",
+    "Group*",
+    "menugroup",
+    "menugroup*",
+    "menugroupsc",
+    "menugroupsc*"
+  ]
+}

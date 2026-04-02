@@ -1,0 +1,41 @@
+{
+  "commands": [
+    "\\@AUTOassume",
+    "\\@AUTOconclude",
+    "\\@AUTOintroduction",
+    "\\@AUTOskipsteps",
+    "\\@AUTOstep",
+    "\\@CMNTderline",
+    "\\@derlabel",
+    "\\@derline",
+    "\\@endflag",
+    "\\@flagbox",
+    "\\@flagclose",
+    "\\@labelprefix",
+    "\\@MANassume",
+    "\\@MANconclude",
+    "\\@MANintroduction",
+    "\\@MANskipsteps",
+    "\\@MANstep",
+    "\\@startflag",
+    "\\assume",
+    "\\conclude",
+    "\\done",
+    "\\inlcmnts",
+    "\\introduce",
+    "\\introsymb",
+    "\\noinlcmnts",
+    "\\ref",
+    "\\skipsteps",
+    "\\step",
+    "\\tablename",
+    "\\thefd@stepcount",
+    "\\theinlcmnt",
+    "\\thestepcount",
+    "\\thesteplabel"
+  ],
+  "environments": [
+    "flagderiv",
+    "flagderiv*"
+  ]
+}

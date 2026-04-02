@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\ctable",
+    "\\setupctable",
+    "\\tmark",
+    "\\tnote"
+  ],
+  "environments": []
+}

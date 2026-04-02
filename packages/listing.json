@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\@captype",
+    "\\ext@listing",
+    "\\fnum@listing",
+    "\\l@listing",
+    "\\listingname",
+    "\\listlistingname",
+    "\\listoflistings"
+  ],
+  "environments": [
+    "listing"
+  ]
+}

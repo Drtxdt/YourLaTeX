@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\thecorollary",
+    "\\theenumi",
+    "\\theenumii",
+    "\\theenumiii",
+    "\\theequation",
+    "\\theexample",
+    "\\thefootnote",
+    "\\theproblem",
+    "\\theproperty",
+    "\\thetheorem"
+  ],
+  "environments": [
+    "latin",
+    "motive",
+    "solution"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\@ss@setpdfpagesize",
+    "\\newstocksize",
+    "\\pdfrestoregeometry",
+    "\\pdfsavegeometry",
+    "\\restorestocksize"
+  ],
+  "environments": []
+}

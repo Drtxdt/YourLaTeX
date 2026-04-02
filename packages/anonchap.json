@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\@makechapterhead",
+    "\\restorechapter",
+    "\\simplechapter",
+    "\\simplechapterdelim"
+  ],
+  "environments": []
+}

@@ -1,0 +1,23 @@
+{
+  "commands": [
+    "\\addtagtoCterm",
+    "\\addtagtoNterm",
+    "\\applyshading",
+    "\\donotshadestartMet",
+    "\\getsequence",
+    "\\glycosylation",
+    "\\labelinside",
+    "\\labelloop",
+    "\\labeloutside",
+    "\\labelregion",
+    "\\labelTM",
+    "\\loopextent",
+    "\\phosphorylation",
+    "\\place",
+    "\\showgrid"
+  ],
+  "environments": [
+    "helicalwheel",
+    "textopo"
+  ]
+}

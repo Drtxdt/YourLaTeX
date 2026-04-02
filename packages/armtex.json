@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\ArmTeX@MathArmLetterDef",
+    "\\ArmTeX@OldArmFontDef",
+    "\\ArmTeX@OldNonArmFontDef",
+    "\\ArmTeX@OrthoFontDef"
+  ],
+  "environments": []
+}

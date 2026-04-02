@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\collectsep",
+    "\\nc@breakafter",
+    "\\nc@breakbefore",
+    "\\nc@getcsname",
+    "\\nc@setcsname",
+    "\\nocollect"
+  ],
+  "environments": []
+}

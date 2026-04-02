@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\menu",
+    "\\menutext"
+  ],
+  "environments": [
+    "menufolder"
+  ]
+}

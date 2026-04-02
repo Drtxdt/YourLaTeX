@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\emp",
+    "\\empdef",
+    "\\empfile",
+    "\\empgraph"
+  ],
+  "environments": []
+}

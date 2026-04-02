@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\clipfriendly",
+    "\\cliphostile",
+    "\\clipneutral",
+    "\\clipunknown"
+  ],
+  "environments": []
+}

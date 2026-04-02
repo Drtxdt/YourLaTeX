@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\artdecoframe",
+    "\\curlyframe",
+    "\\dn@fill",
+    "\\dnd@ublerulefill",
+    "\\generalframe",
+    "\\lt@fill",
+    "\\ltd@ublerulefill",
+    "\\niceframe",
+    "\\rt@fill",
+    "\\rtd@ublerulefill",
+    "\\up@fill",
+    "\\upd@ublerulefill"
+  ],
+  "environments": []
+}

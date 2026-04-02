@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "\\DCR@symbol",
+    "\\decorule"
+  ],
+  "environments": []
+}

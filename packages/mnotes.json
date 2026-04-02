@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\HideMNOTES",
+    "\\MNCOLOUR",
+    "\\Mnewauthor",
+    "\\MNFONT",
+    "\\MNOTE",
+    "\\MNOTEon",
+    "\\mnoteseastlink",
+    "\\mnoteswestlink",
+    "\\ReverseMNConnect",
+    "\\ShowMNOTES"
+  ],
+  "environments": []
+}

@@ -1,0 +1,20 @@
+{
+  "commands": [
+    "\\Aitoliamonth",
+    "\\Athensmonth",
+    "\\Biotiamonth",
+    "\\Delphimonth",
+    "\\Dilosmonth",
+    "\\Epidavrosmonth",
+    "\\fullgreekday",
+    "\\Lamiamonth",
+    "\\Macedoniamonth",
+    "\\Militosmonth",
+    "\\Rhodesmonth",
+    "\\Samosmonth",
+    "\\shortgreekday",
+    "\\sshortgreekday",
+    "\\Tinosmonth"
+  ],
+  "environments": []
+}

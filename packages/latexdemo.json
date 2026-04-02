@@ -1,0 +1,24 @@
+{
+  "commands": [
+    "\\democodefile",
+    "\\democodeprefix",
+    "\\DemoError",
+    "\\demoresultprefix",
+    "\\preResultSkip",
+    "\\PrintCodeAndResultsNone",
+    "\\PrintCodeAndResultsPage",
+    "\\PrintCodeAndResultsParallel",
+    "\\PrintCodeAndResultsStacked",
+    "\\PrintCodeAndResultsStackedLines",
+    "\\PrintDemo",
+    "\\PrintDemoUsingKeys",
+    "\\printlatexcode",
+    "\\printlatexresult",
+    "\\printlatexresultlines",
+    "\\resultline"
+  ],
+  "environments": [
+    "DefineCode",
+    "latexresult"
+  ]
+}

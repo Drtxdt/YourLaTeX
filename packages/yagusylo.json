@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\setyagitemize",
+    "\\Y@Gfill",
+    "\\Y@GINFO",
+    "\\Y@GLevelTest",
+    "\\Y@GSetYagEnumerate",
+    "\\Y@GWARNING",
+    "\\yagline"
+  ],
+  "environments": [
+    "notyagenum",
+    "yagenumerate",
+    "yagitemize*"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\packetsBitFont",
+    "\\packetsEndLine",
+    "\\packetsInit",
+    "\\packetsNextLine",
+    "\\packetsPrintBitNumber",
+    "\\packetsPrintBitScale",
+    "\\packetsPrintRangeOnLeft",
+    "\\packetsPrintRangeOnRight",
+    "\\packetsPutField"
+  ],
+  "environments": []
+}

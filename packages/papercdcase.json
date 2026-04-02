@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\@PCDC@Back@Matter",
+    "\\@PCDC@Latch@Matter",
+    "\\@PCDC@Pouch@Matter",
+    "\\@PCDC@Spine@Matter",
+    "\\@PCDC@Typeset@Scheme",
+    "\\setcdbackmatter",
+    "\\setcdlatchmatter",
+    "\\setcdpouchmatter",
+    "\\setcdspinematter"
+  ],
+  "environments": []
+}

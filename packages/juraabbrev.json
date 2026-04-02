@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\abbrevname"
+  ],
+  "environments": [
+    "abbreviations",
+    "longabbreviations"
+  ]
+}

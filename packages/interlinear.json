@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\interlinearstyle",
+    "\\switchlwsyntaxoff",
+    "\\switchlwsyntaxon"
+  ],
+  "environments": []
+}

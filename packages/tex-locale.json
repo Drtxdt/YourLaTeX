@@ -1,0 +1,26 @@
+{
+  "commands": [
+    "\\@locale@cjklist",
+    "\\@locale@declareoption",
+    "\\@locale@ifcjk",
+    "\\@locale@iflatinscript",
+    "\\@locale@ifsupportbabelorpoly",
+    "\\@locale@ifsupportcjk",
+    "\\@locale@ifsupportpinyin",
+    "\\@locale@ifxeorlua",
+    "\\@locale@loadinputenc",
+    "\\@locale@loadscripts",
+    "\\@locale@postparse@hook",
+    "\\@locale@set@today",
+    "\\@secondofthree",
+    "\\localecurrchoice",
+    "\\localedatechoice",
+    "\\localenopolypunct",
+    "\\localepostquery",
+    "\\localeprequery",
+    "\\LocaleSupportPackageCase",
+    "\\localetimechoice",
+    "\\today"
+  ],
+  "environments": []
+}

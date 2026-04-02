@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\ellipsis@after",
+    "\\ellipsis@before",
+    "\\ellipsis@centered",
+    "\\ellipsis@default",
+    "\\ellipsis@xspace",
+    "\\ellipsisgap",
+    "\\textellipsis"
+  ],
+  "environments": []
+}

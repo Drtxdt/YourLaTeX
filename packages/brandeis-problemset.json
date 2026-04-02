@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\@seccntformat",
+    "\\bps@pcsym",
+    "\\bps@problem@",
+    "\\bps@problemkeys",
+    "\\bps@setuplistings",
+    "\\bpsset",
+    "\\maketitle",
+    "\\maketitlepage",
+    "\\solutionstyle"
+  ],
+  "environments": [
+    "solution"
+  ]
+}

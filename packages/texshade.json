@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\backtranslabel",
+    "\\backtranstext",
+    "\\includeDSSP",
+    "\\includeHMMTOP",
+    "\\includePHDsec",
+    "\\includePHDtopo",
+    "\\includeSTRIDE",
+    "\\setends",
+    "\\shadingmode",
+    "\\showcaption",
+    "\\startnumber",
+    "\\structurememe"
+  ],
+  "environments": [
+    "texshade"
+  ]
+}

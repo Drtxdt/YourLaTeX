@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\calshape",
+    "\\rmdefault",
+    "\\sbseries",
+    "\\scslshape",
+    "\\sfdefault",
+    "\\textcal",
+    "\\textsb",
+    "\\textscsl",
+    "\\textui",
+    "\\ttdefault",
+    "\\uishape"
+  ],
+  "environments": []
+}

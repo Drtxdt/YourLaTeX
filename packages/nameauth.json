@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\FixateFormat"
+  ],
+  "environments": [
+    "AltFormatZone",
+    "AltFormatZone*",
+    "nameauth"
+  ]
+}

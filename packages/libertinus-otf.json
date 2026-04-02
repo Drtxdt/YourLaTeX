@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\libertinusRM@scale",
+    "\\libertinusSF@scale",
+    "\\libertinusTT@scale",
+    "\\libertinusTT@stretch"
+  ],
+  "environments": []
+}

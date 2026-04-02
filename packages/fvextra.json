@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\do",
+    "\\FancyVerbBreakAfterBreak",
+    "\\FancyVerbBreakAnywhereBreak",
+    "\\FancyVerbBreakBeforeBreak",
+    "\\FancyVerbBreakSymbolLeftLogic",
+    "\\FancyVerbBreakSymbolRightLogic",
+    "\\FV@EscChars",
+    "\\FV@SetLineBreakLast",
+    "\\FVExtraReadOArgBeforeVArg",
+    "\\FVExtraReadOArgBeforeVEnv",
+    "\\InsertBuffer",
+    "\\IterateBuffer",
+    "\\VerbatimClearBuffer",
+    "\\VerbatimInsertBuffer"
+  ],
+  "environments": []
+}

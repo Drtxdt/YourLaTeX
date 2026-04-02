@@ -1,0 +1,32 @@
+{
+  "commands": [
+    "\\hackthefootline",
+    "\\htfauthinst",
+    "\\htfauthorpths",
+    "\\htfcheckauthor",
+    "\\htfcheckboth",
+    "\\htfcheckinstit",
+    "\\htfchecknone",
+    "\\htfcolonsep",
+    "\\htfcommasep",
+    "\\htfconfig",
+    "\\htfcounterframenrs",
+    "\\htffractionframenrs",
+    "\\htfinstitutepths",
+    "\\htflongdate",
+    "\\htflongtitle",
+    "\\htfnoauthinst",
+    "\\htfnodate",
+    "\\htfnoframenrs",
+    "\\htfnotitle",
+    "\\htfObsoleteCMD",
+    "\\htfonlyauthor",
+    "\\htfonlyinstitute",
+    "\\htfpercentframenrs",
+    "\\htfprintmessage",
+    "\\htfsepspace",
+    "\\htfshortdate",
+    "\\htfshorttitle"
+  ],
+  "environments": []
+}

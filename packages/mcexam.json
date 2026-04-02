@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\do"
+  ],
+  "environments": [
+    "setmcansweranalysistable",
+    "setmcanswerpermutationtable",
+    "setmcanswers",
+    "setmckeytable",
+    "setmcquestion",
+    "setmcquestionanalysistable",
+    "setmcquestioninstruction",
+    "setmcquestionpermutationtable"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\@mciteNatbibCiteCmdList",
+    "\\cite",
+    "\\latin"
+  ],
+  "environments": []
+}

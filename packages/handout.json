@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\before@handout",
+    "\\forhandout",
+    "\\handout",
+    "\\handout@input",
+    "\\handout@warning",
+    "\\handoutnumber",
+    "\\handoutnumberintxt",
+    "\\index",
+    "\\nothandout",
+    "\\onlyhandout",
+    "\\thehandoutnumber"
+  ],
+  "environments": []
+}

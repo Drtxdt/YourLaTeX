@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\familydefault",
+    "\\rmdefault",
+    "\\TeXGyreScholaX@scale",
+    "\\textfrac",
+    "\\thdefault"
+  ],
+  "environments": []
+}

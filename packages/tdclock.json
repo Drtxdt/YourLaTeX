@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\clock@colorwarningfirst",
+    "\\clock@colorwarningsecond",
+    "\\clock@death",
+    "\\clock@duration",
+    "\\clock@fillcolorwarningfirst",
+    "\\clock@fillcolorwarningsecond",
+    "\\clock@fontcolor",
+    "\\clock@interval",
+    "\\clock@pdfpagetype",
+    "\\clock@resetatpages",
+    "\\clock@timewarningfirst",
+    "\\clock@timewarningsecond"
+  ],
+  "environments": []
+}

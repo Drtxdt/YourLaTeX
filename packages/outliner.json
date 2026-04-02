@@ -1,0 +1,32 @@
+{
+  "commands": [
+    "\\ContLevel",
+    "\\DecreaseBaseLevel",
+    "\\EndLevel",
+    "\\HasNoContFunction",
+    "\\HigherLevel",
+    "\\IncreaseBaseLevel",
+    "\\Level",
+    "\\LevelDefiner",
+    "\\MaybePageBreak",
+    "\\NextLevel",
+    "\\OutlineLevelCont",
+    "\\OutlineLevelEnd",
+    "\\OutlineLevelStart",
+    "\\OutlinePageBreaks",
+    "\\PhantomEndLevel",
+    "\\PhantomLevel",
+    "\\PhantomStartLevel",
+    "\\PopLevels",
+    "\\RenewOutlineLevelCont",
+    "\\SameLevel",
+    "\\SameOrLowerLevel",
+    "\\SaveLevel",
+    "\\SetBaseLevel",
+    "\\StartLevel",
+    "\\UseLevel"
+  ],
+  "environments": [
+    "Outline"
+  ]
+}

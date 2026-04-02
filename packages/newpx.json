@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\PassMathScale",
+    "\\rmdefault",
+    "\\sfdefault",
+    "\\ttdefault"
+  ],
+  "environments": []
+}

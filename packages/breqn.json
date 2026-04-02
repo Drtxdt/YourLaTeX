@@ -1,0 +1,21 @@
+{
+  "commands": [
+    "\\@saveprimitive",
+    "\\breqnsetup",
+    "\\conditionpunct",
+    "\\DeclareTwang",
+    "\\discretionarytimes",
+    "\\mathaxis"
+  ],
+  "environments": [
+    "darray",
+    "dgroup",
+    "dgroup*",
+    "dmath",
+    "dmath*",
+    "dseries",
+    "dseries*",
+    "dsuspend",
+    "XXXXdsuspend"
+  ]
+}

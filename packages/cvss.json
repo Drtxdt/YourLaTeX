@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\cvssLevel",
+    "\\cvssLevelpretty",
+    "\\cvssPrint",
+    "\\cvssScorepretty",
+    "\\cvssTag"
+  ],
+  "environments": []
+}

@@ -1,0 +1,16 @@
+{
+  "commands": [],
+  "environments": [
+    "chorus",
+    "idxblock",
+    "intersong",
+    "intersong*",
+    "SB@lgidx",
+    "SB@smidx",
+    "scripture",
+    "song",
+    "songgroup",
+    "songs",
+    "verse*"
+  ]
+}

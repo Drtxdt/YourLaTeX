@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\grid@unique@test",
+    "\\gridbase",
+    "\\gridinterval",
+    "\\gridset@luaorpdf",
+    "\\newpos",
+    "\\savepos",
+    "\\SavePos",
+    "\\thegridinfo",
+    "\\theposinfo",
+    "\\theypos",
+    "\\vskipnextgrid"
+  ],
+  "environments": []
+}

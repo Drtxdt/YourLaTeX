@@ -1,0 +1,25 @@
+{
+  "commands": [
+    "\\geteightfromcurrfilename",
+    "\\geteightfromjobname",
+    "\\getfivefromcurrfilename",
+    "\\getfivefromjobname",
+    "\\getfourfromcurrfilename",
+    "\\getfourfromjobname",
+    "\\getfromcurrfilename",
+    "\\getfromjobname",
+    "\\getninefromcurrfilename",
+    "\\getninefromjobname",
+    "\\getonefromcurrfilename",
+    "\\getonefromjobname",
+    "\\getsevenfromcurrfilename",
+    "\\getsevenfromjobname",
+    "\\getsixfromcurrfilename",
+    "\\getsixfromjobname",
+    "\\getthreefromcurrfilename",
+    "\\getthreefromjobname",
+    "\\gettwofromcurrfilename",
+    "\\gettwofromjobname"
+  ],
+  "environments": []
+}

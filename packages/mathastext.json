@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\MTcustomgreek",
+    "\\MTexplicitbracesdonotobeymathxx",
+    "\\MTexplicitbracesobeymathxx",
+    "\\MTmathoperatorsdonotobeymathxx",
+    "\\MTmathoperatorsobeymathxx",
+    "\\MTrecordstandardgreek",
+    "\\MTstandardgreek"
+  ],
+  "environments": []
+}

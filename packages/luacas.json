@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\eval",
+    "\\fetch",
+    "\\get"
+  ],
+  "environments": []
+}

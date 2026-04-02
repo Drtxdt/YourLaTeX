@@ -1,0 +1,40 @@
+{
+  "commands": [
+    "\\apxref",
+    "\\Apxref",
+    "\\changelogfont",
+    "\\changeloglabelfont",
+    "\\defaultcolor",
+    "\\displayverbfont",
+    "\\ltd@ol@boolitem",
+    "\\ltd@ol@choitem",
+    "\\ltd@ol@intitem",
+    "\\ltd@ol@optitem",
+    "\\ltd@ol@valitem",
+    "\\ltd@ol@varitem",
+    "\\ltxsyntaxfont",
+    "\\ltxsyntaxlabelfont",
+    "\\makelabel",
+    "\\marglistfont",
+    "\\margnotefont",
+    "\\optionlistfont",
+    "\\secref",
+    "\\Secref",
+    "\\spotcolor",
+    "\\tabref",
+    "\\Tabref",
+    "\\verbatim@font",
+    "\\verbatimfont"
+  ],
+  "environments": [
+    "argumentlist",
+    "changelog",
+    "keymarglist",
+    "ltxsyntax",
+    "marglist",
+    "optionlist",
+    "optionlist*",
+    "valuelist",
+    "valuelist*"
+  ]
+}

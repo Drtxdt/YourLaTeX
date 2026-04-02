@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\darrows",
+    "\\ddiagram",
+    "\\DheadMake",
+    "\\DLIH",
+    "\\DLIV",
+    "\\DLOH",
+    "\\DLOV",
+    "\\dmatrix",
+    "\\drow",
+    "\\DsizeMake",
+    "\\Dvar",
+    "\\Modulo"
+  ],
+  "environments": []
+}

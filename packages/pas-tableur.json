@@ -1,0 +1,18 @@
+{
+  "commands": [
+    "\\celtxt@i",
+    "\\helvbx",
+    "\\pastab@draw@cell",
+    "\\pastableur@colorcell",
+    "\\pastableur@grid",
+    "\\tabcolwidth",
+    "\\tableur",
+    "\\tableur@nostar",
+    "\\tableur@star",
+    "\\tableur@star@columns",
+    "\\tableur@star@onecolumn",
+    "\\tablineheight",
+    "\\tabnumlinewidth"
+  ],
+  "environments": []
+}

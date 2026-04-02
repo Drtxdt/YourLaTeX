@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\rmdefault",
+    "\\textsolomos"
+  ],
+  "environments": [
+    "solomos"
+  ]
+}

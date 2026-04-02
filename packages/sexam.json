@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\partshook",
+    "\\thepartno",
+    "\\thequestion",
+    "\\thesubpart"
+  ],
+  "environments": []
+}

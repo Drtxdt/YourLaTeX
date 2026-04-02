@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\listfiles",
+    "\\MaxLengthEmptyList",
+    "\\SetLongNameFileListChars"
+  ],
+  "environments": []
+}

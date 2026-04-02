@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\@vscentercr",
+    "\\@vsifplus",
+    "\\NLS",
+    "\\theparnotemark"
+  ],
+  "environments": []
+}

@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\altfontenc",
+    "\\AvailableFont",
+    "\\AvailableRMFont",
+    "\\AvailableSFFont",
+    "\\AvailableTTFont",
+    "\\def@rmfont",
+    "\\def@sffont",
+    "\\def@ttfont",
+    "\\DefaultRMFont",
+    "\\DefaultSFFont",
+    "\\DefaultTTFont",
+    "\\rmdefault",
+    "\\sfdefault",
+    "\\ttdefault"
+  ],
+  "environments": []
+}

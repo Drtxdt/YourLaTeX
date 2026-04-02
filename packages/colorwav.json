@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\COLORWAV@colorAdjust",
+    "\\COLORWAV@gamma",
+    "\\COLORWAV@maxWavelength",
+    "\\COLORWAV@minWavelength",
+    "\\COLORWAV@powerOfTen",
+    "\\setGammaCorrection",
+    "\\setMaxVisibleWavelength",
+    "\\setMinVisibleWavelength",
+    "\\setUnitsE",
+    "\\storeRGBofWavelength"
+  ],
+  "environments": []
+}

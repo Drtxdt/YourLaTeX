@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\bookmark",
+    "\\BookmarkAtEnd",
+    "\\bookmarkdefinestyle",
+    "\\BookmarkDriverDefault",
+    "\\bookmarkget",
+    "\\bookmarksetup",
+    "\\bookmarksetupnext",
+    "\\Hy@writebookmark",
+    "\\pdfbookmark"
+  ],
+  "environments": []
+}

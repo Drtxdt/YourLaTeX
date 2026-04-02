@@ -1,0 +1,9 @@
+{
+  "commands": [],
+  "environments": [
+    "pdfdisplay",
+    "pdfinline",
+    "pdfpic",
+    "psinputs"
+  ]
+}

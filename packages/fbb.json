@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\familydefault",
+    "\\fbb@scale",
+    "\\Qnoswash",
+    "\\Qswash",
+    "\\rmdefault",
+    "\\textfrac"
+  ],
+  "environments": []
+}

@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\@@@generatefontfile",
+    "\\@fontfile",
+    "\\@generatefontfile",
+    "\\changefontsize",
+    "\\generate@fontfile",
+    "\\generateclofile",
+    "\\sampletext"
+  ],
+  "environments": []
+}

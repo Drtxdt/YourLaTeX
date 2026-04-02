@@ -1,0 +1,32 @@
+{
+  "commands": [
+    "\\articlesecuritylabel",
+    "\\booksecuritylabel",
+    "\\bydefault",
+    "\\change",
+    "\\compliancehelper",
+    "\\documented",
+    "\\documents",
+    "\\doneby",
+    "\\executivesummaryiacontrol",
+    "\\explanationshelper",
+    "\\headrulewidth",
+    "\\iaindexheadstyle",
+    "\\implements",
+    "\\indexhelper",
+    "\\makedodtitle",
+    "\\marginhelper",
+    "\\namedrequirement",
+    "\\narrowermargins",
+    "\\notapplicable",
+    "\\prescribed",
+    "\\requirement",
+    "\\requirementsdocument",
+    "\\sectionnamehelper",
+    "\\unimplemented"
+  ],
+  "environments": [
+    "changelog",
+    "executivesummary"
+  ]
+}

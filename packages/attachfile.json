@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\atfi@acroGraph@data",
+    "\\atfi@acroPaperclip@data",
+    "\\atfi@acroPushPin@data",
+    "\\atfi@acroTag@data",
+    "\\theatfi@tmp"
+  ],
+  "environments": []
+}

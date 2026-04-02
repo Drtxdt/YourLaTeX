@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\coloremojicode",
+    "\\coloremojiucsfill",
+    "\\coloremojiucsline"
+  ],
+  "environments": [
+    "coloremojiautolist",
+    "coloremojicodeautolist",
+    "coloremojicodelist",
+    "coloremojilist"
+  ]
+}

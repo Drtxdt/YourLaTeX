@@ -1,0 +1,35 @@
+{
+  "commands": [
+    "\\baolabelformat",
+    "\\baoyposition",
+    "\\conx",
+    "\\factor",
+    "\\ghala",
+    "\\initbao",
+    "\\initjbao",
+    "\\kete",
+    "\\markdd",
+    "\\markdx",
+    "\\markma",
+    "\\markmt",
+    "\\markpos",
+    "\\marksl",
+    "\\markss",
+    "\\marksx",
+    "\\nomark",
+    "\\placesymbol",
+    "\\pointbox",
+    "\\psbao",
+    "\\redim",
+    "\\seeds",
+    "\\setbaounit",
+    "\\weka",
+    "\\xpositionmarks",
+    "\\ypositionmarks"
+  ],
+  "environments": [
+    "baomoves",
+    "psbaopartialboard",
+    "showbaoboard"
+  ]
+}

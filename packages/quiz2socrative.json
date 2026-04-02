@@ -1,0 +1,21 @@
+{
+  "commands": [
+    "\\@enumType",
+    "\\@falseLabel",
+    "\\@mode",
+    "\\@showBorder",
+    "\\@showSolution",
+    "\\@trueLabel",
+    "\\hideBorder",
+    "\\hideSolution",
+    "\\showBorder",
+    "\\showSolution",
+    "\\useEnglish",
+    "\\useItalian",
+    "\\useLetters",
+    "\\useNumbers",
+    "\\usePdf",
+    "\\useSocrative"
+  ],
+  "environments": []
+}

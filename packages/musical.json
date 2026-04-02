@@ -1,0 +1,29 @@
+{
+  "commands": [
+    "\\@lyrics",
+    "\\act",
+    "\\addcharacter",
+    "\\character",
+    "\\dance",
+    "\\dialog",
+    "\\dialogfootnote",
+    "\\dialogue",
+    "\\listofdances",
+    "\\listofsongs",
+    "\\lyrics",
+    "\\music",
+    "\\pause",
+    "\\rehe@rsalmark",
+    "\\rehearsalmark",
+    "\\scene",
+    "\\scripttitles",
+    "\\spacer",
+    "\\stdir",
+    "\\thempfootnote",
+    "\\themusicalpage",
+    "\\transition"
+  ],
+  "environments": [
+    "script"
+  ]
+}

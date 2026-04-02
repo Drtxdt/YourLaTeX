@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\forgitcommit",
+    "\\forgittag",
+    "\\forgittagseq",
+    "\\gitcommit",
+    "\\gittag"
+  ],
+  "environments": []
+}

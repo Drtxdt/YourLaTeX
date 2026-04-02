@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\englishfamilydefault",
+    "\\fontstlwg@scale",
+    "\\thaifamilydefault",
+    "\\thairmdefault",
+    "\\thaisfdefault",
+    "\\thaittdefault"
+  ],
+  "environments": []
+}

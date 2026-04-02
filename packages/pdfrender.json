@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "\\pdfrender",
+    "\\textpdfrender"
+  ],
+  "environments": []
+}

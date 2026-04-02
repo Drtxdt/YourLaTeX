@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\alert",
+    "\\announce",
+    "\\boardnr",
+    "\\do",
+    "\\ODw@appendcard",
+    "\\ODw@Box",
+    "\\ODw@Cards",
+    "\\ODw@Compass",
+    "\\ODw@ProcessFooter",
+    "\\ODw@ProcessHeader",
+    "\\ODw@TestIfEmpty",
+    "\\Ten",
+    "\\thefootnote",
+    "\\thinspace"
+  ],
+  "environments": []
+}

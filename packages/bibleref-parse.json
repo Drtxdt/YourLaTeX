@@ -1,0 +1,22 @@
+{
+  "commands": [
+    "\\biblerefparseset",
+    "\\BRadditionsto",
+    "\\BRbksep",
+    "\\brp@@expandcs",
+    "\\brp@expandcs",
+    "\\brp@ifcs",
+    "\\brp@ifdigit",
+    "\\brp@parse",
+    "\\brp@providecs",
+    "\\brpDefineBook",
+    "\\brpDefineBookPrefix",
+    "\\brpUndefBook",
+    "\\brpUndefBookPrefix",
+    "\\pbibleverse",
+    "\\pibiblechvs",
+    "\\pibibleverse",
+    "\\pibiblevs"
+  ],
+  "environments": []
+}

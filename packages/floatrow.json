@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\float@listhead",
+    "\\listof"
+  ],
+  "environments": [
+    "subfloatrow",
+    "subfloatrow*"
+  ]
+}

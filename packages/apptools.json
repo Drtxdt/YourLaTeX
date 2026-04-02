@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "\\AtAppendix",
+    "\\IfAppendix"
+  ],
+  "environments": []
+}

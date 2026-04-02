@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\sups",
+    "\\tipasafemode"
+  ],
+  "environments": [
+    "IPA"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\banglaallcounters",
+    "\\banglaenumerate",
+    "\\banglaequation",
+    "\\banglafigure",
+    "\\banglapage",
+    "\\banglasection",
+    "\\banglatable",
+    "\\fooA"
+  ],
+  "environments": []
+}

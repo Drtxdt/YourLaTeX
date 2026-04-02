@@ -1,0 +1,23 @@
+{
+  "commands": [
+    "\\@@lpeq",
+    "\\@@lpnewsubeq",
+    "\\@@lpobj",
+    "\\@@lpsubeq",
+    "\\@lpeq",
+    "\\@lpnewsubeq",
+    "\\@lpobj",
+    "\\@lpsubeq",
+    "\\customlabel",
+    "\\lpforall",
+    "\\lpindent",
+    "\\lplabel",
+    "\\lpname",
+    "\\lpnewline",
+    "\\lpsubeqtag",
+    "\\lpsubjectto"
+  ],
+  "environments": [
+    "lpformulation"
+  ]
+}

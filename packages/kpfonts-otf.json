@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\D",
+    "\\ebseries",
+    "\\kp@euro",
+    "\\KP@mathcal@Warning",
+    "\\kpeuro",
+    "\\ltseries",
+    "\\sbseries",
+    "\\Store@KP@MOption",
+    "\\widearc",
+    "\\widearcarrow"
+  ],
+  "environments": []
+}

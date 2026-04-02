@@ -1,0 +1,21 @@
+{
+  "commands": [
+    "\\CenterWallPaper",
+    "\\ClearWallPaper",
+    "\\LenToUnit",
+    "\\LLCornerWallPaper",
+    "\\LRCornerWallPaper",
+    "\\ThisCenterWallPaper",
+    "\\ThisLLCornerWallPaper",
+    "\\ThisLRCornerWallPaper",
+    "\\ThisTileSquareWallPaper",
+    "\\ThisTileWallPaper",
+    "\\ThisULCornerWallPaper",
+    "\\ThisURCornerWallPaper",
+    "\\TileSquareWallPaper",
+    "\\TileWallPaper",
+    "\\ULCornerWallPaper",
+    "\\URCornerWallPaper"
+  ],
+  "environments": []
+}

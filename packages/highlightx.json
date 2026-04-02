@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\highlight@BeginHighlight",
+    "\\highlight@DoHighlight",
+    "\\highlight@EndHighlight"
+  ],
+  "environments": []
+}

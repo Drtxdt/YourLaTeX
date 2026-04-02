@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "\\setcard",
+    "\\smallsetcard"
+  ],
+  "environments": []
+}

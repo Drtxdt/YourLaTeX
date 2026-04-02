@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\familydefault",
+    "\\Heuristica@scale",
+    "\\rmdefault",
+    "\\textfrac"
+  ],
+  "environments": []
+}

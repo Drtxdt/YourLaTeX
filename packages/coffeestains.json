@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\coffeestainA",
+    "\\coffeestainB",
+    "\\coffeestainC",
+    "\\coffeestainD",
+    "\\stainA",
+    "\\stainB",
+    "\\stainC",
+    "\\stainD"
+  ],
+  "environments": []
+}

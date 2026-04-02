@@ -1,0 +1,35 @@
+{
+  "commands": [
+    "\\guitarAccord",
+    "\\guitarCalcDim",
+    "\\guitarChord",
+    "\\guitarCrOff",
+    "\\guitarCrOffHook",
+    "\\guitarCrOn",
+    "\\guitarCrOnHook",
+    "\\guitarEndDoublePar",
+    "\\guitarEndLine",
+    "\\guitarEndPar",
+    "\\guitarFlat",
+    "\\guitarMagicOff",
+    "\\guitarMagicOffHook",
+    "\\guitarMagicOn",
+    "\\guitarMagicOnHook",
+    "\\guitarNoChord",
+    "\\guitarOff",
+    "\\guitarOn",
+    "\\guitarPreAccord",
+    "\\guitarPut",
+    "\\guitarPutDist",
+    "\\guitarPutMerge",
+    "\\guitarPutOnSpace",
+    "\\guitarSharp",
+    "\\guitarSplitDist",
+    "\\guitarSplitMerge"
+  ],
+  "environments": [
+    "guitar",
+    "guitarCr",
+    "guitarMagic"
+  ]
+}

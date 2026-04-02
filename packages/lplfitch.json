@@ -1,0 +1,21 @@
+{
+  "commands": [
+    "\\boxedsubproof",
+    "\\brokenform",
+    "\\ellipsesline",
+    "\\exi",
+    "\\fitcharg",
+    "\\fitchctx",
+    "\\fitchprf",
+    "\\fline",
+    "\\formula",
+    "\\jline",
+    "\\nline",
+    "\\quant",
+    "\\slider",
+    "\\subproof",
+    "\\tline",
+    "\\uni"
+  ],
+  "environments": []
+}

@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\gradientframe",
+    "\\gradientframe@defaults",
+    "\\gradientframe@drawbox"
+  ],
+  "environments": []
+}

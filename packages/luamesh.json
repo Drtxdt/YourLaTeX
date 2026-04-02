@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\buildMeshBW",
+    "\\buildMeshBWinc",
+    "\\buildVoronoiBW",
+    "\\buildVoronoiBWinc",
+    "\\drawGmsh",
+    "\\drawGmshinc",
+    "\\drawPointsMesh",
+    "\\drawPointsMeshinc",
+    "\\gmshVoronoi",
+    "\\gmshVoronoiinc",
+    "\\meshAddPointBW",
+    "\\meshAddPointBWinc",
+    "\\meshPolygon",
+    "\\meshPolygonInc"
+  ],
+  "environments": []
+}

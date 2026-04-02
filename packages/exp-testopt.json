@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "\\@expandable@ifopt",
+    "\\@expandable@testopt"
+  ],
+  "environments": []
+}

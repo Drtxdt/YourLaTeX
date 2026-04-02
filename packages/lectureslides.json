@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\cftdot",
+    "\\cftsecafterpnum",
+    "\\cftsecfont",
+    "\\createdAt",
+    "\\lecturetitle",
+    "\\orientation",
+    "\\thispackage",
+    "\\toclevel",
+    "\\tocline"
+  ],
+  "environments": []
+}

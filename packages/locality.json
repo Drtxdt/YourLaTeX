@@ -1,0 +1,25 @@
+{
+  "commands": [
+    "\\DeclareNonlocalMacro",
+    "\\DeclareNonlocalMacros",
+    "\\DeclareNonlocalTheRegister",
+    "\\DeclareNonlocalTheRegisters",
+    "\\DeclareNonlocalToks",
+    "\\DeclareNonlocalTokses",
+    "\\ignoreglobal",
+    "\\locality@fix@for@amstext",
+    "\\locallydefine",
+    "\\makecommandslocal",
+    "\\makecounterslocal",
+    "\\manyaftergroup",
+    "\\obeyglobal",
+    "\\popvalue",
+    "\\popvalues",
+    "\\pushvalue",
+    "\\pushvalues",
+    "\\restorevalues",
+    "\\savevalues",
+    "\\unignoreglobal"
+  ],
+  "environments": []
+}

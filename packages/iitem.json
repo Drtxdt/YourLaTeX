@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "\\iitem@line@command",
+    "\\item"
+  ],
+  "environments": []
+}

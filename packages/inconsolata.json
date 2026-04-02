@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\rmdefault",
+    "\\ttdefault",
+    "\\zifour@default",
+    "\\zifour@scaled"
+  ],
+  "environments": []
+}

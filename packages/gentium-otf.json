@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\gentium@math",
+    "\\gentium@math@features",
+    "\\gentium@mono",
+    "\\gentium@mono@features",
+    "\\gentium@sans",
+    "\\gentium@sans@features",
+    "\\gentiumRM@scale"
+  ],
+  "environments": []
+}

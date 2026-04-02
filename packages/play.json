@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\@PLplaylabel",
+    "\\@PLputline",
+    "\\@PLtypemodline",
+    "\\PLthemoduloline",
+    "\\typeline"
+  ],
+  "environments": [
+    "play",
+    "verseplay"
+  ]
+}

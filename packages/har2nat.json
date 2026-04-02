@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\cite",
+    "\\citeaffixed",
+    "\\citeasnoun",
+    "\\citename"
+  ],
+  "environments": []
+}

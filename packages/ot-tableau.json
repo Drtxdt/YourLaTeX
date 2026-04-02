@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\Optimal",
+    "\\rowletter"
+  ],
+  "environments": [
+    "tableau"
+  ]
+}

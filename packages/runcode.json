@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\generated",
+    "\\LANG",
+    "\\LANGcmd",
+    "\\printcode",
+    "\\runcmd",
+    "\\setvalue",
+    "\\thecodelisting"
+  ],
+  "environments": [
+    "codelisting"
+  ]
+}

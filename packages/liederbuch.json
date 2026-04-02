@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\do",
+    "\\GFM@LB@songLyrics",
+    "\\LBFoot",
+    "\\LBHead",
+    "\\LBsong",
+    "\\repeatleft",
+    "\\repeatright"
+  ],
+  "environments": []
+}

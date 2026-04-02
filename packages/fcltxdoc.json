@@ -1,0 +1,10 @@
+{
+  "commands": [],
+  "environments": [
+    "Abstract",
+    "declcs",
+    "declcs*",
+    "declenv",
+    "History"
+  ]
+}

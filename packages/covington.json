@@ -1,0 +1,32 @@
+{
+  "commands": [
+    "\\@exampleno",
+    "\\alifdrs",
+    "\\bx",
+    "\\drs",
+    "\\either",
+    "\\ex",
+    "\\fs",
+    "\\ifdrs",
+    "\\IfExPreamble",
+    "\\lfs",
+    "\\negdrs",
+    "\\psr",
+    "\\sdrs",
+    "\\sentence",
+    "\\thecovex",
+    "\\thecovfnex",
+    "\\theequation"
+  ],
+  "environments": [
+    "covexample",
+    "covexamples",
+    "covgloss",
+    "covsubexamples",
+    "example",
+    "examples",
+    "exercise",
+    "reflist",
+    "subexamples"
+  ]
+}

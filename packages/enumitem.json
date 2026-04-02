@@ -1,0 +1,8 @@
+{
+  "commands": [],
+  "environments": [
+    "description*",
+    "enumerate*",
+    "itemize*"
+  ]
+}

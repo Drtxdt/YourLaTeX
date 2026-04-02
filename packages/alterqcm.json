@@ -1,0 +1,26 @@
+{
+  "commands": [
+    "\\altersquare",
+    "\\aq@adjust",
+    "\\aq@forLoop",
+    "\\aq@hauteurbox",
+    "\\aq@melange",
+    "\\aq@pre",
+    "\\aq@preVF",
+    "\\aq@prop",
+    "\\aq@questionVF",
+    "\\aq@style@numquest",
+    "\\aq@style@numrep",
+    "\\aq@style@title",
+    "\\aq@title",
+    "\\AQannexe",
+    "\\AQmessage",
+    "\\AQms",
+    "\\AQquestion",
+    "\\dingchecksquare",
+    "\\dingsquare"
+  ],
+  "environments": [
+    "alterqcm"
+  ]
+}

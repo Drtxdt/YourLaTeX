@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\xnewcommand",
+    "\\XOA@@@@xnewcommand",
+    "\\XOA@@@@ynewcommand",
+    "\\XOA@@@xnewcommand",
+    "\\XOA@@@ynewcommand",
+    "\\XOA@@ifbeginswithspace",
+    "\\XOA@@xnewcommand",
+    "\\XOA@ifbeginswithspace",
+    "\\XOA@ifbracket",
+    "\\XOA@ifempty",
+    "\\XOA@removespace",
+    "\\XOA@xnewcommand"
+  ],
+  "environments": []
+}

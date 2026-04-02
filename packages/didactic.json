@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\foottextfont",
+    "\\sidecapstyle",
+    "\\sidefootform"
+  ],
+  "environments": []
+}

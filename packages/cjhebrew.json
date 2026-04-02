@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\cjhebfamily",
+    "\\cjLR",
+    "\\cjRL",
+    "\\thefootnote"
+  ],
+  "environments": [
+    "cjhebrew"
+  ]
+}

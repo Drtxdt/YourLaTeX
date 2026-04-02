@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\@cvplace",
+    "\\@noitemerr",
+    "\\date",
+    "\\makelabel",
+    "\\newblock",
+    "\\theenumiv"
+  ],
+  "environments": [
+    "cv",
+    "cvlist"
+  ]
+}

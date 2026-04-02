@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\APomit",
+    "\\APpass",
+    "\\disableAPautopassnest",
+    "\\disableAPprotectnest",
+    "\\enableAPautopassnest",
+    "\\enableAPprotectnest"
+  ],
+  "environments": []
+}

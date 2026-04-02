@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\@Figure",
+    "\\easyfigdefault",
+    "\\Figure"
+  ],
+  "environments": [
+    "easyfighere"
+  ]
+}

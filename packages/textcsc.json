@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\csconly",
+    "\\csconlyshape",
+    "\\cscshape",
+    "\\textcsc"
+  ],
+  "environments": []
+}

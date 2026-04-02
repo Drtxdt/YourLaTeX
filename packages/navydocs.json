@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\eg",
+    "\\headrulewidth",
+    "\\MONTH",
+    "\\navy@checkfield",
+    "\\navy@undefined",
+    "\\NavyTitlePage"
+  ],
+  "environments": []
+}

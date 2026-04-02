@@ -1,0 +1,22 @@
+{
+  "commands": [
+    "\\@StartDoc",
+    "\\@StartPrelim",
+    "\\Activate@lineno",
+    "\\backref",
+    "\\backrefalt",
+    "\\chaptermark",
+    "\\clearemptydoublepage",
+    "\\compressitem",
+    "\\footrulewidth",
+    "\\gmshow@textheight",
+    "\\headrulewidth",
+    "\\PrintIndex",
+    "\\sectionmark",
+    "\\StartBody",
+    "\\topfraction"
+  ],
+  "environments": [
+    "Prolog"
+  ]
+}

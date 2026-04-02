@@ -1,0 +1,23 @@
+{
+  "commands": [
+    "\\aemph",
+    "\\SetAllahWithAlif",
+    "\\SetAllahWithoutAlif",
+    "\\SetTranslitConvention",
+    "\\SetTranslitStyle",
+    "\\textLR"
+  ],
+  "environments": [
+    "arab",
+    "farsi",
+    "kashmiri",
+    "kurdish",
+    "maghribi",
+    "malay",
+    "ottoman",
+    "pashto",
+    "sindhi",
+    "uighur",
+    "urdu"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\ETbb@scale",
+    "\\familydefault",
+    "\\Qnoswash",
+    "\\Qswash",
+    "\\rmdefault",
+    "\\textfrac"
+  ],
+  "environments": []
+}

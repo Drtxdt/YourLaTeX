@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\IfNextToken",
+    "\\lily",
+    "\\ly@compilescore",
+    "\\ly@currentfonts",
+    "\\ly@resetunits",
+    "\\ly@setunits",
+    "\\lyFilename",
+    "\\lyIntertext",
+    "\\lyluatex",
+    "\\lyscore",
+    "\\lyVersion"
+  ],
+  "environments": [
+    "ly@bufferenv",
+    "lysavefrag"
+  ]
+}

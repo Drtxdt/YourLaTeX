@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\bottomfraction",
+    "\\figcaption",
+    "\\floatpagefraction",
+    "\\tabcaption",
+    "\\textfraction",
+    "\\topcaption",
+    "\\topfraction"
+  ],
+  "environments": [
+    "narrow"
+  ]
+}

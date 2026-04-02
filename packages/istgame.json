@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\istdefault@ellipse@node@size",
+    "\\istdefault@hollow@node@size",
+    "\\istdefault@rectangle@node@size",
+    "\\istdefault@solid@node@size",
+    "\\istellipsenodesize",
+    "\\istgame@default@arrowend@shorten",
+    "\\istgame@default@fontsize"
+  ],
+  "environments": []
+}

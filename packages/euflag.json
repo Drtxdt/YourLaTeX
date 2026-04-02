@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\euflag",
+    "\\eustar",
+    "\\makestars",
+    "\\T"
+  ],
+  "environments": []
+}

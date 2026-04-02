@@ -1,0 +1,20 @@
+{
+  "commands": [
+    "\\erroralphalph",
+    "\\expandPagenumbering",
+    "\\lastpagereftext",
+    "\\lastpagereftextstar",
+    "\\lastpages",
+    "\\pagenumbering",
+    "\\pagesLTS@EveryShipout",
+    "\\pagesLTS@makeHy",
+    "\\pagesLTS@providecounter",
+    "\\pagesLTS@putlabel",
+    "\\pagesLTS@putlabels",
+    "\\pagesLTS@writelabel",
+    "\\thepage",
+    "\\xroman",
+    "\\XRoman"
+  ],
+  "environments": []
+}

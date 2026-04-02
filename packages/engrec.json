@@ -1,0 +1,20 @@
+{
+  "commands": [
+    "\\Alpha",
+    "\\Beta",
+    "\\Chi",
+    "\\Epsilon",
+    "\\Eta",
+    "\\Iota",
+    "\\Kappa",
+    "\\Mu",
+    "\\Nu",
+    "\\omicron",
+    "\\Omicron",
+    "\\Rho",
+    "\\Tau",
+    "\\upomicron",
+    "\\Zeta"
+  ],
+  "environments": []
+}

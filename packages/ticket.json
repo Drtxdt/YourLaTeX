@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\ticket",
+    "\\ticket@counter",
+    "\\ticketdefault",
+    "\\ticketskip"
+  ],
+  "environments": []
+}

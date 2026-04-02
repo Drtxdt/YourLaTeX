@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\@EverySelectfont@Init",
+    "\\AtNextSelectfont",
+    "\\EverySelectfont"
+  ],
+  "environments": []
+}

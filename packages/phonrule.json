@@ -1,0 +1,22 @@
+{
+  "commands": [
+    "\\@env",
+    "\\@envb",
+    "\\@envl",
+    "\\@envr",
+    "\\env",
+    "\\envb",
+    "\\envl",
+    "\\envr",
+    "\\oneof",
+    "\\parrow",
+    "\\phold",
+    "\\phon",
+    "\\phonb",
+    "\\phonc",
+    "\\phonfeat",
+    "\\phonl",
+    "\\phonr"
+  ],
+  "environments": []
+}

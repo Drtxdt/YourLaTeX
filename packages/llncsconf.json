@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\chapter",
+    "\\copyrightnote",
+    "\\toclevel@author",
+    "\\toclevel@title"
+  ],
+  "environments": []
+}

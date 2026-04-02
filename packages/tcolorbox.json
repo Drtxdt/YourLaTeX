@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\tcbox",
+    "\\tcbpkgprefix",
+    "\\tcbsubskin",
+    "\\tcbsubtitle"
+  ],
+  "environments": []
+}

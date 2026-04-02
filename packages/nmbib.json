@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\authorsbibname",
+    "\\authorsrefname",
+    "\\sequencebibname",
+    "\\sequencerefname",
+    "\\timelinebibname",
+    "\\timelinerefname"
+  ],
+  "environments": []
+}

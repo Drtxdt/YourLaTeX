@@ -1,0 +1,29 @@
+{
+  "commands": [
+    "\\@brgraphs",
+    "\\@brnames",
+    "\\@classboundaries",
+    "\\@eqboundaries",
+    "\\@eqpolytopekey",
+    "\\@graphkey",
+    "\\@linekey",
+    "\\@pfour",
+    "\\@pointkey",
+    "\\@polytopekey",
+    "\\@pone",
+    "\\@pthree",
+    "\\@ptwo",
+    "\\@reScaleToTargetWidth",
+    "\\@reWidthToTargetWidth",
+    "\\@setdefaultembeddingkey",
+    "\\@setdefaulteqpolytopekey",
+    "\\@setdefaultgraphkey",
+    "\\@setdefaultlinekey",
+    "\\@setdefaultmarginalsimplexkey",
+    "\\@setdefaultpointkey",
+    "\\@setdefaultpolytopekey",
+    "\\embeddingkey",
+    "\\marginalsimplexkey"
+  ],
+  "environments": []
+}

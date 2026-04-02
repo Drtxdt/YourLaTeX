@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\displayskipstretch",
+    "\\doublespacing",
+    "\\onehalfspacing",
+    "\\restore@spacing",
+    "\\setdisplayskipstretch",
+    "\\SetSinglespace",
+    "\\setstretch",
+    "\\singlespacing"
+  ],
+  "environments": [
+    "doublespace",
+    "onehalfspace",
+    "singlespace",
+    "singlespace*",
+    "spacing"
+  ]
+}

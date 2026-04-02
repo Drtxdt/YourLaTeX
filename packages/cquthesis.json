@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\figref",
+    "\\meta",
+    "\\myfolder",
+    "\\qthis",
+    "\\speakyourlove",
+    "\\tabref"
+  ],
+  "environments": []
+}

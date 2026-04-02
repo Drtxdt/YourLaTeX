@@ -1,0 +1,25 @@
+{
+  "commands": [
+    "\\@chapterfolderalgorithms",
+    "\\@chapterfolderfigure",
+    "\\@chapterfolderlistings",
+    "\\cfaddFolder",
+    "\\cfchapter",
+    "\\cfchapterstar",
+    "\\cfchapterstd",
+    "\\cfcurrentfolder",
+    "\\cffolderinput",
+    "\\cfincludegraphics",
+    "\\cfinput",
+    "\\cfpart",
+    "\\cfpartstar",
+    "\\cfpartstd",
+    "\\cfsection",
+    "\\cfsectionstar",
+    "\\cfsectionstd",
+    "\\cfsubsection",
+    "\\cfsubsectionstart",
+    "\\cfsubsectionstd"
+  ],
+  "environments": []
+}

@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\approvedby",
+    "\\companylogo",
+    "\\companyname",
+    "\\copyrightyear",
+    "\\doctitle",
+    "\\footrulewidth",
+    "\\headheight",
+    "\\headrulewidth",
+    "\\preparedby",
+    "\\sectionmark",
+    "\\subsectionmark"
+  ],
+  "environments": []
+}

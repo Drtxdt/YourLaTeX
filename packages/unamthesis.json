@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\makeacknowledgements",
+    "\\makededication",
+    "\\makeforeword",
+    "\\makeresumen"
+  ],
+  "environments": [
+    "acknowledgements",
+    "dedication",
+    "foreword",
+    "quotenat",
+    "resumen"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\dsaeronautical",
+    "\\dsagricultural",
+    "\\dsarchitectural",
+    "\\dsbiological",
+    "\\dschemical",
+    "\\dscommercial",
+    "\\dsheraldical",
+    "\\dsjuridical",
+    "\\dsliterary",
+    "\\dsmathematical",
+    "\\dsmedical",
+    "\\dsmilitary",
+    "\\dsrailways",
+    "\\dstechnical"
+  ],
+  "environments": []
+}

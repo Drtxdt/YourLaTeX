@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\grammarlabel",
+    "\\litleft",
+    "\\litright",
+    "\\sdlengths",
+    "\\sdsize",
+    "\\syntleft",
+    "\\syntright",
+    "\\ulitleft",
+    "\\ulitright"
+  ],
+  "environments": [
+    "grammar"
+  ]
+}

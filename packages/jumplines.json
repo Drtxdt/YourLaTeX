@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\articlesname",
+    "\\byauthor",
+    "\\ContinuedFrom",
+    "\\ContinuedOn",
+    "\\do",
+    "\\JLArticleName",
+    "\\listofarticlesname",
+    "\\listofcontinuedarticlesname",
+    "\\OnPage",
+    "\\Pagename"
+  ],
+  "environments": []
+}

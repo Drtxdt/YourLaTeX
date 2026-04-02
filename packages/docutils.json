@@ -1,0 +1,29 @@
+{
+  "commands": [
+    "\\DUCLASSabstract",
+    "\\DUCLASSdedication",
+    "\\DUCLASSerror",
+    "\\DUdocumentsubtitle",
+    "\\DUfootnotemark",
+    "\\DUfootnotetext",
+    "\\DUoptionlistlabel",
+    "\\DUprovidelength",
+    "\\DUrole",
+    "\\DUroletitlereference",
+    "\\DUrubric",
+    "\\DUsidebar",
+    "\\DUsubtitle",
+    "\\DUtitle",
+    "\\DUtransition",
+    "\\makelabel",
+    "\\thefootnote"
+  ],
+  "environments": [
+    "DUadmonition",
+    "DUclass",
+    "DUfieldlist",
+    "DUlegend",
+    "DUlineblock",
+    "DUoptionlist"
+  ]
+}

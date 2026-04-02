@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\field",
+    "\\mailentry",
+    "\\mailfields",
+    "\\MAILMsetnumentries",
+    "\\MAILMsetnumfields",
+    "\\mailnewdata",
+    "\\mailrepeat",
+    "\\numberofentries",
+    "\\numberoffields"
+  ],
+  "environments": []
+}

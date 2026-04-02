@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\epigraph",
+    "\\qitem",
+    "\\smallerSmallCapsTracking"
+  ],
+  "environments": []
+}

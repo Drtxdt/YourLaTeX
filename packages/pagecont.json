@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\PGC@info",
+    "\\PGC@kvsetkeys",
+    "\\PGC@lastfilelastpage",
+    "\\PGC@savefile",
+    "\\PGC@saveinfo"
+  ],
+  "environments": []
+}

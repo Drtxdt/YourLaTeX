@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\PackageDiagnostics",
+    "\\TextMessage",
+    "\\TextMessageNo",
+    "\\TextMessageYes",
+    "\\TokenDiagnostics"
+  ],
+  "environments": []
+}

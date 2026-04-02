@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\@beginmainauxhook",
+    "\\@beginpartauxhook",
+    "\\AddLineBeginAux",
+    "\\AddLineBeginMainAux",
+    "\\AddLineBeginPartAux"
+  ],
+  "environments": []
+}

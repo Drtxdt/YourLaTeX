@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "\\settominwidth",
+    "\\widthofpbox"
+  ],
+  "environments": []
+}

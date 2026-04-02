@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\@getsmartref",
+    "\\@getsmartreflist",
+    "\\@increasesmartlist",
+    "\\addtoreflist",
+    "\\label",
+    "\\smartref"
+  ],
+  "environments": []
+}

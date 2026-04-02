@@ -1,0 +1,21 @@
+{
+  "commands": [
+    "\\@SYRestoreBooleans",
+    "\\setpresyl",
+    "\\setsylergo",
+    "\\setsylergosign",
+    "\\setsyllabel",
+    "\\setsylpuncc",
+    "\\setsylpuncpa",
+    "\\setsylpuncpb",
+    "\\setsylrh",
+    "\\setsylsed",
+    "\\setsylsep",
+    "\\setsylsepa",
+    "\\setsylsepb",
+    "\\syl",
+    "\\syllogC",
+    "\\syllogTAC"
+  ],
+  "environments": []
+}

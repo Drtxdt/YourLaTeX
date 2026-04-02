@@ -1,0 +1,32 @@
+{
+  "commands": [
+    "\\ol@commands",
+    "\\ol@deci",
+    "\\ol@decii",
+    "\\ol@deciii",
+    "\\ol@deciiii",
+    "\\ol@exit",
+    "\\ol@i",
+    "\\ol@ii",
+    "\\ol@iii",
+    "\\ol@iiii",
+    "\\ol@inci",
+    "\\ol@incii",
+    "\\ol@inciii",
+    "\\ol@inciiii",
+    "\\ol@toi",
+    "\\ol@toii",
+    "\\ol@toiii",
+    "\\ol@toiiii",
+    "\\ol@toz",
+    "\\ol@type",
+    "\\ol@z",
+    "\\outlinei",
+    "\\outlineii",
+    "\\outlineiii",
+    "\\outlineiiii"
+  ],
+  "environments": [
+    "outline"
+  ]
+}

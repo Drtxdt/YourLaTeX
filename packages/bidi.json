@@ -1,0 +1,23 @@
+{
+  "commands": [
+    "\\@bidi@inslogo@",
+    "\\@bidi@logo",
+    "\\@bidi@logo@",
+    "\\@bidi@logo@hb@xt@columnwidth",
+    "\\@bidi@pdfcreator",
+    "\\@bidi@pdfcustomproperties",
+    "\\@bidi@pdfproducer",
+    "\\bidi@beamer@ragged",
+    "\\bidireleasename",
+    "\\bidiversion",
+    "\\DigitsDotDashInterCharToks",
+    "\\setlatin",
+    "\\setLTRtable",
+    "\\setnonlatin",
+    "\\setRTLtable",
+    "\\TypesetHour",
+    "\\TypesetMinute",
+    "\\TypesetTime"
+  ],
+  "environments": []
+}

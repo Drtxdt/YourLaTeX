@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\familydefault",
+    "\\newtxtt@scale",
+    "\\ttdefault",
+    "\\ttzdefault"
+  ],
+  "environments": []
+}

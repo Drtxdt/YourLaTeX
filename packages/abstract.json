@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\@bsrunintitle",
+    "\\abslabeldelim",
+    "\\absnamepos",
+    "\\abstitlestyle",
+    "\\abstractnamefont",
+    "\\abstracttextfont",
+    "\\appendiargdef",
+    "\\num@bs",
+    "\\put@bsintoc",
+    "\\saythanks",
+    "\\thefootnote"
+  ],
+  "environments": [
+    "@bstr@ctlist",
+    "onecolabstract"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\bibname",
+    "\\refname",
+    "\\setbibref"
+  ],
+  "environments": []
+}

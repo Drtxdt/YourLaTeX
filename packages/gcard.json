@@ -1,0 +1,9 @@
+{
+  "commands": [],
+  "environments": [
+    "backcover",
+    "frontcover",
+    "insideleft",
+    "insideright"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "commands": [
+    "\\bcbar",
+    "\\bcbarcolor",
+    "\\bcbarlabel",
+    "\\bcbartext",
+    "\\bcbarvalue",
+    "\\bcfontstyle",
+    "\\bclabel",
+    "\\bcmax",
+    "\\bcmin",
+    "\\bcplainbar",
+    "\\bcplainchart",
+    "\\bcrange",
+    "\\bcscale",
+    "\\bcskip",
+    "\\bcskiplabel",
+    "\\bcstep",
+    "\\bcsteps",
+    "\\bcstripunit",
+    "\\bcunit",
+    "\\bcxlabel",
+    "\\bigskip",
+    "\\getbcxlabel",
+    "\\medskip",
+    "\\smallskip"
+  ],
+  "environments": [
+    "bchart"
+  ]
+}

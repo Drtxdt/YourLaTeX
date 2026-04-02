@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\newstylenums",
+    "\\rmdefault",
+    "\\sfdefault",
+    "\\ttdefault"
+  ],
+  "environments": []
+}

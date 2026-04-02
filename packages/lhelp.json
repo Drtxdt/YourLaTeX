@@ -1,0 +1,8 @@
+{
+  "commands": [],
+  "environments": [
+    "enumerateshort",
+    "itemizeshort",
+    "narrowpars"
+  ]
+}

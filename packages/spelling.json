@@ -1,0 +1,18 @@
+{
+  "commands": [
+    "\\spellingclearallmappings",
+    "\\spellingextract",
+    "\\spellinghighlight",
+    "\\spellinghighlightcolor",
+    "\\spellingmapping",
+    "\\spellingmatchrules",
+    "\\spellingoutput",
+    "\\spellingoutputlinelength",
+    "\\spellingoutputname",
+    "\\spellingreadbad",
+    "\\spellingreadgood",
+    "\\spellingreadLT",
+    "\\spellingtablepar"
+  ],
+  "environments": []
+}

@@ -1,0 +1,22 @@
+{
+  "commands": [
+    "\\addcompetence",
+    "\\addGlobalCompetence",
+    "\\declarecompetence",
+    "\\declareprefix",
+    "\\dummyMacro",
+    "\\getCurrentpartiedocument",
+    "\\getCurrentSectionNumber",
+    "\\ifcompexists",
+    "\\ifpartexists",
+    "\\ifquestexists",
+    "\\sumcspartie",
+    "\\sumpfpartie",
+    "\\tableaucompetences",
+    "\\tableaupartie",
+    "\\tableauprefix"
+  ],
+  "environments": [
+    "dummyEnv"
+  ]
+}

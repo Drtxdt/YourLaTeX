@@ -1,0 +1,24 @@
+{
+  "commands": [
+    "\\lbtntextfrac",
+    "\\ntxmath@scale",
+    "\\ntxtext@llscale",
+    "\\ntxtext@rm",
+    "\\ntxtext@RM",
+    "\\ntxtext@scale",
+    "\\ntxtext@sf",
+    "\\ntxtext@SF",
+    "\\ntxtext@TT",
+    "\\ntxtext@ttscale",
+    "\\PassMatchingScale",
+    "\\PassMathScale",
+    "\\rmdefault",
+    "\\sfdefault",
+    "\\textde",
+    "\\textfrac",
+    "\\textsfrac",
+    "\\textsmde",
+    "\\ttdefault"
+  ],
+  "environments": []
+}

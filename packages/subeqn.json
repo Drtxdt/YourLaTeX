@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\@lab@subeqnarray",
+    "\\thesubequation"
+  ],
+  "environments": [
+    "subeqnarray",
+    "subequations"
+  ]
+}

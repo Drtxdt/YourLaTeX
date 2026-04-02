@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\cb@trace",
+    "\\cbdelete",
+    "\\cbend",
+    "\\cbstart",
+    "\\nochangebars"
+  ],
+  "environments": [
+    "changebar"
+  ]
+}

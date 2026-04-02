@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\marginpar",
+    "\\mpgmpar@dummy",
+    "\\mpgmpar@restoremarginpars",
+    "\\mpgmpar@savedmargins",
+    "\\mpgmpar@savemarginpars"
+  ],
+  "environments": [
+    "minipagewithmarginpars"
+  ]
+}

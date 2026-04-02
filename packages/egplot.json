@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\egp",
+    "\\egp@includegraphicx",
+    "\\egp@includevalue",
+    "\\egpassign",
+    "\\egpcalc",
+    "\\egpdef",
+    "\\egpfile",
+    "\\egpshowval",
+    "\\egpuse",
+    "\\egpuseval",
+    "\\egpx"
+  ],
+  "environments": []
+}

@@ -1,0 +1,23 @@
+{
+  "commands": [
+    "\\@ifstre@mopen",
+    "\\addtostream",
+    "\\checkstre@meof",
+    "\\closeinputstream",
+    "\\closeoutputstream",
+    "\\instre@mandclosed",
+    "\\instre@mandopen",
+    "\\marginnumbervstream",
+    "\\newinputstream",
+    "\\newoutputstream",
+    "\\numbervstream",
+    "\\openinputfile",
+    "\\openoutputfile",
+    "\\outstre@mandclosed",
+    "\\outstre@mandopen",
+    "\\plainvstream",
+    "\\streamvnumfont",
+    "\\verbatimfont"
+  ],
+  "environments": []
+}

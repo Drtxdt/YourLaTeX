@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\@director",
+    "\\copyrighttext",
+    "\\cosupervisor",
+    "\\declaration",
+    "\\degree",
+    "\\director",
+    "\\graphic",
+    "\\maketitle",
+    "\\RTPacknowledgement",
+    "\\school",
+    "\\subject",
+    "\\supervisor"
+  ],
+  "environments": []
+}

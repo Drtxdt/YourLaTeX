@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\syntrace@displaytrace",
+    "\\syntrace@labelletter",
+    "\\syntrace@reset",
+    "\\syntraceaddresetmacro",
+    "\\syntraceremoveresetmacro",
+    "\\thesyntrace@labelcounter",
+    "\\traceLabel",
+    "\\traceReference"
+  ],
+  "environments": []
+}

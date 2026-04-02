@@ -1,0 +1,25 @@
+{
+  "commands": [
+    "\\AlertColor",
+    "\\EdgeColor",
+    "\\EdgeThickness",
+    "\\FocusColor",
+    "\\HalfspaceColor",
+    "\\intersectionColor",
+    "\\OpenColor",
+    "\\OpenHyperplanePattern",
+    "\\OpenPolygonPattern",
+    "\\point",
+    "\\PolygonColor",
+    "\\PolyhedraDefaultHeight",
+    "\\PolyhedraDefaultScale",
+    "\\PolyhedraDefaultWidth",
+    "\\RayColor",
+    "\\RayThickness",
+    "\\ShadeColor",
+    "\\VertexColor",
+    "\\VertexTextColor",
+    "\\VertexThickness"
+  ],
+  "environments": []
+}

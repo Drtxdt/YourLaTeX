@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\encodingdefault",
+    "\\nogreek",
+    "\\rmdefault",
+    "\\sfdefault",
+    "\\ttdefault"
+  ],
+  "environments": []
+}

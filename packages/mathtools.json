@@ -1,0 +1,18 @@
+{
+  "commands": [
+    "\\crampedsubstack",
+    "\\shortintertext"
+  ],
+  "environments": [
+    "bmatrix*",
+    "Bmatrix*",
+    "crampedsubarray",
+    "matrix*",
+    "multlined",
+    "pmatrix*",
+    "smallmatrix*",
+    "spreadlines",
+    "vmatrix*",
+    "Vmatrix*"
+  ]
+}

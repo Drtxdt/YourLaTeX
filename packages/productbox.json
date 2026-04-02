@@ -1,0 +1,18 @@
+{
+  "commands": [],
+  "environments": [
+    "Back",
+    "BackFace",
+    "Bottom",
+    "BottomFace",
+    "Front",
+    "FrontFace",
+    "Left",
+    "LeftFace",
+    "ProductBox",
+    "Right",
+    "RightFace",
+    "Top",
+    "TopFace"
+  ]
+}

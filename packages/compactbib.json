@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\bibliorefname",
+    "\\bibliowidth"
+  ],
+  "environments": [
+    "thebibliographyonly"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "commands": [
+    "\\frcursive@enc",
+    "\\rmdefault",
+    "\\seyes",
+    "\\seyesDefault",
+    "\\textacad",
+    "\\textcal",
+    "\\textcursive",
+    "\\textft",
+    "\\textwide"
+  ],
+  "environments": [
+    "acadshape",
+    "calseries",
+    "cursive",
+    "ftseries",
+    "wideseries"
+  ]
+}

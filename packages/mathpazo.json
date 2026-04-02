@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\EURtm",
+    "\\hbar",
+    "\\mathbb",
+    "\\oldstylenums",
+    "\\ppleuro",
+    "\\rmdefault"
+  ],
+  "environments": []
+}

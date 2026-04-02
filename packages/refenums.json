@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\defRefEnum",
+    "\\defRefEnumHelper",
+    "\\defRefEnumInline",
+    "\\labelname",
+    "\\refEnum",
+    "\\refenumenclosing",
+    "\\refEnumFullP",
+    "\\refEnumFullT",
+    "\\refenuminlineenclosing",
+    "\\setupRefEnums"
+  ],
+  "environments": []
+}

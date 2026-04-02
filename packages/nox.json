@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\cellflush",
+    "\\celllabel",
+    "\\celltitle",
+    "\\linenoformat",
+    "\\tntabledimen"
+  ],
+  "environments": [
+    "tntable"
+  ]
+}

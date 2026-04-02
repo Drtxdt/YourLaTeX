@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\puyoboard",
+    "\\puyocolor",
+    "\\puyogrid",
+    "\\puyomarker"
+  ],
+  "environments": [
+    "puyotikz"
+  ]
+}

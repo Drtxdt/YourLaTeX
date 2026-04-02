@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\GenerateClassLogMacros",
+    "\\GeneratePackageLogMacros",
+    "\\hw@generate@logging@macros",
+    "\\hw@generate@logging@macros@aux",
+    "\\setmaxprintline"
+  ],
+  "environments": []
+}

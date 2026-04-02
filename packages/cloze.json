@@ -1,0 +1,21 @@
+{
+  "commands": [
+    "\\cloze",
+    "\\clozeextend",
+    "\\clozefil",
+    "\\clozefix",
+    "\\clozehide",
+    "\\clozeline",
+    "\\clozelinefil",
+    "\\clozenol",
+    "\\clozeset",
+    "\\clozesetoption",
+    "\\clozeshow",
+    "\\clozestrike",
+    "\\ClozeTextColor"
+  ],
+  "environments": [
+    "clozepar",
+    "clozespace"
+  ]
+}

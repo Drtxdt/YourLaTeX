@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\hep@email",
+    "\\heptext@lang@foreign",
+    "\\item",
+    "\\no",
+    "\\online",
+    "\\prefix",
+    "\\software"
+  ],
+  "environments": [
+    "enumdescript"
+  ]
+}

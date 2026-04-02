@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\@OrigHeightRecip",
+    "\\@preventExternalization",
+    "\\orcidlink",
+    "\\orcidlinkc",
+    "\\orcidlinkf",
+    "\\orcidlinki",
+    "\\orcidlogo"
+  ],
+  "environments": []
+}

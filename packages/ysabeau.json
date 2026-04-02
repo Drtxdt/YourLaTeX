@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\familydefault",
+    "\\sfdefault",
+    "\\textfrac",
+    "\\Ysabeau@scale"
+  ],
+  "environments": []
+}

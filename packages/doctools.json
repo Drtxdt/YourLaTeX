@@ -1,0 +1,28 @@
+{
+  "commands": [
+    "\\@AddFileEntry",
+    "\\AfterLastParam",
+    "\\arraystretch",
+    "\\bs",
+    "\\command",
+    "\\Default",
+    "\\doctools@indexHeadFont",
+    "\\env",
+    "\\environment",
+    "\\Example",
+    "\\file",
+    "\\labelfile",
+    "\\latex",
+    "\\ltxclass",
+    "\\option",
+    "\\package",
+    "\\parameter",
+    "\\person",
+    "\\printCodeFromFile",
+    "\\theHfile",
+    "\\theHMacroName"
+  ],
+  "environments": [
+    "Optionlist"
+  ]
+}

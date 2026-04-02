@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\erewhon@scale",
+    "\\familydefault",
+    "\\rmdefault",
+    "\\textfrac"
+  ],
+  "environments": []
+}

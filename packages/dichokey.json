@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\alter",
+    "\\name",
+    "\\panic"
+  ],
+  "environments": [
+    "Key"
+  ]
+}

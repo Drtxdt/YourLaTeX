@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\sc@cdjfontsize",
+    "\\sc@centering",
+    "\\sc@choicebox",
+    "\\sc@doalign",
+    "\\sc@falsestr",
+    "\\sc@picinit",
+    "\\sc@spinerotone",
+    "\\sc@spinerottwo",
+    "\\sc@truestr",
+    "\\sc@unittype"
+  ],
+  "environments": []
+}

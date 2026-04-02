@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\@makechapterhead",
+    "\\@makeschapterhead",
+    "\\chapterheadfmt",
+    "\\restorechapapp",
+    "\\txichapter",
+    "\\txichapterdelim",
+    "\\txisct@chapapp",
+    "\\txisection"
+  ],
+  "environments": []
+}

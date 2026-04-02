@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\@ifdefinable",
+    "\\DeclareGraphicsAlien",
+    "\\DeclareMediaFormat",
+    "\\do",
+    "\\includegraphics",
+    "\\minted@pygmentize",
+    "\\moodle@preFeedback",
+    "\\saved@ifdefinable",
+    "\\theenumi"
+  ],
+  "environments": [
+    "quiz"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\cleartoevenpage",
+    "\\cleartooddpage",
+    "\\movetoevenpage",
+    "\\movetooddpage"
+  ],
+  "environments": []
+}

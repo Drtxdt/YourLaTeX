@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "\\dimline",
+    "\\dimline@do@nothing"
+  ],
+  "environments": []
+}

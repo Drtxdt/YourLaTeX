@@ -1,0 +1,24 @@
+{
+  "commands": [
+    "\\additem",
+    "\\arraystretch",
+    "\\linesep",
+    "\\setaccountnumber",
+    "\\setaddress",
+    "\\setdeadline",
+    "\\setemail",
+    "\\setinvoicedate",
+    "\\setinvoicenumber",
+    "\\setinvoicetitle",
+    "\\setname",
+    "\\setourref",
+    "\\setphonenumber",
+    "\\setreceiveraddress",
+    "\\setreceivername",
+    "\\setsubtotal",
+    "\\settotal",
+    "\\setvat",
+    "\\setyourref"
+  ],
+  "environments": []
+}

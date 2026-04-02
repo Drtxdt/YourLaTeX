@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\mc@ComputeMultChoicesWidth",
+    "\\mc@FinalChoice",
+    "\\mc@InitialChoice"
+  ],
+  "environments": [
+    "choices"
+  ]
+}

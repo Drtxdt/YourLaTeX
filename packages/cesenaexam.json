@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\boxcheck",
+    "\\boxempty",
+    "\\examoneblocktop",
+    "\\examtwoblocks",
+    "\\examtwoblockstop",
+    "\\sectionfont"
+  ],
+  "environments": []
+}

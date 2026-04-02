@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\@makecaption",
+    "\\@mcap@fs",
+    "\\@mcap@size",
+    "\\@mcaptype",
+    "\\mfcaption",
+    "\\mtcaption"
+  ],
+  "environments": []
+}

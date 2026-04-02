@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "\\bubblesort",
+    "\\doublebubblesort"
+  ],
+  "environments": []
+}

@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\nexus",
+    "\\smallvert",
+    "\\svert",
+    "\\verseskip"
+  ],
+  "environments": [
+    "bracedmetrics",
+    "versi",
+    "Versi",
+    "VERSI"
+  ]
+}

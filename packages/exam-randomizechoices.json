@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\erc@createrandomlist",
+    "\\keylistkeyname",
+    "\\keylistquestionname",
+    "\\printkeytable",
+    "\\setrandomizerseed"
+  ],
+  "environments": []
+}

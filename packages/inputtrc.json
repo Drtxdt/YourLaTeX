@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\dotracinginputs",
+    "\\dotracinginputsreturns",
+    "\\dotracingreturns",
+    "\\IT@input",
+    "\\IT@prim@input",
+    "\\IT@the@returnmessage",
+    "\\notracinginputs",
+    "\\notracinginputsreturns",
+    "\\notracingreturns",
+    "\\setinputindentunit"
+  ],
+  "environments": []
+}

@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\byoTwemoji",
+    "\\byoTwemojiElement",
+    "\\byoTwemojiShadowTransparency",
+    "\\defineByoTwemojiElement"
+  ],
+  "environments": []
+}

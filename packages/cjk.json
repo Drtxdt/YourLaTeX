@@ -1,0 +1,20 @@
+{
+  "commands": [
+    "\\CJKbold",
+    "\\CJKboldshift",
+    "\\CJKcaption",
+    "\\CJKCJKchar",
+    "\\CJKglue",
+    "\\CJKhangulchar",
+    "\\CJKhwkatakana",
+    "\\CJKindent",
+    "\\CJKlatinchar",
+    "\\CJKnohwkatakana",
+    "\\CJKnormal",
+    "\\CJKtolerance"
+  ],
+  "environments": [
+    "CJK",
+    "CJK*"
+  ]
+}

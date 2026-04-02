@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\citedash",
+    "\\dkbibannote",
+    "\\dkbibdash",
+    "\\dkbibisbn",
+    "\\dkbibissn",
+    "\\dkbiburl"
+  ],
+  "environments": []
+}

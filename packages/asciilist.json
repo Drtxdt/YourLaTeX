@@ -1,0 +1,8 @@
+{
+  "commands": [],
+  "environments": [
+    "AsciiDocList",
+    "AsciiList",
+    "asclst@Heading"
+  ]
+}

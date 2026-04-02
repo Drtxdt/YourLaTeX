@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\geometry",
+    "\\Gm@pageframes",
+    "\\Gm@vrules@mpi",
+    "\\Gm@vrules@mpii",
+    "\\loadgeometry",
+    "\\newgeometry",
+    "\\restoregeometry",
+    "\\savegeometry"
+  ],
+  "environments": []
+}

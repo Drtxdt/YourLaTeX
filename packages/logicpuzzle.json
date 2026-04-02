@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\definecounterstyle"
+  ],
+  "environments": [
+    "logicpuzzle",
+    "puzzlebackground",
+    "puzzleforeground"
+  ]
+}

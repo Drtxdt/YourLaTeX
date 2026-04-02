@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\big",
+    "\\Bigg",
+    "\\enablesbcorrection",
+    "\\loadsubfile",
+    "\\matrixsym",
+    "\\ShowMathFonts",
+    "\\tensorsym",
+    "\\thdefault",
+    "\\txvec",
+    "\\vectorsym"
+  ],
+  "environments": []
+}

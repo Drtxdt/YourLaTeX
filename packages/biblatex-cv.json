@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\cv@blx@deletename",
+    "\\cv@blx@highlightname",
+    "\\cv@blx@highlightname@format",
+    "\\cv@blx@highlightname@patch",
+    "\\cv@blx@list",
+    "\\cv@blx@sublist",
+    "\\cv@blx@tempa",
+    "\\highlightname",
+    "\\makelabel"
+  ],
+  "environments": []
+}

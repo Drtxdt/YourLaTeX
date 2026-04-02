@@ -1,0 +1,20 @@
+{
+  "commands": [
+    "\\blochsphere@axisarrow",
+    "\\blochsphere@ball",
+    "\\blochsphere@color",
+    "\\blochsphere@opacity",
+    "\\blochsphere@plane",
+    "\\blochsphere@radius",
+    "\\blochsphere@rotation",
+    "\\blochsphere@scale",
+    "\\blochsphere@shift",
+    "\\blochsphere@statecolor",
+    "\\blochsphere@statewidth",
+    "\\blochsphere@style",
+    "\\blochsphere@tilt"
+  ],
+  "environments": [
+    "blochsphere"
+  ]
+}

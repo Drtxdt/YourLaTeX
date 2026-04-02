@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\proofname",
+    "\\thechapter",
+    "\\thesection"
+  ],
+  "environments": []
+}

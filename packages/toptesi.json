@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\lapagina",
+    "\\NoteWhiteLine",
+    "\\ps@headings",
+    "\\tomo"
+  ],
+  "environments": [
+    "citazioni",
+    "dedica",
+    "pdfxmetadata"
+  ]
+}

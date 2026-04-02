@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\descfont",
+    "\\emph",
+    "\\rmdefault",
+    "\\sectfont",
+    "\\sfdefault",
+    "\\textbf",
+    "\\ttdefault"
+  ],
+  "environments": []
+}

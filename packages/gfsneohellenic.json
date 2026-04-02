@@ -1,0 +1,39 @@
+{
+  "commands": [
+    "\\careof",
+    "\\deltaalt",
+    "\\Epsilonalt",
+    "\\estimated",
+    "\\eurocurrency",
+    "\\interrobang",
+    "\\LaTeX",
+    "\\LaTeXe",
+    "\\neohellenictextparagraph",
+    "\\numero",
+    "\\oldstylenums",
+    "\\Omegaalt",
+    "\\onehalf",
+    "\\onethird",
+    "\\rmdefault",
+    "\\scslshape",
+    "\\sfdefault",
+    "\\stirling",
+    "\\stirlingoldstyle",
+    "\\tabnums",
+    "\\TeX",
+    "\\textbullet",
+    "\\textfrac",
+    "\\textlozenge",
+    "\\textneohellenic",
+    "\\textscsl",
+    "\\twothirds",
+    "\\whitebullet",
+    "\\Xionealt",
+    "\\Xitwoalt",
+    "\\yencurrency",
+    "\\zetaalt"
+  ],
+  "environments": [
+    "neohellenic"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\biblatex@claves",
+    "\\blx@driver",
+    "\\entrysetpunct",
+    "\\printbibshortfields"
+  ],
+  "environments": []
+}

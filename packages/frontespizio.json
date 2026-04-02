@@ -1,0 +1,43 @@
+{
+  "commands": [
+    "\\Annoaccademico",
+    "\\Candidato",
+    "\\Correlatore",
+    "\\Corso",
+    "\\Dipartimento",
+    "\\Divisione",
+    "\\Facolta",
+    "\\Filigrana",
+    "\\frontdivisionfont",
+    "\\frontfixednamesfont",
+    "\\frontfootfont",
+    "\\frontinstitutionfont",
+    "\\frontnamesfont",
+    "\\frontpretitlefont",
+    "\\frontsubtitlefont",
+    "\\fronttitlefont",
+    "\\includefront",
+    "\\Interfacolta",
+    "\\Istituzione",
+    "\\Logo",
+    "\\Margini",
+    "\\NCandidati",
+    "\\NCandidato",
+    "\\NCorrelatore",
+    "\\NRelatore",
+    "\\Piede",
+    "\\Preambolo",
+    "\\Punteggiatura",
+    "\\Relatore",
+    "\\Rientro",
+    "\\Scuola",
+    "\\Sottotitolo",
+    "\\Titoletto",
+    "\\Titolo",
+    "\\Universita"
+  ],
+  "environments": [
+    "frontespizio",
+    "Preambolo*"
+  ]
+}

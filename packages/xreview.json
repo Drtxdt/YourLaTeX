@@ -1,0 +1,32 @@
+{
+  "commands": [
+    "\\added",
+    "\\addedcolor",
+    "\\addedeqline",
+    "\\changed",
+    "\\cite",
+    "\\colortext",
+    "\\comment",
+    "\\commentcolor",
+    "\\commentprefix",
+    "\\hidecomments",
+    "\\hidefromclean",
+    "\\nonumber",
+    "\\notag",
+    "\\remaligntab",
+    "\\remlabel",
+    "\\remnewline",
+    "\\removed",
+    "\\removedcolor",
+    "\\removedeqline",
+    "\\removedeqprefix",
+    "\\resolvedcomment",
+    "\\resolvedcommentcolor",
+    "\\safesout",
+    "\\showchanges",
+    "\\showclean",
+    "\\showcomments",
+    "\\theequation"
+  ],
+  "environments": []
+}

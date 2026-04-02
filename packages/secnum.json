@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\p@paragraph",
+    "\\p@section",
+    "\\p@subparagraph",
+    "\\p@subsection",
+    "\\p@subsubsection",
+    "\\thechapter",
+    "\\theparagraph",
+    "\\thesection",
+    "\\thesubparagraph",
+    "\\thesubsection",
+    "\\thesubsubsection"
+  ],
+  "environments": []
+}

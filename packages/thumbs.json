@@ -1,0 +1,26 @@
+{
+  "commands": [
+    "\\addthumb",
+    "\\addthumbsoverviewtocontents",
+    "\\addtitlethumb",
+    "\\clearotherdoublepage",
+    "\\continuethumb",
+    "\\setth@mbheight",
+    "\\stopthumb",
+    "\\th@mb@dvance",
+    "\\th@mb@txtBox",
+    "\\th@mb@yA",
+    "\\th@mbprint",
+    "\\th@mbs@verview",
+    "\\th@mbstablabeling",
+    "\\thumbcontents",
+    "\\thumbnewcolumn",
+    "\\thumbsnophantom",
+    "\\thumbsoverview",
+    "\\thumbsoverviewback",
+    "\\thumbsoverviewdouble",
+    "\\thumbsoverviewprint",
+    "\\thumbsoverviewverso"
+  ],
+  "environments": []
+}

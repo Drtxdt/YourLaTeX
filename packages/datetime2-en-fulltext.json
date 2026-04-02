@@ -1,0 +1,25 @@
+{
+  "commands": [
+    "\\DTMafternoonstring",
+    "\\DTMAfterNoonstring",
+    "\\DTMhalfpaststring",
+    "\\DTMHalfPaststring",
+    "\\DTMminutepaststring",
+    "\\DTMMinutePaststring",
+    "\\DTMminutespaststring",
+    "\\DTMMinutesPaststring",
+    "\\DTMminutestostring",
+    "\\DTMMinutesTostring",
+    "\\DTMminutetostring",
+    "\\DTMMinuteTostring",
+    "\\DTMmorningstring",
+    "\\DTMMorningstring",
+    "\\DTMoclockstring",
+    "\\DTMOClockstring",
+    "\\DTMquarterpaststring",
+    "\\DTMQuarterPaststring",
+    "\\DTMquartertostring",
+    "\\DTMQuarterTostring"
+  ],
+  "environments": []
+}

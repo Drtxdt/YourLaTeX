@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\gnuplotloadfile",
+    "\\gnuplotloadfilewrite"
+  ],
+  "environments": [
+    "gnuplot"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\@includeonly",
+    "\\AskInc@AtBeginDocument",
+    "\\AskInc@Files",
+    "\\AskInc@OrgInclude",
+    "\\AskInc@OrgIncludeOnly",
+    "\\include",
+    "\\includeonly"
+  ],
+  "environments": []
+}

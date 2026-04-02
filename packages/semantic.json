@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\@@next",
+    "\\@ddInput",
+    "\\@dropnext",
+    "\\@oldNotDefinable",
+    "\\@semanticNotDefinable",
+    "\\sem@test",
+    "\\sem@tmp",
+    "\\semanticDate",
+    "\\semanticVersion",
+    "\\TestForConflict"
+  ],
+  "environments": []
+}

@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\@cartonaugh@func@bailoutsideenvironment@",
+    "\\@cartonaugh@var@isactive@",
+    "\\cartonaughSetColorAtIndex"
+  ],
+  "environments": []
+}

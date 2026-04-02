@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\lctt",
+    "\\monott",
+    "\\proptt",
+    "\\ttdefault"
+  ],
+  "environments": []
+}

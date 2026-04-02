@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\dbox",
+    "\\dl@yer",
+    "\\dlbox",
+    "\\hd@shrule",
+    "\\l@yer",
+    "\\l@yers",
+    "\\lbox",
+    "\\m@kedashbox",
+    "\\m@kedashlayer",
+    "\\m@kelayer",
+    "\\vd@shrule"
+  ],
+  "environments": []
+}

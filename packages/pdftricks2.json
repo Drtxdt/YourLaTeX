@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "\\usepackageps",
+    "\\usepackagepsonly"
+  ],
+  "environments": []
+}

@@ -1,0 +1,30 @@
+{
+  "commands": [
+    "\\eql@box@end",
+    "\\eql@notag",
+    "\\eql@thetag",
+    "\\eqnaddopt",
+    "\\eqnlinesprovide",
+    "\\eqnlinesset",
+    "\\intertext"
+  ],
+  "environments": [
+    "eql@align",
+    "eql@align*",
+    "eql@aligned",
+    "eql@equation",
+    "eql@equation*",
+    "eql@flalign",
+    "eql@flalign*",
+    "eql@gather",
+    "eql@gather*",
+    "eql@gathered",
+    "eql@intertext",
+    "eql@multline",
+    "eql@multline*",
+    "eql@multlined",
+    "eql@subequations",
+    "equations",
+    "equationsbox"
+  ]
+}

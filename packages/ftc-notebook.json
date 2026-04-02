@@ -1,0 +1,23 @@
+{
+  "commands": [
+    "\\@TypeColor",
+    "\\arcol",
+    "\\arraystretch",
+    "\\arrow",
+    "\\bgcol",
+    "\\callout",
+    "\\Callout",
+    "\\focol",
+    "\\helpgrid",
+    "\\listexamplename",
+    "\\mycustomtask",
+    "\\note",
+    "\\RawPict",
+    "\\TaskInfo",
+    "\\theTaskSection",
+    "\\theTaskSubSection"
+  ],
+  "environments": [
+    "annotate"
+  ]
+}

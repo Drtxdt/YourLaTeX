@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\bfdefault",
+    "\\familydefault",
+    "\\footnotemarkfont",
+    "\\rmdefault",
+    "\\scdefault",
+    "\\textfrac",
+    "\\textosf",
+    "\\textosfI",
+    "\\thdefault",
+    "\\thfamily",
+    "\\XCharter@scale"
+  ],
+  "environments": []
+}

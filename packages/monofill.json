@@ -1,0 +1,18 @@
+{
+  "commands": [
+    "\\MF@bad@align",
+    "\\MF@check@field",
+    "\\MF@field",
+    "\\MF@field@undeclared",
+    "\\MF@fine@align",
+    "\\MF@if@empty",
+    "\\MFenspace",
+    "\\MFfieldtemplate",
+    "\\MFfillelement",
+    "\\MFleftinfield",
+    "\\MFotherspace",
+    "\\MFrightinfield",
+    "\\MFspace"
+  ],
+  "environments": []
+}

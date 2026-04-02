@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\ct@FirstPar",
+    "\\ct@inrulewarning",
+    "\\ct@intervalloop",
+    "\\ct@keynotexisterr",
+    "\\ct@makemacrokey",
+    "\\ct@notusefulwarning",
+    "\\ct@operator",
+    "\\ct@overridingkeyerr",
+    "\\ct@setintervalflag"
+  ],
+  "environments": [
+    "calctab",
+    "xcalctab"
+  ]
+}

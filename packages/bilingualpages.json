@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\leftpage",
+    "\\rightpage"
+  ],
+  "environments": [
+    "bilingualpages"
+  ]
+}

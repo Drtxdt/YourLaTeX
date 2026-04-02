@@ -1,0 +1,28 @@
+{
+  "commands": [
+    "\\blackjoker",
+    "\\BLACKJOKER",
+    "\\hmC",
+    "\\hmD",
+    "\\hmH",
+    "\\hmS",
+    "\\hmtc@joker@base",
+    "\\hmtc@rank@",
+    "\\hmtc@strut",
+    "\\hmtc@trump@",
+    "\\hmtc@trump@font",
+    "\\joker",
+    "\\JOKER",
+    "\\redjoker",
+    "\\REDJOKER",
+    "\\romanindex",
+    "\\tarottrump",
+    "\\trump",
+    "\\trumpblank",
+    "\\trumpx",
+    "\\unitrump",
+    "\\whitejoker",
+    "\\WHITEJOKER"
+  ],
+  "environments": []
+}

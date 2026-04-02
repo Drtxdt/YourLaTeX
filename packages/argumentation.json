@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\@arg@style",
+    "\\AF",
+    "\\AFcomplete",
+    "\\afref",
+    "\\arguments",
+    "\\attacks",
+    "\\do",
+    "\\fullafref",
+    "\\setafstyle",
+    "\\setannotationstyle",
+    "\\setargumentcolorscheme",
+    "\\setargumentstyle",
+    "\\setattackstyle",
+    "\\setsupportstyle"
+  ],
+  "environments": []
+}

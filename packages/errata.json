@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\erratumAdd",
+    "\\erratumDelete",
+    "\\erratumReplace"
+  ],
+  "environments": [
+    "errata",
+    "erratum"
+  ]
+}

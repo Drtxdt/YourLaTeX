@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "\\bibentry",
+    "\\setupbibentry"
+  ],
+  "environments": []
+}

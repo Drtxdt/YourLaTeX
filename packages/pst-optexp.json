@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\oelabel"
+  ],
+  "environments": [
+    "optexp"
+  ]
+}

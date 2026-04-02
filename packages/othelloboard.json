@@ -1,0 +1,43 @@
+{
+  "commands": [
+    "\\annotationseighthrow",
+    "\\annotationsfifthrow",
+    "\\annotationsfirstrow",
+    "\\annotationsfourthrow",
+    "\\annotationssecondrow",
+    "\\annotationsseventhrow",
+    "\\annotationssixthrow",
+    "\\annotationsthirdrow",
+    "\\blackdiamond",
+    "\\blackdisc",
+    "\\countblackdiscs",
+    "\\countwhitediscs",
+    "\\dotmarkings",
+    "\\drawboardfromstring",
+    "\\drawtranscript",
+    "\\gridrefs",
+    "\\othelloannotation",
+    "\\othelloarrayeighthrow",
+    "\\othelloarrayfifthrow",
+    "\\othelloarrayfirstrow",
+    "\\othelloarrayfourthrow",
+    "\\othelloarraysecondrow",
+    "\\othelloarrayseventhrow",
+    "\\othelloarraysixthrow",
+    "\\othelloarraythirdrow",
+    "\\othellodisc",
+    "\\othellodiscfromstring",
+    "\\othellogrid",
+    "\\othellonormaltext",
+    "\\othellowhitetext",
+    "\\posannotation",
+    "\\resetalldisccolours",
+    "\\scalefactor",
+    "\\whitediamond",
+    "\\whitedisc"
+  ],
+  "environments": [
+    "othelloboard",
+    "othelloboardnorefs"
+  ]
+}

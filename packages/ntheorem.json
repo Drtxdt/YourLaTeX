@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\InTheoType",
+    "\\openbox",
+    "\\proofname"
+  ],
+  "environments": [
+    "proof"
+  ]
+}

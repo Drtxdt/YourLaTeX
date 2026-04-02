@@ -1,0 +1,30 @@
+{
+  "commands": [
+    "\\addlegendentry",
+    "\\angleinc",
+    "\\declarecoords",
+    "\\elementlabel",
+    "\\goto",
+    "\\iinc",
+    "\\jinc",
+    "\\northlabels",
+    "\\resetelementcolor",
+    "\\resetlabeldistance",
+    "\\resetlinecolor",
+    "\\rotate",
+    "\\setangle",
+    "\\setlabelcolor",
+    "\\setlabeldistance",
+    "\\setlabelfont",
+    "\\setlegendtext",
+    "\\setlinecolor",
+    "\\southlabels",
+    "\\start",
+    "\\turnlabels",
+    "\\updatelabelanchor",
+    "\\updatemarkerlabelanchor"
+  ],
+  "environments": [
+    "labeldistance"
+  ]
+}

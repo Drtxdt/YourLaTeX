@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\mathbold",
+    "\\matrixsym",
+    "\\tensorsym",
+    "\\vectorsym"
+  ],
+  "environments": []
+}

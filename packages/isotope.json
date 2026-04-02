@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\isotope",
+    "\\isotope@atomicnumber",
+    "\\isotope@nucleonnumber",
+    "\\isotope@two",
+    "\\isotopestyle"
+  ],
+  "environments": []
+}

@@ -1,0 +1,25 @@
+{
+  "commands": [
+    "\\measure",
+    "\\setchpblockfontsize",
+    "\\setchpblockscale",
+    "\\setchpblockthickness",
+    "\\setchphiddencomponentstyle",
+    "\\setchphiddenstreamstyle",
+    "\\setchpinstrumentfontsize",
+    "\\setchpinstrumentscale",
+    "\\setchpinstrumentthickness",
+    "\\setchpmainstreamthickness",
+    "\\setchpmeasurecolor",
+    "\\setchpmeasurefontsize",
+    "\\setchpmeasurethickness",
+    "\\setchpmeasuretip",
+    "\\setchpsecondarystreamthickness",
+    "\\setchpsignalthickness",
+    "\\setchpstreamtip",
+    "\\setchpunitscale",
+    "\\setchpunitthickness",
+    "\\setchputilitystreamthickness"
+  ],
+  "environments": []
+}

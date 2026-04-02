@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\cnc@conceptname",
+    "\\cnc@conceptsymbol",
+    "\\cnc@d",
+    "\\cnc@g",
+    "\\cnc@grabnumber",
+    "\\cnc@upper",
+    "\\ConceptOption"
+  ],
+  "environments": []
+}

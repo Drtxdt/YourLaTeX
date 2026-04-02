@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\@arrayparboxrestore",
+    "\\@raggedtwoe@abdhook",
+    "\\@raggedtwoe@document@opt",
+    "\\@raggedtwoe@everyselectfont@active",
+    "\\@raggedtwoe@gnewline",
+    "\\@raggedtwoe@raggedrightboxes@opt"
+  ],
+  "environments": [
+    "Center",
+    "FlushLeft",
+    "FlushRight",
+    "justify"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "commands": [
+    "\\baselinestretch",
+    "\\bibfont",
+    "\\bibsetup",
+    "\\bottomfraction",
+    "\\dblfloatpagefraction",
+    "\\dbltopfraction",
+    "\\floatpagefraction",
+    "\\savetreesbibnote",
+    "\\st@baselinestretch",
+    "\\st@char@shrink",
+    "\\st@cspace@shrink",
+    "\\st@define@option",
+    "\\st@margin@width",
+    "\\st@mark@as@obsolete",
+    "\\st@parindent",
+    "\\st@RequirePackage",
+    "\\st@wspace@factor",
+    "\\textfraction",
+    "\\topfraction"
+  ],
+  "environments": []
+}

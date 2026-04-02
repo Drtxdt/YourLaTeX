@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\bfdefault",
+    "\\rmdefault",
+    "\\sfdefault",
+    "\\ttdefault"
+  ],
+  "environments": []
+}

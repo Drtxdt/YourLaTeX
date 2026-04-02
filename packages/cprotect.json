@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\cMakeRobust",
+    "\\CPT@def",
+    "\\CPT@env@setup",
+    "\\CPT@otherify",
+    "\\CPT@readContent",
+    "\\CPT@setup",
+    "\\CPT@starsetup",
+    "\\CPT@store",
+    "\\CPT@Write",
+    "\\CPTbegin",
+    "\\icprotect",
+    "\\makeallother"
+  ],
+  "environments": []
+}

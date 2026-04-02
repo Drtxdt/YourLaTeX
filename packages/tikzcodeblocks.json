@@ -1,0 +1,26 @@
+{
+  "commands": [
+    "\\arraystretch",
+    "\\bild",
+    "\\boolbox",
+    "\\dropdown",
+    "\\einruecken",
+    "\\emptyled",
+    "\\farbe",
+    "\\fullled",
+    "\\ifthenblocks",
+    "\\ifthenelseblocks",
+    "\\intbox",
+    "\\loopblocks",
+    "\\moveindent",
+    "\\schleife",
+    "\\setcolor",
+    "\\setupquotes",
+    "\\stringbox",
+    "\\usb",
+    "\\wenndann",
+    "\\wenndannsonst",
+    "\\X"
+  ],
+  "environments": []
+}

@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\IfVerifyCommandFailed",
+    "\\IfVerifyCommandPassed",
+    "\\TestVerifyCommands",
+    "\\VERCMD@addchanged",
+    "\\VERCMD@mdfivesum",
+    "\\VERCMD@whatchanged",
+    "\\VERCMDWarning"
+  ],
+  "environments": []
+}

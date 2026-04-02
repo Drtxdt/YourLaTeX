@@ -1,0 +1,33 @@
+{
+  "commands": [
+    "\\@struct",
+    "\\ChemschemeNextRow",
+    "\\CSX@@@print",
+    "\\CSX@@print",
+    "\\CSX@customarrow@widestcaption",
+    "\\CSX@declarearrowbundle",
+    "\\CSX@generate@@@caption",
+    "\\CSX@generate@@@caption@LabelAndText",
+    "\\CSX@generate@@@caption@TextOnly",
+    "\\CSX@generate@@caption",
+    "\\CSX@newsubstruct",
+    "\\CSX@print",
+    "\\CSX@setimagewidth",
+    "\\CSX@setmaxlabelwidth",
+    "\\CSX@settextwidth",
+    "\\CSX@setvphantom",
+    "\\CSXcommands",
+    "\\CSXdeclarearrow",
+    "\\CSXdeclarearrowbundle",
+    "\\CSXgeneratecaption",
+    "\\CSXimage",
+    "\\CSXstructref",
+    "\\customarrow",
+    "\\newstruct",
+    "\\structminus",
+    "\\structplus"
+  ],
+  "environments": [
+    "Chemscheme"
+  ]
+}

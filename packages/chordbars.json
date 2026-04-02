@@ -1,0 +1,26 @@
+{
+  "commands": [
+    "\\addHalfBar",
+    "\\addMeasures",
+    "\\bpbfour",
+    "\\bpbthree",
+    "\\bpm",
+    "\\chordf",
+    "\\chordh",
+    "\\chordline",
+    "\\countbarsNo",
+    "\\countbarsYes",
+    "\\flat",
+    "\\newchordline",
+    "\\printNbBars",
+    "\\repeatBar",
+    "\\repeatBarPair",
+    "\\resetchordbars",
+    "\\sharp",
+    "\\songtitle"
+  ],
+  "environments": [
+    "chordbar",
+    "chordbar*"
+  ]
+}

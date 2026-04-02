@@ -1,0 +1,32 @@
+{
+  "commands": [
+    "\\fontlinepart",
+    "\\fontlinesec",
+    "\\fontlinessec",
+    "\\fontlinesssec",
+    "\\fonttitlepart",
+    "\\fonttitlesec",
+    "\\fonttitlessec",
+    "\\fonttitlesssec",
+    "\\linepart",
+    "\\linesec",
+    "\\linessec",
+    "\\linesssec",
+    "\\newtheorem",
+    "\\part",
+    "\\partnam",
+    "\\section",
+    "\\subsection",
+    "\\subsubsection",
+    "\\tableofcontents",
+    "\\thepart",
+    "\\thesection",
+    "\\thesubsection",
+    "\\thesubsubsection",
+    "\\titlepart",
+    "\\titlesec",
+    "\\titlessec",
+    "\\titlesssec"
+  ],
+  "environments": []
+}

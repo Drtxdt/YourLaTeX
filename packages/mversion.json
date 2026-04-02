@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\increaseBuild",
+    "\\setVersion",
+    "\\version"
+  ],
+  "environments": []
+}

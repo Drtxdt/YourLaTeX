@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\AA@defIncludeFiles",
+    "\\AA@defIncludeSwitches",
+    "\\AA@pdfpagesattribute",
+    "\\authorat",
+    "\\authorcrfont",
+    "\\authorsetup",
+    "\\authorwidth",
+    "\\conferenceinfo",
+    "\\orcidID"
+  ],
+  "environments": []
+}

@@ -1,0 +1,24 @@
+{
+  "commands": [
+    "\\@chapapp",
+    "\\@epipos",
+    "\\@epirule",
+    "\\@episource",
+    "\\@epitext",
+    "\\dropchapter",
+    "\\epigraph",
+    "\\epigraphflush",
+    "\\epigraphhead",
+    "\\epigraphsize",
+    "\\qitem",
+    "\\qitemlabel",
+    "\\sourceflush",
+    "\\textflush",
+    "\\undodrop"
+  ],
+  "environments": [
+    "epigraphs",
+    "flushepinormal",
+    "flushleftright"
+  ]
+}

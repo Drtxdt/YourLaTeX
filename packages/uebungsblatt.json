@@ -1,0 +1,9 @@
+{
+  "commands": [],
+  "environments": [
+    "@aufgabe",
+    "aufgabe",
+    "aufgabe*",
+    "teilaufgaben"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\biconcavelens",
+    "\\biconvexlens",
+    "\\concaveconvexlens",
+    "\\convexconcavelens",
+    "\\leftplanoconcavelens",
+    "\\leftplanoconvexlens",
+    "\\lens",
+    "\\mirror",
+    "\\rightplanoconcavelens",
+    "\\rightplanoconvexlens",
+    "\\straightline"
+  ],
+  "environments": []
+}

@@ -1,0 +1,22 @@
+{
+  "commands": [
+    "\\boxanswer",
+    "\\duckfoot",
+    "\\e",
+    "\\E",
+    "\\footer",
+    "\\goodfoot",
+    "\\header",
+    "\\joinpdfs",
+    "\\newfigure",
+    "\\newlongtable",
+    "\\newsfigure",
+    "\\newtable",
+    "\\newtitlepage",
+    "\\reffigure",
+    "\\reftable",
+    "\\setpagefancy",
+    "\\shift"
+  ],
+  "environments": []
+}

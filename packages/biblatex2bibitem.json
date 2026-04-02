@@ -1,0 +1,24 @@
+{
+  "commands": [
+    "\\emph",
+    "\\href",
+    "\\hyperlink",
+    "\\ignorespacesaftertitlecase",
+    "\\mkbibbold",
+    "\\mkbibemph",
+    "\\mkbibitalic",
+    "\\mkbibsc",
+    "\\nolinkurl",
+    "\\print@begin@thebibliography",
+    "\\print@bibitem@command",
+    "\\printbibitembibliography",
+    "\\printgeneratedbibitemseparator",
+    "\\textbf",
+    "\\textit",
+    "\\textsc",
+    "\\texttt",
+    "\\url",
+    "\\utffriendlydetokenize"
+  ],
+  "environments": []
+}

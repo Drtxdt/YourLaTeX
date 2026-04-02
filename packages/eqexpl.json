@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\eqexplSetDelim",
+    "\\eqexplSetIntro",
+    "\\eqexplSetItemAlign",
+    "\\eqexplSetItemWidth",
+    "\\eqexplSetSpace"
+  ],
+  "environments": [
+    "eqexpl"
+  ]
+}

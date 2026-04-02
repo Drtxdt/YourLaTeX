@@ -1,0 +1,18 @@
+{
+  "commands": [
+    "\\drawnimstick",
+    "\\nimgame",
+    "\\nimheapgap",
+    "\\nimheaplift",
+    "\\nimheapwobble",
+    "\\nimrandrange",
+    "\\nimstickcolour",
+    "\\nimstickgap",
+    "\\nimstickheight",
+    "\\nimstickthickness",
+    "\\onenimstick",
+    "\\setnimscale",
+    "\\setnimstickcolour"
+  ],
+  "environments": []
+}

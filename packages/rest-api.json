@@ -1,0 +1,39 @@
+{
+  "commands": [
+    "\\bodyFormat",
+    "\\breakRoute",
+    "\\getDeleteBorderColor",
+    "\\getDeleteColor",
+    "\\getDeleteLightColor",
+    "\\getGetBorderColor",
+    "\\getGetColor",
+    "\\getGetLightColor",
+    "\\getPostBorderColor",
+    "\\getPostColor",
+    "\\getPostLightColor",
+    "\\getPutBorderColor",
+    "\\getPutColor",
+    "\\getPutLightColor",
+    "\\method",
+    "\\methodBorderColor",
+    "\\methodColor",
+    "\\methodJson",
+    "\\methodLightColor",
+    "\\methodXml",
+    "\\noBreakRoute",
+    "\\noRouteParameter",
+    "\\noRouteResponse",
+    "\\printDescription",
+    "\\routeBreakValue",
+    "\\routeDescription",
+    "\\routeParamItem",
+    "\\urlPath"
+  ],
+  "environments": [
+    "apiRoute",
+    "routeParameter",
+    "routeRequest",
+    "routeResponse",
+    "routeResponseItem"
+  ]
+}

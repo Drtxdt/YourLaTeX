@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\cgr@addto@macro",
+    "\\cgr@raddto@macro",
+    "\\includecombinedgraphics"
+  ],
+  "environments": []
+}

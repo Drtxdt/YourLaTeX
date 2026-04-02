@@ -1,0 +1,25 @@
+{
+  "commands": [
+    "\\AmSfont",
+    "\\bfdefault",
+    "\\int",
+    "\\itshape",
+    "\\oint",
+    "\\otherscshape",
+    "\\otherscslshape",
+    "\\othertailQ",
+    "\\othertailscq",
+    "\\othertailscslq",
+    "\\rmdefault",
+    "\\scshape",
+    "\\scslshape",
+    "\\sfdefault",
+    "\\slshape",
+    "\\textothersc",
+    "\\textotherscsl",
+    "\\textscsl",
+    "\\ttdefault",
+    "\\widering"
+  ],
+  "environments": []
+}

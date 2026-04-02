@@ -1,0 +1,18 @@
+{
+  "commands": [
+    "\\askmap",
+    "\\askmap@askmap",
+    "\\askmap@usecapf",
+    "\\askmapbitcombinationsize",
+    "\\askmapcontentsize",
+    "\\askmapi",
+    "\\askmapii",
+    "\\askmapiii",
+    "\\askmapiiialt",
+    "\\askmapindexsize",
+    "\\askmapiv",
+    "\\askmapv",
+    "\\askmapvarsep"
+  ],
+  "environments": []
+}

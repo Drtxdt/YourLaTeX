@@ -1,0 +1,36 @@
+{
+  "commands": [
+    "\\@newpagehint",
+    "\\bakingtemperature",
+    "\\graph",
+    "\\headrulewidth",
+    "\\hint",
+    "\\ingredients",
+    "\\introduction",
+    "\\LettrineFontHook",
+    "\\portion",
+    "\\postingredients",
+    "\\postpreparation",
+    "\\pregraph",
+    "\\preingredients",
+    "\\preparation",
+    "\\prepreparation",
+    "\\prerecipeoverview",
+    "\\pretitle",
+    "\\recipesection",
+    "\\sectionmark",
+    "\\setBackgroundPicture",
+    "\\setHeadlines",
+    "\\setRecipeColors",
+    "\\setRecipeLengths",
+    "\\setRecipenameFont",
+    "\\setRecipeSizes",
+    "\\step",
+    "\\suggestion",
+    "\\xcb@cmd@recipeoverview",
+    "\\xcb@separationgraph"
+  ],
+  "environments": [
+    "recipe"
+  ]
+}

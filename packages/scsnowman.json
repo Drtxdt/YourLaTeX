@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\makeitemsnowman",
+    "\\makeqedsnowman",
+    "\\scsnowmandefault",
+    "\\sctkzsym@snowman@defaultkeys",
+    "\\usescsnowmanlibrary"
+  ],
+  "environments": []
+}

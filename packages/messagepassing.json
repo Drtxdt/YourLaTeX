@@ -1,0 +1,29 @@
+{
+  "commands": [
+    "\\annotate",
+    "\\annotatexplicit",
+    "\\checkpoint",
+    "\\checkpointspecial",
+    "\\colouredbox",
+    "\\colouredboxcolour",
+    "\\crash",
+    "\\drawtimeline",
+    "\\mp@annotaterotation",
+    "\\mp@checkpointanchor",
+    "\\mp@colouredboxcolour",
+    "\\mp@messagelabelanchor",
+    "\\mp@oobcolour",
+    "\\mp@processnameanchor",
+    "\\mp@stateintervalanchor",
+    "\\mp@timeticksanchor",
+    "\\mp@verticalrotation",
+    "\\oobcolour",
+    "\\processlength",
+    "\\restart",
+    "\\send",
+    "\\sendwithstateinterval",
+    "\\stateinterval",
+    "\\stateintervalspecial"
+  ],
+  "environments": []
+}

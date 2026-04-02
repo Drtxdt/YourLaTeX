@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\definergbcolor",
+    "\\normalxecolor",
+    "\\textxecolor",
+    "\\xecolor"
+  ],
+  "environments": []
+}

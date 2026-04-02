@@ -1,0 +1,22 @@
+{
+  "commands": [],
+  "environments": [
+    "gre@style@abovelinestext",
+    "gre@style@additionalstafflines",
+    "gre@style@annotation",
+    "gre@style@commentary",
+    "gre@style@elision",
+    "gre@style@firstsyllable",
+    "gre@style@firstsyllableinitial",
+    "gre@style@firstword",
+    "gre@style@highchoralsign",
+    "gre@style@initial",
+    "gre@style@lowchoralsign",
+    "gre@style@modedifferentia",
+    "gre@style@modeline",
+    "gre@style@modemodifier",
+    "gre@style@nabc",
+    "gre@style@normalstafflines",
+    "gre@style@translation"
+  ]
+}

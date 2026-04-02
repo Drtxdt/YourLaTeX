@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\@makefntext",
+    "\\fnindent"
+  ],
+  "environments": [
+    "Parskip"
+  ]
+}

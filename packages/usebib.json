@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "\\bibinput",
+    "\\usebibentryurl"
+  ],
+  "environments": []
+}

@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "\\enoteformat",
+    "\\makeenmark"
+  ],
+  "environments": []
+}

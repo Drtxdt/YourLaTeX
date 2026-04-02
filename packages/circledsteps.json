@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\Circled",
+    "\\CircledParamOpts",
+    "\\CircledText",
+    "\\CircledTop",
+    "\\cstep",
+    "\\resetcstep",
+    "\\startcstep",
+    "\\thecstepcnt"
+  ],
+  "environments": []
+}

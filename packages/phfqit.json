@@ -1,0 +1,23 @@
+{
+  "commands": [
+    "\\AND",
+    "\\CNOT",
+    "\\diag",
+    "\\Hs",
+    "\\Ident",
+    "\\Im",
+    "\\linspan",
+    "\\NOOP",
+    "\\NOT",
+    "\\phfqit@Imagpart",
+    "\\phfqit@Realpart",
+    "\\poly",
+    "\\rank",
+    "\\Re",
+    "\\spec",
+    "\\supp",
+    "\\tr",
+    "\\XOR"
+  ],
+  "environments": []
+}

@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\auxiliaryspace",
+    "\\BeginAccSupp",
+    "\\document",
+    "\\doreplacement",
+    "\\enddocument"
+  ],
+  "environments": [
+    "temp@env",
+    "tempenv"
+  ]
+}

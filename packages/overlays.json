@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\alert",
+    "\\alertsoff",
+    "\\only",
+    "\\overlaysoff",
+    "\\psalert",
+    "\\psvisible",
+    "\\savecounterbetweenoverlays",
+    "\\saveseriesbetweenoverlays",
+    "\\visible"
+  ],
+  "environments": [
+    "fragileoverlays"
+  ]
+}

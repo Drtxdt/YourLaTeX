@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\settombowbanner",
+    "\\settombowbannerfont",
+    "\\settombowbleed",
+    "\\settombowcolor",
+    "\\settombowwidth"
+  ],
+  "environments": []
+}

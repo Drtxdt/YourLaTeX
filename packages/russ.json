@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\encodingdefault",
+    "\\flqq",
+    "\\frqq",
+    "\\glqq",
+    "\\grqq",
+    "\\ipunct",
+    "\\ipunctn",
+    "\\No"
+  ],
+  "environments": []
+}

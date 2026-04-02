@@ -1,0 +1,18 @@
+{
+  "commands": [
+    "\\@newtest",
+    "\\ifthenelse",
+    "\\newtest",
+    "\\TE@cnttest",
+    "\\TE@cnttest@",
+    "\\TE@dimtest",
+    "\\TE@dimtest@",
+    "\\TE@endswith",
+    "\\TE@hook",
+    "\\TE@isempty",
+    "\\TE@isequivalentto",
+    "\\TE@isin",
+    "\\TE@isnamedefined"
+  ],
+  "environments": []
+}

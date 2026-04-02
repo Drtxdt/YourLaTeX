@@ -1,0 +1,23 @@
+{
+  "commands": [
+    "\\adviser",
+    "\\advisor",
+    "\\committee",
+    "\\note",
+    "\\otherdoctorate",
+    "\\othermasters",
+    "\\sectiontitlefont",
+    "\\subsectiontitlefont",
+    "\\subsubsectiontitlefont",
+    "\\thesis@small",
+    "\\thesis@volume",
+    "\\toclabels",
+    "\\volume"
+  ],
+  "environments": [
+    "abstract",
+    "dedication",
+    "symbollist",
+    "symbollist*"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\framemargin",
+    "\\inputpython",
+    "\\literatecolour",
+    "\\lstlistingname",
+    "\\lstlistlistingname",
+    "\\pyth",
+    "\\pythonprompt"
+  ],
+  "environments": []
+}

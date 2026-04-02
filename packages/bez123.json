@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\cbezier",
+    "\\lbezier",
+    "\\resetweightscale",
+    "\\rqbezier",
+    "\\setweightscale"
+  ],
+  "environments": []
+}

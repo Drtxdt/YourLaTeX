@@ -1,0 +1,27 @@
+{
+  "commands": [
+    "\\horoCnote",
+    "\\horohouselabel",
+    "\\horoLLnote",
+    "\\horoLRnote",
+    "\\horomarvosym",
+    "\\horostarfont",
+    "\\horotextsym",
+    "\\horoULnote",
+    "\\horounicode",
+    "\\horounicode@",
+    "\\horounicode@point",
+    "\\horoURnote",
+    "\\horowasysym",
+    "\\horowheelIgloolik",
+    "\\horowheelIqaluit",
+    "\\horowheelMontreal",
+    "\\horowheelQuebecCity",
+    "\\horowheelRankin",
+    "\\horowheelResolute",
+    "\\horowheelVancouver"
+  ],
+  "environments": [
+    "horoscope"
+  ]
+}

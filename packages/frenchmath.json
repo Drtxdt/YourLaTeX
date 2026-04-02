@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\card",
+    "\\Card",
+    "\\ch",
+    "\\cosec",
+    "\\cosech",
+    "\\Hom",
+    "\\Ker",
+    "\\pgcd",
+    "\\ppcm",
+    "\\rg",
+    "\\sh",
+    "\\Vect"
+  ],
+  "environments": []
+}

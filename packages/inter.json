@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\familydefault",
+    "\\Inter@mathstyle",
+    "\\Inter@scale",
+    "\\rmdefault"
+  ],
+  "environments": []
+}

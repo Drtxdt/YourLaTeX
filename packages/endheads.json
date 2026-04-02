@@ -1,0 +1,31 @@
+{
+  "commands": [
+    "\\@extract@ref",
+    "\\@extractpageref",
+    "\\@extractref",
+    "\\changechapternotesline",
+    "\\changemultiplepageabbrev",
+    "\\changenotescontentsname",
+    "\\changenotesheader",
+    "\\changenotesname",
+    "\\changesinglepageabbrev",
+    "\\checknoteheaders",
+    "\\footrulewidth",
+    "\\headrulewidth",
+    "\\ifrefundefined",
+    "\\literalendnote",
+    "\\mymarks",
+    "\\notesbychapter",
+    "\\notesincontents",
+    "\\resetendnotes",
+    "\\setcounterfrompageref",
+    "\\setcounterfromref",
+    "\\setstyleforchapternotebegin",
+    "\\setstyleforchapternoteend",
+    "\\setupendnoteheaders",
+    "\\styleforchapternotebegin",
+    "\\styleforchapternoteend",
+    "\\theendnotes"
+  ],
+  "environments": []
+}

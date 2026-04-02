@@ -1,0 +1,24 @@
+{
+  "commands": [
+    "\\git@changes",
+    "\\git@command",
+    "\\git@commitauthor",
+    "\\git@commitauthoremail",
+    "\\git@commitauthorname",
+    "\\git@commitdate",
+    "\\git@commithash",
+    "\\git@commitmsg",
+    "\\git@commitparent",
+    "\\git@result",
+    "\\gitchanges",
+    "\\gitcommand",
+    "\\gitcommitauthor",
+    "\\gitcommitauthoremail",
+    "\\gitcommitauthorname",
+    "\\gitcommitdate",
+    "\\gitcommithash",
+    "\\gitcommitmsg",
+    "\\latexgit"
+  ],
+  "environments": []
+}

@@ -1,0 +1,27 @@
+{
+  "commands": [
+    "\\anchor",
+    "\\ark@sym",
+    "\\arkfamily",
+    "\\carriagereturn",
+    "\\checkmark",
+    "\\dingbat@sym",
+    "\\dingbatfamily",
+    "\\eye",
+    "\\filledsquarewithdots",
+    "\\largepencil",
+    "\\leftpointright",
+    "\\leftthumbsdown",
+    "\\leftthumbsup",
+    "\\rightpointleft",
+    "\\rightpointright",
+    "\\rightthumbsdown",
+    "\\rightthumbsup",
+    "\\satellitedish",
+    "\\Sborder",
+    "\\smallpencil",
+    "\\squarewithdots",
+    "\\Zborder"
+  ],
+  "environments": []
+}

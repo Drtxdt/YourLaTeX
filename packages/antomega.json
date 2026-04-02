@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\ant@nocodes",
+    "\\ant@nolang",
+    "\\ant@nopatterns",
+    "\\ant@set@language",
+    "\\background",
+    "\\foreignlanguage",
+    "\\load",
+    "\\local@hyphenmins",
+    "\\select@language",
+    "\\selectlanguage"
+  ],
+  "environments": [
+    "otherlanguage"
+  ]
+}

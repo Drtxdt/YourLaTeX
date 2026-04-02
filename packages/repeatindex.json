@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\@idxitem",
+    "\\endtheindex",
+    "\\subitem",
+    "\\subsubitem"
+  ],
+  "environments": []
+}

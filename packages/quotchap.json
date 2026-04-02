@@ -1,0 +1,21 @@
+{
+  "commands": [
+    "\\@defaultcnfont",
+    "\\@iprintcites",
+    "\\@makechapterhead",
+    "\\@makeschapterhead",
+    "\\@newfontcmd",
+    "\\chapnumfont",
+    "\\chapterheadendvskip",
+    "\\chapterheadstartvskip",
+    "\\color",
+    "\\qauthor",
+    "\\qauthorfont",
+    "\\qsetcnfont",
+    "\\quotefont",
+    "\\sectfont"
+  ],
+  "environments": [
+    "savequote"
+  ]
+}

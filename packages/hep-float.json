@@ -1,0 +1,30 @@
+{
+  "commands": [
+    "\\begin@subcaption@minipage",
+    "\\caption",
+    "\\dbltopfraction",
+    "\\figure",
+    "\\figurehspace",
+    "\\figurevspace",
+    "\\floatpagefraction",
+    "\\graphic",
+    "\\graphics",
+    "\\hep@figure@space",
+    "\\hep@panel@space",
+    "\\hep@table@space",
+    "\\panel",
+    "\\panelhspace",
+    "\\panelvspace",
+    "\\table",
+    "\\tablehspace",
+    "\\tablevspace",
+    "\\textfraction",
+    "\\tikzsetnextfilename",
+    "\\topfraction"
+  ],
+  "environments": [
+    "figures",
+    "panels",
+    "tables"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "commands": [
+    "\\@cite",
+    "\\@makecaption",
+    "\\abstractname",
+    "\\dblfloatpagefraction",
+    "\\dblfloatsep",
+    "\\dbltextfloatsep",
+    "\\dmat",
+    "\\elem",
+    "\\familydefault",
+    "\\floatpagefraction",
+    "\\floatsep",
+    "\\intextsep",
+    "\\matr",
+    "\\normalfont",
+    "\\normalsize",
+    "\\pnorm",
+    "\\refname",
+    "\\rmdefault",
+    "\\section",
+    "\\sfdefault",
+    "\\subsection",
+    "\\subsubsection",
+    "\\textfloatsep",
+    "\\textfraction",
+    "\\vect"
+  ],
+  "environments": []
+}

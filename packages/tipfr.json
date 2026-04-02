@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\Calculatrice@nostar",
+    "\\Calculatrice@star",
+    "\\Def@Bool",
+    "\\DefBool",
+    "\\tabcolsep"
+  ],
+  "environments": []
+}

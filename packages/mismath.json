@@ -1,0 +1,41 @@
+{
+  "commands": [
+    "\\@@@norm",
+    "\\@@norm",
+    "\\@norm",
+    "\\abs",
+    "\\arraystretch",
+    "\\arrowvect",
+    "\\boldvect",
+    "\\boldvectcommand",
+    "\\C",
+    "\\changecol",
+    "\\columnseprule",
+    "\\enumber",
+    "\\hlbar",
+    "\\hvec",
+    "\\hvect",
+    "\\i",
+    "\\Im",
+    "\\inumber",
+    "\\j",
+    "\\jnumber",
+    "\\lfrac",
+    "\\mathup",
+    "\\norm",
+    "\\P",
+    "\\pi",
+    "\\pinormal",
+    "\\pow",
+    "\\Re",
+    "\\systemsep",
+    "\\systemstretch",
+    "\\tensor",
+    "\\txt"
+  ],
+  "environments": [
+    "mathcols",
+    "spmatrix",
+    "system"
+  ]
+}

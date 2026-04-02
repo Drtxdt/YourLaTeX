@@ -1,0 +1,26 @@
+{
+  "commands": [
+    "\\appendixname",
+    "\\appendixpagename",
+    "\\appendixtocname",
+    "\\efloatseparator",
+    "\\listofplates",
+    "\\listplatename",
+    "\\newfixedcaption",
+    "\\newfloat",
+    "\\newlistentry",
+    "\\newlistof",
+    "\\newsubfloat",
+    "\\platename",
+    "\\platenames",
+    "\\ProcessPlates",
+    "\\providefixedcaption",
+    "\\renewfixedcaption",
+    "\\setplatename",
+    "\\subplateautorefname",
+    "\\theplate"
+  ],
+  "environments": [
+    "plate"
+  ]
+}

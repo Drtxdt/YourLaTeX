@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\draftcopy@daytime",
+    "\\draftcopyBottomTransform",
+    "\\draftcopyBottomX",
+    "\\draftcopyBottomY",
+    "\\draftcopyFirstPage",
+    "\\draftcopyLastPage",
+    "\\draftcopyName",
+    "\\draftcopyPageTransform",
+    "\\draftcopyPageX",
+    "\\draftcopyPageY",
+    "\\draftcopySetGrey",
+    "\\draftcopySetScale",
+    "\\draftcopySetScaleFactor",
+    "\\draftcopyVersion"
+  ],
+  "environments": []
+}

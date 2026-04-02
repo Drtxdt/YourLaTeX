@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\LPTDeleteTable",
+    "\\LPTGetCellData",
+    "\\LPTGetCellMetaIndex",
+    "\\LPTGetCellParent",
+    "\\LPTGetCellShape",
+    "\\LPTGetCurrentTable",
+    "\\LPTGetTableNames",
+    "\\LPTGetTableShape",
+    "\\LPTUseTable"
+  ],
+  "environments": []
+}

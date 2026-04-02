@@ -1,0 +1,25 @@
+{
+  "commands": [
+    "\\algocf@nl@sethref",
+    "\\creflastconjunction",
+    "\\creflastconjunction@preamble",
+    "\\creflastgroupconjunction",
+    "\\creflastgroupconjunction@preamble",
+    "\\crefmiddleconjunction",
+    "\\crefmiddleconjunction@preamble",
+    "\\crefmiddlegroupconjunction",
+    "\\crefmiddlegroupconjunction@preamble",
+    "\\crefpairconjunction",
+    "\\crefpairconjunction@preamble",
+    "\\crefpairgroupconjunction",
+    "\\crefpairgroupconjunction@preamble",
+    "\\crefrangeconjunction",
+    "\\crefrangeconjunction@preamble",
+    "\\crefrangepostconjunction",
+    "\\crefrangepreconjunction",
+    "\\InTheoType",
+    "\\newaliascnt",
+    "\\thref"
+  ],
+  "environments": []
+}

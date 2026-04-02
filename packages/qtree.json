@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\branch",
+    "\\faketreewidth",
+    "\\leaf",
+    "\\poptree",
+    "\\qobitree",
+    "\\qsetw",
+    "\\qshow@text"
+  ],
+  "environments": []
+}

@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\figcap",
+    "\\tabcap"
+  ],
+  "environments": [
+    "topfloat"
+  ]
+}

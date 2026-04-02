@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\randbild@titel"
+  ],
+  "environments": [
+    "randbild",
+    "randbildbasis"
+  ]
+}

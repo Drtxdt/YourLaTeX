@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\braille",
+    "\\braillebox",
+    "\\brailledot",
+    "\\def@char",
+    "\\ln@@char",
+    "\\ln@char",
+    "\\new@char",
+    "\\old@char",
+    "\\prefix@char",
+    "\\put@dot",
+    "\\put@tinydots",
+    "\\suffix@char"
+  ],
+  "environments": []
+}

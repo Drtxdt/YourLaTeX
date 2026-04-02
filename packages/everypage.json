@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "\\AddEverypageHook",
+    "\\AddThispageHook"
+  ],
+  "environments": []
+}

@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\captcont",
+    "\\caption",
+    "\\cc@captcont",
+    "\\cc@scaptcont",
+    "\\cc@scaption",
+    "\\ccset@currentlabel"
+  ],
+  "environments": []
+}

@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\noclub",
+    "\\nowidow",
+    "\\setnoclub",
+    "\\setnowidow"
+  ],
+  "environments": []
+}

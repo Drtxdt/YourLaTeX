@@ -1,0 +1,35 @@
+{
+  "commands": [
+    "\\tableau",
+    "\\ttdefault"
+  ],
+  "environments": [
+    "algorithme",
+    "bigenumerate",
+    "cltableau",
+    "CLtableau",
+    "ctableau",
+    "Ctableau",
+    "ltableau",
+    "Ltableau",
+    "oldalgorithme",
+    "prtableau",
+    "smc@acquisitemize",
+    "smc@activiteitemize",
+    "smc@AEitemize",
+    "smc@annexeitemize",
+    "smc@commentaireitemize",
+    "smc@defitemize",
+    "smc@exappitemize",
+    "smc@exempleitemize",
+    "smc@exerciceitemize",
+    "smc@lexiqueitemize",
+    "smc@libreitemize",
+    "smc@prerequisitemize",
+    "smc@proofitemize",
+    "smc@recreationitemize",
+    "smc@remitemize",
+    "ttableau",
+    "Ttableau"
+  ]
+}

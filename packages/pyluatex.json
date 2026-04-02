@@ -1,0 +1,22 @@
+{
+  "commands": [
+    "\\py",
+    "\\pyc",
+    "\\pycq",
+    "\\pyfile",
+    "\\pyfileq",
+    "\\pyfilerepl",
+    "\\pyif",
+    "\\PyLTVerbatimEnv",
+    "\\pyluatex@boolopt",
+    "\\pyluatex@inline",
+    "\\pyoption",
+    "\\pyq",
+    "\\pysession"
+  ],
+  "environments": [
+    "python",
+    "pythonq",
+    "pythonrepl"
+  ]
+}

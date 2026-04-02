@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\cals@setcellprevdepth",
+    "\\cals@setpadding"
+  ],
+  "environments": [
+    "calstable"
+  ]
+}

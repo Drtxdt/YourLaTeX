@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\baselinestretch",
+    "\\familydefault",
+    "\\footnotesize",
+    "\\RaggedRightParindent",
+    "\\zeichenzahl",
+    "\\zeilenzahl"
+  ],
+  "environments": []
+}

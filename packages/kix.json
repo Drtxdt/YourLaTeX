@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\kixdown",
+    "\\kixlong",
+    "\\kixsync",
+    "\\kixup"
+  ],
+  "environments": []
+}

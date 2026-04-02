@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\@keyindexfile",
+    "\\keyindex",
+    "\\keyindexcommand",
+    "\\keyindexentry",
+    "\\keyindexfile",
+    "\\keyindexformat",
+    "\\keyindexonly",
+    "\\keyindexprint",
+    "\\missingkeyindexformat"
+  ],
+  "environments": []
+}

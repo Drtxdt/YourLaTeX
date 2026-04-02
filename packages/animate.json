@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\@anim@missing",
+    "\\@anim@multiframe",
+    "\\@anim@newframe",
+    "\\@anim@newframestar",
+    "\\animategraphics"
+  ],
+  "environments": [
+    "anim@export",
+    "animateinline"
+  ]
+}

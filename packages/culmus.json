@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\HeblatexEncoding",
+    "\\HeblatexEncodingFile",
+    "\\rmdefault",
+    "\\sfdefault",
+    "\\ttdefault"
+  ],
+  "environments": []
+}

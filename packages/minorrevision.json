@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\MRV@Write",
+    "\\mrvdocument",
+    "\\mrvnew",
+    "\\mrvold",
+    "\\mrvref",
+    "\\revision",
+    "\\revisionadd",
+    "\\revisionrm",
+    "\\revnew",
+    "\\revold",
+    "\\revref"
+  ],
+  "environments": []
+}

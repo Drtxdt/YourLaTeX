@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\Id",
+    "\\NewLine",
+    "\\Range",
+    "\\ShowCode",
+    "\\TextString",
+    "\\UseCode"
+  ],
+  "environments": [
+    "DefineCode"
+  ]
+}

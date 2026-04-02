@@ -1,0 +1,40 @@
+{
+  "commands": [
+    "\\colorA",
+    "\\colorB",
+    "\\hexboard",
+    "\\hexbottomsubborder",
+    "\\hexcell",
+    "\\hexcellshaded",
+    "\\hexconnect",
+    "\\hexcontent",
+    "\\hexcoord",
+    "\\hexcounter",
+    "\\hexcounterlabel",
+    "\\hexdot",
+    "\\hexedgewidth",
+    "\\hexgrid",
+    "\\hexgridnolabel",
+    "\\hexlinewidth",
+    "\\hexmove",
+    "\\hexmovenumber",
+    "\\hexreducing",
+    "\\hexreducingnoborder",
+    "\\hexscale",
+    "\\hexshadedsubrow",
+    "\\hexskipmove",
+    "\\hexsubrow",
+    "\\hexthinline",
+    "\\hexthismover",
+    "\\setcolorA",
+    "\\setcolorB",
+    "\\thiscolor",
+    "\\xchor",
+    "\\ychor"
+  ],
+  "environments": [
+    "hexgame",
+    "hexgamelabels",
+    "hexpicture"
+  ]
+}

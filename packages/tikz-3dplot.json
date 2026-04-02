@@ -1,0 +1,32 @@
+{
+  "commands": [
+    "\\tdplotcalctransformmainrot",
+    "\\tdplotcalctransformmainscreen",
+    "\\tdplotcalctransformrotmain",
+    "\\tdplotcheckdiff",
+    "\\tdplotdiv",
+    "\\tdplotdosurfaceplot",
+    "\\tdplotdrawarc",
+    "\\tdplotdrawpolytopearc",
+    "\\tdplotgetplane",
+    "\\tdplotgetpolarcoords",
+    "\\tdplotmult",
+    "\\tdplotresetpolarplotrange",
+    "\\tdplotresetrotatedcoordsorigin",
+    "\\tdplotsetcoord",
+    "\\tdplotsetmaincoords",
+    "\\tdplotsetpolarplotrange",
+    "\\tdplotsetrotatedcoords",
+    "\\tdplotsetrotatedcoordsorigin",
+    "\\tdplotsetrotatedthetaplanecoords",
+    "\\tdplotsetthetaplanecoords",
+    "\\tdplotshowargcolorguide",
+    "\\tdplotsimplesetcoord",
+    "\\tdplotsinandcos",
+    "\\tdplotsphericalsurfaceplot",
+    "\\tdplottransformmainrot",
+    "\\tdplottransformmainscreen",
+    "\\tdplottransformrotmain"
+  ],
+  "environments": []
+}

@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\timbreICMCbannerBoxConfig",
+    "\\timbreICMCcalculaBanner",
+    "\\timbreICMCconfig",
+    "\\timbreICMCfonterodape",
+    "\\timbreICMCgeraLogo",
+    "\\timbreICMCsetwatermark"
+  ],
+  "environments": []
+}

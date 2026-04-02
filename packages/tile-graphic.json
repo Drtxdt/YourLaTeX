@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\definePath",
+    "\\packagesuffix",
+    "\\setTileParams"
+  ],
+  "environments": []
+}

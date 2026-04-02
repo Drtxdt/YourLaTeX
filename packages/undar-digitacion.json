@@ -1,0 +1,36 @@
+{
+  "commands": [
+    "\\addTikz",
+    "\\addtostring",
+    "\\alteracionPalabra",
+    "\\espacioNotas",
+    "\\flautaBImg",
+    "\\flautaBLoop",
+    "\\flautaImg",
+    "\\flautaLoop",
+    "\\letraA",
+    "\\letraB",
+    "\\loppDeInstrumento",
+    "\\loppDeInstrumentoFlautaB",
+    "\\loppDeInstrumentoPinkullo",
+    "\\loppDeInstrumentoQuena",
+    "\\loppDeInstrumentoSaxofon",
+    "\\notaPalabra",
+    "\\notaParaMusixtex",
+    "\\pinkulloImg",
+    "\\pinkulloLoop",
+    "\\quenaImg",
+    "\\quenaLoop",
+    "\\saxofonImg",
+    "\\saxofonLoop",
+    "\\tamanio",
+    "\\teststring"
+  ],
+  "environments": [
+    "flautaBDibujo",
+    "flautaDibujo",
+    "pinkulloDibujo",
+    "quenaDibujo",
+    "saxofonDibujo"
+  ]
+}

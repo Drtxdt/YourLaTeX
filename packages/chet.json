@@ -1,0 +1,28 @@
+{
+  "commands": [
+    "\\abstract",
+    "\\ack",
+    "\\affiliation",
+    "\\appendices",
+    "\\cftdotsep",
+    "\\cftsecaftersnum",
+    "\\cftsubsecaftersnum",
+    "\\cftsubsubsecaftersnum",
+    "\\cfttoctitlefont",
+    "\\draftmode",
+    "\\email",
+    "\\emails",
+    "\\emailV",
+    "\\figurename",
+    "\\foot",
+    "\\footnotesize",
+    "\\mytitlefont",
+    "\\preprint",
+    "\\rcite",
+    "\\rcitedraft",
+    "\\toc"
+  ],
+  "environments": [
+    "acknowledgments"
+  ]
+}

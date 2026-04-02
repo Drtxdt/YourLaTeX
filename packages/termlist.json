@@ -1,0 +1,9 @@
+{
+  "commands": [],
+  "environments": [
+    "term",
+    "term*",
+    "termlist",
+    "termlist*"
+  ]
+}

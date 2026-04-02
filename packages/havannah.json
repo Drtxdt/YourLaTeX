@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\h@draw@hex"
+  ],
+  "environments": [
+    "HavannahBoard",
+    "HexBoard",
+    "InnerHavannahBoard",
+    "InnerHexBoard"
+  ]
+}

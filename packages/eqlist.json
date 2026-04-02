@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\eqlistauto",
+    "\\eqlistnoauto",
+    "\\longitem"
+  ],
+  "environments": [
+    "eqlist",
+    "Eqlist",
+    "eqlist*",
+    "Eqlist*"
+  ]
+}

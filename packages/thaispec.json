@@ -1,0 +1,18 @@
+{
+  "commands": [
+    "\\chaptername",
+    "\\contentsname",
+    "\\figurename",
+    "\\listfigurename",
+    "\\listtablename",
+    "\\proofname",
+    "\\refname",
+    "\\tablename",
+    "\\thaispecver",
+    "\\thesection",
+    "\\THL@thmcount"
+  ],
+  "environments": [
+    "thailang"
+  ]
+}

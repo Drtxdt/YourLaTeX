@@ -1,0 +1,21 @@
+{
+  "commands": [
+    "\\doublesectionbox",
+    "\\doublesubsectionbox",
+    "\\doublesubsubsectionbox",
+    "\\framesectionbox",
+    "\\framesubsectionbox",
+    "\\framesubsubsectionbox",
+    "\\makesectionbox",
+    "\\makesubsectionbox",
+    "\\makesubsubsectionbox",
+    "\\shadowsectionbox",
+    "\\shadowsubsectionbox",
+    "\\shadowsubsubsectionbox"
+  ],
+  "environments": [
+    "sectionbox",
+    "subsectionbox",
+    "subsubsectionbox"
+  ]
+}

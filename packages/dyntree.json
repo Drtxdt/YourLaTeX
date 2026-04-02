@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\dynbox",
+    "\\DYNTREE@numroots",
+    "\\DYNTREE@treeend",
+    "\\DYNTREE@treestop",
+    "\\lend"
+  ],
+  "environments": []
+}

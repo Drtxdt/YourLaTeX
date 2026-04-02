@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\drawthread",
+    "\\mess",
+    "\\newinst",
+    "\\newthread",
+    "\\postlevel",
+    "\\prelevel",
+    "\\setthreadbias"
+  ],
+  "environments": [
+    "call",
+    "callanother",
+    "callself",
+    "messcall",
+    "sdblock",
+    "sequencediagram"
+  ]
+}

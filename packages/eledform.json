@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\del@",
+    "\\do",
+    "\\manuscript",
+    "\\new@eledform@custom",
+    "\\print@manuscript",
+    "\\var@",
+    "\\var@@",
+    "\\varseries"
+  ],
+  "environments": []
+}

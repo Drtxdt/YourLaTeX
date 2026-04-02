@@ -1,0 +1,21 @@
+{
+  "commands": [
+    "\\@@cleardblpage",
+    "\\@@utputdblcol",
+    "\\@BAcleardblpage",
+    "\\@BAdblcol",
+    "\\@BAlancecol",
+    "\\addtocounter",
+    "\\balance",
+    "\\endeqnarray",
+    "\\nobalance",
+    "\\optionlogo",
+    "\\stepcounter",
+    "\\sublaboff",
+    "\\sublabon",
+    "\\substyle"
+  ],
+  "environments": [
+    "notation"
+  ]
+}

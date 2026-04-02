@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\fnr@ifhyperfnrA",
+    "\\fnr@ifhyperfnrN",
+    "\\fnr@ifhyperrfn",
+    "\\fnr@rangefootnote",
+    "\\fnr@rangefootnotemark"
+  ],
+  "environments": [
+    "footnoterange",
+    "footnoterange*"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\insertZugferdData",
+    "\\InsertZugferdData",
+    "\\setupZUGFeRDStrings",
+    "\\startWritingZUGFeRDxml",
+    "\\stopWritingZUGFeRDxml",
+    "\\zugferd@paymentMeans@english",
+    "\\zugferd@paymentMeans@german"
+  ],
+  "environments": []
+}

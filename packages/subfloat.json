@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\subfiguresbegin",
+    "\\subfiguresend",
+    "\\subtablesbegin",
+    "\\subtablesend"
+  ],
+  "environments": [
+    "subfigures",
+    "subtables"
+  ]
+}

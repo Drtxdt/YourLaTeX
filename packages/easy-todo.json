@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\listoftodos",
+    "\\listoftodosname",
+    "\\thetodos",
+    "\\todo",
+    "\\todocolor",
+    "\\todoenable",
+    "\\todoi",
+    "\\todoii",
+    "\\todoindexas",
+    "\\todoindexpagetitle",
+    "\\todoindextitle",
+    "\\todoobeyfinal"
+  ],
+  "environments": []
+}

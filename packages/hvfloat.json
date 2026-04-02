@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\hvFloat",
+    "\\raggedleftmarginnote",
+    "\\raggedrightmarginnote"
+  ],
+  "environments": [
+    "hvFloatEnv"
+  ]
+}

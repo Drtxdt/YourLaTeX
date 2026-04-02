@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\keytitle",
+    "\\leadONE",
+    "\\leadTWO",
+    "\\name"
+  ],
+  "environments": [
+    "key"
+  ]
+}

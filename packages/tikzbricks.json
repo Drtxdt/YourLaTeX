@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\brick",
+    "\\brick@draw",
+    "\\newrow",
+    "\\wallbrick"
+  ],
+  "environments": [
+    "wall"
+  ]
+}

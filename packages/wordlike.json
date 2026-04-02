@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\@dotsep",
+    "\\paragraph",
+    "\\section",
+    "\\subparagraph",
+    "\\subsection",
+    "\\subsubsection"
+  ],
+  "environments": []
+}

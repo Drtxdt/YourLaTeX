@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\@savefrml",
+    "\\frameliston",
+    "\\frametitle",
+    "\\printframelist",
+    "\\tgframelistbackhook",
+    "\\tgframelistfronthook"
+  ],
+  "environments": []
+}

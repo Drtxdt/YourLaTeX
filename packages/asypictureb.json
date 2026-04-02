@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\@asyerrorfilename",
+    "\\asy@angle",
+    "\\AsyCompileIfNecessary",
+    "\\ASYPIC@recordname",
+    "\\ASYPICcomparefiles",
+    "\\asyset",
+    "\\copyfile",
+    "\\deletefile",
+    "\\getfontsize",
+    "\\RequireAsyRecompile",
+    "\\shell@execute"
+  ],
+  "environments": []
+}

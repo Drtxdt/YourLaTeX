@@ -1,0 +1,21 @@
+{
+  "commands": [
+    "\\@schemata@biglbrace",
+    "\\@schemata@bigrbrace",
+    "\\@schemata@lbrace",
+    "\\@schemata@rbrace",
+    "\\DoBraces",
+    "\\DoBrackets",
+    "\\DoGroups",
+    "\\DoParens",
+    "\\LCschema",
+    "\\NudgeSB",
+    "\\SBNudgeFactor",
+    "\\schema",
+    "\\Schema",
+    "\\schemabox",
+    "\\SwitchSB",
+    "\\UCschema"
+  ],
+  "environments": []
+}

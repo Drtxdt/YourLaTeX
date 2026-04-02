@@ -1,0 +1,43 @@
+{
+  "commands": [
+    "\\ssabsgoto",
+    "\\ssarrow",
+    "\\ssarrowhead",
+    "\\ssbeginprefixcontext",
+    "\\ssbullstring",
+    "\\ssconncolor",
+    "\\sscurve",
+    "\\sscurvedarrow",
+    "\\sscurveddashedarrow",
+    "\\sscurveddashedline",
+    "\\sscurvedline",
+    "\\ssdashedarrow",
+    "\\ssdashedcurve",
+    "\\ssdashedline",
+    "\\ssdashedstroke",
+    "\\ssdottedcurve",
+    "\\ssdottedstroke",
+    "\\ssdropboxed",
+    "\\ssdropbull",
+    "\\ssdropcircled",
+    "\\ssendprefixcontext",
+    "\\ssgoto",
+    "\\ssgrayout",
+    "\\ssinfbullstring",
+    "\\ssinversearrowhead",
+    "\\ssinversevoidarrow",
+    "\\sslabelcolor",
+    "\\ssmove",
+    "\\ssmoveto",
+    "\\ssplace",
+    "\\ssplaceboxed",
+    "\\ssplacecircled",
+    "\\ssplacecolor",
+    "\\ssprefix",
+    "\\ssresetprefix",
+    "\\ssvoidarrow"
+  ],
+  "environments": [
+    "sseq"
+  ]
+}

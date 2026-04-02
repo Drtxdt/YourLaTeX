@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\figurename",
+    "\\foreignabbrfont",
+    "\\tablename",
+    "\\useparindent",
+    "\\useparskip"
+  ],
+  "environments": []
+}

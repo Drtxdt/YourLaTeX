@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\link",
+    "\\linkNoStar",
+    "\\linkStar",
+    "\\lnklabel",
+    "\\lnklabelNoStar",
+    "\\lnklabelStar"
+  ],
+  "environments": []
+}

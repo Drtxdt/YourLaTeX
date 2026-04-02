@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "\\newamsint",
+    "\\newint"
+  ],
+  "environments": []
+}

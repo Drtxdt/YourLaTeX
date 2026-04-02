@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\noto@MO",
+    "\\noto@TO",
+    "\\noto@TTO",
+    "\\NotoMath@scale",
+    "\\NotoSerifMono@scale",
+    "\\NotoText@scale"
+  ],
+  "environments": []
+}

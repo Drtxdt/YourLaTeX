@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\mpr@inferrule@"
+  ],
+  "environments": [
+    "mathpar",
+    "mathparpagebreakable"
+  ]
+}

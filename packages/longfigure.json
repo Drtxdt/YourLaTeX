@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\LFcounter",
+    "\\LFreset",
+    "\\strcfstr"
+  ],
+  "environments": []
+}

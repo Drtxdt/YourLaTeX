@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\@Rbreakcodes",
+    "\\@Rcodeformat",
+    "\\@Rfixcodes",
+    "\\@Rset",
+    "\\@Rsetstar",
+    "\\@Rvalue",
+    "\\@Rvaluestar",
+    "\\Rcode",
+    "\\Rset",
+    "\\Rtable",
+    "\\Rtilde",
+    "\\Rvalue"
+  ],
+  "environments": []
+}

@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\comp",
+    "\\galois",
+    "\\galoiS",
+    "\\Galois",
+    "\\GaloiS",
+    "\\GaloisArrowsSep",
+    "\\GaloisArrowTagSep",
+    "\\GaloisArrowThickness",
+    "\\galoiSr",
+    "\\GaloisStyle"
+  ],
+  "environments": []
+}

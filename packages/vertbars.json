@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\addtodef",
+    "\\addtomakeLNL",
+    "\\LNenv",
+    "\\pwvbLNL"
+  ],
+  "environments": [
+    "vertbar"
+  ]
+}

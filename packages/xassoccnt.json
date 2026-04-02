@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\AssociatedCounterInfoColor",
+    "\\countersresetlistcount",
+    "\\DriverCounterInfoColor",
+    "\\GeneralCounterInfoColor",
+    "\\getresetlistcount",
+    "\\LastCounterValue",
+    "\\showresetlist",
+    "\\TotalCounterInfoColor"
+  ],
+  "environments": []
+}

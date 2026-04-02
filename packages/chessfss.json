@@ -1,0 +1,18 @@
+{
+  "commands": [
+    "\\cfss@input@b@english",
+    "\\cfss@input@B@english",
+    "\\cfss@input@k@english",
+    "\\cfss@input@K@english",
+    "\\cfss@input@n@english",
+    "\\cfss@input@N@english",
+    "\\cfss@input@p@english",
+    "\\cfss@input@P@english",
+    "\\cfss@input@q@english",
+    "\\cfss@input@Q@english",
+    "\\cfss@input@r@english",
+    "\\cfss@input@R@english",
+    "\\usetextfig"
+  ],
+  "environments": []
+}

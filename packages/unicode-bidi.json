@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "\\unicode@bidi@finishlatin",
+    "\\unicode@bidi@startlatin"
+  ],
+  "environments": []
+}

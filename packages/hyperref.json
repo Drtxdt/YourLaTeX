@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\@BIBLABEL",
+    "\\Hy@defaultdriver",
+    "\\Hy@DestRename",
+    "\\Hy@DistillerDestFix",
+    "\\HyNew@float@makebox",
+    "\\hyper@destlabel@hook",
+    "\\HyperDestRename",
+    "\\HyPL@StorePageLabel",
+    "\\numberwithin",
+    "\\sub@label",
+    "\\XeTeXLink@space",
+    "\\XeTeXLinkBox"
+  ],
+  "environments": []
+}

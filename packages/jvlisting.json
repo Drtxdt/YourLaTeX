@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\ListingTypesetLine",
+    "\\postlistingskip",
+    "\\prelistingskip"
+  ],
+  "environments": []
+}

@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "\\DefineCodeSection",
+    "\\SetCodeSection"
+  ],
+  "environments": []
+}

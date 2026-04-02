@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc && vite build && electron-builder",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "extract:latex-packages": "node scripts/extract-latex-packages.mjs"
   },
   "dependencies": {
     "iconv-lite": "^0.7.2",

@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\ShowCharInBox",
+    "\\showcharinbox@arrows",
+    "\\showcharinbox@date",
+    "\\showcharinbox@hidehrule",
+    "\\showcharinbox@hidevrule",
+    "\\showcharinbox@makeblankbox",
+    "\\showcharinbox@makelightbox",
+    "\\showcharinbox@maketypebox",
+    "\\showcharinbox@samplebox",
+    "\\showcharinbox@version"
+  ],
+  "environments": []
+}

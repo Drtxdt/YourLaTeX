@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\boxbot@jaska",
+    "\\boxdbl@jaska",
+    "\\boxmid@jaska",
+    "\\boxnot@jaska",
+    "\\boxtop@jaska",
+    "\\cablk",
+    "\\cbblk",
+    "\\frml@jaska",
+    "\\Jproof",
+    "\\KMproof",
+    "\\proofline",
+    "\\setstylej@jaska",
+    "\\setstylekm@jaska",
+    "\\showmark@jaska"
+  ],
+  "environments": []
+}

@@ -1,0 +1,8 @@
+{
+  "commands": [],
+  "environments": [
+    "importantnote",
+    "informationnote",
+    "warningnote"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\@DRAFTwatermark",
+    "\\@HUGE",
+    "\\@wmstyle",
+    "\\@wmtext",
+    "\\defnote",
+    "\\listnotesname",
+    "\\listofnotes",
+    "\\NOTES@addtolist",
+    "\\NOTES@colorline",
+    "\\NOTES@defnoteimpl",
+    "\\NOTES@inlinemarker",
+    "\\NOTES@marginmarker",
+    "\\NOTES@marker",
+    "\\NOTES@usemarker"
+  ],
+  "environments": []
+}

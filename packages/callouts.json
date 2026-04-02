@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\arcol",
+    "\\arrow",
+    "\\bgcol",
+    "\\callout",
+    "\\focol",
+    "\\helpgrid",
+    "\\note"
+  ],
+  "environments": [
+    "annotate"
+  ]
+}

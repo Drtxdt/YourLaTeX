@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\bottomline",
+    "\\narrowraggedleft",
+    "\\pairing"
+  ],
+  "environments": [
+    "pairingline",
+    "taggedline"
+  ]
+}

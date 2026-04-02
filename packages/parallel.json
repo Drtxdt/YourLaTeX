@@ -1,0 +1,22 @@
+{
+  "commands": [
+    "\\makelabel",
+    "\\ParallelAfterText",
+    "\\ParallelAtEnd",
+    "\\ParallelCheckOpenBrace",
+    "\\ParallelDot",
+    "\\ParallelLFootnote",
+    "\\ParallelLText",
+    "\\ParallelMessage",
+    "\\ParallelPar",
+    "\\ParallelParOnePage",
+    "\\ParallelParTwoPages",
+    "\\ParallelRFootnote",
+    "\\ParallelRText",
+    "\\ParallelShowFNList"
+  ],
+  "environments": [
+    "Parallel",
+    "ParallelFNEnviron"
+  ]
+}

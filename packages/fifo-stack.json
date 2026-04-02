@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "\\FSClear",
+    "\\FSDestroy"
+  ],
+  "environments": []
+}

@@ -1,0 +1,32 @@
+{
+  "commands": [
+    "\\Co",
+    "\\Com",
+    "\\Cop",
+    "\\go",
+    "\\Hd",
+    "\\Ho",
+    "\\Hod",
+    "\\Hou",
+    "\\Hu",
+    "\\No",
+    "\\pho",
+    "\\sfer",
+    "\\sle",
+    "\\slep",
+    "\\slmu",
+    "\\slneu",
+    "\\sltau",
+    "\\sqb",
+    "\\sqc",
+    "\\sqd",
+    "\\sqk",
+    "\\sqs",
+    "\\sqt",
+    "\\squ",
+    "\\tbeta",
+    "\\Wo",
+    "\\Zo"
+  ],
+  "environments": []
+}

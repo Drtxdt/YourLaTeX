@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\@makefnmark",
+    "\\amssubjname",
+    "\\authorfnname",
+    "\\footnotecomma",
+    "\\keywordsname",
+    "\\runningtitlename",
+    "\\unmarkedfntext"
+  ],
+  "environments": []
+}

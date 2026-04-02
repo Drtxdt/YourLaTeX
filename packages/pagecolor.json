@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\backgroundpagecolor",
+    "\\newbackgroundpagecolor",
+    "\\newpagecolor",
+    "\\nopagecolor",
+    "\\pagecolor",
+    "\\restorebackgroundpagecolor",
+    "\\restorepagecolor"
+  ],
+  "environments": []
+}

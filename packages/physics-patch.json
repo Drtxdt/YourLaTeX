@@ -1,0 +1,32 @@
+{
+  "commands": [
+    "\\acos",
+    "\\acosecant",
+    "\\acosine",
+    "\\acot",
+    "\\acotangent",
+    "\\acsc",
+    "\\arccosecant",
+    "\\arccot",
+    "\\arccotangent",
+    "\\arccsc",
+    "\\arcsec",
+    "\\arcsecant",
+    "\\asec",
+    "\\asecant",
+    "\\asin",
+    "\\asine",
+    "\\atan",
+    "\\atangent",
+    "\\csch",
+    "\\erf",
+    "\\hypcosecant",
+    "\\hypsecant",
+    "\\rank",
+    "\\Residue",
+    "\\sech",
+    "\\trace",
+    "\\Trace"
+  ],
+  "environments": []
+}

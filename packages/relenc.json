@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\DeclareTextVariableAccent",
+    "\\DeclareVariableTextComposition",
+    "\\DefineTextAccentVariant",
+    "\\DefineTextCommandVariant",
+    "\\DefineTextSymbolVariant",
+    "\\NewTextCommandVariant",
+    "\\ProvideTextCommandVariant",
+    "\\RenewTextCommandVariant",
+    "\\SetEncodingSearchPath",
+    "\\SetFamilySearchPath",
+    "\\ShowVariantSearchResult"
+  ],
+  "environments": []
+}

@@ -1,0 +1,41 @@
+{
+  "commands": [
+    "\\genacrfullformat",
+    "\\Genacrfullformat",
+    "\\genplacrfullformat",
+    "\\Genplacrfullformat",
+    "\\glosmath@acrlang",
+    "\\glosmath@acrmain",
+    "\\glosmath@Acrmain",
+    "\\glosmath@acrmainpl",
+    "\\glosmath@Acrmainpl",
+    "\\glosmath@acrpar",
+    "\\glosmath@Acrpar",
+    "\\glosmath@acrparpl",
+    "\\glosmath@Acrparpl",
+    "\\glosmath@getMyGlsMacro",
+    "\\glosmath@glsviRelay",
+    "\\glosmath@glsvisubRelay",
+    "\\glosmath@setLone",
+    "\\glosmath@setLoneLtwo",
+    "\\glosmath@setLtwo",
+    "\\glosmath@setLtwoLone",
+    "\\glossaryheader",
+    "\\glossentry",
+    "\\glosstyledesc",
+    "\\glsac",
+    "\\glscatnamefmt",
+    "\\glslang",
+    "\\glsub",
+    "\\glsubs",
+    "\\glsvi",
+    "\\glsvisub",
+    "\\newglosentrymath",
+    "\\sbu",
+    "\\setacronymlang",
+    "\\subglossentry"
+  ],
+  "environments": [
+    "acronymlang"
+  ]
+}

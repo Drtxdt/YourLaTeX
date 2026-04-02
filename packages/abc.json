@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\abc@cmd",
+    "\\abc@epstopdfcmd",
+    "\\abc@parm",
+    "\\abc@pdfext",
+    "\\abcwidth"
+  ],
+  "environments": []
+}

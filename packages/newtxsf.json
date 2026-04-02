@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\AmSfont",
+    "\\Big",
+    "\\bigg",
+    "\\Bigg",
+    "\\iiiint",
+    "\\iiint",
+    "\\iint",
+    "\\ShowMathFonts",
+    "\\txvec",
+    "\\widering"
+  ],
+  "environments": []
+}

@@ -1,0 +1,20 @@
+{
+  "commands": [
+    "\\inj",
+    "\\isom",
+    "\\la",
+    "\\linj",
+    "\\lisom",
+    "\\lmapsto",
+    "\\lppf",
+    "\\lra",
+    "\\lsmapsto",
+    "\\lsurj",
+    "\\mapsto",
+    "\\ppf",
+    "\\ra",
+    "\\smapsto",
+    "\\surj"
+  ],
+  "environments": []
+}

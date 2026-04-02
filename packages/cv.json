@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\entrylabel",
+    "\\makelabel",
+    "\\section"
+  ],
+  "environments": [
+    "CV"
+  ]
+}

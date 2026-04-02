@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\@nthbottom",
+    "\\@nthtop",
+    "\\@varnthbottom",
+    "\\@varnthtop",
+    "\\Da",
+    "\\DA",
+    "\\DbA",
+    "\\DmA",
+    "\\Ds",
+    "\\Ia",
+    "\\IA",
+    "\\IbA",
+    "\\ImA",
+    "\\Is"
+  ],
+  "environments": []
+}

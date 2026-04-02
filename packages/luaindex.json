@@ -1,0 +1,26 @@
+{
+  "commands": [
+    "\\indexgroup",
+    "\\indexpagenumber",
+    "\\indexpagenumbers",
+    "\\indexpagenumbersep",
+    "\\indexspace",
+    "\\lua@@@subindex",
+    "\\lua@@subindex",
+    "\\lua@index",
+    "\\lua@subindex",
+    "\\lua@subsubindex",
+    "\\luaindex",
+    "\\luaindex@pageformat",
+    "\\luaindex@sortorder",
+    "\\luasubindex",
+    "\\luasubsubindex",
+    "\\makeindex",
+    "\\newindex",
+    "\\numbersname",
+    "\\printindex",
+    "\\setupluaindex",
+    "\\symbolsname"
+  ],
+  "environments": []
+}

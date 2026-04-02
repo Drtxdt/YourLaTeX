@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\aruby",
+    "\\atruby",
+    "\\jkenten",
+    "\\jruby",
+    "\\kenten",
+    "\\ruby",
+    "\\truby"
+  ],
+  "environments": []
+}

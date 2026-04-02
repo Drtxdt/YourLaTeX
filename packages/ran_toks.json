@@ -1,0 +1,18 @@
+{
+  "commands": [
+    "\\bRTVToks",
+    "\\displ@yListRandomly",
+    "\\displayListRandomly",
+    "\\eRTVToks",
+    "\\makeInfoAWarning",
+    "\\nToksFor",
+    "\\rtTokByNum",
+    "\\uniqueXDBChoicesOff",
+    "\\uniqueXDBChoicesOn",
+    "\\useRanTok",
+    "\\useRTName"
+  ],
+  "environments": [
+    "rtVW"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "commands": [],
+  "environments": [
+    "example",
+    "g@matrix",
+    "gmatrix"
+  ]
+}

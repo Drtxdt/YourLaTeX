@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\cite",
+    "\\gcitefootpostsep",
+    "\\gcitefootpresep",
+    "\\gciteitemsep"
+  ],
+  "environments": []
+}

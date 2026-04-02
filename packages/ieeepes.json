@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\subsection",
+    "\\subsubsection"
+  ],
+  "environments": [
+    "biography",
+    "Figure",
+    "Table"
+  ]
+}

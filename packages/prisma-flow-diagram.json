@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\prismaflowarrow",
+    "\\prismaflowend",
+    "\\prismaflownode",
+    "\\prismaflowstart",
+    "\\prismalabel"
+  ],
+  "environments": []
+}

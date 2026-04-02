@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\breakbox",
+    "\\definmot",
+    "\\env",
+    "\\itemclass"
+  ],
+  "environments": [
+    "ant",
+    "nabox"
+  ]
+}

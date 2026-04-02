@@ -1,0 +1,18 @@
+{
+  "commands": [
+    "\\@path",
+    "\\DeclareSortingTemplate",
+    "\\hep@bib@online",
+    "\\hep@email",
+    "\\hep@reg@exp@one",
+    "\\hep@reg@exp@pmc",
+    "\\hep@reg@exp@two",
+    "\\hep@reg@exp@url",
+    "\\letbibmacro",
+    "\\online",
+    "\\relateddelimerratum",
+    "\\subtitlepunct",
+    "\\tstyle"
+  ],
+  "environments": []
+}

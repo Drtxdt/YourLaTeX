@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\bigint",
+    "\\bigints",
+    "\\bigintss",
+    "\\bigintsss",
+    "\\bigintssss",
+    "\\bigoint",
+    "\\bigoints",
+    "\\bigointss",
+    "\\bigointsss",
+    "\\bigointssss"
+  ],
+  "environments": []
+}

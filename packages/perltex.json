@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\plmac@await@existence",
+    "\\plmac@IfFileExists",
+    "\\plmac@write@perl",
+    "\\plmac@write@perl@i"
+  ],
+  "environments": []
+}

@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\arcctg",
+    "\\arctg",
+    "\\ch",
+    "\\ctg",
+    "\\cth",
+    "\\sh",
+    "\\tg",
+    "\\tgh"
+  ],
+  "environments": []
+}

@@ -1,0 +1,30 @@
+{
+  "commands": [
+    "\\@pagenote",
+    "\\@printnotes",
+    "\\@sprintnotes",
+    "\\@wrpnote",
+    "\\addtonotes",
+    "\\chaptername",
+    "\\f@rtoc",
+    "\\immediate@protected@write",
+    "\\makepagenote",
+    "\\notedivision",
+    "\\noteentry",
+    "\\noteidinnotes",
+    "\\noteinnotes",
+    "\\notenuminnotes",
+    "\\notenumintext",
+    "\\notesname",
+    "\\pageinnotes",
+    "\\pagename",
+    "\\pnofilewarn",
+    "\\postnoteinnotes",
+    "\\prenoteinnotes",
+    "\\printnotes",
+    "\\sectionname",
+    "\\textinnotes",
+    "\\thepagenote"
+  ],
+  "environments": []
+}

@@ -1,0 +1,23 @@
+{
+  "commands": [
+    "\\drawframe",
+    "\\drawinstfoot",
+    "\\drawinsthead",
+    "\\messarrowscale",
+    "\\msc@caseFiveEither",
+    "\\msc@savebox",
+    "\\msc@StrEqEither",
+    "\\mscgetx",
+    "\\mscgety",
+    "\\nogrid",
+    "\\sethmsckeyword",
+    "\\sethmsckeywordstyle",
+    "\\setmscdockeyword",
+    "\\setmscdockeywordstyle",
+    "\\setmsckeyword",
+    "\\setmsckeywordstyle",
+    "\\setmscscale",
+    "\\showgrid"
+  ],
+  "environments": []
+}

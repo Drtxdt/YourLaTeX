@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\@chapter",
+    "\\@makechapterhead",
+    "\\@makeschapterhead",
+    "\\ebook",
+    "\\familydefault",
+    "\\pagefill",
+    "\\seriesdefault"
+  ],
+  "environments": []
+}

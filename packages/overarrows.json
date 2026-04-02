@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\arraystretch",
+    "\\ovar@row@teststyle",
+    "\\ovar@set",
+    "\\ovar@testmathstyles",
+    "\\SetOverArrowsSubscriptCommand",
+    "\\smallermathstyle"
+  ],
+  "environments": []
+}

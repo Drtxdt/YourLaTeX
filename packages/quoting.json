@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\quo@doendquo",
+    "\\quo@doendquoclub",
+    "\\quotingfont",
+    "\\quotingsetup"
+  ],
+  "environments": [
+    "quoting"
+  ]
+}

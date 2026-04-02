@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\@bibitem",
+    "\\@biblabel",
+    "\\bibprefix",
+    "\\org@@bibitem"
+  ],
+  "environments": []
+}

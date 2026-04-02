@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\@n@mesp@ce",
+    "\\@n@mesp@cestar",
+    "\\namespace",
+    "\\usingnamespace"
+  ],
+  "environments": []
+}

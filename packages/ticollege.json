@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\Aff",
+    "\\Calculator@nostar",
+    "\\Calculator@star",
+    "\\ContrastDown",
+    "\\ContrastUp",
+    "\\Div",
+    "\\tabcolsep",
+    "\\TiCDef@Bool",
+    "\\TiCDefBool"
+  ],
+  "environments": []
+}

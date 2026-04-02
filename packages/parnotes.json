@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\multfootsep",
+    "\\multiplefootnotemarker",
+    "\\parnotecusmarkfmt",
+    "\\parnotefmt",
+    "\\parnoteintercmd",
+    "\\parnotevskip",
+    "\\theparnotemark"
+  ],
+  "environments": [
+    "autopn"
+  ]
+}

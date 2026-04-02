@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\Bottomheat",
+    "\\Dish",
+    "\\Fanoven",
+    "\\Fork",
+    "\\Gasstove",
+    "\\Gloves",
+    "\\Knife",
+    "\\Oven",
+    "\\Spoon",
+    "\\Topbottomheat",
+    "\\Topheat"
+  ],
+  "environments": []
+}

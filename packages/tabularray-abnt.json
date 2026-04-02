@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\cftquadroaftersnum",
+    "\\cftquadroname",
+    "\\listadequadros",
+    "\\listquadroname",
+    "\\quadroname",
+    "\\tabularray@abnt@tblr@count@roman"
+  ],
+  "environments": []
+}

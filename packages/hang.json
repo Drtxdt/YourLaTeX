@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\makelabel"
+  ],
+  "environments": [
+    "compacthang",
+    "compactlabel",
+    "hanginglist",
+    "hangingpar",
+    "labeledlist",
+    "labeledpar"
+  ]
+}

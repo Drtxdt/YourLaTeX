@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\UbuntuClose",
+    "\\UbuntuMax",
+    "\\UbuntuMin",
+    "\\WindowsLogo"
+  ],
+  "environments": []
+}

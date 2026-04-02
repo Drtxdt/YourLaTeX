@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\@initisofig",
+    "\\@initisotab",
+    "\\clockwise",
+    "\\controtcaption",
+    "\\counterclockwise",
+    "\\figuresleft",
+    "\\figuresright",
+    "\\rotatedirection",
+    "\\rotcapfont"
+  ],
+  "environments": [
+    "sidewaysfigure*",
+    "sidewaystable*"
+  ]
+}

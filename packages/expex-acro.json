@@ -1,0 +1,20 @@
+{
+  "commands": [
+    "\\bad",
+    "\\dbqu",
+    "\\do",
+    "\\gl",
+    "\\glossingAbbrevsList",
+    "\\lxm",
+    "\\mexref",
+    "\\newGlossingAbbrev",
+    "\\obj",
+    "\\ort",
+    "\\pnm",
+    "\\pnt",
+    "\\qu",
+    "\\rc",
+    "\\ungr"
+  ],
+  "environments": []
+}

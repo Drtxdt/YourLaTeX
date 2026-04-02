@@ -1,0 +1,23 @@
+{
+  "commands": [
+    "\\fontAuthor",
+    "\\FontAuthor",
+    "\\fontEmail",
+    "\\FontEmail",
+    "\\fontInst",
+    "\\FontInst",
+    "\\fontLeftFoot",
+    "\\FontLeftFoot",
+    "\\fontRightFoot",
+    "\\FontRightFoot",
+    "\\fontToc",
+    "\\FontToc",
+    "\\HAP@maketitle",
+    "\\HAP@PutLF",
+    "\\HAP@PutRF",
+    "\\maketitle",
+    "\\NewSlideStyle",
+    "\\xitemwait"
+  ],
+  "environments": []
+}

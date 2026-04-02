@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\Cpp",
+    "\\paragraph",
+    "\\section",
+    "\\subsection",
+    "\\subsubsection"
+  ],
+  "environments": []
+}

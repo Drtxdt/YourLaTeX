@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\listingscaption",
+    "\\listoflistings",
+    "\\listoflistingscaption",
+    "\\minted@def@optcl",
+    "\\mintedpgfkeyscreate",
+    "\\newmint",
+    "\\newminted",
+    "\\newmintedfile",
+    "\\newmintinline",
+    "\\setminted",
+    "\\setmintedinline",
+    "\\usemintedstyle"
+  ],
+  "environments": [
+    "minted"
+  ]
+}

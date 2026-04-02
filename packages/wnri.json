@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\encodingdefault",
+    "\\rmdefault",
+    "\\sfdefault",
+    "\\ttdefault"
+  ],
+  "environments": []
+}

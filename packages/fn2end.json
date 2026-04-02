@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\@copynote",
+    "\\@setupcopy",
+    "\\makeendnotes",
+    "\\notenumberformat",
+    "\\restorefootnotes",
+    "\\theendnotes"
+  ],
+  "environments": []
+}

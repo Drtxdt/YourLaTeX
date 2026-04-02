@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\constraintdeclare",
+    "\\constraintdeclarealias",
+    "\\constraintdeclareasnode",
+    "\\constraintdeclareshape",
+    "\\orm@font",
+    "\\orm@font@bold",
+    "\\orm@font@bold@scriptsize",
+    "\\orm@font@scriptsize",
+    "\\orm@font@tiny",
+    "\\orm@textsubscript"
+  ],
+  "environments": []
+}

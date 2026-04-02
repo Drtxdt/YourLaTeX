@@ -1,0 +1,25 @@
+{
+  "commands": [
+    "\\ExecuteAfterPackage",
+    "\\ExecuteBeforePackage",
+    "\\IfBibEnvironmentDefined",
+    "\\IfColorDefined",
+    "\\IfColorsDefined",
+    "\\IfColumntypesDefined",
+    "\\IfDefined",
+    "\\IfDraft",
+    "\\IfElseDefined",
+    "\\IfElseUndefined",
+    "\\IfGlossariesStyleDefined",
+    "\\IfMathVersionDefined",
+    "\\IfMultDefined",
+    "\\IfNotDraft",
+    "\\IfNotDraftElse",
+    "\\IfPackageLoaded",
+    "\\IfPackageNotLoaded",
+    "\\IfPackagesLoaded",
+    "\\IfPackagesNotLoaded",
+    "\\IfUndefined"
+  ],
+  "environments": []
+}

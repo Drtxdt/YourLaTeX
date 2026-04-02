@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\appendsubframes",
+    "\\bsfrestore",
+    "\\ifappend",
+    "\\ifsubframe"
+  ],
+  "environments": [
+    "subframe"
+  ]
+}

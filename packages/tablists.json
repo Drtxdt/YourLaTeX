@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\@TeXr@subtabenum",
+    "\\@TeXr@tabenum"
+  ],
+  "environments": [
+    "rsubtabenum",
+    "rtabenum"
+  ]
+}

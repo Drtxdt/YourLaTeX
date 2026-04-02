@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\dtc",
+    "\\dtd",
+    "\\uhr",
+    "\\uhri",
+    "\\uhrii",
+    "\\uhriii",
+    "\\uhriv",
+    "\\vonbis"
+  ],
+  "environments": []
+}

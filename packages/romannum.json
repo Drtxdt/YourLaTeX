@@ -1,0 +1,20 @@
+{
+  "commands": [
+    "\\romannum",
+    "\\thechapter",
+    "\\theenumi",
+    "\\theenumiii",
+    "\\theequation",
+    "\\thefigure",
+    "\\thefootnote",
+    "\\theparagraph",
+    "\\thern@mday",
+    "\\thern@myear",
+    "\\thesection",
+    "\\thesubparagraph",
+    "\\thesubsection",
+    "\\thesubsubsection",
+    "\\thetable"
+  ],
+  "environments": []
+}

@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\@pnumwidth",
+    "\\@tocrmarg",
+    "\\CPKpoststrut",
+    "\\CPKprestrut",
+    "\\CPKrunningecho",
+    "\\CPKvstrut"
+  ],
+  "environments": []
+}

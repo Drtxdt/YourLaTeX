@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\mymac",
+    "\\newshadetheorem",
+    "\\shadesetinsideminipage",
+    "\\sth@getcaption",
+    "\\sth@getwithin",
+    "\\thmwithcmykcolor",
+    "\\thmwithnamedcolor"
+  ],
+  "environments": [
+    "shadebox"
+  ]
+}

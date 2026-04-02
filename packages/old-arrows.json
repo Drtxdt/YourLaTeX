@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\varxhookleftarrow",
+    "\\varxhookrightarrow",
+    "\\varxleftarrow",
+    "\\varxleftrightarrow",
+    "\\varxmapsfrom",
+    "\\varxmapsto",
+    "\\varxrightarrow",
+    "\\xhookleftarrow",
+    "\\xhookrightarrow",
+    "\\xleftrightarrow",
+    "\\xmapsfrom",
+    "\\xmapsto"
+  ],
+  "environments": []
+}

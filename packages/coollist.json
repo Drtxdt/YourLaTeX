@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\COOL@listEnd",
+    "\\COOL@listStop",
+    "\\listcopy",
+    "\\listlen",
+    "\\listlenstore",
+    "\\liststore",
+    "\\listsum",
+    "\\listval",
+    "\\setlistEnd",
+    "\\setlistStop"
+  ],
+  "environments": []
+}

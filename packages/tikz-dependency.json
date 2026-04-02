@@ -1,0 +1,20 @@
+{
+  "commands": [
+    "\\depedge",
+    "\\depkeys",
+    "\\deproot",
+    "\\depstyle",
+    "\\groupedge",
+    "\\matrixref",
+    "\\rootref",
+    "\\settgtlayer",
+    "\\storefirstcorner",
+    "\\storelabelnode",
+    "\\storesecondcorner",
+    "\\wordgroup",
+    "\\wordref"
+  ],
+  "environments": [
+    "dependency"
+  ]
+}

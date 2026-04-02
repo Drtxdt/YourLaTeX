@@ -1,0 +1,43 @@
+{
+  "commands": [
+    "\\aboveCaptionSpace",
+    "\\arrangedFigContent",
+    "\\epsContent",
+    "\\includeEps",
+    "\\includeEpsNow",
+    "\\includeEpsWrap",
+    "\\includeEpsWrapNow",
+    "\\includeSideWaysEps",
+    "\\includeSideWaysEpsNow",
+    "\\includeStandardGraph",
+    "\\includeStandardGraphNow",
+    "\\includeStandardSideWaysGraph",
+    "\\includeStandardSideWaysGraphNow",
+    "\\isFirstSubFig",
+    "\\labelPrefix",
+    "\\miniplot",
+    "\\myCaptionText",
+    "\\myLabel",
+    "\\newSubFig",
+    "\\numSubFigCol",
+    "\\numSubSubFigCol",
+    "\\printLabel",
+    "\\resetMiniPlot",
+    "\\setSubFigScale",
+    "\\setWrapFigOverhang",
+    "\\standardGraphScale",
+    "\\subFig",
+    "\\subfigcapmargin",
+    "\\subLabelSuffix",
+    "\\wrappedEpsContent"
+  ],
+  "environments": [
+    "arrangedFigure",
+    "arrangedFigureNow",
+    "arrangedSideWaysFigure",
+    "arrangedSideWaysFigureNow",
+    "arrangedWrapFigure",
+    "arrangedWrapFigureNow",
+    "centerlineenv"
+  ]
+}

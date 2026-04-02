@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\GetTitleString",
+    "\\GetTitleStringExpand",
+    "\\GetTitleStringNonExpand",
+    "\\GetTitleStringSetup",
+    "\\GTS@DisableHook"
+  ],
+  "environments": []
+}

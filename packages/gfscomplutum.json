@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\rmdefault",
+    "\\textcomplutum"
+  ],
+  "environments": [
+    "complutum"
+  ]
+}

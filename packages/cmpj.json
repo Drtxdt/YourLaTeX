@@ -1,0 +1,26 @@
+{
+  "commands": [
+    "\\@ptsize",
+    "\\addr",
+    "\\bibfont",
+    "\\bibnumfmt",
+    "\\encodingdefault",
+    "\\footrulewidth",
+    "\\headrulewidth",
+    "\\Im",
+    "\\Img",
+    "\\labelenumi",
+    "\\plainfootrulewidth",
+    "\\plainheadrulewidth",
+    "\\rd",
+    "\\re",
+    "\\Re",
+    "\\Real",
+    "\\refaddr",
+    "\\ri",
+    "\\sfdefault",
+    "\\ukrainianpart",
+    "\\ukrclosing"
+  ],
+  "environments": []
+}

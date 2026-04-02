@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\autoaccountingarcoff",
+    "\\autoaccountingarcon",
+    "\\autoaccountingoff",
+    "\\autoaccountingon",
+    "\\plottedat",
+    "\\restoreanglesyntax"
+  ],
+  "environments": []
+}

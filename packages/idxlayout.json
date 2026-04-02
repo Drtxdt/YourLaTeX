@@ -1,0 +1,24 @@
+{
+  "commands": [
+    "\\@idxitem",
+    "\\idxlayout",
+    "\\ila@classtype",
+    "\\ila@defradiokey",
+    "\\ila@hangindent",
+    "\\ila@prenote",
+    "\\ila@RaggedRight",
+    "\\ila@subindent",
+    "\\ila@subsubindent",
+    "\\indexfont",
+    "\\indexjustific",
+    "\\indexspace",
+    "\\indexstheadcase",
+    "\\indexsubsdelim",
+    "\\MakeMarkcase",
+    "\\noindexprenote",
+    "\\setindexprenote",
+    "\\subitem",
+    "\\subsubitem"
+  ],
+  "environments": []
+}

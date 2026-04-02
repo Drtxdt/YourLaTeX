@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\@ifdefined",
+    "\\prevrepl",
+    "\\repl@text@i",
+    "\\repl@text@ii",
+    "\\repltext"
+  ],
+  "environments": []
+}

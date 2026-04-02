@@ -1,0 +1,31 @@
+{
+  "commands": [
+    "\\Alt",
+    "\\AltGr",
+    "\\Break",
+    "\\BSpace",
+    "\\Ctrl",
+    "\\DArrow",
+    "\\Del",
+    "\\End",
+    "\\Enter",
+    "\\Esc",
+    "\\Home",
+    "\\Ins",
+    "\\LArrow",
+    "\\NumLock",
+    "\\PgDown",
+    "\\PgUp",
+    "\\PrtSc",
+    "\\RArrow",
+    "\\Return",
+    "\\Scroll",
+    "\\Shift",
+    "\\Spacebar",
+    "\\suse@@tab",
+    "\\suse@tab",
+    "\\Tab",
+    "\\UArrow"
+  ],
+  "environments": []
+}

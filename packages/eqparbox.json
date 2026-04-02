@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\eqboxwidth",
+    "\\eqp@settowidth",
+    "\\eqp@storefont",
+    "\\eqsetmaxwidth",
+    "\\eqsetmaxwidthto",
+    "\\eqsetminwidth",
+    "\\eqsetminwidthto",
+    "\\item"
+  ],
+  "environments": []
+}

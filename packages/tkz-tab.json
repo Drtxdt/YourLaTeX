@@ -1,0 +1,18 @@
+{
+  "commands": [
+    "\\tkzDrawArrow",
+    "\\tkzTab",
+    "\\tkzTabColors",
+    "\\tkzTabIma",
+    "\\tkzTabImaFrom",
+    "\\tkzTabInit",
+    "\\tkzTabLine",
+    "\\tkzTabSetup",
+    "\\tkzTabSlope",
+    "\\tkzTabTan",
+    "\\tkzTabTanFrom",
+    "\\tkzTabVal",
+    "\\tkzTabVar"
+  ],
+  "environments": []
+}

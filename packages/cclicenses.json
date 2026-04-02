@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\by",
+    "\\bync",
+    "\\byncnd",
+    "\\byncsa",
+    "\\bynd",
+    "\\bysa",
+    "\\nc",
+    "\\ncsa",
+    "\\nd",
+    "\\ndnc",
+    "\\sa",
+    "\\SA@arrow"
+  ],
+  "environments": []
+}

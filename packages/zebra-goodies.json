@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\zebr@marginnote",
+    "\\zebr@note@",
+    "\\zebr@prepend"
+  ],
+  "environments": []
+}

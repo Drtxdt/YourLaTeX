@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\accentcolor",
+    "\\commonfont",
+    "\\commonsymb",
+    "\\csthmpkg",
+    "\\email",
+    "\\setaccentcolor"
+  ],
+  "environments": []
+}

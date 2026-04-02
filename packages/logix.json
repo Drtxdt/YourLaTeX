@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\arraystretch"
+  ],
+  "environments": [
+    "KnotGrid",
+    "LogixAxiom",
+    "LogixDefn",
+    "LogixProof",
+    "LogixSeqnt",
+    "LogixTable"
+  ]
+}

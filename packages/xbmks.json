@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\belowpdfbookmarkx",
+    "\\currentpdfbookmarkx",
+    "\\subpdfbookmarkx",
+    "\\x@docbundle",
+    "\\xbmk@docID",
+    "\\xbmk@recordDoc",
+    "\\xbmksetup",
+    "\\xbmksetupi"
+  ],
+  "environments": []
+}

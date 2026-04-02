@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\fbEps",
+    "\\fbEpsfig",
+    "\\fbEpsfigM",
+    "\\fbEpsM",
+    "\\figbibitem"
+  ],
+  "environments": [
+    "fbFloat",
+    "fbForce",
+    "fbMinipage",
+    "thefigbiblist"
+  ]
+}

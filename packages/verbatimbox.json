@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\@macro@name"
+  ],
+  "environments": [
+    "myverbbox",
+    "origverbbox",
+    "verbbox",
+    "verbnobox"
+  ]
+}

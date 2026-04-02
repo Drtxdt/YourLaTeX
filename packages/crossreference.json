@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "\\addxref",
+    "\\xref"
+  ],
+  "environments": []
+}

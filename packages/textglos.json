@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\gl",
+    "\\lingpoststyle",
+    "\\lingprestyle",
+    "\\shorteq"
+  ],
+  "environments": []
+}

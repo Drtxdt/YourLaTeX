@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\fltditem",
+    "\\fltitem"
+  ],
+  "environments": [
+    "floatingfigure",
+    "floatingtable"
+  ]
+}

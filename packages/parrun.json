@@ -1,0 +1,26 @@
+{
+  "commands": [
+    "\\AutoCompute",
+    "\\b@xbalance",
+    "\\dobalance",
+    "\\dosplits",
+    "\\finalbalance",
+    "\\firsterror",
+    "\\m@kelayout",
+    "\\myline",
+    "\\Place",
+    "\\rigidbalance",
+    "\\sec@nderror",
+    "\\splitb@x",
+    "\\splitoff",
+    "\\UsefulLengthsTable",
+    "\\UserDefWidths",
+    "\\v@idb@xbalance",
+    "\\v@idb@xone",
+    "\\v@idb@xtwo"
+  ],
+  "environments": [
+    "fframe",
+    "sframe"
+  ]
+}

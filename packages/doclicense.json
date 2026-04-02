@@ -1,0 +1,42 @@
+{
+  "commands": [
+    "\\doclicense@baseUrlCC",
+    "\\doclicense@icon",
+    "\\doclicense@imagemodifier",
+    "\\doclicense@lang",
+    "\\doclicense@longName",
+    "\\doclicense@modifier@uppercase",
+    "\\doclicense@set",
+    "\\doclicense@setVersion",
+    "\\doclicense@versionFallback",
+    "\\doclicense@versionUsed",
+    "\\doclicenseFullText",
+    "\\doclicenseFullTextFileName",
+    "\\doclicenseIcon",
+    "\\doclicenseImage",
+    "\\doclicenseImageFileName",
+    "\\doclicenseLicense",
+    "\\doclicenseLongName",
+    "\\doclicenseLongNameRef",
+    "\\doclicenseLongText",
+    "\\doclicenseLongTextForHyperref",
+    "\\doclicenseLongType",
+    "\\doclicenseModifier",
+    "\\doclicenseName",
+    "\\doclicenseNameRef",
+    "\\doclicensePlainFullText",
+    "\\doclicensePlainFullTextFileName",
+    "\\doclicenseText",
+    "\\doclicenseThis",
+    "\\doclicenseType",
+    "\\doclicenseTypeIcon",
+    "\\doclicenseVersion",
+    "\\labelenumi",
+    "\\labelenumii",
+    "\\labelenumiii",
+    "\\labelenumiv"
+  ],
+  "environments": [
+    "doclicense@enumerate"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "commands": [
+    "\\@DefineFNsymbols",
+    "\\@DefineFNsymbolsTM",
+    "\\@footmicx@makefnmark",
+    "\\@footnotetext",
+    "\\clearpage",
+    "\\DefineFNsymbols",
+    "\\DefineFNsymbolsTM",
+    "\\FN@pp@footnote@aux",
+    "\\FN@pp@footnote@endaux",
+    "\\FN@pp@prev@foot",
+    "\\FN@pp@resetfn",
+    "\\FN@pp@resetfn@end",
+    "\\footnotehint",
+    "\\footref",
+    "\\multfootsep",
+    "\\multiplefootnotemarker"
+  ],
+  "environments": []
+}

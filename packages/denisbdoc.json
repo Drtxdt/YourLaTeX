@@ -1,0 +1,20 @@
+{
+  "commands": [
+    "\\DBD@indexgroup",
+    "\\formatfont",
+    "\\glsxtrabbrvpluralsuffix",
+    "\\glsxtrregularfont",
+    "\\indexdef",
+    "\\indexex",
+    "\\indexheading",
+    "\\indexmark",
+    "\\indexsee",
+    "\\printbibliography",
+    "\\seelink",
+    "\\targetindexentry",
+    "\\targetindexentryi",
+    "\\targetindexentryii",
+    "\\ttdefault"
+  ],
+  "environments": []
+}

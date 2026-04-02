@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\schule@fach",
+    "\\schule@modulDateiLaden",
+    "\\schule@module",
+    "\\schule@modulNachladen",
+    "\\schule@sprache",
+    "\\schule@typ",
+    "\\schule@typDateiLaden",
+    "\\schule@weitereFaecher",
+    "\\schule@wert",
+    "\\sdinfo",
+    "\\sdwarnung",
+    "\\sfehler",
+    "\\sinfo",
+    "\\swarnung"
+  ],
+  "environments": []
+}

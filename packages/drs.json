@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\@drs",
+    "\\alifdrs",
+    "\\drs",
+    "\\drsdiamond",
+    "\\ifdrs",
+    "\\negdrs",
+    "\\qdrs",
+    "\\sdrs",
+    "\\setstretch"
+  ],
+  "environments": []
+}

@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\copyfileCmdEx",
+    "\\copyfileCmdQz",
+    "\\insExSoln",
+    "\\insQzSoln",
+    "\\insSqSoln",
+    "\\miReadOffMsg"
+  ],
+  "environments": []
+}

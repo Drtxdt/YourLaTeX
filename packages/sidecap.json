@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\isSC@ODD",
+    "\\isSC@WIDEi",
+    "\\isSC@WIDEii",
+    "\\SC@FLOAT",
+    "\\SC@IDENT",
+    "\\SC@SaveCommands"
+  ],
+  "environments": [
+    "SCfigure",
+    "SCfigure*",
+    "SCtable",
+    "SCtable*",
+    "wide"
+  ]
+}

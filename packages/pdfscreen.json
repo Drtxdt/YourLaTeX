@@ -1,0 +1,18 @@
+{
+  "commands": [
+    "\\@Overlay",
+    "\\@Overlay@Hook",
+    "\\@PDFSout@Init",
+    "\\@PDFSout@Org@Out",
+    "\\@PDFSout@Out",
+    "\\@PDFSout@Output",
+    "\\@PDFSout@Test",
+    "\\AddToOverlay",
+    "\\ClearOverlay",
+    "\\PDFSout"
+  ],
+  "environments": [
+    "decl",
+    "slide"
+  ]
+}

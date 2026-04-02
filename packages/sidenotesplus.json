@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\marginfont",
+    "\\marginpar",
+    "\\raggedleftmarginnote",
+    "\\raggedrightmarginnote"
+  ],
+  "environments": []
+}

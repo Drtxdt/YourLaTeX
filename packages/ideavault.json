@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\bookDepth",
+    "\\bookDown",
+    "\\bookSet",
+    "\\bookUp"
+  ],
+  "environments": []
+}

@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\geltextfrac",
+    "\\textde",
+    "\\textsmde"
+  ],
+  "environments": []
+}

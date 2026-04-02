@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\annotation",
+    "\\arraystretch",
+    "\\diadiatab",
+    "\\infobox",
+    "\\mcentry",
+    "\\setlimit"
+  ],
+  "environments": [
+    "diadiaplot",
+    "diadiasidebyside"
+  ]
+}

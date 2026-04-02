@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\eval",
+    "\\lstinlinesafe",
+    "\\sage",
+    "\\wordcolour"
+  ],
+  "environments": []
+}

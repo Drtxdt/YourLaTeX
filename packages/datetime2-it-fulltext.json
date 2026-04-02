@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\DTMitminuti",
+    "\\DTMitore",
+    "\\DTMitsecondi"
+  ],
+  "environments": []
+}

@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\fmpaddtoscriptpostamble",
+    "\\fmpaddtoscriptpreamble",
+    "\\fmpaddtosourcepostamble",
+    "\\fmpaddtosourcepreamble",
+    "\\fmpfigure",
+    "\\fmpfigurebasename",
+    "\\fmpscriptfilename",
+    "\\fmpscriptpostamble",
+    "\\fmpscriptpreamble",
+    "\\fmpsourcefilename",
+    "\\fmpsourcepostamble",
+    "\\fmpsourcepreamble"
+  ],
+  "environments": [
+    "fmp"
+  ]
+}

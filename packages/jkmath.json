@@ -1,0 +1,34 @@
+{
+  "commands": [
+    "\\Aff",
+    "\\apmqty",
+    "\\C",
+    "\\ccinterval",
+    "\\cech",
+    "\\cointerval",
+    "\\erdos",
+    "\\F",
+    "\\ipmqty",
+    "\\lparens",
+    "\\mobius",
+    "\\N",
+    "\\ocinterval",
+    "\\oointerval",
+    "\\PP",
+    "\\Q",
+    "\\R",
+    "\\restr",
+    "\\rparens",
+    "\\set",
+    "\\stsubset",
+    "\\stsupset",
+    "\\subset",
+    "\\supset",
+    "\\where",
+    "\\Z"
+  ],
+  "environments": [
+    "augmentedmatrix",
+    "system"
+  ]
+}

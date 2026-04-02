@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\calprintclass",
+    "\\calprintdate",
+    "\\classday",
+    "\\noclassday"
+  ],
+  "environments": [
+    "calendar"
+  ]
+}

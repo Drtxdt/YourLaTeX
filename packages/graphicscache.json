@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\graphicscache@addarg",
+    "\\graphicscache@callgs",
+    "\\graphicscache@callgswithname",
+    "\\graphicscache@dorender",
+    "\\graphicscache@getfname",
+    "\\graphicscache@work",
+    "\\includegraphics",
+    "\\includegraphicscache"
+  ],
+  "environments": []
+}

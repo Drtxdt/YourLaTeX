@@ -1,0 +1,28 @@
+{
+  "commands": [
+    "\\BackToNoseEdge",
+    "\\Chest",
+    "\\ChordsToTongue",
+    "\\Diaphragm",
+    "\\DrawRedFlesh",
+    "\\DrawRedFleshOralNasalBorder",
+    "\\DrawRedFleshStomach",
+    "\\LarynxLungsChords",
+    "\\LipDowntoJugularNotch",
+    "\\NasalCavUpToPharynx",
+    "\\NoseEdgeToLipUp",
+    "\\OralNasalBorder",
+    "\\PharynxToEsophag",
+    "\\PlotDotsVocal",
+    "\\SetOscAmp",
+    "\\SetScaledOsc",
+    "\\ShowPhonemesGerman",
+    "\\StomachCompartment",
+    "\\TeethDownLips",
+    "\\Tongue",
+    "\\UpdateRespOscillation",
+    "\\UpdateVocalTract",
+    "\\VocalChords"
+  ],
+  "environments": []
+}

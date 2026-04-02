@@ -1,0 +1,18 @@
+{
+  "commands": [
+    "\\bottomfraction",
+    "\\dofiglist",
+    "\\dotablist",
+    "\\ef@makeinnocent",
+    "\\figurename",
+    "\\floatplace",
+    "\\markersintext",
+    "\\nofiglist",
+    "\\nomarkersintext",
+    "\\notablist",
+    "\\tablename",
+    "\\textfraction",
+    "\\topfraction"
+  ],
+  "environments": []
+}

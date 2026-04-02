@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "\\ifrelatedunseen",
+    "\\opcit@booktitle@failpatch"
+  ],
+  "environments": []
+}

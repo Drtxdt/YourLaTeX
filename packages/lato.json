@@ -1,0 +1,18 @@
+{
+  "commands": [
+    "\\familydefault",
+    "\\flafamily",
+    "\\lato",
+    "\\lato@family",
+    "\\lato@familyprefix",
+    "\\lato@figurestyle@otf",
+    "\\lato@figurestyle@pfb",
+    "\\lato@figurewidth@otf",
+    "\\lato@figurewidth@pfb",
+    "\\lato@otf@features",
+    "\\lato@scale",
+    "\\latofamily",
+    "\\sfdefault"
+  ],
+  "environments": []
+}

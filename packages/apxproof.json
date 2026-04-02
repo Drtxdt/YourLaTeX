@@ -1,0 +1,25 @@
+{
+  "commands": [
+    "\\@@section",
+    "\\@section",
+    "\\appendixbibliographyprelim",
+    "\\appendixbibliographystyle",
+    "\\appendixprelim",
+    "\\appendixrefname",
+    "\\appendixsectionformat",
+    "\\axp@@@section",
+    "\\axp@forward@link",
+    "\\axp@forward@setup",
+    "\\axp@forward@target",
+    "\\axp@redefinelabels",
+    "\\axp@with@forward",
+    "\\bibname",
+    "\\mainbodyrepeatedtheorem",
+    "\\nosectionappendix",
+    "\\refname"
+  ],
+  "environments": [
+    "proofsketch",
+    "toappendix"
+  ]
+}

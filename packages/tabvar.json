@@ -1,0 +1,32 @@
+{
+  "commands": [
+    "\\@socle",
+    "\\arraystretch",
+    "\\barre",
+    "\\barre@dth",
+    "\\constante",
+    "\\croit",
+    "\\dbarre",
+    "\\decroit",
+    "\\discont",
+    "\\eastarrow",
+    "\\enearrow",
+    "\\esearrow",
+    "\\f@size",
+    "\\FlecheC",
+    "\\FlecheD",
+    "\\FlecheH",
+    "\\FlechesPS",
+    "\\niveau",
+    "\\reset@niveaux",
+    "\\TV@arrowcol@stretch",
+    "\\TVarraystretch",
+    "\\TVarrowscale",
+    "\\TVarrowscolstretch",
+    "\\TVcenter",
+    "\\TVstretch"
+  ],
+  "environments": [
+    "tabvar"
+  ]
+}

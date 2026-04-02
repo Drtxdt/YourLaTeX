@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\@iffont@checkfont",
+    "\\@iffont@firstfont",
+    "\\iffontexists",
+    "\\iffontsexist",
+    "\\ifxfontexists",
+    "\\ifxfontsexist",
+    "\\settofirstfound"
+  ],
+  "environments": []
+}

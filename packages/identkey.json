@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "\\goto",
+    "\\ident"
+  ],
+  "environments": []
+}

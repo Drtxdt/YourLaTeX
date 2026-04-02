@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\addiepsilondom",
+    "\\better",
+    "\\dom",
+    "\\multepsilondom",
+    "\\negdom",
+    "\\negstrictdom",
+    "\\negweakdom",
+    "\\set",
+    "\\strictdom",
+    "\\weakdom"
+  ],
+  "environments": []
+}

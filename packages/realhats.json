@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\gethat",
+    "\\hat",
+    "\\hatn",
+    "\\hatnoptions"
+  ],
+  "environments": []
+}

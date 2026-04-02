@@ -1,0 +1,29 @@
+{
+  "commands": [
+    "\\algorithmicensure",
+    "\\algorithmicrequire",
+    "\\booloption",
+    "\\citeneed",
+    "\\dd",
+    "\\defeq",
+    "\\definelanguagealias",
+    "\\doibase",
+    "\\expect",
+    "\\id",
+    "\\ii",
+    "\\inlinecomment",
+    "\\lemmaautorefname",
+    "\\linecomment",
+    "\\llbracket",
+    "\\newaffil",
+    "\\newnew",
+    "\\rq@quasiwarn",
+    "\\rq@todo",
+    "\\rq@warnpackage",
+    "\\rrbracket",
+    "\\todo",
+    "\\TODO",
+    "\\todolist"
+  ],
+  "environments": []
+}

@@ -1,0 +1,23 @@
+{
+  "commands": [
+    "\\baselinestretch",
+    "\\eg",
+    "\\headrulewidth",
+    "\\ReportDescription",
+    "\\sf@checkfield",
+    "\\sf@NumberPages",
+    "\\sf@setentryfont",
+    "\\sf@setfont",
+    "\\sf@setrevfont",
+    "\\sf@setrevfontbold",
+    "\\sf@settitlefontA",
+    "\\sf@settitlefontB",
+    "\\sf@settitlefontC",
+    "\\sf@settitlefontD",
+    "\\sf@settitlefontE",
+    "\\sf@settitlefontF",
+    "\\sf@strut",
+    "\\sf@undefined"
+  ],
+  "environments": []
+}

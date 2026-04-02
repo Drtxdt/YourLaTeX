@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\myalert",
+    "\\printthistext",
+    "\\savetext",
+    "\\thebordercol",
+    "\\thecol"
+  ],
+  "environments": [
+    "dynblock"
+  ]
+}

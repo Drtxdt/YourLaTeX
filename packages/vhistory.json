@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\AH",
+    "\\CR",
+    "\\XY"
+  ],
+  "environments": [
+    "versionhistory"
+  ]
+}

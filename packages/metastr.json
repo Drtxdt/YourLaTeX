@@ -1,0 +1,31 @@
+{
+  "commands": [
+    "\\metaaddsep",
+    "\\metaappend",
+    "\\metacopyright",
+    "\\metadef",
+    "\\metalicense",
+    "\\metalicensecc",
+    "\\metaprepend",
+    "\\metaset",
+    "\\metasetlang",
+    "\\metasetterm",
+    "\\metasetup",
+    "\\metaterm",
+    "\\metaunset",
+    "\\metawritepdf",
+    "\\metawritepdfaux",
+    "\\metawritepdfcontact",
+    "\\metawritepdfinfo",
+    "\\metawritepdfpreamble",
+    "\\metawritepdfrights",
+    "\\mstr@begindoc",
+    "\\mstr@begindocpreamble",
+    "\\mstr@set@draft",
+    "\\mstr@setcclogo",
+    "\\mstr@setlang@main",
+    "\\mstr@setlang@meta",
+    "\\mstr@verify"
+  ],
+  "environments": []
+}

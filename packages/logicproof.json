@@ -1,0 +1,21 @@
+{
+  "commands": [
+    "\\@arraycr",
+    "\\@currentlabel",
+    "\\lp@add@space",
+    "\\lp@amper",
+    "\\lp@continue@proof@line",
+    "\\lp@cr",
+    "\\lp@cr@clines",
+    "\\lp@extend@space",
+    "\\lp@go@up@a@line",
+    "\\lp@set@clines",
+    "\\lp@start@proof@line",
+    "\\lp@stop@proof@line",
+    "\\lp@subtract@from@counter"
+  ],
+  "environments": [
+    "logicproof",
+    "subproof"
+  ]
+}

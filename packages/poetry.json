@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\poem@ifbang",
+    "\\poem@ifhyph",
+    "\\poem@ifques",
+    "\\poem@ifstar",
+    "\\thepoemline",
+    "\\thepoemrtline"
+  ],
+  "environments": []
+}

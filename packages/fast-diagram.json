@@ -1,0 +1,39 @@
+{
+  "commands": [
+    "\\fastAvanceColonne",
+    "\\fastDecalageOuHorizontal",
+    "\\fastDecalageOuVertical",
+    "\\fastDecalageTrait",
+    "\\fastEnregistreMinimum",
+    "\\fastEpaisseurTraits",
+    "\\fastEspaceColonne",
+    "\\fastFSarrondi",
+    "\\fastFSStyle",
+    "\\fastFStexteStyle",
+    "\\fastFTarrondi",
+    "\\fastFTStyle",
+    "\\fastFTtexteStyle",
+    "\\fastFVStyle",
+    "\\fastFVtexteStyle",
+    "\\fastHauteurBoite",
+    "\\fastInterligne",
+    "\\fastLargeurBoite",
+    "\\fastReculeColonne",
+    "\\fastReset",
+    "\\fastSetCouleurBordures",
+    "\\fastSetCouleurConnecteurs",
+    "\\fastSetCouleurFond",
+    "\\fastSetCouleurTexte",
+    "\\fastSetCouleurTraits",
+    "\\fastSTarrondi",
+    "\\fastSTStyle",
+    "\\fastSTtexteStyle",
+    "\\fastTraceConnecteurs",
+    "\\FT",
+    "\\trait",
+    "\\ttt"
+  ],
+  "environments": [
+    "fast"
+  ]
+}

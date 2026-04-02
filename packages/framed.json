@@ -1,0 +1,13 @@
+{
+  "commands": [],
+  "environments": [
+    "framed",
+    "leftbar",
+    "oframed",
+    "shaded",
+    "shaded*",
+    "snugshade",
+    "snugshade*",
+    "titled-frame"
+  ]
+}

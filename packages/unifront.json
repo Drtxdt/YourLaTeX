@@ -1,0 +1,23 @@
+{
+  "commands": [
+    "\\bar@colour",
+    "\\bar@other@half",
+    "\\bars@vertical@size",
+    "\\count@chapters",
+    "\\count@sections",
+    "\\count@subsections",
+    "\\currentchapter",
+    "\\currentsections",
+    "\\currentsubsections",
+    "\\front@size",
+    "\\newchapter",
+    "\\newsection",
+    "\\newsubsection",
+    "\\newtitle",
+    "\\print@chapter@line",
+    "\\print@section@line",
+    "\\print@subsection@line",
+    "\\progress@bar"
+  ],
+  "environments": []
+}

@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\phiDotted",
+    "\\phiDotted@",
+    "\\phiOset",
+    "\\phiUset"
+  ],
+  "environments": [
+    "phicture",
+    "phiquation",
+    "phiquation*",
+    "sodg"
+  ]
+}

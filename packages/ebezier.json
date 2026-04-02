@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\DefOldPlotSymbol",
+    "\\DefPlotSymbol",
+    "\\DefShiftedPlotSymbol",
+    "\\DefStandardPlotSymbol",
+    "\\pathmax",
+    "\\set@width"
+  ],
+  "environments": []
+}

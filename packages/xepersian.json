@@ -1,0 +1,29 @@
+{
+  "commands": [
+    "\\@adadi",
+    "\\@bidi@logo@",
+    "\\@bidi@pdfcreator",
+    "\\@tartibi",
+    "\\@xepersian@pdfcustomproperties",
+    "\\adadi",
+    "\\bidi@@thebibliography@font@hook",
+    "\\bidi@font@@outputpage",
+    "\\setfontsize",
+    "\\tartibi",
+    "\\TextDigitFontOff",
+    "\\TextDigitFontOn",
+    "\\xepersian@@start@switch@textdigitfont",
+    "\\xepersian@@stop@switch@textdigitfont",
+    "\\xepersian@@update@math@fontsize",
+    "\\xepersian@computeautoilg",
+    "\\xepersianreleasename",
+    "\\xepersianversion",
+    "\\xpg@warning"
+  ],
+  "environments": [
+    "latin*",
+    "latinitems",
+    "persian*",
+    "persianitems"
+  ]
+}

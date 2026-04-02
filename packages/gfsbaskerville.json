@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\oulig",
+    "\\textgfsbaskerville"
+  ],
+  "environments": [
+    "gfsbaskerville"
+  ]
+}

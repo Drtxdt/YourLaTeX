@@ -1,0 +1,38 @@
+{
+  "commands": [
+    "\\allwarning",
+    "\\b",
+    "\\c",
+    "\\cnsr",
+    "\\confwarning",
+    "\\d",
+    "\\danger",
+    "\\dangerblock",
+    "\\dangersign",
+    "\\donothing",
+    "\\dquad",
+    "\\H",
+    "\\hddn",
+    "\\i",
+    "\\k",
+    "\\l",
+    "\\maketitle",
+    "\\o",
+    "\\onething",
+    "\\r",
+    "\\t",
+    "\\textsafe",
+    "\\textwarn",
+    "\\tworules",
+    "\\twothings",
+    "\\u",
+    "\\v",
+    "\\voidenvironment",
+    "\\warnblock",
+    "\\warnformat",
+    "\\warnword"
+  ],
+  "environments": [
+    "hidden"
+  ]
+}

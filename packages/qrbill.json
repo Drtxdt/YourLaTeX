@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\insertcreditor",
+    "\\insertcurrency",
+    "\\insertdebtor",
+    "\\QRbillAddCustomReplacement",
+    "\\qrbillsetup",
+    "\\SetBillingInfoScheme",
+    "\\SetStaticData",
+    "\\SetupQrBill"
+  ],
+  "environments": []
+}

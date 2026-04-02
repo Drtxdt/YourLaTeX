@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\al@error",
+    "\\al@warning",
+    "\\al@wrong@mark",
+    "\\al@wrong@nesting"
+  ],
+  "environments": []
+}

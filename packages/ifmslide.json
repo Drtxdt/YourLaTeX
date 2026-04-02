@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\setInsideMargin",
+    "\\slidebottommargin",
+    "\\slideleftmargin",
+    "\\sliderightmargin",
+    "\\slidetopmargin"
+  ],
+  "environments": []
+}

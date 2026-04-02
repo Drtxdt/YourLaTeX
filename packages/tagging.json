@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\iftagged",
+    "\\tagged",
+    "\\taggedn",
+    "\\taggedy",
+    "\\untagged"
+  ],
+  "environments": [
+    "taggedblock",
+    "untaggedblock"
+  ]
+}

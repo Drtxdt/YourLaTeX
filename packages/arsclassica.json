@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\descriptionlabel",
+    "\\headfont",
+    "\\pnumfont",
+    "\\sectionmark",
+    "\\sfdefault"
+  ],
+  "environments": []
+}

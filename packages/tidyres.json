@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\ressep",
+    "\\restitle",
+    "\\theFancyVerbLine"
+  ],
+  "environments": [
+    "codebox",
+    "ressection"
+  ]
+}

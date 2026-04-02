@@ -1,0 +1,29 @@
+{
+  "commands": [
+    "\\@createsub",
+    "\\@createsym",
+    "\\addsymline",
+    "\\bothheadingname",
+    "\\closesymdef",
+    "\\dontmarkasused",
+    "\\listofboth",
+    "\\listofsubscripts",
+    "\\listofsymbols",
+    "\\los@temp",
+    "\\losstring",
+    "\\markasunused",
+    "\\markasused",
+    "\\newsub",
+    "\\newsym",
+    "\\nomname",
+    "\\opensymdef",
+    "\\printsymline",
+    "\\spaceaftersym",
+    "\\subheading",
+    "\\subheadingname",
+    "\\subsep",
+    "\\symheading",
+    "\\symheadingname"
+  ],
+  "environments": []
+}

@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\index",
+    "\\indexprologue",
+    "\\indexsetup",
+    "\\makeindex",
+    "\\printindex"
+  ],
+  "environments": []
+}

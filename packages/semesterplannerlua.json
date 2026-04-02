@@ -1,0 +1,23 @@
+{
+  "commands": [
+    "\\appointment",
+    "\\deadline",
+    "\\exam",
+    "\\fieldstudy",
+    "\\laboratory",
+    "\\lecture",
+    "\\meeting",
+    "\\officehour",
+    "\\printSpCalendar",
+    "\\semesterplannerLua@encircle",
+    "\\semesterplannerLua@event",
+    "\\seminar",
+    "\\tutorial"
+  ],
+  "environments": [
+    "appointments",
+    "deadlines",
+    "exams",
+    "timetable"
+  ]
+}

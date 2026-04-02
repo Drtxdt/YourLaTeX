@@ -1,0 +1,20 @@
+{
+  "commands": [
+    "\\And",
+    "\\assumend",
+    "\\assumption",
+    "\\Exists",
+    "\\Falsum",
+    "\\Forall",
+    "\\Implies",
+    "\\LineNum",
+    "\\Neg",
+    "\\Or",
+    "\\ResetDim",
+    "\\SetDim",
+    "\\step"
+  ],
+  "environments": [
+    "synproof"
+  ]
+}

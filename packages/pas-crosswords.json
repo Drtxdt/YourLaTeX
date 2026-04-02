@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\blackcase",
+    "\\blackcases",
+    "\\cRM",
+    "\\gridcross",
+    "\\word",
+    "\\words"
+  ],
+  "environments": [
+    "crossgrid"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\rcs",
+    "\\rcsfiletoday",
+    "\\rcsFullAuthor",
+    "\\rcsFullRevision",
+    "\\rcsid",
+    "\\rcskw",
+    "\\rcskwdef",
+    "\\rcsRegisterAuthor",
+    "\\rcsRegisterRevision",
+    "\\rcssetmainfile",
+    "\\rcstoday"
+  ],
+  "environments": []
+}

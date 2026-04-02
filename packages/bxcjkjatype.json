@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\CJKboldbyembolden",
+    "\\CJKnoboldbyembolden",
+    "\\ebdefault",
+    "\\gtdefault",
+    "\\mcdefault",
+    "\\mgdefault"
+  ],
+  "environments": []
+}

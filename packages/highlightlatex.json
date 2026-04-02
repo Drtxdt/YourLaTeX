@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\hllDelimDollar",
+    "\\hllDelimParen",
+    "\\hllPrepareBlock",
+    "\\updatehighlight"
+  ],
+  "environments": [
+    "saveblock"
+  ]
+}

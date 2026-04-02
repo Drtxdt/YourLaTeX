@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\doublespacing",
+    "\\onehalfspacing",
+    "\\SetSinglespace",
+    "\\setstretch",
+    "\\singlespacing",
+    "\\spacesetup"
+  ],
+  "environments": []
+}

@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\bgComponent",
+    "\\bgComponentNoBond",
+    "\\bgComponentWithBondLabel",
+    "\\bgComponentWithBondMarkup",
+    "\\bgComponentWithBondMarkupTagged",
+    "\\bgComponentWithPosBondLabel",
+    "\\bondleft",
+    "\\bondlefte",
+    "\\bondleftf",
+    "\\bondright",
+    "\\bondrighte",
+    "\\bondrightf"
+  ],
+  "environments": []
+}

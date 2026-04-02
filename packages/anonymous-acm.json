@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\authoranon",
+    "\\citeanon",
+    "\\linkanon",
+    "\\textanon",
+    "\\textlinkanon"
+  ],
+  "environments": []
+}

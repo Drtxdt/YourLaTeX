@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\@ldtable",
+    "\\table"
+  ],
+  "environments": [
+    "table"
+  ]
+}

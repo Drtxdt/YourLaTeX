@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\bit",
+    "\\CtibVersionDate",
+    "\\CtibVersionRelease",
+    "\\encodingdefault",
+    "\\SetDocumentEncodingTibetan",
+    "\\tib"
+  ],
+  "environments": []
+}

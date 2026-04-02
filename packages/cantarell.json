@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\cantarell",
+    "\\cantarell@family",
+    "\\cantarell@familyprefix",
+    "\\cantarell@figurestyle@otf",
+    "\\cantarell@figurestyle@pfb",
+    "\\cantarell@figurewidth@otf",
+    "\\cantarell@figurewidth@pfb",
+    "\\cantarell@otf@features",
+    "\\cantarell@otf@slant",
+    "\\cantarell@scale",
+    "\\cantarellfamily",
+    "\\familydefault",
+    "\\fcafamily",
+    "\\sfdefault"
+  ],
+  "environments": []
+}

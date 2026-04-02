@@ -1,0 +1,21 @@
+{
+  "commands": [
+    "\\currentleftquote",
+    "\\currentrightquote",
+    "\\qt@beginquote",
+    "\\qt@endpar",
+    "\\qt@endquote",
+    "\\qt@mark@list",
+    "\\qt@marklist",
+    "\\qt@startpar",
+    "\\quotemarks@load@lang",
+    "\\setlanguagequotemarks",
+    "\\setparquotemarks",
+    "\\setquotemarks",
+    "\\textormath",
+    "\\tqt"
+  ],
+  "environments": [
+    "qt"
+  ]
+}

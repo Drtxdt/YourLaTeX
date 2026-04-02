@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\makeLineNumber"
+  ],
+  "environments": [
+    "explaincode",
+    "wrapcomment"
+  ]
+}

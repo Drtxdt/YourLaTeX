@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\aweboxdebug",
+    "\\awesomeboxadjustcontentwidth",
+    "\\awesomeboxrestorecontentwidth",
+    "\\cautionbox",
+    "\\importantbox",
+    "\\notebox",
+    "\\tipbox",
+    "\\warningbox"
+  ],
+  "environments": [
+    "cautionblock",
+    "importantblock",
+    "noteblock",
+    "tipblock",
+    "warningblock"
+  ]
+}

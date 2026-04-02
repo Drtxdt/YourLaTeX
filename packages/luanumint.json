@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\luaMidpt",
+    "\\luaMidptSteps",
+    "\\luaSimpsonOneThird",
+    "\\luaSimpsonOneThirdSteps",
+    "\\luaSimpsonThreeEighth",
+    "\\luaSimpsonThreeEighthSteps",
+    "\\luaTrapz",
+    "\\luaTrapzSteps"
+  ],
+  "environments": []
+}

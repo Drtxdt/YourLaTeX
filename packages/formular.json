@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\FRM@closeenvironment",
+    "\\FRM@generatesetcommand",
+    "\\FRM@generatesetlengthcommand",
+    "\\FRM@generatesetstylecommand",
+    "\\FRM@restoreappearance",
+    "\\FRM@selectdfont",
+    "\\FRM@selectfont",
+    "\\FRM@storeappearance",
+    "\\newFRMenvironment",
+    "\\newFRMfield",
+    "\\renewFRMfield",
+    "\\useFRMfield"
+  ],
+  "environments": []
+}

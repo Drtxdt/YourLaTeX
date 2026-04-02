@@ -1,0 +1,20 @@
+{
+  "commands": [
+    "\\BGall",
+    "\\BGassert",
+    "\\BGbracket",
+    "\\BGconditional",
+    "\\BGcontent",
+    "\\BGif",
+    "\\BGifb",
+    "\\BGifc",
+    "\\BGifp",
+    "\\BGneg",
+    "\\BGnot",
+    "\\BGquant",
+    "\\BGstem",
+    "\\BGterm",
+    "\\mythanks"
+  ],
+  "environments": []
+}

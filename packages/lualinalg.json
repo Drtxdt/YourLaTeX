@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\matrixGaussJordanSteps",
+    "\\matrixPrint",
+    "\\matrixRREFSteps",
+    "\\vectorGramSchmidt",
+    "\\vectorGramSchmidtSteps",
+    "\\vectorPrint"
+  ],
+  "environments": []
+}

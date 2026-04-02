@@ -1,0 +1,21 @@
+{
+  "commands": [
+    "\\chapter",
+    "\\Orig@Chapter",
+    "\\ShowPagesOfThisChapter",
+    "\\St@chapter",
+    "\\St@schapter",
+    "\\stabegincommand",
+    "\\stabody",
+    "\\staenconding",
+    "\\stafilename",
+    "\\stafoot",
+    "\\staheader",
+    "\\statabline",
+    "\\staxmlencoding",
+    "\\staxmlenconding",
+    "\\TitleOfLastChapter",
+    "\\WrtStatistik"
+  ],
+  "environments": []
+}

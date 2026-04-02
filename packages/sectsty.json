@@ -1,0 +1,28 @@
+{
+  "commands": [
+    "\\allsectionsfont",
+    "\\chapterfont",
+    "\\chapternumberfont",
+    "\\chaptertitlefont",
+    "\\minisecfont",
+    "\\nohang",
+    "\\paragraphfont",
+    "\\partfont",
+    "\\partnumberfont",
+    "\\parttitlefont",
+    "\\sectionfont",
+    "\\sectionrule",
+    "\\SS@nopart",
+    "\\SS@nopartid",
+    "\\SS@sectid",
+    "\\SS@titlepart",
+    "\\SS@titlepartid",
+    "\\SS@ulemsectuline",
+    "\\SSifnumberpart",
+    "\\SSiftitlepart",
+    "\\subparagraphfont",
+    "\\subsectionfont",
+    "\\subsubsectionfont"
+  ],
+  "environments": []
+}

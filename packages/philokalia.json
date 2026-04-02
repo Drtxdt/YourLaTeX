@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\LettrineFont",
+    "\\rmdefault",
+    "\\textinit",
+    "\\textphlk"
+  ],
+  "environments": []
+}

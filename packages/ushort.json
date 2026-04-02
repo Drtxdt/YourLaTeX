@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\ushort",
+    "\\ushortCreate",
+    "\\ushortd",
+    "\\ushortdline",
+    "\\ushortdw",
+    "\\ushortEnsuremath",
+    "\\ushortw"
+  ],
+  "environments": []
+}

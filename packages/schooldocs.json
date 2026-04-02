@@ -1,0 +1,31 @@
+{
+  "commands": [
+    "\\authorstyle",
+    "\\boxedshape",
+    "\\datestyle",
+    "\\footstyle",
+    "\\headdatestyle",
+    "\\headrule",
+    "\\headrulewidth",
+    "\\headstyle",
+    "\\headsubjectstyle",
+    "\\headtitlestyle",
+    "\\institute",
+    "\\makesmalltitle",
+    "\\maketitle",
+    "\\pagenamestyle",
+    "\\schooldocstitles",
+    "\\schoolstyle",
+    "\\sectionmark",
+    "\\seprule",
+    "\\smalltitledatestyle",
+    "\\subject",
+    "\\subjectstyle",
+    "\\subtitlestyle",
+    "\\title",
+    "\\titlecorrectstyle",
+    "\\titleflush",
+    "\\titlestyle"
+  ],
+  "environments": []
+}

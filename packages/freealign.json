@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\my@alignment@check",
+    "\\my@alignment@next",
+    "\\tableft",
+    "\\tabpoint",
+    "\\tabto",
+    "\\thesaveposcnt",
+    "\\theuseposcnt"
+  ],
+  "environments": []
+}

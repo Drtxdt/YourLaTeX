@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\ion@addto@macro",
+    "\\ion@conflict@package",
+    "\\ion@conflict@redefinedtest",
+    "\\ion@currnum@append",
+    "\\ion@currnum@append@",
+    "\\ion@currnum@append@@",
+    "\\ion@currnum@output",
+    "\\ion@grplencheck",
+    "\\ion@problem@package"
+  ],
+  "environments": []
+}

@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\XCP@tooltipbox",
+    "\\xcsetauthor",
+    "\\xcsetcolor",
+    "\\xcsetmarkup",
+    "\\xcsetopacity"
+  ],
+  "environments": []
+}
