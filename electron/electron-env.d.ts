@@ -28,6 +28,7 @@ interface Window {
     listDirectory: (dirPath: string) => Promise<Array<{ name: string; path: string; type: 'file' | 'directory' }>>
     readFile: (filePath: string) => Promise<string>
     writeFile: (filePath: string, content: string) => Promise<boolean>
+    getLatexPackageSymbols: (packageName: string) => Promise<{ commands: string[]; environments: string[] }>
     readPdfDataUrl: (filePath: string) => Promise<string | null>
     detectCompilers: () => Promise<{ compilers: Array<{ id: string; label: string; available: boolean }>; defaultCompiler: string | null }>
     runCompile: (payload: { compilerId: string; texFilePath: string; cwd: string }) => Promise<{ runId: string; code: number | null; signal: NodeJS.Signals | null }>

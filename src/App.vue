@@ -28,10 +28,13 @@ const workspaceLabelKeys = ref<string[]>([])
 const texTargets = ref<string[]>([])
 const imageTargets = ref<string[]>([])
 const bibTargets = ref<string[]>([])
+const activePackages = ref<string[]>([])
+const packageSymbolsMap = ref<Record<string, { commands: string[]; environments: string[] }>>({})
 const monacoPaneRef = ref<MonacoPaneExpose | null>(null)
 const isHydratingContent = ref(false)
 
 let compileDebounceTimer: ReturnType<typeof setTimeout> | null = null
+let packageRefreshTimer: ReturnType<typeof setTimeout> | null = null
 
 const latexCandidates = computed(() =>
   entries.value.filter((entry) => entry.type === 'file' && entry.name.toLowerCase().endsWith('.tex'))
@@ -79,6 +82,63 @@ function extractBibKeys(content: string) {
     }
   }
   return Array.from(keys)
+}
+
+function extractUsedPackages(content: string) {
+  const packages = new Set<string>()
+  const patterns = [
+    /\\usepackage(?:\[[^\]]*\])?\{([^}]+)\}/g,
+    /\\RequirePackage(?:\[[^\]]*\])?\{([^}]+)\}/g,
+  ]
+
+  for (const pattern of patterns) {
+    let match: RegExpExecArray | null
+    while ((match = pattern.exec(content)) !== null) {
+      const entries = (match[1] ?? '')
+        .split(',')
+        .map((item) => item.trim().toLowerCase())
+        .filter(Boolean)
+
+      for (const pkg of entries) {
+        packages.add(pkg)
+      }
+    }
+  }
+
+  return Array.from(packages)
+}
+
+async function loadPackageSymbolsFor(packages: string[]) {
+  const unique = Array.from(new Set(packages))
+  const nextMap: Record<string, { commands: string[]; environments: string[] }> = { ...packageSymbolsMap.value }
+
+  await Promise.all(
+    unique.map(async (pkg) => {
+      if (nextMap[pkg]) {
+        return
+      }
+
+      try {
+        nextMap[pkg] = await window.electronAPI.getLatexPackageSymbols(pkg)
+      } catch {
+        nextMap[pkg] = { commands: [], environments: [] }
+      }
+    })
+  )
+
+  packageSymbolsMap.value = nextMap
+}
+
+function schedulePackageRefresh(content: string) {
+  if (packageRefreshTimer) {
+    clearTimeout(packageRefreshTimer)
+  }
+
+  packageRefreshTimer = setTimeout(async () => {
+    const packages = extractUsedPackages(content)
+    activePackages.value = packages
+    await loadPackageSymbolsFor(packages)
+  }, 260)
 }
 
 async function rebuildCompletionIndex() {
@@ -183,6 +243,7 @@ async function selectFile(entry: DirectoryEntry) {
   if (lowerName.endsWith('.tex')) {
     activeTexFilePath.value = entry.path
     editorContent.value = await window.electronAPI.readFile(entry.path)
+    schedulePackageRefresh(editorContent.value)
     await refreshPdfPreview()
     isHydratingContent.value = false
     return
@@ -310,12 +371,16 @@ onUnmounted(() => {
   if (compileDebounceTimer) {
     clearTimeout(compileDebounceTimer)
   }
+  if (packageRefreshTimer) {
+    clearTimeout(packageRefreshTimer)
+  }
   disposeOutputListener?.()
 })
 
 watch(editorContent, () => {
   if (isHydratingContent.value) return
   scheduleDebouncedCompile()
+  schedulePackageRefresh(editorContent.value)
 })
 </script>
 
@@ -345,6 +410,8 @@ watch(editorContent, () => {
           :tex-targets="texTargets"
           :image-targets="imageTargets"
           :bib-targets="bibTargets"
+          :active-packages="activePackages"
+          :package-symbols="packageSymbolsMap"
         />
       </div>
       <PdfPreviewPane :pdf-data-url="pdfDataUrl" />

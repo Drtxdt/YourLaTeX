@@ -10,6 +10,8 @@ const props = defineProps<{
   texTargets: string[]
   imageTargets: string[]
   bibTargets: string[]
+  activePackages: string[]
+  packageSymbols: Record<string, { commands: string[]; environments: string[] }>
 }>()
 
 const emit = defineEmits<{
@@ -61,6 +63,8 @@ onMounted(() => {
     getTexTargets: () => props.texTargets,
     getImageTargets: () => props.imageTargets,
     getBibTargets: () => props.bibTargets,
+    getActivePackages: () => props.activePackages,
+    getPackageSymbols: () => props.packageSymbols,
   })
 
   editor.onDidChangeModelContent(() => {
@@ -83,7 +87,7 @@ watch(
 )
 
 watch(
-  () => [props.citationKeys, props.labelKeys],
+  () => [props.citationKeys, props.labelKeys, props.activePackages, props.packageSymbols],
   () => {
     latexController?.refreshDiagnostics()
   },

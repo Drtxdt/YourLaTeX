@@ -5,6 +5,7 @@ const IPC_CHANNELS = {
   LIST_DIRECTORY: 'workspace:list-directory',
   READ_FILE: 'file:read',
   WRITE_FILE: 'file:write',
+  LATEX_PACKAGE_SYMBOLS: 'latex:package-symbols',
   READ_PDF_DATA_URL: 'pdf:read-data-url',
   DETECT_COMPILERS: 'compile:detect-compilers',
   RUN_COMPILE: 'compile:run',
@@ -36,6 +37,8 @@ const api = {
   listDirectory: (dirPath: string) => ipcRenderer.invoke(IPC_CHANNELS.LIST_DIRECTORY, dirPath) as Promise<Array<{ name: string; path: string; type: 'file' | 'directory' }>>,
   readFile: (filePath: string) => ipcRenderer.invoke(IPC_CHANNELS.READ_FILE, filePath) as Promise<string>,
   writeFile: (filePath: string, content: string) => ipcRenderer.invoke(IPC_CHANNELS.WRITE_FILE, { filePath, content }) as Promise<boolean>,
+  getLatexPackageSymbols: (packageName: string) =>
+    ipcRenderer.invoke(IPC_CHANNELS.LATEX_PACKAGE_SYMBOLS, packageName) as Promise<{ commands: string[]; environments: string[] }>,
   readPdfDataUrl: (filePath: string) => ipcRenderer.invoke(IPC_CHANNELS.READ_PDF_DATA_URL, filePath) as Promise<string | null>,
   detectCompilers: () =>
     ipcRenderer.invoke(IPC_CHANNELS.DETECT_COMPILERS) as Promise<{

@@ -32,6 +32,7 @@ const IPC_CHANNELS = {
   LIST_DIRECTORY: 'workspace:list-directory',
   READ_FILE: 'file:read',
   WRITE_FILE: 'file:write',
+  LATEX_PACKAGE_SYMBOLS: 'latex:package-symbols',
   READ_PDF_DATA_URL: 'pdf:read-data-url',
   DETECT_COMPILERS: 'compile:detect-compilers',
   RUN_COMPILE: 'compile:run',
@@ -56,6 +57,11 @@ interface CompilePayload {
   compilerId: string
   texFilePath: string
   cwd: string
+}
+
+interface PackageSymbols {
+  commands: string[]
+  environments: string[]
 }
 
 const COMPILER_CANDIDATES = [
@@ -180,6 +186,116 @@ function buildCompilerArgs(compilerId: string, texFilePath: string) {
   return ['-interaction=nonstopmode', '-halt-on-error', texFilePath]
 }
 
+function sanitizePackageName(name: string) {
+  return name.replace(/[^A-Za-z0-9._-]/g, '_')
+}
+
+function normalizeCommand(command: string) {
+  return command.startsWith('\\') ? command : `\\${command}`
+}
+
+async function runCommandGetStdout(command: string, args: string[], timeout = 10000) {
+  return await new Promise<string | null>((resolve) => {
+    const child = spawn(command, args, {
+      shell: true,
+      windowsHide: true,
+    })
+
+    const chunks: Buffer[] = []
+    const timer = setTimeout(() => {
+      child.kill()
+      resolve(null)
+    }, timeout)
+
+    child.stdout.on('data', (chunk) => {
+      chunks.push(Buffer.isBuffer(chunk) ? chunk : Buffer.from(String(chunk)))
+    })
+
+    child.on('error', () => {
+      clearTimeout(timer)
+      resolve(null)
+    })
+
+    child.on('close', (code) => {
+      clearTimeout(timer)
+      if (code !== 0) {
+        resolve(null)
+        return
+      }
+
+      const buffer = Buffer.concat(chunks)
+      if (process.platform === 'win32') {
+        resolve(iconv.decode(buffer, 'gbk'))
+        return
+      }
+      resolve(buffer.toString('utf-8'))
+    })
+  })
+}
+
+function extractSymbolsFromSty(content: string): PackageSymbols {
+  const commandSet = new Set<string>()
+  const environmentSet = new Set<string>()
+
+  const commandPatterns = [
+    /\\newcommand\*?\s*\{\\([A-Za-z@]+)\}/g,
+    /\\renewcommand\*?\s*\{\\([A-Za-z@]+)\}/g,
+    /\\providecommand\*?\s*\{\\([A-Za-z@]+)\}/g,
+    /\\DeclareMathOperator\*?\s*\{\\([A-Za-z@]+)\}/g,
+  ]
+
+  for (const pattern of commandPatterns) {
+    let match: RegExpExecArray | null
+    while ((match = pattern.exec(content)) !== null) {
+      if (match[1]) {
+        commandSet.add(normalizeCommand(match[1].trim()))
+      }
+    }
+  }
+
+  const envPattern = /\\newenvironment\*?\s*\{([A-Za-z@*:-]+)\}/g
+  let envMatch: RegExpExecArray | null
+  while ((envMatch = envPattern.exec(content)) !== null) {
+    if (envMatch[1]) {
+      environmentSet.add(envMatch[1].trim())
+    }
+  }
+
+  return {
+    commands: Array.from(commandSet).sort((a, b) => a.localeCompare(b)),
+    environments: Array.from(environmentSet).sort((a, b) => a.localeCompare(b)),
+  }
+}
+
+async function getPackageSymbols(packageName: string): Promise<PackageSymbols> {
+  const safeName = sanitizePackageName(packageName)
+  const localJsonPath = path.join(process.env.APP_ROOT, 'packages', `${safeName}.json`)
+
+  try {
+    const localContent = await fs.readFile(localJsonPath, 'utf-8')
+    const parsed = JSON.parse(localContent) as PackageSymbols
+    return {
+      commands: Array.isArray(parsed.commands) ? parsed.commands : [],
+      environments: Array.isArray(parsed.environments) ? parsed.environments : [],
+    }
+  } catch {
+    // Fallback to local system parsing.
+  }
+
+  const styPathOutput = await runCommandGetStdout('kpsewhich', [`${packageName}.sty`], 8000)
+  const styPath = styPathOutput?.trim()
+  if (!styPath) {
+    return { commands: [], environments: [] }
+  }
+
+  try {
+    const styContent = await fs.readFile(styPath, 'utf-8')
+    return extractSymbolsFromSty(styContent)
+  } catch {
+    return { commands: [], environments: [] }
+  }
+}
+
 function registerIpcHandlers() {
   ipcMain.handle(IPC_CHANNELS.OPEN_DIRECTORY, async () => {
     const result = await dialog.showOpenDialog({
@@ -217,6 +333,10 @@ function registerIpcHandlers() {
   ipcMain.handle(IPC_CHANNELS.WRITE_FILE, async (_event, payload: { filePath: string; content: string }) => {
     await fs.writeFile(payload.filePath, payload.content, 'utf-8')
     return true
+  })
+
+  ipcMain.handle(IPC_CHANNELS.LATEX_PACKAGE_SYMBOLS, async (_event, packageName: string) => {
+    return getPackageSymbols(packageName)
   })
 
   ipcMain.handle(IPC_CHANNELS.READ_PDF_DATA_URL, async (_event, filePath: string) => {
