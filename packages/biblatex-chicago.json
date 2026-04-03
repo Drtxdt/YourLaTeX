@@ -1,9 +1,12 @@
 {
   "commands": [
+    "\\UrlBigBreaks",
+    "\\UrlBreaks",
     "\\bibnamedash",
     "\\biburlsetup",
     "\\do",
     "\\enoteformat",
+    "\\enotesize",
     "\\makeenmark"
   ],
   "environments": []

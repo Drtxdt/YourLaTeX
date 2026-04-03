@@ -1,0 +1,20 @@
+{
+  "commands": [
+    "\\addbindingline",
+    "\\addscratchpaper",
+    "\\arraystretch",
+    "\\bindingline",
+    "\\bindinglineleft",
+    "\\bindinglineone",
+    "\\bindinglineright",
+    "\\bindinglinetwo",
+    "\\doscratchpaper",
+    "\\doscratchpaperone",
+    "\\doscratchpapertwo",
+    "\\questionpointstext",
+    "\\scratchpaper",
+    "\\scratchpaperone",
+    "\\scratchpapertwo"
+  ],
+  "environments": []
+}

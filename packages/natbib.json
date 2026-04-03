@@ -1,10 +1,26 @@
 {
   "commands": [
-    "\\@extra@b@citeb",
+    "\\BibitemOpen",
+    "\\BibitemShut",
+    "\\aftergroup",
+    "\\astroncite",
     "\\bibAnnote",
     "\\bibAnnoteFile",
-    "\\bibstyle@newbib",
-    "\\harvardand"
+    "\\bibcleanup",
+    "\\bibfield",
+    "\\bibinfo",
+    "\\bibitemContinue",
+    "\\bibitemNoStop",
+    "\\bibitemStop",
+    "\\bibstyle",
+    "\\citeauthoryear",
+    "\\citename",
+    "\\citenumfont",
+    "\\citeyearpar",
+    "\\expandafter",
+    "\\harvardand",
+    "\\natexlab",
+    "\\protect"
   ],
   "environments": []
 }

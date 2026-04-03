@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\LuaCheckHyphen",
+    "\\luachekchyphendothings",
+    "\\luachekchyphenpkgdate",
+    "\\luachekchyphenversion"
+  ],
   "environments": []
 }

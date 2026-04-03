@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\c",
+    "\\wick"
+  ],
   "environments": []
 }

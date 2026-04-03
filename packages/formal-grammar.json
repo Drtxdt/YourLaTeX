@@ -3,8 +3,6 @@
     "\\downplay",
     "\\firstcase",
     "\\firstcasesubtil",
-    "\\formal@Coloneqq",
-    "\\formal@rowstyle",
     "\\gralt",
     "\\highlight",
     "\\lochighlight",
@@ -13,5 +11,7 @@
     "\\otherform",
     "\\rowstyle"
   ],
-  "environments": []
+  "environments": [
+    "grammar"
+  ]
 }

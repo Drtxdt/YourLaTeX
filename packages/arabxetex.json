@@ -1,11 +1,31 @@
 {
   "commands": [
-    "\\aemph",
+    "\\Arabic",
     "\\SetAllahWithAlif",
     "\\SetAllahWithoutAlif",
     "\\SetTranslitConvention",
     "\\SetTranslitStyle",
-    "\\textLR"
+    "\\UC",
+    "\\aemph",
+    "\\jawi",
+    "\\persian",
+    "\\textLR",
+    "\\textarab",
+    "\\textarabic",
+    "\\textfarsi",
+    "\\textjawi",
+    "\\textkashmiri",
+    "\\textkurdish",
+    "\\textmaghribi",
+    "\\textmalay",
+    "\\textottoman",
+    "\\textpashto",
+    "\\textpersian",
+    "\\textsindhi",
+    "\\textturk",
+    "\\textuighur",
+    "\\texturdu",
+    "\\turk"
   ],
   "environments": [
     "arab",

@@ -1,5 +1,12 @@
 {
-  "commands": [],
+  "commands": [
+    "\\tkzDN",
+    "\\tkzDrawCoordinates",
+    "\\tkzDrawLuaEllipse",
+    "\\tkzDrawPointOnCurve",
+    "\\tkzGetNodes",
+    "\\tkzUseLua"
+  ],
   "environments": [
     "tkzelements"
   ]

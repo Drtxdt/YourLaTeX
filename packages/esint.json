@@ -1,4 +1,22 @@
 {
-  "commands": [],
+  "commands": [
+    "\\dotsint",
+    "\\fint",
+    "\\iiiint",
+    "\\iiint",
+    "\\iint",
+    "\\int",
+    "\\landdownint",
+    "\\landupint",
+    "\\oiint",
+    "\\oint",
+    "\\ointclockwise",
+    "\\ointctrclockwise",
+    "\\sqiint",
+    "\\sqint",
+    "\\varoiint",
+    "\\varointclockwise",
+    "\\varointctrclockwise"
+  ],
   "environments": []
 }

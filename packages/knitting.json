@@ -1,5 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\cablebackground",
+    "\\cableforeground",
+    "\\nonumber",
+    "\\nostitchcount",
+    "\\par"
+  ],
   "environments": [
     "fullpages",
     "smallpage"

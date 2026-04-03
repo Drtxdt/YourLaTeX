@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\accumword",
+    "\\characterlimit",
+    "\\countchars",
+    "\\currentcolor",
+    "\\limitcolor",
+    "\\mkbibnamefamily"
+  ],
+  "environments": []
+}

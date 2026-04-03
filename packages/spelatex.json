@@ -1,10 +1,20 @@
 {
   "commands": [
-    "\\spel@chunkwrite",
-    "\\spel@idxwrite",
-    "\\spel@registerelement",
+    "\\endspelchunk",
+    "\\endspelchunkad",
+    "\\endspelverbatimwrite",
+    "\\filedate",
+    "\\fileversion",
+    "\\setdesc",
+    "\\setenum",
+    "\\spelatex",
+    "\\spelchunk",
+    "\\spelchunkad",
     "\\spelitem",
-    "\\tableofcontents"
+    "\\spelpl",
+    "\\spelverbatimwrite",
+    "\\tableofcontents",
+    "\\unitof"
   ],
   "environments": []
 }

@@ -1,6 +1,35 @@
 {
   "commands": [
-    "\\listofnlsname"
+    "\\endthenomenclature",
+    "\\eqdeclaration",
+    "\\item",
+    "\\itemOrig",
+    "\\listofnlsname",
+    "\\makenomenclature",
+    "\\nomAname",
+    "\\nomGname",
+    "\\nomXname",
+    "\\nomZname",
+    "\\nomenclature",
+    "\\nomentryend",
+    "\\nomeqref",
+    "\\nomgroup",
+    "\\nomlabel",
+    "\\nomname",
+    "\\nomnorefeq",
+    "\\nomnorefeqpage",
+    "\\nomnorefpage",
+    "\\nompageref",
+    "\\nompostamble",
+    "\\nompreamble",
+    "\\nomprefix",
+    "\\nomrefeq",
+    "\\nomrefeqpage",
+    "\\nomrefpage",
+    "\\pagedeclaration",
+    "\\printnomenclature",
+    "\\setnomtableformat",
+    "\\thenomenclature"
   ],
   "environments": []
 }

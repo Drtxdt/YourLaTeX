@@ -1,4 +1,8 @@
 {
-  "commands": [],
+  "commands": [
+    "\\HUGE",
+    "\\Huge",
+    "\\ssmall"
+  ],
   "environments": []
 }

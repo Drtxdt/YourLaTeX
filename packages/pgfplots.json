@@ -1,4 +1,12 @@
 {
-  "commands": [],
+  "commands": [
+    "\\pgfplotsrevision",
+    "\\pgfplotsrevisiondate",
+    "\\pgfplotsrevisiondatetime",
+    "\\pgfplotsversion",
+    "\\pgfplotsversiondate",
+    "\\pgfplotsversiondatetime",
+    "\\pgfsysdriver"
+  ],
   "environments": []
 }

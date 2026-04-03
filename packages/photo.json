@@ -1,8 +1,8 @@
 {
   "commands": [],
   "environments": [
-    "photo",
     "Photo",
+    "photo",
     "photo*"
   ]
 }

@@ -1,13 +1,24 @@
 {
   "commands": [
+    "\\DrawHorizontal",
+    "\\asrnode",
+    "\\connectwitharrow",
     "\\drsbox",
     "\\drsdiabox",
     "\\drsrectbox",
+    "\\ind",
+    "\\labelstyle",
+    "\\objectstyle",
+    "\\xybarconnect",
     "\\xybarnode",
+    "\\xyconnect",
+    "\\xynode",
+    "\\xynodefont",
     "\\xyterminal",
     "\\xytext",
     "\\xytree",
     "\\xytrinode",
+    "\\yynode",
     "\\yytree"
   ],
   "environments": []

@@ -1,4 +1,18 @@
 {
-  "commands": [],
+  "commands": [
+    "\\spalignaligntab",
+    "\\spaligndelims",
+    "\\spalignendline",
+    "\\spalignendofrow",
+    "\\spalignenv",
+    "\\spalignmatdelimskip",
+    "\\spalignretokenize",
+    "\\spalignrun",
+    "\\spalignseparator",
+    "\\spalignsysdelims",
+    "\\spalignsysdelimskip",
+    "\\spaligntabular",
+    "\\spalignvecdelimskip"
+  ],
   "environments": []
 }

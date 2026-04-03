@@ -1,0 +1,18 @@
+{
+  "commands": [
+    "\\AnswerName",
+    "\\ExerciseName",
+    "\\filedate",
+    "\\filename",
+    "\\fileversion",
+    "\\headrulewidth",
+    "\\listexercisename"
+  ],
+  "environments": [
+    "abstract",
+    "abstract*",
+    "acknowledgement",
+    "keyword",
+    "keyword*"
+  ]
+}

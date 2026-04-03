@@ -1,10 +1,14 @@
 {
   "commands": [
-    "\\abc@cmd",
-    "\\abc@epstopdfcmd",
-    "\\abc@parm",
-    "\\abc@pdfext",
-    "\\abcwidth"
+    "\\abc",
+    "\\abcinput",
+    "\\abcwidth",
+    "\\endabc",
+    "\\endmup",
+    "\\mup",
+    "\\mupinput",
+    "\\normalabcoutputfile",
+    "\\normalmupoutputfile"
   ],
   "environments": []
 }

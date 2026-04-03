@@ -1,7 +1,7 @@
 {
   "commands": [
-    "\\hyxmp@pdf@schema",
-    "\\pdfpc@schema"
+    "\\pdfannot",
+    "\\pdfpcsetup"
   ],
   "environments": []
 }

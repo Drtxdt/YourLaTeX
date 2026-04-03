@@ -1,22 +1,19 @@
 {
   "commands": [
-    "\\@lettrine@optionsfor",
     "\\DefaultLhang",
     "\\DefaultLoversize",
     "\\DefaultLraise",
     "\\DefaultOptionsFile",
-    "\\L@ante",
-    "\\L@file",
-    "\\L@hang",
-    "\\L@oversize",
-    "\\L@raise",
-    "\\L@viewport",
+    "\\IeC",
     "\\LettrineFont",
     "\\LettrineFontHook",
     "\\LettrineOptionsFor",
     "\\LettrineSecondString",
     "\\LettrineTestString",
-    "\\LettrineTextFont"
+    "\\LettrineTextFont",
+    "\\color",
+    "\\lettrine",
+    "\\textcolor"
   ],
   "environments": []
 }

@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\NbreJours",
+    "\\RA",
+    "\\adddays",
+    "\\psCalDodecaeder",
+    "\\psCalendar",
+    "\\pstCalendarVersion"
+  ],
   "environments": []
 }

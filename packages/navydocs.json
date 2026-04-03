@@ -1,11 +1,10 @@
 {
   "commands": [
+    "\\MONTH",
+    "\\NavyTitlePage",
     "\\eg",
     "\\headrulewidth",
-    "\\MONTH",
-    "\\navy@checkfield",
-    "\\navy@undefined",
-    "\\NavyTitlePage"
+    "\\marginoffset"
   ],
   "environments": []
 }

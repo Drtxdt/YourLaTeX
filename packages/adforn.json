@@ -1,5 +1,6 @@
 {
   "commands": [
+    "\\adfS",
     "\\adfbullet",
     "\\adfclosedflourishleft",
     "\\adfclosedflourishright",
@@ -47,7 +48,6 @@
     "\\adfoutlineleafleft",
     "\\adfoutlineleafright",
     "\\adfrightarrowhead",
-    "\\adfS",
     "\\adfsharpflourishleft",
     "\\adfsharpflourishright",
     "\\adfsickleflourishleft",

@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\seqinsert",
+    "\\seqsplit"
+  ],
   "environments": []
 }

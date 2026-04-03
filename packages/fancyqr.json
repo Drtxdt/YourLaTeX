@@ -1,4 +1,15 @@
 {
-  "commands": [],
+  "commands": [
+    "\\FancyQrDoNotPrintRadius",
+    "\\FancyQrDoNotPrintSquare",
+    "\\FancyQrLoad",
+    "\\FancyQrLoadDefault",
+    "\\GetPattern",
+    "\\csname",
+    "\\fancyqr",
+    "\\fancyqrset",
+    "\\filename",
+    "\\qrm"
+  ],
   "environments": []
 }

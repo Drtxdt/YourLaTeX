@@ -1,8 +1,11 @@
 {
   "commands": [
+    "\\csname",
     "\\eval",
     "\\fetch",
     "\\get"
   ],
-  "environments": []
+  "environments": [
+    "CAS"
+  ]
 }

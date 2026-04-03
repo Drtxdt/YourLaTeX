@@ -1,0 +1,32 @@
+{
+  "commands": [
+    "\\acklabel",
+    "\\alglabel",
+    "\\authorlabel",
+    "\\authorslabel",
+    "\\biblabel",
+    "\\coauthorname",
+    "\\codegreename",
+    "\\codelabel",
+    "\\coperiodname",
+    "\\cosupaff",
+    "\\cosupname",
+    "\\covertitle",
+    "\\deflabel",
+    "\\lstalgorithmlabel",
+    "\\lstcodelabel",
+    "\\lstfigurelabel",
+    "\\lstnomencl",
+    "\\lsttablelabel",
+    "\\makecover",
+    "\\maketitle",
+    "\\notelabel",
+    "\\periodname",
+    "\\remlabel",
+    "\\suplabel",
+    "\\supslabel",
+    "\\theolabel",
+    "\\todolabel"
+  ],
+  "environments": []
+}

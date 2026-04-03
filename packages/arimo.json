@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\Arimo@scale"
+    "\\arimofamily",
+    "\\sfdefault"
   ],
   "environments": []
 }

@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\ProcessOptionsWithKV",
+    "\\csname",
+    "\\kernlen",
+    "\\leftkern",
+    "\\noexpand",
+    "\\rightkern"
+  ],
+  "environments": [
+    "kerntable"
+  ]
+}

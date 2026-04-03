@@ -1,6 +1,24 @@
 {
   "commands": [
-    "\\Roboto@scale"
+    "\\robotoTOsF",
+    "\\robotoblack",
+    "\\robotobold",
+    "\\robotofamily",
+    "\\robotolf",
+    "\\robotolgr",
+    "\\robotolight",
+    "\\robotomedium",
+    "\\robotoosf",
+    "\\robotoregular",
+    "\\robotosf",
+    "\\robotoslabfamily",
+    "\\robotoslablgr",
+    "\\robotothin",
+    "\\robototlf",
+    "\\robototosf",
+    "\\robotottlf",
+    "\\seriesdefault",
+    "\\sfdefault"
   ],
   "environments": []
 }

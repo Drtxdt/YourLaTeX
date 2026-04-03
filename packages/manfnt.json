@@ -1,6 +1,8 @@
 {
   "commands": [
     "\\dbend",
+    "\\filedate",
+    "\\fileversion",
     "\\lhdbend",
     "\\manboldkidney",
     "\\manconcentriccircles",
@@ -26,7 +28,6 @@
     "\\mantriangleup",
     "\\manvpennib",
     "\\reversedvideodbend",
-    "\\text@dbend",
     "\\textdbend",
     "\\textlhdbend",
     "\\textreversedvideodbend"

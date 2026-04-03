@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\PolPrintIntervalsKnownRoot",
+    "\\PolPrintIntervalsNoRealRoots",
+    "\\PolPrintIntervalsPrintExactZero",
+    "\\PolPrintIntervalsPrintLeftEndPoint",
+    "\\PolPrintIntervalsPrintRightEndPoint",
+    "\\PolPrintIntervalsUnknownRoot",
+    "\\csname",
+    "\\xintsession",
+    "\\xintsessiondefaultrootsprecision",
+    "\\xintsessionresume",
+    "\\xs"
+  ],
+  "environments": []
+}

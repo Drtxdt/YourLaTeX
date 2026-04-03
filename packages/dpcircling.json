@@ -1,4 +1,18 @@
 {
-  "commands": [],
+  "commands": [
+    "\\DPcircling",
+    "\\DPcirclingDefault",
+    "\\DPcirclingLinecolor",
+    "\\DPcirclingLinewidth",
+    "\\DPcirclingOutlineHeight",
+    "\\DPcirclingOutlineWidth",
+    "\\DPcirclingTemporalLinecolor",
+    "\\DPcirclingTemporalLinewidth",
+    "\\DPcirclingTemporalOutlineHeight",
+    "\\DPcirclingTemporalOutlineWidth",
+    "\\DPfanshape",
+    "\\DPjagged",
+    "\\DPrectangle"
+  ],
   "environments": []
 }

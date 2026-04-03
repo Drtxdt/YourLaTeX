@@ -1,14 +1,5 @@
 {
   "commands": [
-    "\\scrwfile@@starttoc",
-    "\\scrwfile@@writefile",
-    "\\scrwfile@if@only",
-    "\\scrwfile@process@clones",
-    "\\scrwfile@saved@starttoc",
-    "\\scrwfile@saved@writefile",
-    "\\scrwfile@starttoc",
-    "\\scrwfile@writefile",
-    "\\scrwfile@writefilelist",
     "\\TOCclone"
   ],
   "environments": []

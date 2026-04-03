@@ -1,0 +1,24 @@
+{
+  "commands": [
+    "\\animaColor",
+    "\\animaColorTheme",
+    "\\animaColorThemeI",
+    "\\animaColorThemeII",
+    "\\animaExemplo",
+    "\\animaFrameTitle",
+    "\\animaStyle",
+    "\\animaTheme",
+    "\\numero",
+    "\\um",
+    "\\zero",
+    "\\zeros"
+  ],
+  "environments": [
+    "alertblock",
+    "anima",
+    "anotherblock",
+    "block",
+    "exampleblock",
+    "notitleblock"
+  ]
+}

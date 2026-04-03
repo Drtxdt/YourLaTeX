@@ -1,4 +1,18 @@
 {
-  "commands": [],
-  "environments": []
+  "commands": [
+    "\\nontipafalse",
+    "\\nontipatrue",
+    "\\tipaunibar",
+    "\\tipaunidate",
+    "\\tipaunidescription",
+    "\\tipauniname",
+    "\\tipauniring",
+    "\\tipaunitilde",
+    "\\tipauniumlaut",
+    "\\tipauniversion",
+    "\\tipauniwedge"
+  ],
+  "environments": [
+    "IPA"
+  ]
 }

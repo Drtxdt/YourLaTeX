@@ -1,5 +1,8 @@
 {
-  "commands": [],
+  "commands": [
+    "\\param",
+    "\\person"
+  ],
   "environments": [
     "pptMiddle",
     "pptWide",

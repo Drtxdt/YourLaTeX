@@ -1,7 +1,12 @@
 {
   "commands": [
-    "\\Spectral@scale",
-    "\\SpectralInitials@scale"
+    "\\seriesdefault",
+    "\\spectralextrabold",
+    "\\spectralextralight",
+    "\\spectrallight",
+    "\\spectralmedium",
+    "\\spectralsemibold",
+    "\\sufigures"
   ],
   "environments": []
 }

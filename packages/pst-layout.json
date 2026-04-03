@@ -1,4 +1,15 @@
 {
-  "commands": [],
+  "commands": [
+    "\\MaxC",
+    "\\MaxR",
+    "\\endpslayout",
+    "\\filedate",
+    "\\fileversion",
+    "\\parseFragRP",
+    "\\parseSeries",
+    "\\parsedelta",
+    "\\pslayout",
+    "\\showRC"
+  ],
   "environments": []
 }

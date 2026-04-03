@@ -1,4 +1,21 @@
 {
-  "commands": [],
+  "commands": [
+    "\\ArBenTmpBin",
+    "\\ArBinEvts",
+    "\\ArBinIF",
+    "\\ArBinIN",
+    "\\ArBinN",
+    "\\ArBinProbas",
+    "\\ArBinRacine",
+    "\\ArBinTmpA",
+    "\\ArBinTmpB",
+    "\\ArBinTmpNds",
+    "\\ArBinTmpNiv",
+    "\\ArBinVar",
+    "\\ipu",
+    "\\itmp",
+    "\\j",
+    "\\l"
+  ],
   "environments": []
 }

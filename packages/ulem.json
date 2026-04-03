@@ -1,4 +1,23 @@
 {
-  "commands": [],
+  "commands": [
+    "\\ULforem",
+    "\\ULon",
+    "\\ULset",
+    "\\ULthickness",
+    "\\command",
+    "\\dashuline",
+    "\\dotuline",
+    "\\hfil",
+    "\\hfill",
+    "\\hss",
+    "\\markoverwith",
+    "\\normalem",
+    "\\sout",
+    "\\uline",
+    "\\useunder",
+    "\\uuline",
+    "\\uwave",
+    "\\xout"
+  ],
   "environments": []
 }

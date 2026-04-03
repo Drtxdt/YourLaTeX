@@ -1,9 +1,29 @@
 {
   "commands": [
+    "\\RCS",
+    "\\cs",
+    "\\endesk",
+    "\\endeskdef",
+    "\\endeskfile",
     "\\esk",
-    "\\esk@cmds",
+    "\\eskaddtoglobals",
+    "\\eskaddtoprelude",
     "\\eskdef",
-    "\\eskfile"
+    "\\eskfile",
+    "\\eskglobals",
+    "\\eskprelude",
+    "\\eskwrite",
+    "\\eskwritetoken",
+    "\\fileversion",
+    "\\futurenospacelet",
+    "\\leftparanthesis",
+    "\\next",
+    "\\nexttoken",
+    "\\stepone",
+    "\\stepthree",
+    "\\steptwo",
+    "\\stoken",
+    "\\theeskfile"
   ],
   "environments": []
 }

@@ -1,4 +1,22 @@
 {
-  "commands": [],
+  "commands": [
+    "\\BNE",
+    "\\BNEprint",
+    "\\BNEprinthex",
+    "\\BNEtmpa",
+    "\\XINTfstop",
+    "\\bnebareeval",
+    "\\bnethe",
+    "\\bnumdefinfix",
+    "\\bnumdefpostfix",
+    "\\bnumeval",
+    "\\bnumexpr",
+    "\\bnumexpro",
+    "\\bnumprintonesep",
+    "\\csname",
+    "\\evaltohex",
+    "\\thebnumexpr",
+    "\\xint"
+  ],
   "environments": []
 }

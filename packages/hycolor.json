@@ -1,4 +1,8 @@
 {
-  "commands": [],
+  "commands": [
+    "\\noexpand",
+    "\\x",
+    "\\y"
+  ],
   "environments": []
 }

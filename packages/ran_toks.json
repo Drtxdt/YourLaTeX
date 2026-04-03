@@ -1,16 +1,33 @@
 {
   "commands": [
+    "\\InitSeedValue",
+    "\\RTVWHook",
     "\\bRTVToks",
-    "\\displ@yListRandomly",
     "\\displayListRandomly",
     "\\eRTVToks",
+    "\\endverbatimwrite",
+    "\\first",
     "\\makeInfoAWarning",
     "\\nToksFor",
+    "\\nextrandom",
+    "\\pkgNotifType",
+    "\\ranToks",
+    "\\ranToksOff",
+    "\\ranToksOn",
+    "\\reVerbEnd",
+    "\\reorderRanToks",
     "\\rtTokByNum",
+    "\\rtVWHook",
+    "\\rtVWId",
+    "\\rtcsarg",
     "\\uniqueXDBChoicesOff",
     "\\uniqueXDBChoicesOn",
+    "\\useLastAsSeed",
+    "\\useRTName",
     "\\useRanTok",
-    "\\useRTName"
+    "\\useThisSeed",
+    "\\verbatimwrite",
+    "\\wrtProbIds"
   ],
   "environments": [
     "rtVW"

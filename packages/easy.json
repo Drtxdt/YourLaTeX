@@ -1,4 +1,13 @@
 {
-  "commands": [],
+  "commands": [
+    "\\addpath",
+    "\\csname",
+    "\\easydashlen",
+    "\\easydashsep",
+    "\\filedate",
+    "\\fileversion",
+    "\\macro",
+    "\\next"
+  ],
   "environments": []
 }

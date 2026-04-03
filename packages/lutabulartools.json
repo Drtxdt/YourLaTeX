@@ -1,12 +1,16 @@
 {
   "commands": [
+    "\\PackageWarning",
+    "\\endlongtable",
+    "\\endtabular",
     "\\gmidrule",
-    "\\ltt@ActivatePackageWarning",
-    "\\ltt@DeactivatePackageWarning",
     "\\lttdebugOFF",
     "\\lttdebugON",
     "\\lttdebugprt",
-    "\\PackageWarning"
+    "\\midruleX",
+    "\\oldgcmidrule"
   ],
-  "environments": []
+  "environments": [
+    "tabular*"
+  ]
 }

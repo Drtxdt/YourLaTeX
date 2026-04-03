@@ -1,9 +1,21 @@
 {
   "commands": [
-    "\\Baskervaldx@scale",
     "\\familydefault",
+    "\\filedate",
+    "\\fileversion",
+    "\\lfstyle",
+    "\\osfstyle",
     "\\rmdefault",
-    "\\swdefault"
+    "\\sufigures",
+    "\\swdefault",
+    "\\textcircled",
+    "\\textlf",
+    "\\textosf",
+    "\\texttlf",
+    "\\texttosf",
+    "\\tlfstyle",
+    "\\tosfstyle",
+    "\\useosf"
   ],
   "environments": []
 }

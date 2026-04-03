@@ -1,7 +1,18 @@
 {
   "commands": [
-    "\\Alegreya@scale",
-    "\\rmdefault"
+    "\\Alegreya",
+    "\\AlegreyaBlack",
+    "\\AlegreyaExtraBold",
+    "\\AlegreyaLF",
+    "\\AlegreyaMedium",
+    "\\AlegreyaOsF",
+    "\\AlegreyaTLF",
+    "\\AlegreyaTOsF",
+    "\\Alegreyafamily",
+    "\\rmdefault",
+    "\\rmfamily",
+    "\\seriesdefault",
+    "\\useosf"
   ],
   "environments": []
 }

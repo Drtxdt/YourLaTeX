@@ -1,9 +1,11 @@
 {
   "commands": [
+    "\\enumsnowman",
+    "\\makedocumentsnowman",
     "\\makeitemsnowman",
     "\\makeqedsnowman",
     "\\scsnowmandefault",
-    "\\sctkzsym@snowman@defaultkeys",
+    "\\scsnowmannumeral",
     "\\usescsnowmanlibrary"
   ],
   "environments": []

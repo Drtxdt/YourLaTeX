@@ -1,11 +1,26 @@
 {
   "commands": [
-    "\\ETbb@scale",
-    "\\familydefault",
     "\\Qnoswash",
     "\\Qswash",
+    "\\denomfigures",
+    "\\familydefault",
+    "\\filedate",
+    "\\fileversion",
+    "\\inffigures",
+    "\\lfstyle",
+    "\\osfstyle",
     "\\rmdefault",
-    "\\textfrac"
+    "\\supfigures",
+    "\\textfrac",
+    "\\textlf",
+    "\\textosf",
+    "\\textsc",
+    "\\texttlf",
+    "\\texttosf",
+    "\\tlfstyle",
+    "\\tosfstyle",
+    "\\useosf",
+    "\\useproportional"
   ],
   "environments": []
 }

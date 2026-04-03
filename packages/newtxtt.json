@@ -1,9 +1,11 @@
 {
   "commands": [
     "\\familydefault",
-    "\\newtxtt@scale",
+    "\\filedate",
+    "\\fileversion",
     "\\ttdefault",
-    "\\ttzdefault"
+    "\\ttzdefault",
+    "\\ttzfamily"
   ],
   "environments": []
 }

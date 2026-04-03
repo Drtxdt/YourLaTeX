@@ -1,5 +1,6 @@
 {
   "commands": [
+    "\\ProcessPlates",
     "\\appendixname",
     "\\appendixpagename",
     "\\appendixtocname",
@@ -13,7 +14,6 @@
     "\\newsubfloat",
     "\\platename",
     "\\platenames",
-    "\\ProcessPlates",
     "\\providefixedcaption",
     "\\renewfixedcaption",
     "\\setplatename",

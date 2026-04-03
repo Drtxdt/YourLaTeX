@@ -1,11 +1,5 @@
 {
   "commands": [
-    "\\@enumType",
-    "\\@falseLabel",
-    "\\@mode",
-    "\\@showBorder",
-    "\\@showSolution",
-    "\\@trueLabel",
     "\\hideBorder",
     "\\hideSolution",
     "\\showBorder",

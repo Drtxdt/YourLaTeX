@@ -1,0 +1,28 @@
+{
+  "commands": [
+    "\\addvspace",
+    "\\appendix",
+    "\\bibname",
+    "\\cftchapaftersnum",
+    "\\cftchapfont",
+    "\\cftchapleader",
+    "\\cftchappagefont",
+    "\\cftfigaftersnum",
+    "\\cftsecaftersnum",
+    "\\cftsubsecaftersnum",
+    "\\cfttabaftersnum",
+    "\\chaptername",
+    "\\contentsname",
+    "\\heading",
+    "\\listfigurename",
+    "\\listtablename",
+    "\\makeabstract",
+    "\\makeapproval",
+    "\\namedappendix",
+    "\\theappendixfigure",
+    "\\theappendixtable",
+    "\\theequation",
+    "\\thesistype"
+  ],
+  "environments": []
+}

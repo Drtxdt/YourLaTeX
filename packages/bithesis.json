@@ -1,0 +1,22 @@
+{
+  "commands": [
+    "\\arraystretch",
+    "\\baselinestretch",
+    "\\bibfont",
+    "\\circled",
+    "\\qedsymbol",
+    "\\tabcolsep"
+  ],
+  "environments": [
+    "abstract",
+    "abstractEn",
+    "acknowledgements",
+    "appendices",
+    "bibprint",
+    "blindPeerReview",
+    "conclusion",
+    "publications",
+    "resume",
+    "symbols"
+  ]
+}

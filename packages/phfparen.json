@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\backtick",
+    "\\paren",
+    "\\parenMakeBacktickActiveParen",
+    "\\parenMakeNormalBacktick"
+  ],
   "environments": []
 }

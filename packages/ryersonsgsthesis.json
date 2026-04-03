@@ -1,0 +1,27 @@
+{
+  "commands": [
+    "\\bstctlcite",
+    "\\define",
+    "\\indexText",
+    "\\lstlistingname",
+    "\\lstlistlistingname",
+    "\\setAbstract",
+    "\\setAcknowledgements",
+    "\\setAuthor",
+    "\\setAuthorsDeclaration",
+    "\\setDedication",
+    "\\setDepartment",
+    "\\setLocation",
+    "\\setPastDegreeA",
+    "\\setPastDegreeB",
+    "\\setPastDegreeC",
+    "\\setPastDegreeD",
+    "\\setThesisDegree",
+    "\\setThesisYear",
+    "\\setTitle",
+    "\\setUniversity"
+  ],
+  "environments": [
+    "ryersonSGSThesis"
+  ]
+}

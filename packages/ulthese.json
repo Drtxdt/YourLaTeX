@@ -1,0 +1,28 @@
+{
+  "commands": [
+    "\\annee",
+    "\\auteur",
+    "\\codirection",
+    "\\dedicace",
+    "\\direction",
+    "\\epigraphe",
+    "\\faculteUL",
+    "\\faculteUQAC",
+    "\\faculteUQO",
+    "\\faculteUdeS",
+    "\\frontispice",
+    "\\gradebidiplomation",
+    "\\gradecotutelle",
+    "\\listfigurename",
+    "\\lofheadstart",
+    "\\lotheadstart",
+    "\\pagetitre",
+    "\\programme",
+    "\\soustitre",
+    "\\titre",
+    "\\tocheadstart",
+    "\\univbidiplomation",
+    "\\univcotutelle"
+  ],
+  "environments": []
+}

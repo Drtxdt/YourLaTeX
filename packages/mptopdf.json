@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\negatecolorcomponent",
+    "\\negatedcolorcomponent",
+    "\\processMPfile",
+    "\\withoutpt"
+  ],
+  "environments": []
+}

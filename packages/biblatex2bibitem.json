@@ -9,8 +9,6 @@
     "\\mkbibitalic",
     "\\mkbibsc",
     "\\nolinkurl",
-    "\\print@begin@thebibliography",
-    "\\print@bibitem@command",
     "\\printbibitembibliography",
     "\\printgeneratedbibitemseparator",
     "\\textbf",

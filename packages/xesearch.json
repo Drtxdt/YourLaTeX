@@ -1,4 +1,28 @@
 {
-  "commands": [],
+  "commands": [
+    "\\AddToList",
+    "\\AffixFound",
+    "\\DoNotSort",
+    "\\MakeBoundary",
+    "\\MessageBreak",
+    "\\NormalOutput",
+    "\\NormalTracing",
+    "\\PatchOutput",
+    "\\PatchTracing",
+    "\\PrefixFound",
+    "\\SearchAll",
+    "\\SearchList",
+    "\\SearchOnlyOne",
+    "\\SearchOrder",
+    "\\SortByLength",
+    "\\StartSearching",
+    "\\StopList",
+    "\\StopSearching",
+    "\\SuffixFound",
+    "\\UndoBoundary",
+    "\\csname",
+    "\\expandafter",
+    "\\noexpand"
+  ],
   "environments": []
 }

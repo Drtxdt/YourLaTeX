@@ -1,5 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\comment",
+    "\\csname",
+    "\\endcomment"
+  ],
   "environments": [
     "cachepicture"
   ]

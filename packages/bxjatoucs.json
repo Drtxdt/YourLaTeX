@@ -1,4 +1,23 @@
 {
-  "commands": [],
+  "commands": [
+    "\\bxjaCidToUcs",
+    "\\bxjaCidToUcsHex",
+    "\\bxjaEucToUcs",
+    "\\bxjaEucToUcsHex",
+    "\\bxjaFastCidToUcs",
+    "\\bxjaFastCidToUcsHex",
+    "\\bxjaFastJscToUcs",
+    "\\bxjaFastJscToUcsHex",
+    "\\bxjaFastUcsToJsc",
+    "\\bxjaJisToUcs",
+    "\\bxjaJisToUcsHex",
+    "\\bxjaSjisToUcs",
+    "\\bxjaSjisToUcsHex",
+    "\\bxjaUcsToEuc",
+    "\\bxjaUcsToJis",
+    "\\bxjaUcsToSjis",
+    "\\bxjatoucsLoaded",
+    "\\do"
+  ],
   "environments": []
 }

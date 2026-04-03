@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\ProvidesFile",
+    "\\ProvidesPackage"
+  ],
   "environments": []
 }

@@ -1,37 +1,7 @@
 {
   "commands": [
-    "\\amx@amx@Array@PreambleTrampoline",
-    "\\amx@amx@Indicator",
-    "\\amx@amx@MakeTabular",
-    "\\amx@amx@RenderHeading",
-    "\\amx@amx@RenderRow",
-    "\\amx@amx@RowRenderHELPER",
-    "\\amx@Associations",
-    "\\amx@Cols",
-    "\\amx@ColumnKey",
-    "\\amx@ColumnText",
-    "\\amx@Renderer@ColumnHeading",
-    "\\amx@Renderer@Default@ColumnHeading",
-    "\\amx@Renderer@Default@Indicator",
-    "\\amx@Renderer@Default@Indicator@Highlighted@Current",
-    "\\amx@Renderer@Default@Indicator@Highlighted@Other",
-    "\\amx@Renderer@Default@Row",
-    "\\amx@Renderer@Default@Row@Highlighted",
-    "\\amx@Renderer@Default@TopCorner",
-    "\\amx@Renderer@Indicator",
-    "\\amx@Renderer@Indicator@Highlighted@Current",
-    "\\amx@Renderer@Indicator@Highlighted@Other",
-    "\\amx@Renderer@Reset",
-    "\\amx@Renderer@Row",
-    "\\amx@Renderer@Row@Highlighted",
-    "\\amx@Renderer@TopCorner",
-    "\\amx@RowColAssigned",
-    "\\amx@RowKey",
-    "\\amx@Rows",
-    "\\amx@RowText",
+    "\\csname",
     "\\do"
   ],
-  "environments": [
-    "amx@Tabular"
-  ]
+  "environments": []
 }

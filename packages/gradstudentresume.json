@@ -1,0 +1,23 @@
+{
+  "commands": [
+    "\\grad",
+    "\\honors",
+    "\\largespace",
+    "\\medspace",
+    "\\myname",
+    "\\paper",
+    "\\presentation",
+    "\\reference",
+    "\\sectionheading",
+    "\\sectionrule",
+    "\\smallspace",
+    "\\subsectionheading",
+    "\\undergrad"
+  ],
+  "environments": [
+    "desc",
+    "info",
+    "pres",
+    "wrapped"
+  ]
+}

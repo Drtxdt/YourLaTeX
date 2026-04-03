@@ -9,19 +9,6 @@
     "\\CropLines",
     "\\CropSegments",
     "\\DotSize",
-    "\\elzc@CalculaMarcas",
-    "\\elzc@CalculaMatriz",
-    "\\elzc@CalculaOrden",
-    "\\elzc@CalculaOrdenTrasverso",
-    "\\elzc@CicloCompleto",
-    "\\elzc@CicloPagina",
-    "\\elzc@ColumnasFilas",
-    "\\elzc@Cuadricula",
-    "\\elzc@DibujaMarcas",
-    "\\elzc@ErrorEnPatronOrden",
-    "\\elzc@Informacion",
-    "\\elzc@Inicializa",
-    "\\elzc@VerificaOrden",
     "\\ICdim",
     "\\LineThickness",
     "\\NoAutoGap",
@@ -31,7 +18,8 @@
     "\\PKGWARNING",
     "\\SegmentLength",
     "\\TotalIC",
-    "\\Transverse"
+    "\\Transverse",
+    "\\csname"
   ],
   "environments": []
 }

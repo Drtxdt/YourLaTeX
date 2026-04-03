@@ -1,6 +1,6 @@
 {
   "commands": [
-    "\\@director",
+    "\\RTPacknowledgement",
     "\\copyrighttext",
     "\\cosupervisor",
     "\\declaration",
@@ -8,7 +8,6 @@
     "\\director",
     "\\graphic",
     "\\maketitle",
-    "\\RTPacknowledgement",
     "\\school",
     "\\subject",
     "\\supervisor"

@@ -1,13 +1,18 @@
 {
   "commands": [
-    "\\chapter",
     "\\DDMMYYYYdate",
+    "\\MMDDYYYYdate",
+    "\\ProgressDocOutput",
+    "\\ProgressDrawBar",
+    "\\ProgressReportName",
+    "\\YYYYMMDDdate",
+    "\\bgcolor",
+    "\\chapter",
     "\\eightdigitdate",
     "\\insertChapter",
     "\\insertSection",
     "\\insertSubsection",
     "\\insertSubsubsection",
-    "\\MMDDYYYYdate",
     "\\nostarchapter",
     "\\nostarsection",
     "\\nostarsubsection",
@@ -17,17 +22,13 @@
     "\\oooldsubsection",
     "\\oooldsubsubsection",
     "\\progress",
-    "\\ProgressDocOutput",
-    "\\ProgressDrawBar",
-    "\\ProgressReportName",
     "\\section",
     "\\starchapter",
     "\\starsection",
     "\\starsubsection",
     "\\starsubsubsection",
     "\\subsection",
-    "\\subsubsection",
-    "\\YYYYMMDDdate"
+    "\\subsubsection"
   ],
   "environments": []
 }

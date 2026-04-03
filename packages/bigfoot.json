@@ -1,6 +1,18 @@
 {
   "commands": [
-    "\\FN@seitenobreak"
+    "\\DefineFootnoteStack",
+    "\\FootnoteMainMinimum",
+    "\\FootnoteMinimum",
+    "\\FootnoteSpecific",
+    "\\PopFootnoteMark",
+    "\\PushFootnoteMark",
+    "\\RestyleFootnote",
+    "\\baselinestretch",
+    "\\csname",
+    "\\expandafter",
+    "\\hfootfraction",
+    "\\noexpand",
+    "\\vtypefraction"
   ],
   "environments": []
 }

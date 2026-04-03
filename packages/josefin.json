@@ -1,6 +1,10 @@
 {
   "commands": [
-    "\\JosefinSans@scale"
+    "\\josefinextralight",
+    "\\josefinlight",
+    "\\josefinmedium",
+    "\\josefinsemibold",
+    "\\josefinthin"
   ],
   "environments": []
 }

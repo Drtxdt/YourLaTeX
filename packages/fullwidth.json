@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\endfullwidth",
+    "\\fullwidth",
+    "\\fwddate",
+    "\\fwdpackagename",
+    "\\fwdversion",
+    "\\thempfn"
+  ],
   "environments": []
 }

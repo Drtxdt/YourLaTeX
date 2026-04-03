@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\ExplFileDate",
+    "\\ExplFileDescription",
+    "\\ExplFileExtension",
+    "\\ExplFileName",
+    "\\ExplFileVersion"
+  ],
+  "environments": []
+}

@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\arraystretch",
+    "\\cftsecfont",
+    "\\contentsname",
+    "\\footrulewidth",
+    "\\group",
+    "\\headrulewidth",
+    "\\num",
+    "\\rmdefault"
+  ],
+  "environments": [
+    "grow",
+    "info",
+    "info*",
+    "ingredients",
+    "shrink"
+  ]
+}

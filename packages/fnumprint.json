@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\ns@en@neunzehn"
+    "\\fnumprint",
+    "\\fnumprintc"
   ],
   "environments": []
 }

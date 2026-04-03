@@ -1,4 +1,12 @@
 {
-  "commands": [],
+  "commands": [
+    "\\FrameCommand",
+    "\\colbox",
+    "\\do",
+    "\\footrule",
+    "\\headrule",
+    "\\noexpand",
+    "\\stuff"
+  ],
   "environments": []
 }

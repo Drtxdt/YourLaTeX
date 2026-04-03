@@ -1,4 +1,12 @@
 {
-  "commands": [],
+  "commands": [
+    "\\endpstgraph",
+    "\\filedate",
+    "\\fileversion",
+    "\\pstfileplot",
+    "\\pstgraph",
+    "\\pstlabel",
+    "\\setpstgraph"
+  ],
   "environments": []
 }

@@ -1,5 +1,35 @@
 {
-  "commands": [],
+  "commands": [
+    "\\BState",
+    "\\Comment",
+    "\\Statex",
+    "\\algbackskip",
+    "\\algbackskipbegin",
+    "\\algbackskipend",
+    "\\algblock",
+    "\\algblockdefx",
+    "\\algblockx",
+    "\\algcblock",
+    "\\algcblockdefx",
+    "\\algcblockx",
+    "\\algcloop",
+    "\\algcloopdefx",
+    "\\algcloopx",
+    "\\algloop",
+    "\\algloopdefx",
+    "\\algorithmicnoindent",
+    "\\algref",
+    "\\algrestore",
+    "\\algsetblock",
+    "\\algsetblockdefx",
+    "\\algsetblockx",
+    "\\algsetcblock",
+    "\\algsetcblockdefx",
+    "\\algsetcblockx",
+    "\\algstore",
+    "\\algtext",
+    "\\csname"
+  ],
   "environments": [
     "algorithmic"
   ]

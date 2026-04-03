@@ -1,4 +1,22 @@
 {
-  "commands": [],
+  "commands": [
+    "\\AddBibliographystyle",
+    "\\AddNocite",
+    "\\annote",
+    "\\bib",
+    "\\bibliography",
+    "\\bibliographystyle",
+    "\\check",
+    "\\endannote",
+    "\\endthebibliography",
+    "\\lb",
+    "\\library",
+    "\\mark",
+    "\\newblock",
+    "\\nocite",
+    "\\prepare",
+    "\\refname",
+    "\\thebibliography"
+  ],
   "environments": []
 }

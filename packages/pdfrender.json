@@ -1,7 +1,18 @@
 {
   "commands": [
+    "\\bgroup",
+    "\\csname",
+    "\\egroup",
+    "\\empty",
+    "\\endgraf",
+    "\\expandafter",
+    "\\noexpand",
+    "\\pdfcolorstack",
+    "\\pdfcolorstackinit",
+    "\\pdfliteral",
     "\\pdfrender",
-    "\\textpdfrender"
+    "\\textpdfrender",
+    "\\x"
   ],
   "environments": []
 }

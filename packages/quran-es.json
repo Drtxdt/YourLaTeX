@@ -1,7 +1,10 @@
 {
   "commands": [
+    "\\basmalahes",
     "\\esGetTrans",
-    "\\esSetTrans"
+    "\\esSetTrans",
+    "\\quranesdate",
+    "\\quranesversion"
   ],
   "environments": []
 }

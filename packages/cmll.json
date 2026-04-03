@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\biginvamp",
+    "\\bigparr",
+    "\\bigwith",
+    "\\invamp",
+    "\\parr"
+  ],
   "environments": []
 }

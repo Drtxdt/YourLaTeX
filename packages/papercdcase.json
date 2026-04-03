@@ -1,10 +1,11 @@
 {
   "commands": [
-    "\\@PCDC@Back@Matter",
-    "\\@PCDC@Latch@Matter",
-    "\\@PCDC@Pouch@Matter",
-    "\\@PCDC@Spine@Matter",
-    "\\@PCDC@Typeset@Scheme",
+    "\\SVNDate",
+    "\\SVNMisc",
+    "\\docdate",
+    "\\docversion",
+    "\\filename",
+    "\\papercdcase",
     "\\setcdbackmatter",
     "\\setcdlatchmatter",
     "\\setcdpouchmatter",

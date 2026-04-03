@@ -1,7 +1,15 @@
 {
   "commands": [
-    "\\@eqnnum",
-    "\\theequation"
+    "\\arraystretch",
+    "\\endsubeqnarray",
+    "\\endsubequations",
+    "\\protect",
+    "\\refstepcounter",
+    "\\subeqnarray",
+    "\\subequations",
+    "\\subnumcases",
+    "\\theequation",
+    "\\thesubequation"
   ],
   "environments": [
     "numcases"

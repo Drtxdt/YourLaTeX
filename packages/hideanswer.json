@@ -1,7 +1,17 @@
 {
-  "commands": [],
+  "commands": [
+    "\\hideanswer",
+    "\\hidegraphics",
+    "\\sethideanswer",
+    "\\smashanswer",
+    "\\smashgraphics",
+    "\\switchanswer",
+    "\\unsethideanswer"
+  ],
   "environments": [
     "hideanswerdiv",
-    "hideanswerdiv*"
+    "hideanswerdiv*",
+    "smashanswerdiv",
+    "smashanswerdiv*"
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\AtEndOfPackage",
+    "\\AtEndOfPackageDo",
+    "\\IfFormatAtLeastTF",
+    "\\csname",
+    "\\expandafter",
+    "\\newif"
+  ],
+  "environments": []
+}

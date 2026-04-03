@@ -1,4 +1,10 @@
 {
   "commands": [],
-  "environments": []
+  "environments": [
+    "element*",
+    "elementdef",
+    "elementenv",
+    "elementenv*",
+    "vcversionitem"
+  ]
 }

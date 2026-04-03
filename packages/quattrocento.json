@@ -1,7 +1,7 @@
 {
   "commands": [
-    "\\Quattro@scale",
-    "\\QuattroSans@scale"
+    "\\quattrocentofamily",
+    "\\quattrocentosffamily"
   ],
   "environments": []
 }

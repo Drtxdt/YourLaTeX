@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\author",
+    "\\authorcaption",
+    "\\city",
+    "\\collaborator",
+    "\\date",
+    "\\institute",
+    "\\logo",
+    "\\maketitle",
+    "\\supervisor",
+    "\\supervisorcaption",
+    "\\tableofcontents",
+    "\\title"
+  ],
+  "environments": []
+}

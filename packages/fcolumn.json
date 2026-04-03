@@ -1,4 +1,13 @@
 {
-  "commands": [],
+  "commands": [
+    "\\checkfcolumns",
+    "\\ialign",
+    "\\leeg",
+    "\\newpage",
+    "\\nopagebreak",
+    "\\pagebreak",
+    "\\resetsumline",
+    "\\sumline"
+  ],
   "environments": []
 }

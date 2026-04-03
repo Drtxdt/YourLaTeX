@@ -1,9 +1,19 @@
 {
   "commands": [
     "\\familydefault",
-    "\\Inter@mathstyle",
-    "\\Inter@scale",
-    "\\rmdefault"
+    "\\interextrabold",
+    "\\interextralight",
+    "\\interheavy",
+    "\\interlight",
+    "\\intermedium",
+    "\\interproportional",
+    "\\intersemibold",
+    "\\intertabular",
+    "\\interthin",
+    "\\rmdefault",
+    "\\sufigures",
+    "\\supfigures",
+    "\\textsuperscript"
   ],
   "environments": []
 }

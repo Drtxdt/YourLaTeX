@@ -1,4 +1,12 @@
 {
-  "commands": [],
+  "commands": [
+    "\\LastBib",
+    "\\bibitem",
+    "\\docdate",
+    "\\endthebibliography",
+    "\\filedate",
+    "\\filename",
+    "\\fileversion"
+  ],
   "environments": []
 }

@@ -1,23 +1,16 @@
 {
   "commands": [
     "\\AltGr",
+    "\\CurrentMenuElement",
+    "\\SPACE",
+    "\\Space",
     "\\arrowkey",
     "\\changemenucolor",
     "\\changemenucolortheme",
     "\\copymenucolortheme",
     "\\copymenustyle",
     "\\delname",
-    "\\Space",
-    "\\SPACE",
     "\\spacename",
-    "\\tw@default@post",
-    "\\tw@default@pre",
-    "\\tw@default@sep",
-    "\\tw@define@mackey",
-    "\\tw@make@color@theme",
-    "\\tw@mk@error",
-    "\\tw@mk@warning",
-    "\\tw@mk@warning@noline",
     "\\usemenucolor"
   ],
   "environments": []

@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\baselinestretch",
+    "\\college",
+    "\\coursename",
+    "\\coursenumber",
+    "\\coursesection",
+    "\\epigraph",
+    "\\instructor",
+    "\\spacing",
+    "\\studentnumber"
+  ],
+  "environments": []
+}

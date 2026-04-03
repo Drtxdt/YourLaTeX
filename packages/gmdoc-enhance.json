@@ -1,7 +1,8 @@
 {
   "commands": [
-    "\\activateVisibleComments",
     "\\InlineCommentsWithPercent",
+    "\\activateVisibleComments",
+    "\\ifilrr",
     "\\normalInlineComments",
     "\\normalInput",
     "\\setVisibleCommentChar",

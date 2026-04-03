@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\eracommons",
+    "\\grantinfo",
+    "\\name",
+    "\\pgline",
+    "\\piinfo",
+    "\\position",
+    "\\thesection"
+  ],
+  "environments": [
+    "datetbl",
+    "education",
+    "statement"
+  ]
+}

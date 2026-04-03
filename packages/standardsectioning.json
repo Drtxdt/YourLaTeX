@@ -1,6 +1,12 @@
 {
   "commands": [
-    "\\scr@activate@xsection"
+    "\\chapter",
+    "\\paragraph",
+    "\\part",
+    "\\section",
+    "\\subparagraph",
+    "\\subsection",
+    "\\subsubsection"
   ],
   "environments": []
 }

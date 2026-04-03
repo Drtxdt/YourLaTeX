@@ -1,0 +1,39 @@
+{
+  "commands": [
+    "\\abbreviationsfile",
+    "\\abstractfile",
+    "\\acknowledgementsfile",
+    "\\baselinestretch",
+    "\\committeememberslist",
+    "\\contentsheader",
+    "\\dedicationfile",
+    "\\degreename",
+    "\\department",
+    "\\epigraph",
+    "\\epigraphlabel",
+    "\\footnoterule",
+    "\\hugeskip",
+    "\\makeabbreviations",
+    "\\makeabstract",
+    "\\makeacknowledgements",
+    "\\makeauthenticitypage",
+    "\\makecopyrightpage",
+    "\\makededication",
+    "\\makefrontmatter",
+    "\\makepreface",
+    "\\maketitlepage",
+    "\\masterof",
+    "\\prefacefile",
+    "\\printindex",
+    "\\resetfootnote",
+    "\\spacing",
+    "\\splitfootnoterule",
+    "\\threestars"
+  ],
+  "environments": [
+    "epigraphs",
+    "fquotation",
+    "fquote",
+    "fverse"
+  ]
+}

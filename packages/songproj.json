@@ -1,4 +1,10 @@
 {
   "commands": [],
-  "environments": []
+  "environments": [
+    "couplet",
+    "final",
+    "intro",
+    "refrain",
+    "song"
+  ]
 }

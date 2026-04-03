@@ -1,4 +1,8 @@
 {
-  "commands": [],
+  "commands": [
+    "\\XeTeXDeclareMathSymbol",
+    "\\csname",
+    "\\do"
+  ],
   "environments": []
 }

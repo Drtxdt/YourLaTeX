@@ -1,7 +1,9 @@
 {
   "commands": [
-    "\\@idxitem",
     "\\endtheindex",
+    "\\entrypostfix",
+    "\\entryprefix",
+    "\\hhafterpage",
     "\\subitem",
     "\\subsubitem"
   ],

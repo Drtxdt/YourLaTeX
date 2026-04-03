@@ -1,7 +1,6 @@
 {
   "commands": [
-    "\\faktor@impl",
-    "\\faktor@impl@"
+    "\\faktor"
   ],
   "environments": []
 }

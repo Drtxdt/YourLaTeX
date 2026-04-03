@@ -1,9 +1,11 @@
 {
   "commands": [
     "\\chapter",
+    "\\conference",
     "\\copyrightnote",
-    "\\toclevel@author",
-    "\\toclevel@title"
+    "\\llncs",
+    "\\llncsdoi",
+    "\\maketitle"
   ],
   "environments": []
 }

@@ -1,0 +1,32 @@
+{
+  "commands": [
+    "\\abstand",
+    "\\auvimm",
+    "\\chead",
+    "\\distance",
+    "\\familydefault",
+    "\\fancyhead",
+    "\\fontna",
+    "\\fromlinktext",
+    "\\headrulewidth",
+    "\\labelitemi",
+    "\\labelitemii",
+    "\\labelitemiii",
+    "\\labelitemiv",
+    "\\lhead",
+    "\\maketitle",
+    "\\navigation",
+    "\\pagenrconst",
+    "\\rhead",
+    "\\screenformat",
+    "\\slidetitlecolor",
+    "\\totargettext"
+  ],
+  "environments": [
+    "cdescription",
+    "cenumerate",
+    "citemize",
+    "psli",
+    "rsli"
+  ]
+}

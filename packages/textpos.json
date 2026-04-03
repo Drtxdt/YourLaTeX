@@ -1,7 +1,17 @@
 {
   "commands": [
+    "\\TPGrid",
     "\\TPMargin",
-    "\\TPMargin@inner"
+    "\\TPReferencePosition",
+    "\\TPShowGrid",
+    "\\TPoptions",
+    "\\endtextblock",
+    "\\showtextsize",
+    "\\textblock",
+    "\\textblockcolour",
+    "\\textblocklabel",
+    "\\textblockorigin",
+    "\\textblockrulecolour"
   ],
   "environments": []
 }

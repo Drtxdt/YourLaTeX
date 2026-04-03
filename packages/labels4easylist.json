@@ -1,7 +1,4 @@
 {
-  "commands": [
-    "\\elLabel@GetLastLevel",
-    "\\elLabel@RecurencyGetEnumLevel"
-  ],
+  "commands": [],
   "environments": []
 }

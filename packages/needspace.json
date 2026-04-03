@@ -1,9 +1,7 @@
 {
   "commands": [
-    "\\@needsp@",
-    "\\@sneedsp@",
-    "\\needspace",
-    "\\Needspace"
+    "\\Needspace",
+    "\\needspace"
   ],
   "environments": []
 }

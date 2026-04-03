@@ -1,0 +1,30 @@
+{
+  "commands": [
+    "\\LARGE",
+    "\\Large",
+    "\\footnotesize",
+    "\\huge",
+    "\\ifortyonept",
+    "\\ifourteenpt",
+    "\\iseventeenpt",
+    "\\ithirtyfourpt",
+    "\\itwentyfourpt",
+    "\\itwentyninept",
+    "\\itwentypt",
+    "\\large",
+    "\\maketitle",
+    "\\normalsize",
+    "\\scriptsize",
+    "\\slidedivider",
+    "\\small",
+    "\\tiny"
+  ],
+  "environments": [
+    "doubleitem",
+    "doubleslide",
+    "itemslide",
+    "leftitem",
+    "rightitem",
+    "slide"
+  ]
+}

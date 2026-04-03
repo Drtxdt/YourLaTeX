@@ -1,6 +1,12 @@
 {
-  "commands": [],
-  "environments": [
-    "none@BL"
-  ]
+  "commands": [
+    "\\bashI",
+    "\\eoln",
+    "\\firstErrorLine",
+    "\\normalfont",
+    "\\rmfamily",
+    "\\sffamily",
+    "\\ttfamily"
+  ],
+  "environments": []
 }

@@ -1,7 +1,25 @@
 {
   "commands": [
+    "\\Ktest",
+    "\\Ltest",
+    "\\ReturnAfterFi",
+    "\\attest",
+    "\\btest",
+    "\\chordsize",
+    "\\cotest",
+    "\\dampsymbol",
+    "\\etest",
+    "\\fnum",
+    "\\ftest",
+    "\\ntest",
+    "\\opensymbol",
+    "\\otest",
+    "\\ptest",
     "\\putdots",
-    "\\upchord"
+    "\\stest",
+    "\\ttest",
+    "\\upchord",
+    "\\xtest"
   ],
   "environments": []
 }

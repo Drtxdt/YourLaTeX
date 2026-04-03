@@ -1,13 +1,10 @@
 {
   "commands": [
-    "\\gridsystem@cellwidth",
-    "\\gridsystem@finishcell",
-    "\\gridsystem@finishlastcell",
-    "\\gridsystem@finishrow"
+    "\\convertto"
   ],
   "environments": [
+    "Row",
     "cell",
-    "row",
-    "Row"
+    "row"
   ]
 }

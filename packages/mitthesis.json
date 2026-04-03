@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\bm",
+    "\\cite",
+    "\\eqref",
+    "\\footnote",
+    "\\linenumberfont",
+    "\\nomname",
+    "\\textls",
+    "\\versiondate",
+    "\\versionno"
+  ],
+  "environments": [
+    "abstract",
+    "nomenclature"
+  ]
+}

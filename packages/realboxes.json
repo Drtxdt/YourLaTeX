@@ -1,6 +1,11 @@
 {
   "commands": [
-    "\\Makebox"
+    "\\Colorbox",
+    "\\Fcolorbox",
+    "\\Makebox",
+    "\\Savebox",
+    "\\Sbox",
+    "\\adjsetlength"
   ],
   "environments": []
 }

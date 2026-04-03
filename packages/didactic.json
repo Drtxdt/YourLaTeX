@@ -4,5 +4,7 @@
     "\\sidecapstyle",
     "\\sidefootform"
   ],
-  "environments": []
+  "environments": [
+    "fullwidth"
+  ]
 }

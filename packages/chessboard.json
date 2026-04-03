@@ -1,6 +1,8 @@
 {
   "commands": [
-    "\\board@do@l@addto@macro"
+    "\\csname",
+    "\\currentfontcolors",
+    "\\zeroalph"
   ],
   "environments": []
 }

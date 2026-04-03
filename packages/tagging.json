@@ -1,5 +1,6 @@
 {
   "commands": [
+    "\\do",
     "\\iftagged",
     "\\tagged",
     "\\taggedn",

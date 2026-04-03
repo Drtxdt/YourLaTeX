@@ -1,23 +1,34 @@
 {
   "commands": [
-    "\\@TypeColor",
+    "\\Callout",
+    "\\RawPict",
+    "\\TaskInfo",
     "\\arcol",
     "\\arraystretch",
     "\\arrow",
     "\\bgcol",
     "\\callout",
-    "\\Callout",
     "\\focol",
     "\\helpgrid",
     "\\listexamplename",
     "\\mycustomtask",
     "\\note",
-    "\\RawPict",
-    "\\TaskInfo",
     "\\theTaskSection",
     "\\theTaskSubSection"
   ],
   "environments": [
+    "Bio",
+    "DecisionTable",
+    "DescriptionTable",
+    "DescriptionTable*",
+    "EnumerateWithTitle",
+    "GroupedFigures",
+    "ItemizeWithTitle",
+    "Meeting",
+    "MyTable",
+    "RawDecisionTable",
+    "RawDescriptionTable",
+    "TeamStory",
     "annotate"
   ]
 }

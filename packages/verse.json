@@ -1,23 +1,11 @@
 {
   "commands": [
-    "\\@vsarraytostring",
-    "\\@vscentercr",
-    "\\@vsifbang",
-    "\\@vsifgt",
-    "\\@vstypelinenumleft",
-    "\\@vstypelinenumright",
-    "\\@vstypeptitle",
-    "\\@vsxcentercr",
     "\\arraytostring",
     "\\checkarrayindex",
     "\\checkifinteger",
     "\\flagverse",
-    "\\get@vsindent",
     "\\getarrayelement",
-    "\\getmodulo@vs",
-    "\\getstar@vsindent",
     "\\gobm",
-    "\\incr@vsline",
     "\\indentpattern",
     "\\newarray",
     "\\poemlines",
@@ -27,7 +15,6 @@
     "\\poemtoc",
     "\\setarrayelement",
     "\\setverselinenums",
-    "\\start@vsline",
     "\\stringtoarray",
     "\\theHpoemline",
     "\\verselinebreak",
@@ -35,7 +22,7 @@
     "\\verselinenumbersright",
     "\\verselinenumfont",
     "\\vin",
-    "\\vs@nameedef"
+    "\\vlnumfont"
   ],
   "environments": [
     "altverse",

@@ -1,6 +1,5 @@
 {
   "commands": [
-    "\\MRV@Write",
     "\\mrvdocument",
     "\\mrvnew",
     "\\mrvold",
@@ -10,7 +9,8 @@
     "\\revisionrm",
     "\\revnew",
     "\\revold",
-    "\\revref"
+    "\\revref",
+    "\\string"
   ],
   "environments": []
 }

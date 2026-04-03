@@ -1,9 +1,12 @@
 {
   "commands": [
-    "\\bidipagegrid@x@coordinate",
+    "\\bidipagegridShipoutDoubleBegin",
+    "\\bidipagegridShipoutDoubleEnd",
     "\\bidipagegridsetup",
+    "\\empty",
     "\\setLTRpagegrid",
-    "\\setRTLpagegrid"
+    "\\setRTLpagegrid",
+    "\\x"
   ],
   "environments": []
 }

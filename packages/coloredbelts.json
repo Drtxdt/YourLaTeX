@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\judobeltheight",
+    "\\judobeltraise"
+  ],
   "environments": []
 }

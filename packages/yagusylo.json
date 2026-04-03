@@ -1,11 +1,17 @@
 {
   "commands": [
+    "\\LaBoite",
+    "\\Leaders",
+    "\\STOP",
+    "\\csname",
+    "\\docdate",
+    "\\filedate",
+    "\\fileinfo",
+    "\\fileversion",
+    "\\item",
+    "\\makelabel",
+    "\\motif",
     "\\setyagitemize",
-    "\\Y@Gfill",
-    "\\Y@GINFO",
-    "\\Y@GLevelTest",
-    "\\Y@GSetYagEnumerate",
-    "\\Y@GWARNING",
     "\\yagline"
   ],
   "environments": [

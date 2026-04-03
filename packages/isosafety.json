@@ -1,7 +1,7 @@
 {
   "commands": [
-    "\\isosafetypath",
-    "\\Isosign"
+    "\\Isosign",
+    "\\isosafetypath"
   ],
   "environments": []
 }

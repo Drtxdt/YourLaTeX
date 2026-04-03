@@ -1,0 +1,32 @@
+{
+  "commands": [
+    "\\BiaoTi",
+    "\\KaoShiRiQi",
+    "\\KaoShiXingShi",
+    "\\KeChengDaiMa",
+    "\\KeChengMingCheng",
+    "\\KeChengXingZhi",
+    "\\LARGE",
+    "\\MingTiJiaoShi",
+    "\\XiZhuRenQianMing",
+    "\\XueFen",
+    "\\XueNian",
+    "\\XueQi",
+    "\\ZhuanYeBanJi",
+    "\\hfutFontHead",
+    "\\hfutFontTitle",
+    "\\hfutboxno",
+    "\\hfutboxyes",
+    "\\hfutlastpage",
+    "\\hfutpage",
+    "\\hfutrule",
+    "\\hfutstretch",
+    "\\hfutul",
+    "\\indent",
+    "\\labelenumi",
+    "\\large",
+    "\\maketitle",
+    "\\small"
+  ],
+  "environments": []
+}

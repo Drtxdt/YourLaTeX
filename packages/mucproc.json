@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\and",
+    "\\author",
+    "\\maketitle",
+    "\\mucprocVersion",
+    "\\nameyeardelim",
+    "\\newline",
+    "\\sectionformat",
+    "\\subsectionformat",
+    "\\subsubsectionformat",
+    "\\thanksref"
+  ],
+  "environments": [
+    "authoraddendum"
+  ]
+}

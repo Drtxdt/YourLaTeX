@@ -1,4 +1,13 @@
 {
-  "commands": [],
+  "commands": [
+    "\\maybebm",
+    "\\maybebmsf",
+    "\\maybeit",
+    "\\maybeitrm",
+    "\\maybeitsubscript",
+    "\\maybemath",
+    "\\mayberm",
+    "\\maybesf"
+  ],
   "environments": []
 }

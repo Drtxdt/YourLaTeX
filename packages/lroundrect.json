@@ -1,4 +1,13 @@
 {
-  "commands": [],
+  "commands": [
+    "\\rralertbox",
+    "\\rrdefaultbox",
+    "\\rrincludemps",
+    "\\rrincludepdf",
+    "\\rrorangebluebox",
+    "\\rrtcolorex",
+    "\\rrtcoltag",
+    "\\rrtransbox"
+  ],
   "environments": []
 }

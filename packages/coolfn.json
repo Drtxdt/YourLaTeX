@@ -1,6 +1,6 @@
 {
   "commands": [
-    "\\@makefntext",
+    "\\coolfnversionnumber",
     "\\fnindent"
   ],
   "environments": [

@@ -1,4 +1,8 @@
 {
-  "commands": [],
+  "commands": [
+    "\\calprintdate",
+    "\\curdate",
+    "\\currentdate"
+  ],
   "environments": []
 }

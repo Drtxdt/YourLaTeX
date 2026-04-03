@@ -1,6 +1,9 @@
 {
   "commands": [
-    "\\Bttr@scale"
+    "\\bitter",
+    "\\bitterfamily",
+    "\\rmdefault",
+    "\\seriesdefault"
   ],
   "environments": []
 }

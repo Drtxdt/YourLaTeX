@@ -1,4 +1,24 @@
 {
-  "commands": [],
+  "commands": [
+    "\\LR",
+    "\\LTR",
+    "\\RL",
+    "\\RTL",
+    "\\bracetext",
+    "\\endLTR",
+    "\\endRTL",
+    "\\hboxR",
+    "\\moreLRE",
+    "\\moreRLE",
+    "\\pLRE",
+    "\\pRLE",
+    "\\setLR",
+    "\\setLTR",
+    "\\setRL",
+    "\\setRTL",
+    "\\setRTLmain",
+    "\\unsetLTR",
+    "\\unsetRTL"
+  ],
   "environments": []
 }

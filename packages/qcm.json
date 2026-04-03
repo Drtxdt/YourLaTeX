@@ -1,7 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\makeform",
+    "\\makemask",
+    "\\pbs",
+    "\\tmp"
+  ],
   "environments": [
-    "@correction",
     "question"
   ]
 }

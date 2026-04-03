@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\xmax",
+    "\\xmin"
+  ],
   "environments": []
 }

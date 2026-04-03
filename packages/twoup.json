@@ -1,7 +1,5 @@
 {
   "commands": [
-    "\\cleartol@stp@ge",
-    "\\cleartolastp@ge",
     "\\cleartolastpage"
   ],
   "environments": []

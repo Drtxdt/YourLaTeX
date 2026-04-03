@@ -1,0 +1,21 @@
+{
+  "commands": [
+    "\\afterchapternum",
+    "\\afterchaptertitle",
+    "\\chapnamefont",
+    "\\chapnumfont",
+    "\\chapterheadstart",
+    "\\chapternamenum",
+    "\\chaptitlefont",
+    "\\degreecompletionyear",
+    "\\degreediscipline",
+    "\\degreesought",
+    "\\maketitle",
+    "\\printchaptername",
+    "\\printchapternonum",
+    "\\printchapternum",
+    "\\printchaptertitle",
+    "\\subtitle"
+  ],
+  "environments": []
+}

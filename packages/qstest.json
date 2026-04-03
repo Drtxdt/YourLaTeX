@@ -1,8 +1,16 @@
 {
   "commands": [
+    "\\CalledName",
     "\\EndInternalSetValue",
+    "\\InRange",
+    "\\IncludeTests",
     "\\LogTests",
-    "\\TestErrors"
+    "\\SavedValue",
+    "\\TestErrors",
+    "\\csname",
+    "\\expandafter",
+    "\\next",
+    "\\noexpand"
   ],
   "environments": [
     "ExpectCallSequence",

@@ -1,4 +1,29 @@
 {
-  "commands": [],
+  "commands": [
+    "\\Axiom",
+    "\\AxiomC",
+    "\\Deduce",
+    "\\DeduceC",
+    "\\LeftLineLabel",
+    "\\LeftSubproofLabel",
+    "\\RightLineLabel",
+    "\\RightSubproofLabel",
+    "\\alwaysDeduce",
+    "\\branchDeduce",
+    "\\buildConclusion",
+    "\\buildConclusionC",
+    "\\buildDeduce",
+    "\\buildScore",
+    "\\ddotsDeduce",
+    "\\displayLeftLineLabel",
+    "\\displayRightLineLabel",
+    "\\dotsdDeduce",
+    "\\joinDeduce",
+    "\\resetInferenceDefaults",
+    "\\shortDeduce",
+    "\\straightDeduce",
+    "\\theHypSeparation",
+    "\\theScoreFiller"
+  ],
   "environments": []
 }

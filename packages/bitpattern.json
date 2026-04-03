@@ -1,8 +1,6 @@
 {
   "commands": [
-    "\\bitpattern",
-    "\\bp@Field",
-    "\\bp@FieldIfPresent"
+    "\\bitpattern"
   ],
   "environments": []
 }

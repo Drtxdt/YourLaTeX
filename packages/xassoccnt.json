@@ -1,13 +1,15 @@
 {
   "commands": [
     "\\AssociatedCounterInfoColor",
-    "\\countersresetlistcount",
     "\\DriverCounterInfoColor",
     "\\GeneralCounterInfoColor",
-    "\\getresetlistcount",
     "\\LastCounterValue",
+    "\\TotalCounterInfoColor",
+    "\\countersresetlistcount",
+    "\\getresetlistcount",
     "\\showresetlist",
-    "\\TotalCounterInfoColor"
+    "\\stepcounter",
+    "\\xassoccntpackageversion"
   ],
   "environments": []
 }

@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\cox",
+    "\\coy",
+    "\\drawgrid",
+    "\\firstof",
+    "\\placeatthreenumbers",
+    "\\secondof"
+  ],
   "environments": []
 }

@@ -1,4 +1,6 @@
 {
-  "commands": [],
+  "commands": [
+    "\\stst"
+  ],
   "environments": []
 }

@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\email",
+    "\\familydefault",
+    "\\mbdp",
+    "\\mobile",
+    "\\phone",
+    "\\project",
+    "\\researcher",
+    "\\researchers",
+    "\\university"
+  ],
+  "environments": []
+}

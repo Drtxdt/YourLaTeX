@@ -1,0 +1,24 @@
+{
+  "commands": [
+    "\\HUA",
+    "\\MATRIX",
+    "\\SHUANG",
+    "\\TENSOR",
+    "\\VEC",
+    "\\dif",
+    "\\ekv",
+    "\\figcaption",
+    "\\fzbHei",
+    "\\headrule",
+    "\\maketitlepagestatement",
+    "\\me",
+    "\\mi",
+    "\\tabcaption",
+    "\\tableofcontents",
+    "\\upcite"
+  ],
+  "environments": [
+    "cnabstract",
+    "enabstract"
+  ]
+}

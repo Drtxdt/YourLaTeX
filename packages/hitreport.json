@@ -1,0 +1,30 @@
+{
+  "commands": [
+    "\\CJKglue",
+    "\\appendixname",
+    "\\arraystretch",
+    "\\bibname",
+    "\\bottomfraction",
+    "\\chaptermark",
+    "\\cleardoublepage",
+    "\\contentsname",
+    "\\floatpagefraction",
+    "\\footnoterule",
+    "\\ge",
+    "\\indexname",
+    "\\le",
+    "\\listequationname",
+    "\\listfigurename",
+    "\\listtablename",
+    "\\setthesection",
+    "\\textfraction",
+    "\\thefootnote",
+    "\\thempfootnote",
+    "\\thesubfigure",
+    "\\thesubtable",
+    "\\topfraction"
+  ],
+  "environments": [
+    "abstract"
+  ]
+}

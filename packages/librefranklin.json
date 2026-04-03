@@ -1,6 +1,8 @@
 {
   "commands": [
-    "\\LibreFranklin@scale"
+    "\\librefranklinfamily",
+    "\\sfdefault",
+    "\\sufigures"
   ],
   "environments": []
 }

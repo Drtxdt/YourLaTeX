@@ -1,6 +1,11 @@
 {
-  "commands": [],
-  "environments": [
-    "scrambledenvs@printenv"
-  ]
+  "commands": [
+    "\\csname",
+    "\\defaultlabelfont",
+    "\\defaultprintenv",
+    "\\defaultprintitem",
+    "\\defaultreffont",
+    "\\defaultrefprefix"
+  ],
+  "environments": []
 }

@@ -1,0 +1,14 @@
+{
+  "commands": [],
+  "environments": [
+    "abstract",
+    "figure",
+    "figure*",
+    "onecol",
+    "quotation",
+    "quote",
+    "table",
+    "table*",
+    "verse"
+  ]
+}

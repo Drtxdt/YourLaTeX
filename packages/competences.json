@@ -1,20 +1,29 @@
 {
   "commands": [
-    "\\addcompetence",
     "\\addGlobalCompetence",
+    "\\addcompetence",
+    "\\cstotal",
     "\\declarecompetence",
     "\\declareprefix",
     "\\dummyMacro",
-    "\\getCurrentpartiedocument",
     "\\getCurrentSectionNumber",
+    "\\getCurrentpartiedocument",
+    "\\gptotal",
+    "\\gtotal",
     "\\ifcompexists",
     "\\ifpartexists",
     "\\ifquestexists",
+    "\\partie",
+    "\\pctotal",
+    "\\pftotal",
+    "\\ptotal",
+    "\\quest",
     "\\sumcspartie",
     "\\sumpfpartie",
     "\\tableaucompetences",
     "\\tableaupartie",
-    "\\tableauprefix"
+    "\\tableauprefix",
+    "\\total"
   ],
   "environments": [
     "dummyEnv"

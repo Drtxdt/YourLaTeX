@@ -2,14 +2,14 @@
   "commands": [
     "\\HideMNOTES",
     "\\MNCOLOUR",
-    "\\Mnewauthor",
     "\\MNFONT",
     "\\MNOTE",
     "\\MNOTEon",
-    "\\mnoteseastlink",
-    "\\mnoteswestlink",
+    "\\Mnewauthor",
     "\\ReverseMNConnect",
-    "\\ShowMNOTES"
+    "\\ShowMNOTES",
+    "\\mnoteseastlink",
+    "\\mnoteswestlink"
   ],
   "environments": []
 }

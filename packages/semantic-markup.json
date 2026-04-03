@@ -1,6 +1,7 @@
 {
   "commands": [
     "\\MakeEndnotes",
+    "\\footnote",
     "\\mktextquote"
   ],
   "environments": []

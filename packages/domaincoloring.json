@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\DomainColoring",
+    "\\filedate",
+    "\\fileversion",
+    "\\setDColkeys"
+  ],
   "environments": []
 }

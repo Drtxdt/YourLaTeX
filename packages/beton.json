@@ -1,4 +1,14 @@
 {
-  "commands": [],
+  "commands": [
+    "\\TextOldstyle",
+    "\\dash",
+    "\\filedate",
+    "\\fileversion",
+    "\\noexpand",
+    "\\qback",
+    "\\rmdefault",
+    "\\t",
+    "\\theequation"
+  ],
   "environments": []
 }

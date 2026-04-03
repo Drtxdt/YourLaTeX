@@ -1,19 +1,15 @@
 {
   "commands": [
-    "\\RM@maxtextheight",
-    "\\RM@maxtextwidth",
-    "\\RM@minbottommargin",
-    "\\RM@mininsidemargin",
-    "\\RM@minoutsidemargin",
-    "\\RM@mintextheight",
-    "\\RM@mintextwidth",
-    "\\RM@mintopmargin",
-    "\\RM@OnLandscapePaperSize",
-    "\\RM@OnPaperSize",
-    "\\RM@OnPortraitPaperSize",
-    "\\RM@widthsetter",
     "\\RMconfigfile",
-    "\\rmdefault"
+    "\\XXX",
+    "\\endsloppypar",
+    "\\fussy",
+    "\\noexpand",
+    "\\rmdefault",
+    "\\sloppiness",
+    "\\sloppy",
+    "\\sloppypar",
+    "\\today"
   ],
   "environments": []
 }

@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\btex",
+    "\\gmpoptions",
+    "\\mpdim",
+    "\\par",
+    "\\verbatimtex",
+    "\\x"
+  ],
   "environments": []
 }

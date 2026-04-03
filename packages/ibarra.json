@@ -1,6 +1,8 @@
 {
   "commands": [
-    "\\IbarraRealNova@scale"
+    "\\ibarra",
+    "\\ibarraSemiBold",
+    "\\ibarrafamily"
   ],
   "environments": []
 }

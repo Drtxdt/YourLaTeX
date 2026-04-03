@@ -1,7 +1,32 @@
 {
   "commands": [
+    "\\c",
     "\\callornament",
-    "\\resetpgfornamentstyle"
+    "\\getornamentangle",
+    "\\getornamentlength",
+    "\\i",
+    "\\k",
+    "\\l",
+    "\\m",
+    "\\newpgfornamentfamily",
+    "\\ornamenttoanchor",
+    "\\ornamenttopos",
+    "\\ornamenttosymmetry",
+    "\\p",
+    "\\pgfornament",
+    "\\pgfornamentanchor",
+    "\\pgfornamentcolor",
+    "\\pgfornamentheight",
+    "\\pgfornamenthline",
+    "\\pgfornamentline",
+    "\\pgfornamentopacity",
+    "\\pgfornamentscale",
+    "\\pgfornamentvline",
+    "\\pgfornamentwidth",
+    "\\pgfornamentydelta",
+    "\\r",
+    "\\resetpgfornamentstyle",
+    "\\ubb"
   ],
   "environments": [
     "newfamily"

@@ -1,4 +1,17 @@
 {
-  "commands": [],
+  "commands": [
+    "\\boldmath",
+    "\\hline",
+    "\\hrule",
+    "\\int",
+    "\\mathbb",
+    "\\mathbf",
+    "\\overline",
+    "\\sum",
+    "\\underline",
+    "\\vline",
+    "\\xUnicodeMathSymbol",
+    "\\xxUnicodeMathSymbol"
+  ],
   "environments": []
 }

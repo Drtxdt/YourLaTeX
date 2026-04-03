@@ -1,9 +1,5 @@
 {
   "commands": [
-    "\\@gitFootRev",
-    "\\@gitlFootRev",
-    "\\@gitPage",
-    "\\@gitrFootRev",
     "\\gitAbbrevHash",
     "\\gitAuthorDate",
     "\\gitAuthorEmail",

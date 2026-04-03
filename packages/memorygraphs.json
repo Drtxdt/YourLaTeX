@@ -1,6 +1,6 @@
 {
   "commands": [
-    "\\memorygraphs@arg"
+    "\\pgfaddtoshape"
   ],
   "environments": []
 }

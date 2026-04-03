@@ -1,5 +1,17 @@
 {
-  "commands": [],
+  "commands": [
+    "\\endglossitem",
+    "\\filedate",
+    "\\fileversion",
+    "\\glosslinkborder",
+    "\\glosslinkbordercolor",
+    "\\glosslinkcolor",
+    "\\glossname",
+    "\\glosspage",
+    "\\ifglossshort",
+    "\\makelabel",
+    "\\stopglosslist"
+  ],
   "environments": [
     "glossitem",
     "glosslist",

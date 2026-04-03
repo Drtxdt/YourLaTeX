@@ -1,6 +1,4 @@
 {
-  "commands": [
-    "\\@lscapeenhanced@req@packages"
-  ],
+  "commands": [],
   "environments": []
 }

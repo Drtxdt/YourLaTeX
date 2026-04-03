@@ -1,7 +1,8 @@
 {
   "commands": [
-    "\\CrimsonPro@scale",
-    "\\CrimsonProInitials@scale"
+    "\\infigures",
+    "\\seriesdefault",
+    "\\sufigures"
   ],
   "environments": []
 }

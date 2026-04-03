@@ -1,6 +1,11 @@
 {
   "commands": [
-    "\\Ovrlck@scale"
+    "\\familydefault",
+    "\\overlock",
+    "\\overlockBlack",
+    "\\overlockfamily",
+    "\\sfdefault",
+    "\\sffamily"
   ],
   "environments": []
 }

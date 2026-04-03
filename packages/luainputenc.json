@@ -1,7 +1,9 @@
 {
   "commands": [
-    "\\lIE@activate",
-    "\\lIE@FromInputenc"
+    "\\DeclareInputMath",
+    "\\DeclareInputText",
+    "\\IeC",
+    "\\inputencoding"
   ],
   "environments": []
 }

@@ -1,4 +1,18 @@
 {
-  "commands": [],
+  "commands": [
+    "\\DeclareUrlCommand",
+    "\\Url",
+    "\\UrlBigBreaks",
+    "\\UrlBreaks",
+    "\\UrlFont",
+    "\\UrlNoBreaks",
+    "\\UrlOrds",
+    "\\UrlSpecials",
+    "\\UrlTildeSpecial",
+    "\\expandafter",
+    "\\urldebug",
+    "\\urldef",
+    "\\urlstyle"
+  ],
   "environments": []
 }

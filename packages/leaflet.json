@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\enumerate",
+    "\\footnotesize",
+    "\\immediate",
+    "\\itemize",
+    "\\makelabel",
+    "\\noparskip",
+    "\\part",
+    "\\sectfont",
+    "\\small"
+  ],
+  "environments": []
+}

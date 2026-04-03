@@ -1,5 +1,7 @@
 {
   "commands": [
+    "\\filedate",
+    "\\fileversion",
     "\\framefor",
     "\\ifinclude",
     "\\ifshow",

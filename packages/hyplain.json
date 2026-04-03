@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\fmtname",
+    "\\fmtversion",
+    "\\hyplainversion",
+    "\\input"
+  ],
+  "environments": []
+}

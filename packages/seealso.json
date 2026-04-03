@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\SeealsoGobble",
+    "\\do",
+    "\\next",
+    "\\see",
+    "\\seealso"
+  ],
   "environments": []
 }

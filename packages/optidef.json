@@ -1,11 +1,12 @@
 {
   "commands": [
+    "\\bodyBreakObjective",
     "\\bodyBreakObjectiveDefinition",
+    "\\bodySubjectTo",
+    "\\bodySubjectToDefinition",
     "\\bodyobj",
     "\\bodyobjLong",
     "\\bodyobjShort",
-    "\\bodySubjectTo",
-    "\\bodySubjectToDefinition",
     "\\breakObjective",
     "\\defaultConstraintFormat",
     "\\defaultOCPConstraint",

@@ -1,11 +1,9 @@
 {
   "commands": [
-    "\\@starttoc",
     "\\immediateaddtocontents",
     "\\multicolumnlof",
     "\\multicolumnlot",
-    "\\multicolumntoc",
-    "\\protected@write@immediate"
+    "\\multicolumntoc"
   ],
   "environments": []
 }

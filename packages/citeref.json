@@ -1,4 +1,14 @@
 {
-  "commands": [],
+  "commands": [
+    "\\bibintro",
+    "\\bibitem",
+    "\\bibitempages",
+    "\\citepageref",
+    "\\filedate",
+    "\\fileversion",
+    "\\list",
+    "\\newblock",
+    "\\thebibliography"
+  ],
   "environments": []
 }

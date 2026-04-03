@@ -1,6 +1,30 @@
 {
   "commands": [
-    "\\AdigraphRom"
+    "\\AdigraphBackwardPathColor",
+    "\\AdigraphBackwardPathWidth",
+    "\\AdigraphCurrentElaboratingEdge",
+    "\\AdigraphCurrentNode",
+    "\\AdigraphCyan",
+    "\\AdigraphDefaultColor",
+    "\\AdigraphDefaultWidth",
+    "\\AdigraphEdgeList",
+    "\\AdigraphFirstNode",
+    "\\AdigraphForwardPathColor",
+    "\\AdigraphForwardPathWidth",
+    "\\AdigraphLastParsedNode",
+    "\\AdigraphNodeList",
+    "\\AdigraphNodeName",
+    "\\AdigraphRed",
+    "\\AdigraphRom",
+    "\\AdigraphSecondNode",
+    "\\AdigraphTempList",
+    "\\AdigraphTextualZero",
+    "\\AdigraphVersionNumber",
+    "\\AdigraphWeightA",
+    "\\AdigraphWeightB",
+    "\\AdigraphZero",
+    "\\myCosSum",
+    "\\mySinSum"
   ],
   "environments": []
 }

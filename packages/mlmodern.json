@@ -1,6 +1,7 @@
 {
   "commands": [
     "\\bfdefault",
+    "\\mathsterling",
     "\\rmdefault",
     "\\sfdefault",
     "\\ttdefault"

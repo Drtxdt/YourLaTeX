@@ -1,8 +1,29 @@
 {
-  "commands": [],
+  "commands": [
+    "\\Map",
+    "\\MapBlockLabelFont",
+    "\\MapContinued",
+    "\\MapContinuing",
+    "\\MapRuleWidth",
+    "\\MapTOCname",
+    "\\MapTOCpage",
+    "\\chapter",
+    "\\csname",
+    "\\defineLimapLanguage",
+    "\\docdate",
+    "\\docversion",
+    "\\endMap",
+    "\\filedate",
+    "\\filename",
+    "\\fileversion",
+    "\\paragraph",
+    "\\subparagraph",
+    "\\subsection",
+    "\\subsubparagraph",
+    "\\subsubsection"
+  ],
   "environments": [
     "Abstract",
-    "Map@Block",
     "MapTabular"
   ]
 }

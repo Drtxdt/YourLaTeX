@@ -1,9 +1,15 @@
 {
   "commands": [
-    "\\al@error",
-    "\\al@warning",
-    "\\al@wrong@mark",
-    "\\al@wrong@nesting"
+    "\\aoline",
+    "\\auline",
+    "\\setLR",
+    "\\setRL"
   ],
-  "environments": []
+  "environments": [
+    "arab",
+    "arabexport",
+    "arabverse",
+    "txarab",
+    "txarabtr"
+  ]
 }

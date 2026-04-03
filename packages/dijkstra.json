@@ -1,4 +1,15 @@
 {
-  "commands": [],
+  "commands": [
+    "\\dijk",
+    "\\dijkdate",
+    "\\dijkname",
+    "\\dijkstra",
+    "\\dijkver",
+    "\\expandafter",
+    "\\initdijk",
+    "\\readgraph",
+    "\\setdijk",
+    "\\setdijkdefault"
+  ],
   "environments": []
 }

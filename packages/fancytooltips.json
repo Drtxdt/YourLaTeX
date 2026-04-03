@@ -1,12 +1,27 @@
 {
   "commands": [
+    "\\FindTipNumber",
+    "\\TooltipExtratext",
+    "\\TooltipHidden",
+    "\\TooltipPage",
+    "\\TooltipRefmark",
+    "\\checkTipNumber",
+    "\\delayinterval",
+    "\\eqIconDefaults",
+    "\\everyeqIcon",
+    "\\expandafter",
+    "\\fancytempA",
+    "\\fancytempAA",
+    "\\fancytempAAA",
+    "\\fancytempB",
+    "\\fancytooltipsdebugmsg",
+    "\\frametip",
+    "\\keytip",
     "\\tooltip",
-    "\\tooltip@NoStar",
-    "\\tooltip@Star",
     "\\tooltipanim",
-    "\\tooltipanim@NoStar",
-    "\\tooltipanim@Star",
-    "\\TooltipHidden"
+    "\\tooltipname",
+    "\\tooltippage",
+    "\\transparent"
   ],
   "environments": []
 }

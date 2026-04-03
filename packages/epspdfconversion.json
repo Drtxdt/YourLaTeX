@@ -1,5 +1,6 @@
 {
   "commands": [
+    "\\MinorVersion",
     "\\epspdfconversioncmdline",
     "\\epspdfconversionsetup"
   ],

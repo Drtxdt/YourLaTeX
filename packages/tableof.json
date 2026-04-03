@@ -1,5 +1,7 @@
 {
   "commands": [
+    "\\contentsline",
+    "\\expandafter",
     "\\nexttocwithtags",
     "\\tableoftaggedcontents"
   ],

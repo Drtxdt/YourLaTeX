@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\arraylineskip",
+    "\\cline",
+    "\\endarray",
+    "\\endtabular",
+    "\\hline",
+    "\\tablineskip"
+  ],
   "environments": []
 }

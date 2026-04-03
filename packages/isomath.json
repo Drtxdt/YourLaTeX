@@ -1,6 +1,10 @@
 {
   "commands": [
+    "\\mathbfit",
     "\\mathbold",
+    "\\mathboldsans",
+    "\\mathsans",
+    "\\mathsfbfit",
     "\\matrixsym",
     "\\tensorsym",
     "\\vectorsym"

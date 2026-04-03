@@ -1,9 +1,26 @@
 {
   "commands": [
-    "\\erewhon@scale",
+    "\\defigures",
     "\\familydefault",
+    "\\filedate",
+    "\\fileversion",
+    "\\infigures",
+    "\\lfstyle",
+    "\\nufigures",
+    "\\osfstyle",
     "\\rmdefault",
-    "\\textfrac"
+    "\\sufigures",
+    "\\textfrac",
+    "\\textlf",
+    "\\textosf",
+    "\\textruble",
+    "\\textsc",
+    "\\texttlf",
+    "\\texttosf",
+    "\\tlfstyle",
+    "\\tosfstyle",
+    "\\useosf",
+    "\\useproportional"
   ],
   "environments": []
 }

@@ -1,7 +1,6 @@
 {
   "commands": [
     "\\familydefault",
-    "\\HindMadurai@scale",
     "\\rmdefault"
   ],
   "environments": []

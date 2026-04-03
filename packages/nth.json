@@ -1,5 +1,11 @@
 {
   "commands": [
+    "\\nth",
+    "\\nthM",
+    "\\nthSuff",
+    "\\nthscript",
+    "\\nthtest",
+    "\\ordinal",
     "\\thesection"
   ],
   "environments": []

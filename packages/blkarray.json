@@ -1,4 +1,21 @@
 {
-  "commands": [],
+  "commands": [
+    "\\BAhhline",
+    "\\BAhline",
+    "\\BAmulticolumn",
+    "\\BAmultirow",
+    "\\BAnewcolumntype",
+    "\\BAnoalign",
+    "\\BAparfootnotes",
+    "\\batchfile",
+    "\\blockarray",
+    "\\eatmodule",
+    "\\endblockarray",
+    "\\fmtname",
+    "\\next",
+    "\\plain",
+    "\\protect",
+    "\\small"
+  ],
   "environments": []
 }

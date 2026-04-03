@@ -2,16 +2,10 @@
   "commands": [
     "\\artdecoframe",
     "\\curlyframe",
-    "\\dn@fill",
-    "\\dnd@ublerulefill",
+    "\\filedate",
+    "\\fileversion",
     "\\generalframe",
-    "\\lt@fill",
-    "\\ltd@ublerulefill",
-    "\\niceframe",
-    "\\rt@fill",
-    "\\rtd@ublerulefill",
-    "\\up@fill",
-    "\\upd@ublerulefill"
+    "\\niceframe"
   ],
   "environments": []
 }

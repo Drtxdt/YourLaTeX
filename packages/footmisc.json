@@ -1,7 +1,12 @@
 {
   "commands": [
+    "\\csname",
+    "\\footnote",
+    "\\footnotemark",
+    "\\footnoterule",
     "\\multfootsep",
-    "\\multiplefootnotemarker"
+    "\\multiplefootnotemarker",
+    "\\splitfootnoterule"
   ],
   "environments": []
 }

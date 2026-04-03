@@ -1,6 +1,5 @@
 {
   "commands": [
-    "\\over@under@arc",
     "\\overarc",
     "\\underarc"
   ],

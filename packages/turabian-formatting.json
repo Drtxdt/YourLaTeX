@@ -1,12 +1,14 @@
 {
   "commands": [
-    "\\@makefntext",
     "\\bibhang",
     "\\bibitemsep",
     "\\bibsetup",
+    "\\cleardoublepage",
     "\\enoteformat",
     "\\enotesize",
+    "\\enumerate",
     "\\footnoterule",
+    "\\itemize",
     "\\labelenumi",
     "\\labelenumii",
     "\\labelenumiii",
@@ -17,10 +19,14 @@
     "\\listofillustrations",
     "\\listoftables",
     "\\listtablename",
+    "\\makelabel",
+    "\\quote",
+    "\\raggedright",
     "\\section",
     "\\subsection",
     "\\subsubsection",
     "\\tableofcontents",
+    "\\theendnotes",
     "\\thefootnote"
   ],
   "environments": []

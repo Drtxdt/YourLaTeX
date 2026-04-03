@@ -1,0 +1,21 @@
+{
+  "commands": [
+    "\\cftchapafterpnum",
+    "\\cftchapfont",
+    "\\cftchapleader",
+    "\\cftchappagefont",
+    "\\cftchappresnum",
+    "\\cftpartafterpnum",
+    "\\cftpartfont",
+    "\\cftpartleader",
+    "\\cftpartpagefont",
+    "\\cftpartpresnum",
+    "\\descriptionlabel",
+    "\\reducewspc",
+    "\\reducewstr",
+    "\\resetwspc",
+    "\\resetwstr",
+    "\\thepart"
+  ],
+  "environments": []
+}

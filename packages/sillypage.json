@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\sillypageDate",
+    "\\sillypageVersion"
+  ],
   "environments": []
 }

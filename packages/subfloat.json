@@ -1,9 +1,15 @@
 {
   "commands": [
+    "\\docdate",
+    "\\filedate",
+    "\\fileversion",
+    "\\packagename",
     "\\subfiguresbegin",
     "\\subfiguresend",
     "\\subtablesbegin",
-    "\\subtablesend"
+    "\\subtablesend",
+    "\\thefigure",
+    "\\thetable"
   ],
   "environments": [
     "subfigures",

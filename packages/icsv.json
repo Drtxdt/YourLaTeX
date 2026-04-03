@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\address",
+    "\\bottomfraction",
+    "\\dblfloatpagefraction",
+    "\\dbltopfraction",
+    "\\email",
+    "\\enumerate",
+    "\\floatpagefraction",
+    "\\itemize",
+    "\\makelabel",
+    "\\textfraction",
+    "\\thempfootnote",
+    "\\topfraction"
+  ],
+  "environments": []
+}

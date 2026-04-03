@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\aksharPackageDate",
+    "\\aksharPackageDescription",
+    "\\aksharPackageName",
+    "\\aksharPackageVersion"
+  ],
   "environments": []
 }

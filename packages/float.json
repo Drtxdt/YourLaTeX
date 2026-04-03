@@ -1,6 +1,5 @@
 {
   "commands": [
-    "\\float@listhead",
     "\\listof"
   ],
   "environments": []

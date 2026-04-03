@@ -1,4 +1,6 @@
 {
-  "commands": [],
+  "commands": [
+    "\\arraystretch"
+  ],
   "environments": []
 }

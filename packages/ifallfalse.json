@@ -1,6 +1,10 @@
 {
   "commands": [
-    "\\orcheck"
+    "\\comparedstring",
+    "\\falseaction",
+    "\\logicbody",
+    "\\orcheck",
+    "\\trueaction"
   ],
   "environments": [
     "allfalse"

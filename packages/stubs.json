@@ -1,6 +1,5 @@
 {
   "commands": [
-    "\\st@b",
     "\\stubs"
   ],
   "environments": []

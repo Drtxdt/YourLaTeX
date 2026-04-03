@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\ClearSans@scale"
+    "\\clearfamily",
+    "\\sfdefault"
   ],
   "environments": []
 }

@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\unit",
+    "\\unitfrac"
+  ],
   "environments": []
 }

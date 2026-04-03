@@ -1,5 +1,8 @@
 {
   "commands": [
+    "\\csname",
+    "\\i",
+    "\\lcmd",
     "\\lmake"
   ],
   "environments": []

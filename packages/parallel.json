@@ -1,19 +1,26 @@
 {
   "commands": [
-    "\\makelabel",
     "\\ParallelAfterText",
+    "\\ParallelArgL",
+    "\\ParallelArgR",
     "\\ParallelAtEnd",
     "\\ParallelCheckOpenBrace",
     "\\ParallelDot",
     "\\ParallelLFootnote",
     "\\ParallelLText",
     "\\ParallelMessage",
+    "\\ParallelOldFootnote",
     "\\ParallelPar",
     "\\ParallelParOnePage",
     "\\ParallelParTwoPages",
     "\\ParallelRFootnote",
     "\\ParallelRText",
-    "\\ParallelShowFNList"
+    "\\ParallelShowFNList",
+    "\\filedate",
+    "\\fileversion",
+    "\\footnote",
+    "\\makelabel",
+    "\\x"
   ],
   "environments": [
     "Parallel",

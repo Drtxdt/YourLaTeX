@@ -1,16 +1,15 @@
 {
   "commands": [
-    "\\altfontenc",
     "\\AvailableFont",
     "\\AvailableRMFont",
     "\\AvailableSFFont",
     "\\AvailableTTFont",
-    "\\def@rmfont",
-    "\\def@sffont",
-    "\\def@ttfont",
     "\\DefaultRMFont",
     "\\DefaultSFFont",
     "\\DefaultTTFont",
+    "\\altfontenc",
+    "\\filedate",
+    "\\fileversion",
     "\\rmdefault",
     "\\sfdefault",
     "\\ttdefault"

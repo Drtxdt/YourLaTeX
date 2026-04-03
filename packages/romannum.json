@@ -1,5 +1,6 @@
 {
   "commands": [
+    "\\Romannum",
     "\\romannum",
     "\\thechapter",
     "\\theenumi",
@@ -8,8 +9,6 @@
     "\\thefigure",
     "\\thefootnote",
     "\\theparagraph",
-    "\\thern@mday",
-    "\\thern@myear",
     "\\thesection",
     "\\thesubparagraph",
     "\\thesubsection",

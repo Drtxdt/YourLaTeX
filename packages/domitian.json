@@ -1,8 +1,9 @@
 {
   "commands": [
-    "\\Domitian@scale",
     "\\familydefault",
-    "\\rmdefault"
+    "\\infigures",
+    "\\rmdefault",
+    "\\sufigures"
   ],
   "environments": []
 }

@@ -1,4 +1,32 @@
 {
-  "commands": [],
+  "commands": [
+    "\\expandafter",
+    "\\newphfccmarginnote",
+    "\\phfCCChangesBy",
+    "\\phfCommentingDefaultBegin",
+    "\\phfCommentingDefaultCBegin",
+    "\\phfCommentingDefaultCEnd",
+    "\\phfCommentingDefaultCFont",
+    "\\phfCommentingDefaultCSpacing",
+    "\\phfCommentingDefaultEnd",
+    "\\phfCommentingDefaultEndCmds",
+    "\\phfCommentingDefaultFont",
+    "\\phfCommentingDefaultIBegin",
+    "\\phfCommentingDefaultIEnd",
+    "\\phfCommentingDefaultIFont",
+    "\\phfCommentingDefaultISpacing",
+    "\\phfCommentingDefaultRmBegin",
+    "\\phfCommentingDefaultRmEnd",
+    "\\phfCommentingDefaultRmFont",
+    "\\phfCommentingDefaultRmSpacing",
+    "\\phfCommentingDefaultSpacing",
+    "\\phfCommentingDefaultStartCmds",
+    "\\phfDisableCommentingCommands",
+    "\\phfccfootcommenttextstyle",
+    "\\phfccfootcommentwrapfnmark",
+    "\\phfccformatboxinitials",
+    "\\phfccformatmargininitials",
+    "\\x"
+  ],
   "environments": []
 }

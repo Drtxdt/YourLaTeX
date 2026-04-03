@@ -4,10 +4,14 @@
     "\\addtostring",
     "\\alteracionPalabra",
     "\\espacioNotas",
+    "\\expandafter",
+    "\\extrerA",
+    "\\extrerB",
     "\\flautaBImg",
     "\\flautaBLoop",
     "\\flautaImg",
     "\\flautaLoop",
+    "\\globalscale",
     "\\letraA",
     "\\letraB",
     "\\loppDeInstrumento",
@@ -23,8 +27,12 @@
     "\\quenaLoop",
     "\\saxofonImg",
     "\\saxofonLoop",
+    "\\splitPorCaracter",
+    "\\splitPorCaracterlyrics",
     "\\tamanio",
-    "\\teststring"
+    "\\teststring",
+    "\\threewords",
+    "\\threewordslyrics"
   ],
   "environments": [
     "flautaBDibujo",

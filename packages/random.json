@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\nextrandom",
+    "\\pointless",
+    "\\setrandim",
+    "\\setrannum"
+  ],
+  "environments": []
+}

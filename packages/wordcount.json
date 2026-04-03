@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\DashPatch",
+    "\\FreezeFont",
+    "\\FreezeSpaces",
+    "\\QuietBoxes",
+    "\\do",
+    "\\extracolsep",
+    "\\ialign",
+    "\\msg",
+    "\\showpagebox",
+    "\\textemdash",
+    "\\textendash",
+    "\\wcQUIET"
+  ],
+  "environments": []
+}

@@ -1,7 +1,6 @@
 {
   "commands": [
-    "\\@n@mesp@ce",
-    "\\@n@mesp@cestar",
+    "\\csname",
     "\\namespace",
     "\\usingnamespace"
   ],

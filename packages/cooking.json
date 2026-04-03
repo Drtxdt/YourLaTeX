@@ -1,9 +1,16 @@
 {
   "commands": [
-    "\\@oddfoot",
+    "\\energy",
+    "\\hint",
+    "\\ingredient",
     "\\ingredientfont",
     "\\makelabel",
-    "\\recipeendhook"
+    "\\modification",
+    "\\preparationtime",
+    "\\recipeendhook",
+    "\\recipetitle",
+    "\\recipetitlefont",
+    "\\sidedish"
   ],
   "environments": [
     "recipe"

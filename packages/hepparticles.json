@@ -1,5 +1,22 @@
 {
   "commands": [
+    "\\HepAntiParticle",
+    "\\HepGenAntiParticle",
+    "\\HepGenParticle",
+    "\\HepGenSusyAntiParticle",
+    "\\HepGenSusyParticle",
+    "\\HepParticle",
+    "\\HepParticleResonance",
+    "\\HepParticleResonanceFormal",
+    "\\HepParticleResonanceFormalFull",
+    "\\HepParticleResonanceFull",
+    "\\HepProcess",
+    "\\HepResonanceMassTerm",
+    "\\HepResonanceSpecTerm",
+    "\\HepSusyAntiParticle",
+    "\\HepSusyParticle",
+    "\\filedate",
+    "\\fileversion",
     "\\to"
   ],
   "environments": []

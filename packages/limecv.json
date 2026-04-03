@@ -1,0 +1,20 @@
+{
+  "commands": [
+    "\\Z",
+    "\\ifnodedefined"
+  ],
+  "environments": [
+    "cvContact",
+    "cvCoverLetter",
+    "cvInterests",
+    "cvLanguages",
+    "cvMainContent",
+    "cvMainContent*",
+    "cvProfile",
+    "cvProjects",
+    "cvReferences",
+    "cvSidebar",
+    "cvSidebar*",
+    "cvSkills"
+  ]
+}

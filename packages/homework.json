@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\answer",
+    "\\endanswer",
+    "\\endsolution",
+    "\\solution"
+  ],
+  "environments": []
+}

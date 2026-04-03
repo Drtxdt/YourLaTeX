@@ -1,17 +1,10 @@
 {
   "commands": [
-    "\\@prefix",
-    "\\@restore",
-    "\\@save",
     "\\prefix",
     "\\reinstate",
     "\\rename",
     "\\restore",
-    "\\restore@nostar",
-    "\\restore@star",
-    "\\save",
-    "\\save@nostar",
-    "\\save@star"
+    "\\save"
   ],
   "environments": []
 }

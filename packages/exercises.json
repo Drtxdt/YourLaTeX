@@ -1,13 +1,6 @@
 {
   "commands": [
     "\\exercisenewpage",
-    "\\exercises@closebrace",
-    "\\exercises@formatnumbers",
-    "\\exercises@formatpoints",
-    "\\exercises@openbrace",
-    "\\exercises@placeexercise",
-    "\\exercises@placepoints",
-    "\\exercises@placesolution",
     "\\ifsolutionthenelse",
     "\\solutionnewpage"
   ],

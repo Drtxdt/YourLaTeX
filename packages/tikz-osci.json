@@ -1,6 +1,10 @@
 {
   "commands": [
-    "\\raisedtext"
+    "\\false",
+    "\\raisedtext",
+    "\\smoothOne",
+    "\\smoothThree",
+    "\\smoothTwo"
   ],
   "environments": []
 }

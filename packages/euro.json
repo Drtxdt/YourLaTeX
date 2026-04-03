@@ -1,4 +1,16 @@
 {
-  "commands": [],
+  "commands": [
+    "\\align",
+    "\\csname",
+    "\\form",
+    "\\in",
+    "\\iso",
+    "\\minus",
+    "\\out",
+    "\\plus",
+    "\\round",
+    "\\sym",
+    "\\val"
+  ],
   "environments": []
 }

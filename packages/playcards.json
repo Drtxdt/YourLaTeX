@@ -9,7 +9,10 @@
     "\\drawcardrecto",
     "\\drawcardsrecto",
     "\\drawcardsverso",
-    "\\drawcardverso"
+    "\\drawcardverso",
+    "\\shapeCard",
+    "\\shapeCardBody",
+    "\\shapeMargin"
   ],
   "environments": []
 }

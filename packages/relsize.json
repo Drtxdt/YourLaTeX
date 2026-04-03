@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\RSlargest",
+    "\\RSpercentTolerance",
+    "\\RSsmallest",
+    "\\expandafter"
+  ],
   "environments": []
 }

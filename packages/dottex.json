@@ -1,5 +1,15 @@
 {
-  "commands": [],
+  "commands": [
+    "\\BeforeStream",
+    "\\dotheight",
+    "\\dotverbatimwrite",
+    "\\dotwidth",
+    "\\enddotverbatimwrite",
+    "\\endneatoverbatimwrite",
+    "\\figname",
+    "\\neatoverbatimwrite",
+    "\\tmpfile"
+  ],
   "environments": [
     "dotpic",
     "neatopic"

@@ -1,10 +1,11 @@
 {
   "commands": [
-    "\\@getsmartref",
-    "\\@getsmartreflist",
-    "\\@increasesmartlist",
     "\\addtoreflist",
+    "\\csname",
+    "\\filedate",
+    "\\fileversion",
     "\\label",
+    "\\newsmartlabel",
     "\\smartref"
   ],
   "environments": []

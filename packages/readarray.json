@@ -1,4 +1,26 @@
 {
-  "commands": [],
+  "commands": [
+    "\\arraytomacro",
+    "\\checkbounds",
+    "\\csname",
+    "\\expandafter",
+    "\\getargsC",
+    "\\hypercheckbounds",
+    "\\initarray",
+    "\\mergearray",
+    "\\nocheckbounds",
+    "\\nrows",
+    "\\readarrayPackageDate",
+    "\\readarrayPackageVersion",
+    "\\readarrayboundfailmsg",
+    "\\readarrayinitvalue",
+    "\\setvalue",
+    "\\tmpC",
+    "\\typesetarray",
+    "\\typesetcell",
+    "\\typesetcolsepchar",
+    "\\typesetplanesepchar",
+    "\\typesetrowsepchar"
+  ],
   "environments": []
 }

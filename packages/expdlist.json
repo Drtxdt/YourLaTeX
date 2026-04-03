@@ -1,4 +1,17 @@
 {
-  "commands": [],
+  "commands": [
+    "\\breaklabel",
+    "\\compact",
+    "\\description",
+    "\\docdate",
+    "\\filedate",
+    "\\filename",
+    "\\fileversion",
+    "\\listpart",
+    "\\setlabelphantom",
+    "\\setlabelsize",
+    "\\setlabelstyle",
+    "\\setleftmargin"
+  ],
   "environments": []
 }

@@ -1,5 +1,16 @@
 {
-  "commands": [],
+  "commands": [
+    "\\CustomFBox",
+    "\\FirstFrameCommand",
+    "\\FrameCommand",
+    "\\FrameRestore",
+    "\\LastFrameCommand",
+    "\\MakeFramed",
+    "\\MidFrameCommand",
+    "\\OpenFBox",
+    "\\endMakeFramed",
+    "\\fbox"
+  ],
   "environments": [
     "framed",
     "leftbar",

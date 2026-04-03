@@ -2,7 +2,24 @@
   "commands": [
     "\\AH",
     "\\CR",
-    "\\XY"
+    "\\XY",
+    "\\noexpand",
+    "\\vhAbbrevLeft",
+    "\\vhAbbrevRight",
+    "\\vhAbbrevSeparator",
+    "\\vhAllAuthorsSet",
+    "\\vhAuthorColWidth",
+    "\\vhChangeColWidth",
+    "\\vhCurrentDate",
+    "\\vhCurrentVersion",
+    "\\vhListAllAuthors",
+    "\\vhListAllAuthorsLong",
+    "\\vhListAllAuthorsLongWithAbbrev",
+    "\\vhauthorname",
+    "\\vhchangename",
+    "\\vhdatename",
+    "\\vhhistoryname",
+    "\\vhversionname"
   ],
   "environments": [
     "versionhistory"

@@ -1,0 +1,25 @@
+{
+  "commands": [
+    "\\cast",
+    "\\castdef",
+    "\\castpage",
+    "\\castpagelatin",
+    "\\chara",
+    "\\filedate",
+    "\\fileversion",
+    "\\newact",
+    "\\newactnamed",
+    "\\newscene",
+    "\\newscenenamed",
+    "\\notes",
+    "\\paren",
+    "\\pause",
+    "\\repl",
+    "\\repldef",
+    "\\scenedef",
+    "\\stagedir",
+    "\\theact",
+    "\\thescene"
+  ],
+  "environments": []
+}

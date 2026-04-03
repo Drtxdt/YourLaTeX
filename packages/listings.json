@@ -1,6 +1,16 @@
 {
   "commands": [
-    "\\lstlistoflistings"
+    "\\csname",
+    "\\do",
+    "\\expandafter",
+    "\\filedate",
+    "\\fileversion",
+    "\\lstDeleteShortInline",
+    "\\lstinputlisting",
+    "\\lstlistoflistings",
+    "\\noexpand",
+    "\\space",
+    "\\vskip"
   ],
   "environments": []
 }

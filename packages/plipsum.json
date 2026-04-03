@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\PLrevision",
+    "\\PLrevisiondate",
+    "\\PLversion",
+    "\\csname",
+    "\\lipsum",
+    "\\nopar",
+    "\\scan"
+  ],
+  "environments": []
+}

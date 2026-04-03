@@ -107,7 +107,8 @@
     "\\flagZero",
     "\\flagZeroBlazon",
     "\\flagZeroName",
-    "\\flagZname"
+    "\\flagZname",
+    "\\setflagdimensions"
   ],
   "environments": []
 }

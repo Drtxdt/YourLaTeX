@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\baselinestretch",
+    "\\familydefault",
+    "\\footrulewidth",
+    "\\headrulewidth",
+    "\\piname",
+    "\\refname"
+  ],
+  "environments": []
+}

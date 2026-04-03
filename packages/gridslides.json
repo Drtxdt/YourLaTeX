@@ -1,13 +1,14 @@
 {
   "commands": [
+    "\\alt",
     "\\bg",
-    "\\gridslides@page",
-    "\\gridslides@setsteps",
-    "\\gridslides@slide",
+    "\\csname",
     "\\institute",
+    "\\only",
     "\\rgb",
     "\\theauthor",
     "\\thedate",
+    "\\theheadline",
     "\\theinstitute",
     "\\thetitle"
   ],

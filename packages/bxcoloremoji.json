@@ -1,8 +1,10 @@
 {
   "commands": [
     "\\coloremojicode",
+    "\\coloremojidir",
     "\\coloremojiucsfill",
-    "\\coloremojiucsline"
+    "\\coloremojiucsline",
+    "\\makelabel"
   ],
   "environments": [
     "coloremojiautolist",

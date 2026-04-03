@@ -1,6 +1,7 @@
 {
   "commands": [
     "\\bfdefault",
+    "\\oldstylenums",
     "\\rmdefault"
   ],
   "environments": []

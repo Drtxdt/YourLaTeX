@@ -1,6 +1,25 @@
 {
   "commands": [
-    "\\ch@mrg"
+    "\\UTFencname",
+    "\\authorname",
+    "\\bsc",
+    "\\ccname",
+    "\\datename",
+    "\\enclname",
+    "\\footnoterule",
+    "\\ier",
+    "\\itshape",
+    "\\kern",
+    "\\labelitemi",
+    "\\no",
+    "\\scshape",
+    "\\sidefault",
+    "\\sishape",
+    "\\slshape",
+    "\\titlename",
+    "\\underbar",
+    "\\up",
+    "\\upshape"
   ],
   "environments": []
 }

@@ -1,6 +1,8 @@
 {
   "commands": [
     "\\addiepsilondom",
+    "\\argmax",
+    "\\argmin",
     "\\better",
     "\\dom",
     "\\multepsilondom",
@@ -9,6 +11,7 @@
     "\\negweakdom",
     "\\set",
     "\\strictdom",
+    "\\vec",
     "\\weakdom"
   ],
   "environments": []

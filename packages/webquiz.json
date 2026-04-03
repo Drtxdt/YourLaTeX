@@ -1,0 +1,24 @@
+{
+  "commands": [
+    "\\Department",
+    "\\DepartmentURL",
+    "\\Institution",
+    "\\InstitutionURL",
+    "\\University",
+    "\\UniversityURL",
+    "\\correct",
+    "\\feedback",
+    "\\incorrect",
+    "\\maketitle",
+    "\\pgfsysdriver",
+    "\\title",
+    "\\whenRight",
+    "\\whenWrong"
+  ],
+  "environments": [
+    "choice",
+    "discussion",
+    "question",
+    "quizindex"
+  ]
+}

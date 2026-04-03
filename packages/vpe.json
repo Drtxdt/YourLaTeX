@@ -1,4 +1,26 @@
 {
-  "commands": [],
+  "commands": [
+    "\\cite",
+    "\\clearpage",
+    "\\document",
+    "\\endtrivlist",
+    "\\everypar",
+    "\\hrule",
+    "\\include",
+    "\\input",
+    "\\item",
+    "\\mbox",
+    "\\newline",
+    "\\newpage",
+    "\\p",
+    "\\par",
+    "\\ref",
+    "\\tabularnewline",
+    "\\trivlist",
+    "\\vpeentry",
+    "\\vpesetup",
+    "\\vpesystem",
+    "\\vrule"
+  ],
   "environments": []
 }

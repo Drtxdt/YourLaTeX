@@ -1,7 +1,13 @@
 {
   "commands": [
+    "\\CheckLatin",
+    "\\FrenchGuillemetsFrom",
+    "\\ToneGuillemets",
     "\\fg",
-    "\\og"
+    "\\maybeae",
+    "\\maybeoe",
+    "\\og",
+    "\\testoe"
   ],
   "environments": []
 }

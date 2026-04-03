@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\Vert",
+    "\\mid",
+    "\\usephysicsmodule",
+    "\\vert"
+  ],
   "environments": []
 }

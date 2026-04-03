@@ -1,25 +1,8 @@
 {
   "commands": [
-    "\\margincapalign",
-    "\\mcaption@align@boxes",
-    "\\mcaption@alignv",
-    "\\mcaption@caption",
-    "\\mcaption@CaptionFlag",
-    "\\mcaption@CaptionLong",
-    "\\mcaption@CaptionShort",
-    "\\mcaption@DefaultOpt",
-    "\\mcaption@label",
-    "\\mcaption@Label",
-    "\\mcaption@LabelFlag",
-    "\\mcaption@origcaption",
-    "\\mcaption@origlabel",
-    "\\mcaption@output@boxes",
-    "\\mcaption@output@evenpage",
-    "\\mcaption@output@oddpage"
+    "\\margincapalign"
   ],
   "environments": [
-    "margincap",
-    "mcaption@mcIIdotII",
-    "mcaption@mcIIIdot"
+    "margincap"
   ]
 }

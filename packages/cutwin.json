@@ -1,16 +1,5 @@
 {
   "commands": [
-    "\\c@twaddtospec",
-    "\\c@twbuildoddspec",
-    "\\c@twcalcilg",
-    "\\c@twcalcshift",
-    "\\c@twcompctr",
-    "\\c@twcomplftrt",
-    "\\c@twcompoddctr",
-    "\\c@twcompoddlftrt",
-    "\\c@twmakeparspec",
-    "\\c@twmaketopoddspec",
-    "\\c@twprune",
     "\\cutfuzz",
     "\\opencutcenter",
     "\\opencutleft",

@@ -1,0 +1,41 @@
+{
+  "commands": [
+    "\\abstractsignature",
+    "\\approvalpage",
+    "\\campus",
+    "\\chair",
+    "\\cochair",
+    "\\cochairs",
+    "\\copyrightpage",
+    "\\degree",
+    "\\degreesemester",
+    "\\degreeyear",
+    "\\emphasis",
+    "\\endscriptsizetabular",
+    "\\endsmalltabular",
+    "\\field",
+    "\\fmfont",
+    "\\fmsmallfont",
+    "\\jointinstitution",
+    "\\maketitle",
+    "\\memoirlistoffigures",
+    "\\memoirlistoftables",
+    "\\memoirtableofcontents",
+    "\\numberofmembers",
+    "\\othermembers",
+    "\\prevdegrees",
+    "\\scriptsizessp",
+    "\\scriptsizetabular",
+    "\\smallssp",
+    "\\smalltabular",
+    "\\thepage"
+  ],
+  "environments": [
+    "acknowledgements",
+    "alwayssingle",
+    "dedication",
+    "memoirquotation",
+    "memoirquote",
+    "memoirverse"
+  ]
+}

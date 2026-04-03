@@ -1,8 +1,22 @@
 {
   "commands": [
-    "\\LibertinusMono@scale",
-    "\\LibertinusSans@scale",
-    "\\LibertinusSerif@scale"
+    "\\LibertinusKeyboard",
+    "\\LibertinusMono",
+    "\\LibertinusSans",
+    "\\LibertinusSansLF",
+    "\\LibertinusSansOsF",
+    "\\LibertinusSansTLF",
+    "\\LibertinusSerif",
+    "\\LibertinusSerifLF",
+    "\\LibertinusSerifOsF",
+    "\\LibertinusSerifSB",
+    "\\LibertinusSerifTLF",
+    "\\libertinussanslgr",
+    "\\libertinusseriflgr",
+    "\\rmdefault",
+    "\\sfdefault",
+    "\\sufigures",
+    "\\ttdefault"
   ],
   "environments": []
 }

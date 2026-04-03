@@ -1,5 +1,6 @@
 {
   "commands": [
+    "\\EX",
     "\\alert",
     "\\all",
     "\\becomes",
@@ -23,7 +24,6 @@
     "\\denolamod",
     "\\environ",
     "\\environset",
-    "\\EX",
     "\\f",
     "\\feat",
     "\\featuresize",

@@ -1,4 +1,21 @@
 {
-  "commands": [],
+  "commands": [
+    "\\listofsh",
+    "\\shautoformat",
+    "\\shautopath",
+    "\\shautoread",
+    "\\shautorun",
+    "\\shchange",
+    "\\shclearfiles",
+    "\\shline",
+    "\\shmachine",
+    "\\shoutput",
+    "\\shpath",
+    "\\shpreset",
+    "\\shpresetdef",
+    "\\shread",
+    "\\shrun",
+    "\\shuser"
+  ],
   "environments": []
 }

@@ -1,4 +1,8 @@
 {
-  "commands": [],
+  "commands": [
+    "\\hrefdisplayonly",
+    "\\hycoff",
+    "\\hycon"
+  ],
   "environments": []
 }

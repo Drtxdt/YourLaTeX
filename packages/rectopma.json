@@ -1,11 +1,10 @@
 {
   "commands": [
-    "\\@outsidetitle",
-    "\\intitlebreak",
-    "\\intitlebreakvs",
+    "\\SaveTopMatter",
     "\\SavedAuthor",
     "\\SavedTitle",
-    "\\SaveTopMatter"
+    "\\intitlebreak",
+    "\\intitlebreakvs"
   ],
   "environments": []
 }

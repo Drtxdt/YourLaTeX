@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\esindexactual",
+    "\\esindexkey",
+    "\\esindexsort",
+    "\\ignorewords"
+  ],
   "environments": []
 }

@@ -1,4 +1,13 @@
 {
-  "commands": [],
+  "commands": [
+    "\\addindexheading",
+    "\\addindexitem",
+    "\\addindexskip",
+    "\\addindexsubitem",
+    "\\addindexsubsubitem",
+    "\\indexflushitem",
+    "\\indexpagessep",
+    "\\indexrangesep"
+  ],
   "environments": []
 }

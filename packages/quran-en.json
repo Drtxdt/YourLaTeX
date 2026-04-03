@@ -1,7 +1,10 @@
 {
   "commands": [
+    "\\basmalahen",
     "\\enGetTrans",
-    "\\enSetTrans"
+    "\\enSetTrans",
+    "\\quranendate",
+    "\\quranenversion"
   ],
   "environments": []
 }

@@ -1,4 +1,27 @@
 {
-  "commands": [],
+  "commands": [
+    "\\ActivateErrorFilters",
+    "\\ActivateFilters",
+    "\\ActivateWarningFilters",
+    "\\BoldMode",
+    "\\ClassError",
+    "\\ClassWarning",
+    "\\ClassWarningNoLine",
+    "\\DeactivateErrorFilters",
+    "\\DeactivateFilters",
+    "\\DeactivateWarningFilters",
+    "\\ErrorFilter",
+    "\\ErrorsOff",
+    "\\ErrorsOn",
+    "\\GenericError",
+    "\\GenericWarning",
+    "\\PackageError",
+    "\\PackageWarning",
+    "\\PackageWarningNoLine",
+    "\\SafeMode",
+    "\\WarningFilter",
+    "\\WarningsOff",
+    "\\WarningsOn"
+  ],
   "environments": []
 }

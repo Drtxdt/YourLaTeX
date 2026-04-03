@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\entry",
+    "\\footrulewidth",
+    "\\heading",
+    "\\headrulewidth",
+    "\\maketitle",
+    "\\rclsaddress",
+    "\\rclshomepage",
+    "\\rclsleftfooter",
+    "\\rclsmail",
+    "\\rclsmobile",
+    "\\rclsname",
+    "\\rclsorganization",
+    "\\rclsrightfooter",
+    "\\refname"
+  ],
+  "environments": []
+}

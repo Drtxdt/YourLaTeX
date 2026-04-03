@@ -1,17 +1,16 @@
 {
   "commands": [
-    "\\@atMargin",
-    "\\@domark",
     "\\AddEverypageHook",
     "\\AddThispageHook",
-    "\\epage@ep@init",
-    "\\epage@everypage@hook",
-    "\\epage@op@postamble",
-    "\\epage@op@preamble",
-    "\\epage@thispage@hook",
+    "\\AtFirstProblem",
+    "\\csname",
+    "\\ea",
+    "\\exerciseNr",
     "\\footrulewidth",
+    "\\fullpartproblemmargin",
+    "\\fullproblemmargin",
     "\\headrulewidth",
-    "\\set@tr",
+    "\\isTrue",
     "\\settable"
   ],
   "environments": []

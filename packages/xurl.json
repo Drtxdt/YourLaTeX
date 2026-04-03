@@ -1,4 +1,8 @@
 {
-  "commands": [],
+  "commands": [
+    "\\UrlBreaks",
+    "\\UrlSpecials",
+    "\\useOriginalUrlSetting"
+  ],
   "environments": []
 }

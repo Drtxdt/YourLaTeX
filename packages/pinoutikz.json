@@ -1,8 +1,24 @@
 {
   "commands": [
+    "\\CASE",
+    "\\FormatPinLabel",
+    "\\GENFOUREDGE",
+    "\\PDIP",
+    "\\PIN",
+    "\\PLCC",
+    "\\TQFP",
     "\\autoindent",
+    "\\edgecount",
     "\\familydefault",
-    "\\neverindent"
+    "\\neverindent",
+    "\\pctPDIP",
+    "\\pctPLCC",
+    "\\pctTQFP",
+    "\\pinlabel",
+    "\\pinoutikzdate",
+    "\\pinoutikzname",
+    "\\pinoutikzversion",
+    "\\pins"
   ],
   "environments": []
 }

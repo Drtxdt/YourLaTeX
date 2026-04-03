@@ -1,5 +1,12 @@
 {
-  "commands": [],
+  "commands": [
+    "\\ast",
+    "\\h",
+    "\\minus",
+    "\\plus",
+    "\\putsymbol",
+    "\\v"
+  ],
   "environments": [
     "labyrinth"
   ]

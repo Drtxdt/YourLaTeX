@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\blackout",
+    "\\censordot",
+    "\\censorversiondate",
+    "\\censorversionnumber",
+    "\\censpace",
+    "\\xblackout"
+  ],
   "environments": []
 }

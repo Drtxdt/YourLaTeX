@@ -1,6 +1,5 @@
 {
   "commands": [
-    "\\@counterz@counterprefix",
     "\\clearcounterprefix",
     "\\ifctrequal",
     "\\ifctrless",
@@ -20,11 +19,12 @@
     "\\randsetcounter",
     "\\savecounter",
     "\\setcounterprefix",
+    "\\xAlph",
+    "\\xRoman",
     "\\xabsof",
     "\\xabsofcoef",
     "\\xaddtocounter",
     "\\xalph",
-    "\\xAlph",
     "\\xarabic",
     "\\xarabicnz",
     "\\xcoef",
@@ -44,7 +44,6 @@
     "\\xrandprovidecounternz",
     "\\xrandsetcounter",
     "\\xroman",
-    "\\xRoman",
     "\\xsavecounter",
     "\\xsetcounter",
     "\\xsigned",

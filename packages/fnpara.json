@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\endminipage",
+    "\\makefootnoteparagraph",
+    "\\makehboxofhboxes",
+    "\\mpmakefootnoteparagraph",
+    "\\removehboxes"
+  ],
   "environments": []
 }

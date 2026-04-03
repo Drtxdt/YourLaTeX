@@ -1,11 +1,15 @@
 {
   "commands": [
+    "\\R",
+    "\\V",
+    "\\VR",
     "\\arraystretch",
     "\\betweenLilyPondSystem",
     "\\bibleref",
     "\\bibleverse",
     "\\blankline",
     "\\boxaround",
+    "\\boxit",
     "\\contd",
     "\\continued",
     "\\cross",
@@ -30,7 +34,6 @@
     "\\pretre",
     "\\priest",
     "\\psalmverse",
-    "\\R",
     "\\response",
     "\\rlong",
     "\\sabon",
@@ -44,10 +47,8 @@
     "\\tab",
     "\\textjuni",
     "\\textuni",
-    "\\V",
     "\\versicle",
-    "\\versiclefont",
-    "\\VR"
+    "\\versiclefont"
   ],
   "environments": [
     "prayer",

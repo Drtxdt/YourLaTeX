@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\skeldate",
+    "\\skelversion"
+  ],
   "environments": []
 }

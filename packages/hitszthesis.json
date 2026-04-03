@@ -1,9 +1,6 @@
 {
   "commands": [
-    "\\@cftmakeaentitle",
     "\\AlgoBiCaption",
-    "\\algocf@captiontext",
-    "\\algocf@makecaption",
     "\\algoenname",
     "\\algorithmcfname",
     "\\arccosh",
@@ -13,14 +10,18 @@
     "\\arctanh",
     "\\argmax",
     "\\argmin",
+    "\\cmd",
     "\\csign",
     "\\degree",
     "\\diag",
     "\\foocaption",
     "\\genacrfullformat",
     "\\grad",
+    "\\gscna",
+    "\\gscnas",
     "\\gseg",
     "\\gsegr",
+    "\\gtssbp",
     "\\ncell",
     "\\rcell",
     "\\sgn",
@@ -29,7 +30,6 @@
     "\\tcellone",
     "\\tcellthree",
     "\\tcelltwo",
-    "\\thealgoen",
     "\\theDirected",
     "\\theDirectedEdge",
     "\\theMatrix",
@@ -38,7 +38,8 @@
     "\\theSet",
     "\\theUndirected",
     "\\theUndirectedEdge",
-    "\\theVector"
+    "\\theVector",
+    "\\thealgoen"
   ],
   "environments": []
 }

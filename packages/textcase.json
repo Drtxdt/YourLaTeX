@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\NoCaseChange",
+    "\\cite",
+    "\\i",
+    "\\j"
+  ],
   "environments": []
 }

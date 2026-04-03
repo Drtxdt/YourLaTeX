@@ -1,11 +1,16 @@
 {
   "commands": [
+    "\\a",
+    "\\aa",
     "\\argone",
     "\\argtwo",
+    "\\b",
+    "\\bb",
     "\\printatom",
     "\\reactionbody",
-    "\\saltyarrow@settomax",
     "\\settomaxwidth"
   ],
-  "environments": []
+  "environments": [
+    "quickreaction"
+  ]
 }

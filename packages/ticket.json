@@ -1,8 +1,14 @@
 {
   "commands": [
+    "\\backside",
+    "\\filedate",
+    "\\fileversion",
     "\\ticket",
-    "\\ticket@counter",
+    "\\ticketDistance",
+    "\\ticketNumbers",
+    "\\ticketSize",
     "\\ticketdefault",
+    "\\ticketreset",
     "\\ticketskip"
   ],
   "environments": []

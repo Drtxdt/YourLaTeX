@@ -1,4 +1,8 @@
 {
-  "commands": [],
+  "commands": [
+    "\\envelope",
+    "\\from",
+    "\\to"
+  ],
   "environments": []
 }

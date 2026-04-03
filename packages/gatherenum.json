@@ -1,4 +1,11 @@
 {
-  "commands": [],
-  "environments": []
+  "commands": [
+    "\\ExplFileDate",
+    "\\ExplFileDescription",
+    "\\ExplFileName",
+    "\\ExplFileVersion"
+  ],
+  "environments": [
+    "enumerate"
+  ]
 }

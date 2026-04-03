@@ -1,7 +1,11 @@
 {
   "commands": [
+    "\\filedate",
+    "\\fileversion",
+    "\\xdotfill",
     "\\xhrectanglefill",
-    "\\xhrulefill"
+    "\\xhrulefill",
+    "\\xrfill"
   ],
   "environments": []
 }

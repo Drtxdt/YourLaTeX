@@ -1,8 +1,16 @@
 {
   "commands": [
+    "\\ErratumRef",
+    "\\PrintErrata",
+    "\\eAdd",
+    "\\eDelete",
+    "\\eReplace",
+    "\\ednotemessage",
     "\\erratumAdd",
     "\\erratumDelete",
-    "\\erratumReplace"
+    "\\erratumItem",
+    "\\erratumReplace",
+    "\\printerrata"
   ],
   "environments": [
     "errata",

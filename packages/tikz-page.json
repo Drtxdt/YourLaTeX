@@ -1,7 +1,22 @@
 {
   "commands": [
+    "\\csname",
+    "\\pkgfiledate",
+    "\\pkgfileversion",
     "\\tikzpage",
-    "\\tpflip"
+    "\\tikzpageputanchors",
+    "\\tikzpageputanchorsbody",
+    "\\tikzpageputanchorsbottom",
+    "\\tikzpageputanchorsdefaults",
+    "\\tikzpageputanchorsfooter",
+    "\\tikzpageputanchorsheader",
+    "\\tikzpageputanchorsleft",
+    "\\tikzpageputanchorsmarginpar",
+    "\\tikzpageputanchorsright",
+    "\\tikzpageputanchorstop",
+    "\\tpfancyhdrdefault",
+    "\\tpflip",
+    "\\tpshowframes"
   ],
   "environments": []
 }

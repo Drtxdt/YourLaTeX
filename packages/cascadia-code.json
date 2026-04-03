@@ -1,7 +1,7 @@
 {
   "commands": [
-    "\\CascadiaCode@scale",
     "\\familydefault",
+    "\\supfigures",
     "\\ttdefault"
   ],
   "environments": []

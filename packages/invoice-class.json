@@ -1,0 +1,24 @@
+{
+  "commands": [
+    "\\ConfigPrefix",
+    "\\InputFile",
+    "\\carrier",
+    "\\destination",
+    "\\footrulewidth",
+    "\\fromaddress",
+    "\\headrulewidth",
+    "\\insurancecost",
+    "\\location",
+    "\\packages",
+    "\\packingcost",
+    "\\printinvoice",
+    "\\rmdefault",
+    "\\shipper",
+    "\\shippingcost",
+    "\\shippingdate",
+    "\\toaddress",
+    "\\waybill",
+    "\\weight"
+  ],
+  "environments": []
+}

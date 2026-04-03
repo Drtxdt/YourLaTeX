@@ -1,6 +1,10 @@
 {
   "commands": [
-    "\\pagegridsetup"
+    "\\empty",
+    "\\pagegridShipoutDoubleBegin",
+    "\\pagegridShipoutDoubleEnd",
+    "\\pagegridsetup",
+    "\\x"
   ],
   "environments": []
 }

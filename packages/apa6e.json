@@ -1,0 +1,26 @@
+{
+  "commands": [
+    "\\abstract",
+    "\\appendix",
+    "\\author",
+    "\\authornote",
+    "\\enoteheading",
+    "\\enotesize",
+    "\\footnote",
+    "\\headrulewidth",
+    "\\maketitle",
+    "\\mspart",
+    "\\paragraph",
+    "\\section",
+    "\\shorttitle",
+    "\\subparagraph",
+    "\\subsection",
+    "\\subsubsection",
+    "\\thefigure",
+    "\\thepostfig",
+    "\\theposttbl",
+    "\\thetable",
+    "\\title"
+  ],
+  "environments": []
+}

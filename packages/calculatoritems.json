@@ -1,4 +1,13 @@
 {
-  "commands": [],
+  "commands": [
+    "\\calcsimmenusbg",
+    "\\calcsimmenuscolfont",
+    "\\calcsimmenusfont",
+    "\\calcsimmenuslen",
+    "\\calcsimmenusmodel",
+    "\\calcsimmenusrsymb",
+    "\\calcsimmenustype",
+    "\\samplecharacterskeyx"
+  ],
   "environments": []
 }

@@ -1,4 +1,17 @@
 {
-  "commands": [],
+  "commands": [
+    "\\fmxedb",
+    "\\fmxedc",
+    "\\fmxedi",
+    "\\fmxedr",
+    "\\mxedb",
+    "\\mxedc",
+    "\\mxedi",
+    "\\mxedr",
+    "\\pmxedb",
+    "\\pmxedc",
+    "\\pmxedi",
+    "\\pmxedr"
+  ],
   "environments": []
 }

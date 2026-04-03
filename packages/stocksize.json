@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\@ss@setpdfpagesize",
+    "\\filedate",
+    "\\fileversion",
     "\\newstocksize",
     "\\pdfrestoregeometry",
     "\\pdfsavegeometry",

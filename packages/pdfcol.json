@@ -1,4 +1,15 @@
 {
-  "commands": [],
+  "commands": [
+    "\\empty",
+    "\\pdfcolErrorNoStacks",
+    "\\pdfcolIfStackExists",
+    "\\pdfcolInitStack",
+    "\\pdfcolSetCurrent",
+    "\\pdfcolSetCurrentColor",
+    "\\pdfcolSwitchStack",
+    "\\pdfcolorstack",
+    "\\pdfcolorstackinit",
+    "\\x"
+  ],
   "environments": []
 }

@@ -1,5 +1,21 @@
 {
-  "commands": [],
+  "commands": [
+    "\\BeginOn",
+    "\\CellHeight",
+    "\\CellWidth",
+    "\\FiveDay",
+    "\\IncludeWeekends",
+    "\\LineThickness",
+    "\\NewAppointment",
+    "\\NoWeekends",
+    "\\SevenDay",
+    "\\SubUnits",
+    "\\TextSize",
+    "\\TimeRange",
+    "\\TwelveHour",
+    "\\TwentyFourHour",
+    "\\csname"
+  ],
   "environments": [
     "schedule"
   ]

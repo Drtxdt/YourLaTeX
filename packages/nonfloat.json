@@ -2,6 +2,9 @@
   "commands": [
     "\\bottomfraction",
     "\\figcaption",
+    "\\filedate",
+    "\\filename",
+    "\\fileversion",
     "\\floatpagefraction",
     "\\tabcaption",
     "\\textfraction",

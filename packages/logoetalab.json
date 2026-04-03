@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\LogoEtalabTikzCouleur",
+    "\\LogoEtalabTikzHauteur",
+    "\\LogoEtalabTikzOffset",
+    "\\tmplogocouleur",
+    "\\tmplogoscale",
+    "\\tmplogotextleg"
+  ],
   "environments": []
 }

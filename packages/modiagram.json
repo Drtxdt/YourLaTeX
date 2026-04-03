@@ -1,4 +1,7 @@
 {
   "commands": [],
-  "environments": []
+  "environments": [
+    "MOdiagram",
+    "modiagram"
+  ]
 }

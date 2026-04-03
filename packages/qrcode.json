@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\csname",
+    "\\ds",
+    "\\qrcode",
+    "\\xa"
+  ],
   "environments": []
 }

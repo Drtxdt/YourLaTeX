@@ -1,0 +1,35 @@
+{
+  "commands": [
+    "\\IJSRAmonth",
+    "\\IJSRAnumber",
+    "\\IJSRAsection",
+    "\\IJSRAseparator",
+    "\\IJSRAsubsection",
+    "\\IJSRAtitlefigure",
+    "\\IJSRAtitlepage",
+    "\\IJSRAversion",
+    "\\IJSRAversiondate",
+    "\\IJSRAvolume",
+    "\\IJSRAyear",
+    "\\LettrineFontHook",
+    "\\LettrineTextFont",
+    "\\Put",
+    "\\acceptance",
+    "\\ijsradate",
+    "\\keywordname",
+    "\\keywords",
+    "\\lstlistingname",
+    "\\lstlistlistingname",
+    "\\marginfont",
+    "\\mkccitation",
+    "\\mkcitation",
+    "\\pagerange",
+    "\\shortauthor",
+    "\\submission",
+    "\\thefootnote"
+  ],
+  "environments": [
+    "IJSRAabstract",
+    "IJSRAquote"
+  ]
+}

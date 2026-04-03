@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\afixme",
+    "\\csname"
+  ],
   "environments": []
 }

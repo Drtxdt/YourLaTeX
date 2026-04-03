@@ -1,10 +1,10 @@
 {
   "commands": [
-    "\\rit@extn",
-    "\\ritDS@scale",
-    "\\ritHW@scale",
-    "\\ritRM@scale",
-    "\\ritSF@scale",
+    "\\Filedate",
+    "\\Fileversion",
+    "\\FontPath",
+    "\\fontpath",
+    "\\malayalamfont",
     "\\rmdefault",
     "\\sfdefault"
   ],

@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\bottomfraction",
+    "\\chapterheadstartvskip",
+    "\\chaptermituntertitel",
+    "\\floatpagefraction",
+    "\\geleitwort",
+    "\\kapitel",
+    "\\kapitelmituntertitel",
+    "\\textfraction",
+    "\\topfraction",
+    "\\verfasser",
+    "\\vorwort"
+  ],
+  "environments": [
+    "widmung",
+    "zusammenfassung"
+  ]
+}

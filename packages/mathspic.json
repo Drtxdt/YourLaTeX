@@ -1,11 +1,13 @@
 {
   "commands": [
-    "\\mathsPIC",
     "\\MathsPIC",
-    "\\mathsPICp",
     "\\MathsPICp",
-    "\\mathsPICperl",
-    "\\MathsPICperl"
+    "\\MathsPICperl",
+    "\\filedate",
+    "\\fileversion",
+    "\\mathsPIC",
+    "\\mathsPICp",
+    "\\mathsPICperl"
   ],
   "environments": []
 }

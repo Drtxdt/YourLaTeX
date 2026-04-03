@@ -1,9 +1,22 @@
 {
   "commands": [
-    "\\@vscentercr",
-    "\\@vsifplus",
+    "\\LRnum",
     "\\NLS",
-    "\\theparnotemark"
+    "\\blfootnote",
+    "\\innerlinenumbers",
+    "\\makeLineNumberRunning",
+    "\\outerlinenumbers",
+    "\\setLR",
+    "\\setRL",
+    "\\theparnotemark",
+    "\\verselinenumfont",
+    "\\vlvnumfont"
   ],
-  "environments": []
+  "environments": [
+    "alignment",
+    "ekdosis",
+    "ekdpar",
+    "ekdstanza",
+    "ekdverse"
+  ]
 }

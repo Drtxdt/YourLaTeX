@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\getpagenumber",
+    "\\noexpand",
+    "\\pagerange",
+    "\\pagerangeoptions"
+  ],
   "environments": []
 }

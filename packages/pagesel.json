@@ -1,9 +1,6 @@
 {
   "commands": [
-    "\\ps@ifinset",
-    "\\ps@lastpage",
-    "\\ps@pagetest",
-    "\\ps@store"
+    "\\expandafter"
   ],
   "environments": []
 }

@@ -1,13 +1,13 @@
 {
   "commands": [
-    "\\numspell@@output",
-    "\\Numspell@@output",
-    "\\numspell@output",
-    "\\Numspell@output",
-    "\\ordnumspell@@output",
-    "\\Ordnumspell@@output",
-    "\\ordnumspell@output",
-    "\\Ordnumspell@output"
+    "\\Numspell",
+    "\\Ordnumspell",
+    "\\foo",
+    "\\numspell",
+    "\\numspelldashspace",
+    "\\numspellsave",
+    "\\ordnumspell",
+    "\\thenumspell"
   ],
   "environments": []
 }

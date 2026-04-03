@@ -1,10 +1,6 @@
 {
   "commands": [
-    "\\bibliography",
-    "\\rsc@bib@message",
-    "\\rsc@bib@name",
-    "\\rsc@bib@write",
-    "\\rsc@bib@write@aux"
+    "\\bibliography"
   ],
   "environments": []
 }

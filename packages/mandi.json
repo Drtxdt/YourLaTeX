@@ -1,15 +1,13 @@
 {
   "commands": [
-    "\\hbar@",
-    "\\mandi@do@setup",
-    "\\mandi@selectalternateunits",
-    "\\mandi@selectapproximate",
-    "\\mandi@selectbaseunits",
-    "\\mandi@selectderivedunits",
-    "\\mandi@selectprecise",
-    "\\mandi@selectprecision",
-    "\\mandi@selectunits",
+    "\\hbar",
     "\\mandiversion"
   ],
-  "environments": []
+  "environments": [
+    "usealternateunits",
+    "useapproximateconstants",
+    "usebaseunits",
+    "usederivedunits",
+    "usepreciseconstants"
+  ]
 }

@@ -1,4 +1,22 @@
 {
-  "commands": [],
-  "environments": []
+  "commands": [
+    "\\CCStretchPar",
+    "\\ColRuled",
+    "\\ColSeyes",
+    "\\CoulRuled",
+    "\\CoulSeyes",
+    "\\QuadCoulA",
+    "\\QuadCoulB",
+    "\\QuadElarD",
+    "\\QuadElarG",
+    "\\RuledStretchPar",
+    "\\SeyesStretchPar"
+  ],
+  "environments": [
+    "EnvGrid",
+    "EnvQuadrillage",
+    "PleinePageCinqCinq",
+    "PleinePageRuled",
+    "PleinePageSeyes"
+  ]
 }

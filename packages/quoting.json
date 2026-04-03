@@ -1,7 +1,7 @@
 {
   "commands": [
-    "\\quo@doendquo",
-    "\\quo@doendquoclub",
+    "\\do",
+    "\\par",
     "\\quotingfont",
     "\\quotingsetup"
   ],

@@ -1,7 +1,11 @@
 {
   "commands": [
+    "\\Basmalahbn",
+    "\\basmalahbn",
     "\\bnGetTrans",
-    "\\bnSetTrans"
+    "\\bnSetTrans",
+    "\\quranbndate",
+    "\\quranbnversion"
   ],
   "environments": []
 }

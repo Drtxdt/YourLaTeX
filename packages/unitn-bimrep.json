@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\advisor",
+    "\\cycle",
+    "\\item",
+    "\\maketitle",
+    "\\printbibliography"
+  ],
+  "environments": [
+    "production",
+    "production*",
+    "research",
+    "research*",
+    "school",
+    "school*"
+  ]
+}

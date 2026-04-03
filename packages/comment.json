@@ -1,6 +1,31 @@
 {
   "commands": [
-    "\\maybe"
+    "\\CloseAndInputCutFile",
+    "\\CommentCutFile",
+    "\\CommentEndDef",
+    "\\CurrentComment",
+    "\\DefaultCutFileName",
+    "\\EndOfComment",
+    "\\FinalizeCutFile",
+    "\\PrepareCutFile",
+    "\\ProcessComment",
+    "\\ProcessCutFile",
+    "\\SetUpCutFile",
+    "\\ThisComment",
+    "\\Thiscomment",
+    "\\WriteCommentLine",
+    "\\csarg",
+    "\\excludecomment",
+    "\\generalcomment",
+    "\\includecomment",
+    "\\latexename",
+    "\\latexname",
+    "\\leveledcomment",
+    "\\makeinnocent",
+    "\\maybe",
+    "\\processcomment",
+    "\\specialcomment",
+    "\\test"
   ],
   "environments": []
 }

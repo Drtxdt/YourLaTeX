@@ -1,5 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\rawparam"
+  ],
   "environments": [
     "paramobject"
   ]

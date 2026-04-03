@@ -1,6 +1,13 @@
 {
   "commands": [
-    "\\qt@PrintWordCount"
+    "\\Basmalah",
+    "\\basmalah",
+    "\\clap",
+    "\\indexconvert",
+    "\\qurandate",
+    "\\quranversion",
+    "\\showitems",
+    "\\showitemsmacro"
   ],
   "environments": []
 }

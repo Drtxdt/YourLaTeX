@@ -1,7 +1,16 @@
 {
   "commands": [
+    "\\arrow",
+    "\\csname",
     "\\dgeverylabel",
-    "\\dgeverynode"
+    "\\dgeverynode",
+    "\\dggeometry",
+    "\\dgoldgeometry",
+    "\\newoptcommand",
+    "\\newoptenvironment",
+    "\\node",
+    "\\renewoptcommand",
+    "\\renewoptenvironment"
   ],
   "environments": []
 }

@@ -1,0 +1,32 @@
+{
+  "commands": [
+    "\\CAwords",
+    "\\DeclareFontFamilySubstitution",
+    "\\FontWarning",
+    "\\JAwords",
+    "\\MonoNotMono",
+    "\\appendicesname",
+    "\\appendix",
+    "\\bm",
+    "\\caption",
+    "\\cite",
+    "\\doitext",
+    "\\eqref",
+    "\\footnote",
+    "\\footnoterule",
+    "\\footrulewidth",
+    "\\headrulewidth",
+    "\\keywordname",
+    "\\linenumberfont",
+    "\\nomname",
+    "\\shortcaption",
+    "\\ssztwo",
+    "\\thefootnote",
+    "\\versiondate",
+    "\\versionno"
+  ],
+  "environments": [
+    "abstract*",
+    "nomenclature"
+  ]
+}

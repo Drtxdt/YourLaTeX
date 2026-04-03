@@ -1,5 +1,9 @@
 {
   "commands": [
+    "\\eqexplDelim",
+    "\\eqexplIntro",
+    "\\eqexplItemAlign",
+    "\\eqexplItemWidth",
     "\\eqexplSetDelim",
     "\\eqexplSetIntro",
     "\\eqexplSetItemAlign",

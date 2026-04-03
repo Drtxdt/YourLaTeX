@@ -1,12 +1,6 @@
 {
   "commands": [
-    "\\@Rbreakcodes",
-    "\\@Rcodeformat",
-    "\\@Rfixcodes",
-    "\\@Rset",
-    "\\@Rsetstar",
-    "\\@Rvalue",
-    "\\@Rvaluestar",
+    "\\Rcmd",
     "\\Rcode",
     "\\Rset",
     "\\Rtable",

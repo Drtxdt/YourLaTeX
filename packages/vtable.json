@@ -3,9 +3,7 @@
     "\\forceRowHeight",
     "\\nextRow",
     "\\setMultiColRow",
-    "\\setMultiColumn",
-    "\\vtable@PostRow",
-    "\\vtable@PreRow"
+    "\\setMultiColumn"
   ],
   "environments": []
 }

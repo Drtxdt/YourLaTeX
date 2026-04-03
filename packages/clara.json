@@ -1,8 +1,8 @@
 {
   "commands": [
-    "\\Clara@scale",
     "\\familydefault",
-    "\\rmdefault"
+    "\\rmdefault",
+    "\\sufigures"
   ],
   "environments": []
 }

@@ -1,6 +1,9 @@
 {
   "commands": [
-    "\\pgfmathomegarotation"
+    "\\increment",
+    "\\pgfmathomegarotation",
+    "\\pgfmathresult",
+    "\\xincrement"
   ],
   "environments": []
 }

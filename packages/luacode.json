@@ -1,5 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\endluacodestar",
+    "\\expandafter",
+    "\\y"
+  ],
   "environments": [
     "luacode",
     "luacode*"

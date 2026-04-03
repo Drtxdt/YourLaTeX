@@ -1,5 +1,7 @@
 {
   "commands": [
+    "\\FrenchLocalization",
+    "\\PrintingSkillsConfiguration",
     "\\arraystretch",
     "\\boxedskills",
     "\\bracketedskills",
@@ -7,7 +9,6 @@
     "\\defaultskillsenclosement",
     "\\defaultskillsopening",
     "\\descriptionname",
-    "\\FrenchLocalization",
     "\\globalskill",
     "\\globalskills",
     "\\glossaryheader",
@@ -17,6 +18,7 @@
     "\\glsgroupskip",
     "\\marginnotevadjust",
     "\\multiskills",
+    "\\nextitem",
     "\\noboxedskills",
     "\\nobracketedskills",
     "\\noskillsinmargin",
@@ -24,7 +26,6 @@
     "\\notonlyskills",
     "\\onlyskills",
     "\\pagelistname",
-    "\\PrintingSkillsConfiguration",
     "\\putglobalskills",
     "\\raggedleftmarginnote",
     "\\raggedrightmarginnote",
@@ -45,5 +46,7 @@
     "\\subglossentry",
     "\\tabularxcolumn"
   ],
-  "environments": []
+  "environments": [
+    "skillquestions"
+  ]
 }

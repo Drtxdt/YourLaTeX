@@ -1,20 +1,10 @@
 {
   "commands": [
     "\\causet",
-    "\\causetfile",
     "\\causetL",
     "\\causetP",
-    "\\causets@drawBrokenLinks",
-    "\\causets@drawContinuousLinks",
-    "\\causets@drawEvent",
-    "\\causets@drawEventLabel",
-    "\\causets@drawEventLabels",
-    "\\causets@drawEvents",
-    "\\causets@drawPermutation",
-    "\\causets@drawSpatialLinks",
-    "\\causets@prepareCauset",
-    "\\causets@setCausetName",
     "\\causetX",
+    "\\causetfile",
     "\\drawcauset",
     "\\drawpcauset",
     "\\drawrcauset",
@@ -25,7 +15,8 @@
     "\\rcauset",
     "\\rcausetL",
     "\\rcausetP",
-    "\\rcausetX"
+    "\\rcausetX",
+    "\\tikzcausetsset"
   ],
   "environments": []
 }

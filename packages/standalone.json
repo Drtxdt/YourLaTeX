@@ -1,8 +1,17 @@
 {
   "commands": [
-    "\\sa@documentclass",
-    "\\sa@usepackagewithoutoptions",
-    "\\standaloneconfig"
+    "\\AtEndOfClass",
+    "\\MiKTeX",
+    "\\ShellEscape",
+    "\\csname",
+    "\\endstandalonepreambles",
+    "\\endsubpreamble",
+    "\\expandafter",
+    "\\next",
+    "\\standaloneconfig",
+    "\\standaloneenv",
+    "\\standaloneignore",
+    "\\standalonepreambles"
   ],
   "environments": [
     "standalone",

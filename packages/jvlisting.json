@@ -1,8 +1,15 @@
 {
   "commands": [
     "\\ListingTypesetLine",
+    "\\NewFileListingCommand",
+    "\\NewListingEnvironment",
+    "\\expandafter",
+    "\\listingfont",
+    "\\next",
+    "\\normallistingfont",
     "\\postlistingskip",
-    "\\prelistingskip"
+    "\\prelistingskip",
+    "\\y"
   ],
   "environments": []
 }

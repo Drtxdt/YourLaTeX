@@ -1,6 +1,11 @@
 {
   "commands": [
-    "\\pmboxdrawuni"
+    "\\depth",
+    "\\empty",
+    "\\height",
+    "\\pmboxdrawuni",
+    "\\width",
+    "\\x"
   ],
   "environments": []
 }

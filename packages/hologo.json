@@ -1,4 +1,25 @@
 {
-  "commands": [],
+  "commands": [
+    "\\Hologo",
+    "\\HologoRobust",
+    "\\HologoVariant",
+    "\\HologoVariantRobust",
+    "\\csname",
+    "\\empty",
+    "\\hologo",
+    "\\hologoDriver",
+    "\\hologoDriverSetup",
+    "\\hologoFontSetup",
+    "\\hologoList",
+    "\\hologoLogoFontSetup",
+    "\\hologoLogoSetup",
+    "\\hologoRobust",
+    "\\hologoSetup",
+    "\\hologoVariant",
+    "\\hologoVariantRobust",
+    "\\hologorobust",
+    "\\pdfliteral",
+    "\\x"
+  ],
   "environments": []
 }

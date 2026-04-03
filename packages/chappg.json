@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\backmatter",
+    "\\mainmatter"
+  ],
   "environments": []
 }

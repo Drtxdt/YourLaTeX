@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\compoundinitials",
+    "\\disablesplithyphens",
+    "\\enablesplithyphens",
+    "\\nosingledefaults",
+    "\\singlechars"
+  ],
   "environments": []
 }

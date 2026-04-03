@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\@macro@name"
+    "\\removebs",
+    "\\verbatimboxVersionNumber"
   ],
   "environments": [
     "myverbbox",

@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\VaucProjectionOnFourthComponent",
+    "\\VaucProjectionOnSecondComponent",
+    "\\filedate",
+    "\\fileversion",
+    "\\scalebox"
+  ],
   "environments": []
 }

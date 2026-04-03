@@ -1,0 +1,35 @@
+{
+  "commands": [
+    "\\arraystretch",
+    "\\baselinestretch",
+    "\\bibfont",
+    "\\coherencematrix",
+    "\\deliverable",
+    "\\do",
+    "\\familydefault",
+    "\\footrulewidth",
+    "\\ganttchart",
+    "\\gantttaskchart",
+    "\\headrulewidth",
+    "\\hyperlink",
+    "\\inputdelivs",
+    "\\thempfootnote",
+    "\\wpfig"
+  ],
+  "environments": [
+    "deliverables",
+    "gantt",
+    "milestones",
+    "objective",
+    "proposal",
+    "task",
+    "tasklist",
+    "wadeliv",
+    "wadelivs",
+    "workarea",
+    "workpackage",
+    "workplan",
+    "wpdeliv",
+    "wpdelivs"
+  ]
+}

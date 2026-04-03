@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\namedefDate",
+    "\\namedefVersion"
+  ],
   "environments": []
 }

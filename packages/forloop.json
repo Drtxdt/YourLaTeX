@@ -1,7 +1,7 @@
 {
   "commands": [
-    "\\forloop",
-    "\\forLoop"
+    "\\forLoop",
+    "\\forloop"
   ],
   "environments": []
 }

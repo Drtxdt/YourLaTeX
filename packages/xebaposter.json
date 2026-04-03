@@ -1,0 +1,23 @@
+{
+  "commands": [
+    "\\background",
+    "\\debug",
+    "\\headerbox",
+    "\\pdftexversion",
+    "\\pgfsysdriver",
+    "\\xebaposterBoxDrawBackground",
+    "\\xebaposterBoxDrawBorder",
+    "\\xebaposterBoxGetShape",
+    "\\xebaposterHeaderBorder",
+    "\\xebaposterHeaderDrawBackground",
+    "\\xebaposterHeaderDrawBorder",
+    "\\xebaposterHeaderDrawText",
+    "\\xebaposterHeaderGetShape",
+    "\\xebaposterHeaderSetShade",
+    "\\xebaposterPosterDrawBackground"
+  ],
+  "environments": [
+    "poster",
+    "posterbox"
+  ]
+}

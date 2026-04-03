@@ -1,23 +1,22 @@
 {
   "commands": [
-    "\\@ifstre@mopen",
     "\\addtostream",
-    "\\checkstre@meof",
     "\\closeinputstream",
     "\\closeoutputstream",
-    "\\instre@mandclosed",
-    "\\instre@mandopen",
+    "\\endwriteverbatim",
     "\\marginnumbervstream",
     "\\newinputstream",
     "\\newoutputstream",
     "\\numbervstream",
     "\\openinputfile",
     "\\openoutputfile",
-    "\\outstre@mandclosed",
-    "\\outstre@mandopen",
     "\\plainvstream",
+    "\\readaline",
+    "\\readstream",
+    "\\readverbatim",
     "\\streamvnumfont",
-    "\\verbatimfont"
+    "\\verbatimfont",
+    "\\writeverbatim"
   ],
   "environments": []
 }

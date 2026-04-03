@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\boxedminipage"
+    "\\boxedminipage",
+    "\\endboxedminipage"
   ],
   "environments": []
 }

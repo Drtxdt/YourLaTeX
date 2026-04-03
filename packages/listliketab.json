@@ -1,6 +1,8 @@
 {
   "commands": [
-    "\\arraystretch"
+    "\\arraystretch",
+    "\\storeliststyle",
+    "\\storestyleof"
   ],
   "environments": [
     "listliketab"

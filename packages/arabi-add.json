@@ -1,5 +1,6 @@
 {
   "commands": [
+    "\\csname",
     "\\fontlinepart",
     "\\fontlinesec",
     "\\fontlinessec",
@@ -13,6 +14,7 @@
     "\\linessec",
     "\\linesssec",
     "\\newtheorem",
+    "\\openout",
     "\\part",
     "\\partnam",
     "\\section",
@@ -26,7 +28,8 @@
     "\\titlepart",
     "\\titlesec",
     "\\titlessec",
-    "\\titlesssec"
+    "\\titlesssec",
+    "\\write"
   ],
   "environments": []
 }

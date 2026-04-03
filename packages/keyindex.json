@@ -1,6 +1,5 @@
 {
   "commands": [
-    "\\@keyindexfile",
     "\\keyindex",
     "\\keyindexcommand",
     "\\keyindexentry",

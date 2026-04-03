@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\datax"
+    "\\datax",
+    "\\dataxfile"
   ],
   "environments": []
 }

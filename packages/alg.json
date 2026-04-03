@@ -1,11 +1,5 @@
 {
   "commands": [
-    "\\alg@cr",
-    "\\alg@kill",
-    "\\alg@margin",
-    "\\alg@putlabel",
-    "\\alg@putlineno",
-    "\\alg@unmargin",
     "\\algand",
     "\\algbegin",
     "\\algbreak",
@@ -41,10 +35,10 @@
     "\\algtrue",
     "\\alguntil",
     "\\algwhile",
+    "\\filedate",
     "\\listofalgorithms"
   ],
   "environments": [
-    "alg@tab",
     "algorithm",
     "algtab",
     "algtab*"

@@ -1,8 +1,11 @@
 {
   "commands": [
     "\\familydefault",
-    "\\Nunito@scale",
-    "\\rmdefault"
+    "\\nunitoproportional",
+    "\\nunitotabular",
+    "\\rmdefault",
+    "\\sufigures",
+    "\\supfigures"
   ],
   "environments": []
 }

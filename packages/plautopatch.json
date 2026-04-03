@@ -1,5 +1,7 @@
 {
   "commands": [
+    "\\InputIfFileExists",
+    "\\csname",
     "\\plautopatchdisable"
   ],
   "environments": []

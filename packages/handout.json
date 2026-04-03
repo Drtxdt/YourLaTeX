@@ -1,10 +1,8 @@
 {
   "commands": [
-    "\\before@handout",
+    "\\addcontentsline",
     "\\forhandout",
     "\\handout",
-    "\\handout@input",
-    "\\handout@warning",
     "\\handoutnumber",
     "\\handoutnumberintxt",
     "\\index",

@@ -1,7 +1,5 @@
 {
   "commands": [
-    "\\@@dualboxes",
-    "\\@dualboxes",
     "\\arrowsymb",
     "\\aster",
     "\\bul",
@@ -18,6 +16,7 @@
     "\\hand",
     "\\ie",
     "\\indent",
+    "\\otherside",
     "\\vstrut"
   ],
   "environments": [

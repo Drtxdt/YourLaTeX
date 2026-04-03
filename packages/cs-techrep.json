@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\TODO",
+    "\\bibfont",
+    "\\eg",
+    "\\filecontentsForceExpansion",
+    "\\hydash",
+    "\\ie",
+    "\\mycopyrightnotice"
+  ],
+  "environments": []
+}

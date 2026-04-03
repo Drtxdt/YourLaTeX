@@ -1,4 +1,12 @@
 {
-  "commands": [],
+  "commands": [
+    "\\Numeroinparole",
+    "\\Ordinalef",
+    "\\Ordinalem",
+    "\\numeroinparole",
+    "\\ordinalef",
+    "\\ordinalem",
+    "\\printnumeroinparole"
+  ],
   "environments": []
 }

@@ -1,9 +1,7 @@
 {
   "commands": [
-    "\\mathgreeks@unicodemath",
-    "\\mgr@CodeGreek",
-    "\\mgr@CodeGreeks",
-    "\\mgr@UnicodeGreek"
+    "\\mathgreeksfont",
+    "\\setmathgreeks"
   ],
   "environments": []
 }

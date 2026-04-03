@@ -1,7 +1,11 @@
 {
   "commands": [
+    "\\endtopI",
+    "\\endtopII",
     "\\figcap",
-    "\\tabcap"
+    "\\tabcap",
+    "\\topI",
+    "\\topII"
   ],
   "environments": [
     "topfloat"

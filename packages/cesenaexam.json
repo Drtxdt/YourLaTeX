@@ -2,9 +2,14 @@
   "commands": [
     "\\boxcheck",
     "\\boxempty",
+    "\\cesenaexamversion",
     "\\examoneblocktop",
+    "\\examparts",
+    "\\examsection",
     "\\examtwoblocks",
     "\\examtwoblockstop",
+    "\\fboxsep",
+    "\\maketitle",
     "\\sectionfont"
   ],
   "environments": []

@@ -1,7 +1,8 @@
 {
   "commands": [
     "\\textcher",
-    "\\textucher"
+    "\\textucher",
+    "\\ttdefault"
   ],
   "environments": [
     "cherokee",

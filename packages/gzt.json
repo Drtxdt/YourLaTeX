@@ -1,0 +1,31 @@
+{
+  "commands": [
+    "\\Arccos",
+    "\\Arcsin",
+    "\\Arctan",
+    "\\Argch",
+    "\\Argsh",
+    "\\Argth",
+    "\\bibfont",
+    "\\ch",
+    "\\cleancustomization",
+    "\\columnseprulecolor",
+    "\\cotan",
+    "\\gztfiledate",
+    "\\gztfileversion",
+    "\\sectioncommandslist",
+    "\\sh",
+    "\\startcustomization",
+    "\\tablename",
+    "\\textflush",
+    "\\thesection",
+    "\\topfraction",
+    "\\ttdefault"
+  ],
+  "environments": [
+    "abstract",
+    "authorsinstructions",
+    "bookreview",
+    "minitoclist"
+  ]
+}

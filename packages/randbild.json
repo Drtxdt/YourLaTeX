@@ -1,7 +1,5 @@
 {
-  "commands": [
-    "\\randbild@titel"
-  ],
+  "commands": [],
   "environments": [
     "randbild",
     "randbildbasis"

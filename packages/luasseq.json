@@ -1,5 +1,6 @@
 {
   "commands": [
+    "\\for",
     "\\ssabsgoto",
     "\\ssarrow",
     "\\ssarrowhead",
@@ -17,9 +18,12 @@
     "\\ssdashedstroke",
     "\\ssdottedcurve",
     "\\ssdottedstroke",
+    "\\ssdrop",
     "\\ssdropboxed",
     "\\ssdropbull",
     "\\ssdropcircled",
+    "\\ssdropextension",
+    "\\ssdroplabel",
     "\\ssendprefixcontext",
     "\\ssgoto",
     "\\ssgrayout",
@@ -27,15 +31,22 @@
     "\\ssinversearrowhead",
     "\\ssinversevoidarrow",
     "\\sslabelcolor",
+    "\\ssline",
     "\\ssmove",
     "\\ssmoveto",
+    "\\ssname",
     "\\ssplace",
     "\\ssplaceboxed",
     "\\ssplacecircled",
     "\\ssplacecolor",
     "\\ssprefix",
     "\\ssresetprefix",
-    "\\ssvoidarrow"
+    "\\ssstroke",
+    "\\ssvoidarrow",
+    "\\ssvoidline",
+    "\\temp",
+    "\\tempcmd",
+    "\\temptwo"
   ],
   "environments": [
     "sseq"

@@ -1,13 +1,17 @@
 {
   "commands": [
+    "\\anchorpoint",
     "\\depedge",
     "\\depkeys",
+    "\\depname",
     "\\deproot",
     "\\depstyle",
+    "\\dest",
     "\\groupedge",
     "\\matrixref",
     "\\rootref",
     "\\settgtlayer",
+    "\\source",
     "\\storefirstcorner",
     "\\storelabelnode",
     "\\storesecondcorner",

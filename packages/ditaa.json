@@ -1,5 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\ditaacaption",
+    "\\ditaadir",
+    "\\ditaafigwidth",
+    "\\ditaafile",
+    "\\ditaastem"
+  ],
   "environments": [
     "ditaa"
   ]

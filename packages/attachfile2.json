@@ -1,7 +1,10 @@
 {
   "commands": [
-    "\\atfi@acroPaperclip@data",
-    "\\attachfile@file"
+    "\\attachfile",
+    "\\attachfilesetup",
+    "\\noattachfile",
+    "\\notextattachfile",
+    "\\textattachfile"
   ],
   "environments": []
 }

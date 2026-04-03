@@ -1,5 +1,31 @@
 {
-  "commands": [],
+  "commands": [
+    "\\easy",
+    "\\hard",
+    "\\learningtargets",
+    "\\medium",
+    "\\occurrence",
+    "\\score",
+    "\\selectlanguage",
+    "\\worksheetAuthors",
+    "\\worksheetChangelvFile",
+    "\\worksheetCourseName",
+    "\\worksheetHideDifficulty",
+    "\\worksheetHideFileName",
+    "\\worksheetHideHeader",
+    "\\worksheetHideLearningTargets",
+    "\\worksheetHideOccurrence",
+    "\\worksheetHideScore",
+    "\\worksheetMakeTitle",
+    "\\worksheetNoSFFamilyInHeader",
+    "\\worksheetShowDifficulty",
+    "\\worksheetShowFileName",
+    "\\worksheetShowLearningTargets",
+    "\\worksheetShowOccurrence",
+    "\\worksheetShowScore",
+    "\\worksheetSubTitle",
+    "\\worksheetTitle"
+  ],
   "environments": [
     "exercise"
   ]

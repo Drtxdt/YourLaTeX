@@ -1,6 +1,8 @@
 {
   "commands": [
-    "\\SetAltSubSupCommands"
+    "\\SetAltSubSupCommands",
+    "\\SetAltSubscriptCommand",
+    "\\SetAltSuperscriptCommand"
   ],
   "environments": []
 }

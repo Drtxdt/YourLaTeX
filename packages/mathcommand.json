@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\csname",
+    "\\lettersGreekLowercase",
+    "\\lettersGreekUppercase",
+    "\\lettersLowercase",
+    "\\lettersUppercase"
+  ],
   "environments": []
 }

@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\trim@multiple@spaces@in"
+    "\\noexpand",
+    "\\pstool"
   ],
   "environments": []
 }

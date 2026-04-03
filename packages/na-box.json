@@ -1,9 +1,14 @@
 {
   "commands": [
     "\\breakbox",
+    "\\couleur",
     "\\definmot",
     "\\env",
-    "\\itemclass"
+    "\\itemclass",
+    "\\pasEnv",
+    "\\texte",
+    "\\titreFONT",
+    "\\tocFONT"
   ],
   "environments": [
     "ant",

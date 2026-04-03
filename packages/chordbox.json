@@ -1,7 +1,8 @@
 {
   "commands": [
     "\\bchordbox",
-    "\\chordbox"
+    "\\chordbox",
+    "\\pitch"
   ],
   "environments": [
     "chordboxenv"

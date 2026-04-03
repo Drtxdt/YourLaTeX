@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\printcellbottom",
+    "\\printcellmiddle",
+    "\\printcelltop",
+    "\\resetcellcount",
+    "\\savecellbox",
+    "\\savecellheight"
+  ],
   "environments": []
 }

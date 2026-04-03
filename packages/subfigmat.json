@@ -1,5 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\subfigure"
+  ],
   "environments": [
     "subfigmatrix"
   ]

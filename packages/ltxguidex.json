@@ -1,0 +1,35 @@
+{
+  "commands": [
+    "\\advisespace",
+    "\\advisestyle",
+    "\\alternative",
+    "\\bool",
+    "\\bs",
+    "\\command",
+    "\\ctan",
+    "\\docstrip",
+    "\\email",
+    "\\endverbatim",
+    "\\extension",
+    "\\filename",
+    "\\http",
+    "\\https",
+    "\\labeladvise",
+    "\\ltxclass",
+    "\\makelabel",
+    "\\meta",
+    "\\newdescriptionenvironment",
+    "\\newnotice",
+    "\\noticestyle",
+    "\\option",
+    "\\package",
+    "\\pipe",
+    "\\renewdescriptionenvironment",
+    "\\verbatim"
+  ],
+  "environments": [
+    "advise",
+    "desc",
+    "keys"
+  ]
+}

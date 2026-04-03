@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\addendumlabel",
+    "\\baselinestretch",
+    "\\section",
+    "\\spacing",
+    "\\subsection"
+  ],
+  "environments": [
+    "addendum",
+    "affiliations",
+    "methods"
+  ]
+}

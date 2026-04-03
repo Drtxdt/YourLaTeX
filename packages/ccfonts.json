@@ -1,6 +1,11 @@
 {
   "commands": [
+    "\\Big",
+    "\\Bigg",
     "\\bfdefault",
+    "\\big",
+    "\\bigg",
+    "\\noexpand",
     "\\rmdefault"
   ],
   "environments": []

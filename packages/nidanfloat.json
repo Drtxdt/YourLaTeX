@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\balanceclearpage",
+    "\\balancenewpage"
+  ],
   "environments": []
 }

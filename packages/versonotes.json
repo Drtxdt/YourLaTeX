@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\pdflastypos",
+    "\\pdfsavepos",
+    "\\shipout",
+    "\\versolayout",
+    "\\versonote"
+  ],
   "environments": []
 }

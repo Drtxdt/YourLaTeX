@@ -1,12 +1,8 @@
 {
   "commands": [
+    "\\eatthesquarebracket",
+    "\\tmpfile",
     "\\ulQda",
-    "\\UlQda@DoGraph",
-    "\\UlQda@FirstOfTwo",
-    "\\UlQda@GraphFlat",
-    "\\UlQda@GraphNet",
-    "\\UlQda@GraphVizFileName",
-    "\\UlQda@RefToSectNum",
     "\\ulqdaClearSectFilter",
     "\\ulqdaCloud",
     "\\ulqdaCode",

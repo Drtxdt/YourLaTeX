@@ -1,7 +1,5 @@
 {
   "commands": [
-    "\\@OrigHeightRecip",
-    "\\@preventExternalization",
     "\\orcidlink",
     "\\orcidlinkc",
     "\\orcidlinkf",

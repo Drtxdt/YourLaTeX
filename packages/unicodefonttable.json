@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\unicodefonttabledate",
+    "\\unicodefonttableversion"
+  ],
   "environments": []
 }

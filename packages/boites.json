@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\breakbox",
+    "\\breakboxparindent",
+    "\\breakboxskip",
+    "\\endbreakbox"
+  ],
   "environments": []
 }

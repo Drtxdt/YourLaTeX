@@ -1,8 +1,7 @@
 {
   "commands": [
-    "\\@setcpagerefrange",
-    "\\@setCpagerefrange",
-    "\\@setlabelcpagerefrange"
+    "\\UsedOnPackageDate",
+    "\\UsedOnPackageVersion"
   ],
   "environments": []
 }

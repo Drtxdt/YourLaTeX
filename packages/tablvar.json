@@ -1,13 +1,11 @@
 {
   "commands": [
-    "\\@@bblim",
-    "\\@@limd",
-    "\\@@limg",
-    "\\@@ZI",
-    "\\@bblim",
-    "\\@limd",
-    "\\@limg",
-    "\\@ZI",
+    "\\ZI",
+    "\\ZIc",
+    "\\ZIcouleur",
+    "\\ZIh",
+    "\\ZIinit",
+    "\\ZItype",
     "\\arraystretch",
     "\\barre",
     "\\bas",
@@ -25,8 +23,6 @@
     "\\posvr",
     "\\tablvarinit",
     "\\tablvarstretch",
-    "\\tv@@pos",
-    "\\tv@pos",
     "\\tvcoltypes",
     "\\valpos",
     "\\variations",
@@ -34,13 +30,7 @@
     "\\vdecal",
     "\\vr",
     "\\vrconnect",
-    "\\zbox",
-    "\\ZI",
-    "\\ZIc",
-    "\\ZIcouleur",
-    "\\ZIh",
-    "\\ZIinit",
-    "\\ZItype"
+    "\\zbox"
   ],
   "environments": [
     "tablvar",

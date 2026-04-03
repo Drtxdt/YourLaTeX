@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\color",
+    "\\colorbox",
+    "\\csname",
+    "\\filedate",
+    "\\fileversion"
+  ],
   "environments": []
 }

@@ -1,13 +1,16 @@
 {
   "commands": [
+    "\\allvolumescommand",
     "\\alwaysinclude",
-    "\\gobble@till@next",
+    "\\csname",
+    "\\include",
     "\\onlyvolume",
-    "\\test@number",
-    "\\vol@do@addto",
     "\\voladdtolof",
     "\\voladdtolot",
     "\\voladdtotoc",
+    "\\volume",
+    "\\volumecommand",
+    "\\volumelist",
     "\\volumename"
   ],
   "environments": []

@@ -1,5 +1,14 @@
 {
   "commands": [
+    "\\defhvstyle",
+    "\\drawSepLine",
+    "\\filedate",
+    "\\fileversion",
+    "\\getMultiCaptionAndLabel",
+    "\\getMultiObjectAndLabel",
+    "\\getMultiSubCaptionAndLabel",
+    "\\getMultiSubObjectAndLabel",
+    "\\getSingleCaptionAndLabel",
     "\\hvFloat",
     "\\raggedleftmarginnote",
     "\\raggedrightmarginnote"

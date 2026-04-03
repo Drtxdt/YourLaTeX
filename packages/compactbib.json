@@ -1,7 +1,9 @@
 {
   "commands": [
     "\\bibliorefname",
-    "\\bibliowidth"
+    "\\bibliowidth",
+    "\\filedate",
+    "\\fileversion"
   ],
   "environments": [
     "thebibliographyonly"

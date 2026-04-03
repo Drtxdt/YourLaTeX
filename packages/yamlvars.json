@@ -1,17 +1,18 @@
 {
   "commands": [
     "\\AllowUndeclaredYV",
-    "\\declareYAMLvarsFile",
     "\\ForbidUndeclaredYV",
+    "\\TextualYV",
+    "\\declareYAMLvarsFile",
     "\\lowercasevarYVoff",
     "\\lowercasevarYVon",
     "\\resetYAMLvarsspec",
-    "\\TextualYV",
     "\\yamlvarsdebugoff",
     "\\yamlvarsdebugon"
   ],
   "environments": [
     "declareYAMLvars",
-    "parseYAMLpdfdata"
+    "parseYAMLpdfdata",
+    "parseYAMLvars"
   ]
 }

@@ -2,10 +2,13 @@
   "commands": [
     "\\aruby",
     "\\atruby",
+    "\\expandafter",
     "\\jkenten",
     "\\jruby",
     "\\kenten",
+    "\\kentenfontsetup",
     "\\ruby",
+    "\\rubyfontsetup",
     "\\truby"
   ],
   "environments": []

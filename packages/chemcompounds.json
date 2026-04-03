@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\compound",
+    "\\compoundseparator",
+    "\\compoundstyle",
+    "\\declarecompound",
+    "\\printcompound",
+    "\\protect"
+  ],
   "environments": []
 }

@@ -1,5 +1,25 @@
 {
   "commands": [
+    "\\CommitSuccessEvent",
+    "\\DateFmt",
+    "\\DateFmtEx",
+    "\\DateKey",
+    "\\DateKeyEx",
+    "\\EnterCommitFailEvent",
+    "\\FormsRequirement",
+    "\\MergeChange",
+    "\\NumFmt",
+    "\\NumKey",
+    "\\PercentFmt",
+    "\\PercentKey",
+    "\\RangeValidate",
+    "\\SimpleCalc",
+    "\\SpecialFmt",
+    "\\SpecialKey",
+    "\\SpecialKeyEx",
+    "\\TimeFmt",
+    "\\TimeFmtEx",
+    "\\TimeKey",
     "\\normalGrayColors"
   ],
   "environments": []

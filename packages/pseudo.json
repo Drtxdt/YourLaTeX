@@ -1,4 +1,8 @@
 {
-  "commands": [],
+  "commands": [
+    "\\pseudodate",
+    "\\pseudohl",
+    "\\pseudoversion"
+  ],
   "environments": []
 }

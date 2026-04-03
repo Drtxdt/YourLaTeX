@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\start@aligned"
+    "\\AlignHere",
+    "\\noexpand"
   ],
   "environments": []
 }

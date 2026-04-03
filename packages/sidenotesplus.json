@@ -2,8 +2,17 @@
   "commands": [
     "\\marginfont",
     "\\marginpar",
+    "\\patch",
+    "\\patcherr",
+    "\\patchok",
     "\\raggedleftmarginnote",
     "\\raggedrightmarginnote"
   ],
-  "environments": []
+  "environments": [
+    "figure*",
+    "marginfigure",
+    "margintable",
+    "table*",
+    "text*"
+  ]
 }

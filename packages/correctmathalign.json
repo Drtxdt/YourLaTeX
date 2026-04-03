@@ -1,6 +1,6 @@
 {
   "commands": [
-    "\\start@aligned"
+    "\\eqnarray"
   ],
   "environments": []
 }

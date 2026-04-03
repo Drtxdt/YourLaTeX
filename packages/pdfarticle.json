@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\Alph",
+    "\\DoNotLoadEpstopdf",
+    "\\alph",
+    "\\forceNewPageGeometry",
+    "\\hl",
+    "\\st",
+    "\\ul"
+  ],
+  "environments": []
+}

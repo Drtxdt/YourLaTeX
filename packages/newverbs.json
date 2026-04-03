@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\MakeShortVerb",
+    "\\expandafter",
+    "\\qverbbeginquote",
+    "\\qverbendquote"
+  ],
   "environments": []
 }

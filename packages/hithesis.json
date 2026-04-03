@@ -1,15 +1,16 @@
 {
   "commands": [
-    "\\@cftmakeaentitle",
     "\\AlgoBiCaption",
-    "\\algocf@captiontext",
-    "\\algocf@makecaption",
     "\\algoenname",
     "\\algorithmcfname",
+    "\\cmd",
     "\\foocaption",
     "\\genacrfullformat",
+    "\\gscna",
+    "\\gscnas",
     "\\gseg",
     "\\gsegr",
+    "\\gtssbp",
     "\\ncell",
     "\\rcell",
     "\\tcellfive",
@@ -17,7 +18,6 @@
     "\\tcellone",
     "\\tcellthree",
     "\\tcelltwo",
-    "\\thealgoen",
     "\\theDirected",
     "\\theDirectedEdge",
     "\\theMatrix",
@@ -26,7 +26,8 @@
     "\\theSet",
     "\\theUndirected",
     "\\theUndirectedEdge",
-    "\\theVector"
+    "\\theVector",
+    "\\thealgoen"
   ],
   "environments": []
 }

@@ -1,13 +1,5 @@
 {
   "commands": [
-    "\\@definecharactercommand",
-    "\\@displaytitle",
-    "\\@dramatis@clear",
-    "\\@empty@",
-    "\\@maybexspace",
-    "\\@setcharacterstyle",
-    "\\@speaks",
-    "\\@thalie@parsecharacter",
     "\\act",
     "\\actmark",
     "\\actname",
@@ -44,7 +36,6 @@
     "\\thescene"
   ],
   "environments": [
-    "@smallcenter",
     "castgroup",
     "charactergroup",
     "dida",

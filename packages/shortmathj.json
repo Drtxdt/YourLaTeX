@@ -1,5 +1,6 @@
 {
   "commands": [
+    "\\shortifiedAMSjournalname",
     "\\shortifyAMSjournalname"
   ],
   "environments": []

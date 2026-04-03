@@ -1,5 +1,7 @@
 {
   "commands": [
+    "\\TODO",
+    "\\algorithmautorefname",
     "\\algorithmicensure",
     "\\algorithmicrequire",
     "\\booloption",
@@ -8,6 +10,7 @@
     "\\defeq",
     "\\definelanguagealias",
     "\\doibase",
+    "\\equationautorefname",
     "\\expect",
     "\\id",
     "\\ii",
@@ -17,12 +20,10 @@
     "\\llbracket",
     "\\newaffil",
     "\\newnew",
-    "\\rq@quasiwarn",
-    "\\rq@todo",
-    "\\rq@warnpackage",
     "\\rrbracket",
+    "\\sectionautorefname",
+    "\\selectlanguage",
     "\\todo",
-    "\\TODO",
     "\\todolist"
   ],
   "environments": []

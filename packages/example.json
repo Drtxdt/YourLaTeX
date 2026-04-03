@@ -1,4 +1,14 @@
 {
-  "commands": [],
+  "commands": [
+    "\\ExampleSet",
+    "\\ExampleVerb",
+    "\\addcontentsline",
+    "\\endexample",
+    "\\example",
+    "\\markboth",
+    "\\markright",
+    "\\next",
+    "\\write"
+  ],
   "environments": []
 }

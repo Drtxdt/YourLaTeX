@@ -1,5 +1,6 @@
 {
   "commands": [
+    "\\cmd",
     "\\figref",
     "\\meta",
     "\\myfolder",

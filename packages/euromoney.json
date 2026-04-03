@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\monnaiesechellerelative",
+    "\\monnaiessomme",
+    "\\monnaiessuffixe",
+    "\\piecebilletempilage",
+    "\\piecebilletrotation",
+    "\\piecebilletstyle"
+  ],
   "environments": []
 }

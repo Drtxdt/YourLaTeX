@@ -1,25 +1,24 @@
 {
   "commands": [
-    "\\edissue",
-    "\\edIssue",
-    "\\ednote",
     "\\Ednote",
-    "\\issue",
     "\\Issue",
-    "\\tweak",
-    "\\Tweak"
+    "\\Tweak",
+    "\\edIssue",
+    "\\edissue",
+    "\\ednote",
+    "\\issue",
+    "\\tweak"
   ],
   "environments": [
-    "Ed@part",
+    "Newpart",
+    "Oldpart",
+    "Todo",
+    "Todolist",
     "edstub",
     "musings",
     "newpart",
-    "Newpart",
     "oldpart",
-    "Oldpart",
     "todo",
-    "Todo",
-    "todolist",
-    "Todolist"
+    "todolist"
   ]
 }

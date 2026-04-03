@@ -1,13 +1,6 @@
 {
   "commands": [
-    "\\includestamp",
-    "\\postage@calculate@current@stamp@position",
-    "\\postage@draw@current@stamp@barcode",
-    "\\postage@draw@current@stamp@content",
-    "\\postage@draw@current@stamp@logo",
-    "\\postage@draw@current@stamp@part",
-    "\\postage@draw@current@stamp@style@compact",
-    "\\postage@draw@current@stamp@style@normal"
+    "\\includestamp"
   ],
   "environments": []
 }

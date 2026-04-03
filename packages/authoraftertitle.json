@@ -1,10 +1,10 @@
 {
   "commands": [
-    "\\author",
-    "\\date",
     "\\MyAuthor",
     "\\MyDate",
     "\\MyTitle",
+    "\\author",
+    "\\date",
     "\\title"
   ],
   "environments": []

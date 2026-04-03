@@ -1,14 +1,11 @@
 {
   "commands": [
-    "\\@zfancyhead",
+    "\\baselinestretch",
     "\\cfoot",
+    "\\chaptermark",
     "\\chead",
-    "\\f@nch@footinit",
-    "\\f@nch@for",
-    "\\f@nch@forc",
-    "\\f@nch@headinit",
-    "\\f@nch@ifin",
-    "\\f@nchf@rc",
+    "\\csname",
+    "\\expandafter",
     "\\fancycenter",
     "\\fancyfoot",
     "\\fancyfootalign",
@@ -20,16 +17,22 @@
     "\\fancyhf",
     "\\fancyhfinit",
     "\\fancyhfoffset",
+    "\\fancyplain",
+    "\\footrule",
     "\\footruleskip",
     "\\footrulewidth",
+    "\\headrule",
     "\\headruleskip",
     "\\headrulewidth",
     "\\lfoot",
     "\\lhead",
+    "\\nouppercase",
     "\\plainfootrulewidth",
     "\\plainheadrulewidth",
     "\\rfoot",
-    "\\rhead"
+    "\\rhead",
+    "\\sectionmark",
+    "\\subsectionmark"
   ],
   "environments": []
 }

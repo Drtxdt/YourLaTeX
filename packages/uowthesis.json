@@ -1,0 +1,25 @@
+{
+  "commands": [
+    "\\bibliography",
+    "\\bibname",
+    "\\chapteranme",
+    "\\chaptermark",
+    "\\contentsname",
+    "\\dedication",
+    "\\degree",
+    "\\degreeHeld",
+    "\\faculty",
+    "\\keywords",
+    "\\leftmark",
+    "\\maketitle",
+    "\\noListOfFigures",
+    "\\noListOfTables",
+    "\\rightmark",
+    "\\sectionmark",
+    "\\submissionDate",
+    "\\unit"
+  ],
+  "environments": [
+    "acknowledgements"
+  ]
+}

@@ -1,4 +1,8 @@
 {
-  "commands": [],
+  "commands": [
+    "\\inputenc",
+    "\\inputencoding",
+    "\\noexpand"
+  ],
   "environments": []
 }

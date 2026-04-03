@@ -1,0 +1,21 @@
+{
+  "commands": [
+    "\\cftafterloftitle",
+    "\\cftafterloftitleskip",
+    "\\cftafterlottitle",
+    "\\cftafterlottitleskip",
+    "\\cftaftertoctitle",
+    "\\cftaftertoctitleskip",
+    "\\cftbeforeloftitleskip",
+    "\\cftbeforelottitleskip",
+    "\\cftbeforetoctitleskip",
+    "\\cftchapfont",
+    "\\cftchappagefont",
+    "\\maketitlepage",
+    "\\sectionbreak",
+    "\\startbody"
+  ],
+  "environments": [
+    "thesis-abstract"
+  ]
+}

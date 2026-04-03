@@ -1,5 +1,8 @@
 {
-  "commands": [],
+  "commands": [
+    "\\RecipeWidths",
+    "\\ResetRecipeCounter"
+  ],
   "environments": [
     "recipe"
   ]

@@ -1,4 +1,22 @@
 {
-  "commands": [],
+  "commands": [
+    "\\BiteCrit",
+    "\\BiteFindByIn",
+    "\\BiteFindByInBraces",
+    "\\BiteFindByInIn",
+    "\\BiteGetNextWord",
+    "\\BiteIfCrit",
+    "\\BiteMake",
+    "\\BiteMakeIf",
+    "\\BiteMakeIfBraces",
+    "\\BiteMakeIfOnly",
+    "\\BiteTidied",
+    "\\BiteTidyI",
+    "\\BiteTidyII",
+    "\\filedate",
+    "\\fileinfo",
+    "\\filename",
+    "\\fileversion"
+  ],
   "environments": []
 }

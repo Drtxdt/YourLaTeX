@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\abstractnamefont",
+    "\\ekv",
+    "\\keywords",
+    "\\proofname",
+    "\\qed",
+    "\\refname"
+  ],
+  "environments": []
+}

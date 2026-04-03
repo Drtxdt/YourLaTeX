@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\atkinsn@scale"
+    "\\atkinsonfamily",
+    "\\sfdefault"
   ],
   "environments": []
 }

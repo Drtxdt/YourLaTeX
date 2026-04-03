@@ -1,4 +1,13 @@
 {
-  "commands": [],
+  "commands": [
+    "\\AllParsL",
+    "\\AllParsR",
+    "\\EndPars",
+    "\\NewParType",
+    "\\NextParL",
+    "\\NextParR",
+    "\\nextpar",
+    "\\tempa"
+  ],
   "environments": []
 }

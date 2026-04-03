@@ -1,8 +1,14 @@
 {
   "commands": [
-    "\\cgr@addto@macro",
-    "\\cgr@raddto@macro",
-    "\\includecombinedgraphics"
+    "\\SetFigFont",
+    "\\SetFigFontNFSS",
+    "\\color",
+    "\\endpicture",
+    "\\includecombinedgraphics",
+    "\\includegraphics",
+    "\\noexpand",
+    "\\picture",
+    "\\setlength"
   ],
   "environments": []
 }

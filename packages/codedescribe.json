@@ -1,4 +1,11 @@
 {
   "commands": [],
-  "environments": []
+  "environments": [
+    "codedescribe",
+    "codesyntax",
+    "describelist",
+    "describelist*",
+    "tsabstract",
+    "tsremark"
+  ]
 }

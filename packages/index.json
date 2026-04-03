@@ -1,7 +1,13 @@
 {
   "commands": [
-    "\\@starttoc",
     "\\addtocontents",
+    "\\disableindex",
+    "\\flushbottom",
+    "\\index",
+    "\\newindex",
+    "\\printindex",
+    "\\raggedbottom",
+    "\\renewindex",
     "\\see",
     "\\seename"
   ],

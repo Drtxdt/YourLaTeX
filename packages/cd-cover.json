@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\filedate",
+    "\\fileversion"
+  ],
+  "environments": [
+    "backsheet",
+    "backsheet*",
+    "bookletsheets",
+    "singlesheet",
+    "sleevesheet"
+  ]
+}

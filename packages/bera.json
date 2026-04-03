@@ -1,6 +1,10 @@
 {
   "commands": [
-    "\\bfdefault"
+    "\\LaTeX",
+    "\\TeX",
+    "\\bfdefault",
+    "\\fveLaTeX",
+    "\\fveTeX"
   ],
   "environments": []
 }

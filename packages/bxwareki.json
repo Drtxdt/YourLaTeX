@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\WarekiSetUHandler",
+    "\\WarekiUseCustomInterGlue"
+  ],
   "environments": []
 }

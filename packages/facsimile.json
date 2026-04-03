@@ -1,0 +1,24 @@
+{
+  "commands": [
+    "\\closing",
+    "\\datename",
+    "\\faxfrom",
+    "\\faxheaderfont",
+    "\\faxnotetext",
+    "\\faxsubject",
+    "\\faxto",
+    "\\footrulewidth",
+    "\\fromname",
+    "\\fromsig",
+    "\\makefaxtitle",
+    "\\notename",
+    "\\ofname",
+    "\\onepagename",
+    "\\opening",
+    "\\pagename",
+    "\\pagesname",
+    "\\par",
+    "\\stopbreaks"
+  ],
+  "environments": []
+}

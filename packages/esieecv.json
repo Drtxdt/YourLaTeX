@@ -1,8 +1,6 @@
 {
   "commands": [
     "\\Competence",
-    "\\CV@ajout@apport",
-    "\\CV@init",
     "\\Date",
     "\\Descr",
     "\\Duree",
@@ -15,7 +13,8 @@
     "\\PreApport",
     "\\PrePreApports",
     "\\TailleApport",
-    "\\Titre"
+    "\\Titre",
+    "\\csname"
   ],
   "environments": [
     "rubrique",

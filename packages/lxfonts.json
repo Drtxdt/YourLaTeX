@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\bfdefault",
+    "\\itdefault",
+    "\\rmdefault",
+    "\\sfdefault",
+    "\\sldefault",
+    "\\ttdefault"
+  ],
   "environments": []
 }

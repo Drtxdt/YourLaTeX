@@ -1,6 +1,20 @@
 {
   "commands": [
-    "\\footrulewidth"
+    "\\footrulewidth",
+    "\\rcsInfo",
+    "\\rcsInfoDate",
+    "\\rcsInfoDay",
+    "\\rcsInfoFile",
+    "\\rcsInfoLocker",
+    "\\rcsInfoLongDate",
+    "\\rcsInfoMonth",
+    "\\rcsInfoOwner",
+    "\\rcsInfoRevision",
+    "\\rcsInfoStatus",
+    "\\rcsInfoTime",
+    "\\rcsInfoYear",
+    "\\string",
+    "\\today"
   ],
   "environments": []
 }

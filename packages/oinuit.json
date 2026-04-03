@@ -1,5 +1,12 @@
 {
-  "commands": [],
+  "commands": [
+    "\\InuitToday",
+    "\\encodingdefault",
+    "\\inuittext",
+    "\\selectlanguage",
+    "\\textinuit",
+    "\\ttdefault"
+  ],
   "environments": [
     "inuit"
   ]

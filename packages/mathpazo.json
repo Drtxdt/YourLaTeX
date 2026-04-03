@@ -1,7 +1,14 @@
 {
   "commands": [
+    "\\Big",
+    "\\Bigg",
     "\\EURtm",
+    "\\big",
+    "\\bigg",
+    "\\defaultscriptratio",
+    "\\defaultscriptscriptratio",
     "\\hbar",
+    "\\joinrel",
     "\\mathbb",
     "\\oldstylenums",
     "\\ppleuro",

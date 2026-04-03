@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\csname",
+    "\\empty",
+    "\\kvsetkeys",
+    "\\kvsetknownkeys",
+    "\\noexpand",
+    "\\x"
+  ],
   "environments": []
 }

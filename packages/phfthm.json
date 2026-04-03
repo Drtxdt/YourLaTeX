@@ -1,6 +1,30 @@
 {
-  "commands": [],
-  "environments": [
-    "phfthm@proof@defaultdisplayenv"
-  ]
+  "commands": [
+    "\\baselinestretch",
+    "\\claimname",
+    "\\conjecturename",
+    "\\corollaryname",
+    "\\definitionname",
+    "\\ideaname",
+    "\\lemmaname",
+    "\\noexpand",
+    "\\noproofref",
+    "\\observationname",
+    "\\phfPinProofAnchor",
+    "\\phfProofrefPageAheadTolerance",
+    "\\phfProofrefPageBackTolerance",
+    "\\phfthmLoadThmSet",
+    "\\phfthmMakeThmheadingEnvironment",
+    "\\phfthmPinProofAnchor",
+    "\\problemname",
+    "\\proofofname",
+    "\\proofonname",
+    "\\proofrefsize",
+    "\\propositionname",
+    "\\questionname",
+    "\\remarkname",
+    "\\theoremname",
+    "\\x"
+  ],
+  "environments": []
 }

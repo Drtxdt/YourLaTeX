@@ -1,0 +1,42 @@
+{
+  "commands": [
+    "\\GDabstracts",
+    "\\GDaffilitem",
+    "\\GDannee",
+    "\\GDarticlestart",
+    "\\GDauteursCopyright",
+    "\\GDauteursCourts",
+    "\\GDauthitem",
+    "\\GDauthorsCopyright",
+    "\\GDauthorsShort",
+    "\\GDcoverpage",
+    "\\GDcoverpagewhitespace",
+    "\\GDemailitem",
+    "\\GDmois",
+    "\\GDmonth",
+    "\\GDnumber",
+    "\\GDnumero",
+    "\\GDpageCouverture",
+    "\\GDpostpubcitation",
+    "\\GDrefsep",
+    "\\GDrevised",
+    "\\GDsupplementname",
+    "\\GDtitle",
+    "\\GDtitre",
+    "\\GDyear",
+    "\\footrulewidth",
+    "\\headrulewidth",
+    "\\paragraph",
+    "\\section",
+    "\\subsection",
+    "\\subsubsection",
+    "\\tabular",
+    "\\thepage"
+  ],
+  "environments": [
+    "GDabstract",
+    "GDacknowledgements",
+    "GDpagetitre",
+    "GDtitlepage"
+  ]
+}

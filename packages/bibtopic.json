@@ -1,9 +1,23 @@
 {
-  "commands": [],
+  "commands": [
+    "\\MessageBreak",
+    "\\bibcite",
+    "\\bibitem",
+    "\\bibliography",
+    "\\bibliographystyle",
+    "\\citation",
+    "\\cite",
+    "\\citepunct",
+    "\\endthebibliography",
+    "\\harvarditem",
+    "\\nocite",
+    "\\string",
+    "\\thebibliography",
+    "\\thebtauxfile"
+  ],
   "environments": [
     "bibtopics",
     "bibunit",
-    "bt@item",
     "btSect",
     "btUnit"
   ]

@@ -1,25 +1,16 @@
 {
   "commands": [
-    "\\@@gentry",
-    "\\@footnotetext",
-    "\\@footnotetext@save",
-    "\\@footnotetext@save@",
-    "\\gamebook@info",
-    "\\gamebooklib@mark",
+    "\\csname",
     "\\gamebooklibmarkclass",
     "\\gentry",
-    "\\gentry@footnotespergentry",
-    "\\gentry@store",
     "\\gentryfooter",
     "\\gentryheader",
     "\\gentryshouldoutput",
+    "\\gentrytitle",
     "\\noentryfoot",
     "\\outputfootnotes",
-    "\\outputfootnotes@endgentry",
-    "\\outputfootnotes@endpage",
+    "\\thediff",
     "\\thegentries"
   ],
-  "environments": [
-    "@gentry"
-  ]
+  "environments": []
 }

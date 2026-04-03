@@ -1,0 +1,28 @@
+{
+  "commands": [
+    "\\INGUDsetciteinfo",
+    "\\INGUDsetinitialpage",
+    "\\INGUDsetnumber",
+    "\\INGUDsetvolume",
+    "\\and",
+    "\\author",
+    "\\biography",
+    "\\citedash",
+    "\\citepunct",
+    "\\endbiography",
+    "\\endmaketitle",
+    "\\maketitle",
+    "\\rmdefault",
+    "\\sectionmark",
+    "\\sfdefault",
+    "\\subsectionmark",
+    "\\thanks",
+    "\\thebibliography",
+    "\\thetable",
+    "\\title",
+    "\\ttdefault"
+  ],
+  "environments": [
+    "INGUDstructured"
+  ]
+}

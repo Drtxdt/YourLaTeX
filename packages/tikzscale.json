@@ -1,6 +1,24 @@
 {
   "commands": [
-    "\\tikzscale@includetikz"
+    "\\breakFor",
+    "\\content",
+    "\\dimension",
+    "\\do",
+    "\\edocsvlist",
+    "\\eforcsvlist",
+    "\\eforgrouplist",
+    "\\fileName",
+    "\\forgrouplist",
+    "\\grouplistbreak",
+    "\\ifExternalizationLoaded",
+    "\\ifTikzLibraryLoaded",
+    "\\ifedefequal",
+    "\\maxTestIterations",
+    "\\noexpand",
+    "\\pgfmathsetglobalmacro",
+    "\\requestedAxisRatio",
+    "\\requestedSize",
+    "\\variable"
   ],
   "environments": []
 }

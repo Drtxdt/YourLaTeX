@@ -1,8 +1,7 @@
 {
   "commands": [
-    "\\zebr@marginnote",
-    "\\zebr@note@",
-    "\\zebr@prepend"
+    "\\csname",
+    "\\zebranewnote"
   ],
   "environments": []
 }

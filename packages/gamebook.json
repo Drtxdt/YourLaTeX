@@ -1,5 +1,7 @@
 {
   "commands": [
+    "\\PrelimText",
+    "\\PrelimWords",
     "\\gbdebug",
     "\\gbdebugx",
     "\\gbheader",
@@ -9,8 +11,6 @@
     "\\gbturn",
     "\\gbturntext",
     "\\gbvillain",
-    "\\PrelimText",
-    "\\PrelimWords",
     "\\sectionmark"
   ],
   "environments": [

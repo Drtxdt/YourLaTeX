@@ -1,11 +1,5 @@
 {
   "commands": [
-    "\\@ifbothc@t@s",
-    "\\@removefromreset",
-    "\\c@t@sin",
-    "\\c@t@sinstar",
-    "\\c@t@sout",
-    "\\c@t@soutstar",
     "\\counterwithin",
     "\\counterwithout",
     "\\thectr"

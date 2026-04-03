@@ -1,6 +1,9 @@
 {
   "commands": [
-    "\\CurrentDirectory"
+    "\\CurrentDirectory",
+    "\\PlantUMLJobname",
+    "\\UMLcountUp",
+    "\\maxwidth"
   ],
   "environments": [
     "plantuml"

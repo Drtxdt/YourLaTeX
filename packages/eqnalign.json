@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\EQNarray",
+    "\\endEQNarray"
+  ],
   "environments": []
 }

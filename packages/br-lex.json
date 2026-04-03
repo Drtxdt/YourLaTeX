@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\alinea",
+    "\\artigo",
+    "\\cortado",
+    "\\descricao",
+    "\\inciso",
+    "\\itens",
+    "\\paragrafo",
+    "\\paragrafounico",
+    "\\thechapter",
+    "\\thesection",
+    "\\titulo"
+  ],
+  "environments": []
+}

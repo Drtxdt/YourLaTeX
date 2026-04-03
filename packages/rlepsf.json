@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\adjustrelabel",
+    "\\endrelabelbox",
+    "\\extralabel",
+    "\\relabel",
+    "\\relabelbox"
+  ],
+  "environments": []
+}

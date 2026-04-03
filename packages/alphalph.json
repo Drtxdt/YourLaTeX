@@ -1,4 +1,8 @@
 {
-  "commands": [],
+  "commands": [
+    "\\empty",
+    "\\newalphalph",
+    "\\x"
+  ],
   "environments": []
 }

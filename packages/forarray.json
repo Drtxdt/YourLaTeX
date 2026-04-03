@@ -1,4 +1,22 @@
 {
-  "commands": [],
+  "commands": [
+    "\\CommandForEach",
+    "\\DefineArrayDefault",
+    "\\DefineArrayVar",
+    "\\DefineArrayVarTo",
+    "\\DefineArrayVars",
+    "\\ExitForEach",
+    "\\ExitForEachLevels",
+    "\\ForArray",
+    "\\ForEach",
+    "\\ForEachD",
+    "\\ForEachSublevel",
+    "\\ForEachX",
+    "\\FunctionForEach",
+    "\\csname",
+    "\\endforeach",
+    "\\expandafter",
+    "\\thislevelitem"
+  ],
   "environments": []
 }

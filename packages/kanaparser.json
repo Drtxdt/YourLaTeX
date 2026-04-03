@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\parserInit",
+    "\\toHiragana",
+    "\\toKatakana",
+    "\\toLatin",
+    "\\toggleChars"
+  ],
+  "environments": []
+}

@@ -6,12 +6,16 @@
     "\\byncsa",
     "\\bynd",
     "\\bysa",
+    "\\cc",
+    "\\ccby",
+    "\\ccnc",
+    "\\ccnd",
+    "\\ccsa",
     "\\nc",
     "\\ncsa",
     "\\nd",
     "\\ndnc",
-    "\\sa",
-    "\\SA@arrow"
+    "\\sa"
   ],
   "environments": []
 }

@@ -1,4 +1,8 @@
 {
-  "commands": [],
+  "commands": [
+    "\\endpython",
+    "\\prepython",
+    "\\python"
+  ],
   "environments": []
 }

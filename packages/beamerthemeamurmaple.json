@@ -1,6 +1,13 @@
 {
-  "commands": [],
+  "commands": [
+    "\\pourc",
+    "\\xj"
+  ],
   "environments": [
-    "boxalertenv"
+    "abstract",
+    "boxalertenv",
+    "information",
+    "quotation",
+    "remark"
   ]
 }

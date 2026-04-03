@@ -1,7 +1,20 @@
 {
   "commands": [
+    "\\BeforeStream",
+    "\\endgnuplotverbatimwrite",
+    "\\extension",
+    "\\figname",
+    "\\gnuplotexe",
     "\\gnuplotloadfile",
-    "\\gnuplotloadfilewrite"
+    "\\gnuplotloadfilewrite",
+    "\\gnuplotscale",
+    "\\gnuplotterminal",
+    "\\gnuplotterminaloptions",
+    "\\gnuplottexextension",
+    "\\gnuplotverbatimwrite",
+    "\\subfolder",
+    "\\tmpfile",
+    "\\usesiunitxingnuplot"
   ],
   "environments": [
     "gnuplot"

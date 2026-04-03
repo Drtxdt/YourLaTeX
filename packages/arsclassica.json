@@ -4,7 +4,9 @@
     "\\headfont",
     "\\pnumfont",
     "\\sectionmark",
-    "\\sfdefault"
+    "\\sfdefault",
+    "\\spacedallcaps",
+    "\\spacedlowsmallcaps"
   ],
   "environments": []
 }

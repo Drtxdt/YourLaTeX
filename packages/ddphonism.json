@@ -1,17 +1,20 @@
 {
   "commands": [
-    "\\darrows",
-    "\\ddiagram",
-    "\\DheadMake",
     "\\DLIH",
     "\\DLIV",
     "\\DLOH",
     "\\DLOV",
-    "\\dmatrix",
-    "\\drow",
+    "\\DheadMake",
     "\\DsizeMake",
     "\\Dvar",
-    "\\Modulo"
+    "\\Modulo",
+    "\\TableDDdata",
+    "\\addto",
+    "\\darrows",
+    "\\ddiagram",
+    "\\dmatrix",
+    "\\drow",
+    "\\expandafter"
   ],
   "environments": []
 }

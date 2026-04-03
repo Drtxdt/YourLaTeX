@@ -1,19 +1,15 @@
 {
   "commands": [
-    "\\@@lpeq",
-    "\\@@lpnewsubeq",
-    "\\@@lpobj",
-    "\\@@lpsubeq",
-    "\\@lpeq",
-    "\\@lpnewsubeq",
-    "\\@lpobj",
-    "\\@lpsubeq",
     "\\customlabel",
+    "\\lpeq",
     "\\lpforall",
     "\\lpindent",
     "\\lplabel",
     "\\lpname",
     "\\lpnewline",
+    "\\lpnewsubeq",
+    "\\lpobj",
+    "\\lpsubeq",
     "\\lpsubeqtag",
     "\\lpsubjectto"
   ],

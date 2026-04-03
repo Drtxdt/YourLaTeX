@@ -1,6 +1,9 @@
 {
   "commands": [
-    "\\mpr@inferrule@"
+    "\\LeftTirNameStyle",
+    "\\RightTirNameStyle",
+    "\\TirNameStyle",
+    "\\mprset"
   ],
   "environments": [
     "mathpar",

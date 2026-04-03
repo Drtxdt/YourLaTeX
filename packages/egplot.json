@@ -1,16 +1,30 @@
 {
   "commands": [
     "\\egp",
-    "\\egp@includegraphicx",
-    "\\egp@includevalue",
+    "\\egpaddtofigepilog",
+    "\\egpaddtofigprelude",
+    "\\egpaddtoprelude",
     "\\egpassign",
     "\\egpcalc",
+    "\\egpcmds",
     "\\egpdef",
+    "\\egpfigepilog",
+    "\\egpfigprelude",
     "\\egpfile",
+    "\\egpprelude",
     "\\egpshowval",
     "\\egpuse",
     "\\egpuseval",
-    "\\egpx"
+    "\\egpwrite",
+    "\\egpx",
+    "\\endegp",
+    "\\endegpcmds",
+    "\\endegpdef",
+    "\\endegpfile",
+    "\\endegpx",
+    "\\fileversion",
+    "\\theegpfile",
+    "\\theegpfilename"
   ],
   "environments": []
 }

@@ -1,16 +1,10 @@
 {
   "commands": [
-    "\\celtxt@i",
+    "\\filedate",
+    "\\fileversion",
     "\\helvbx",
-    "\\pastab@draw@cell",
-    "\\pastableur@colorcell",
-    "\\pastableur@grid",
     "\\tabcolwidth",
     "\\tableur",
-    "\\tableur@nostar",
-    "\\tableur@star",
-    "\\tableur@star@columns",
-    "\\tableur@star@onecolumn",
     "\\tablineheight",
     "\\tabnumlinewidth"
   ],

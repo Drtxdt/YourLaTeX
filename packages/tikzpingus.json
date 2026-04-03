@@ -1,4 +1,23 @@
 {
-  "commands": [],
+  "commands": [
+    "\\basew",
+    "\\basicfeetbend",
+    "\\csname",
+    "\\expandafter",
+    "\\eyebaseang",
+    "\\lengthincr",
+    "\\pinguanglehl",
+    "\\pinguanglehr",
+    "\\pingudefaults",
+    "\\pingudefaultsappend",
+    "\\pingulightsaberfactor",
+    "\\pingupathhatupper",
+    "\\pingupathwitchhatupper",
+    "\\pingupathxbowtieknot",
+    "\\pingupathxbowtieleft",
+    "\\pingupathxbowtieright",
+    "\\pingupathxtie",
+    "\\pingupathxtieknot"
+  ],
   "environments": []
 }

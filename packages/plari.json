@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\filedate",
+    "\\fileinfo",
+    "\\fileversion",
+    "\\newact",
+    "\\newscene",
+    "\\paren",
+    "\\repl",
+    "\\setting",
+    "\\theact",
+    "\\thescene"
+  ],
+  "environments": []
+}

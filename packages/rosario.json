@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\defigures",
+    "\\infigures",
+    "\\nufigures",
+    "\\sufigures"
+  ],
   "environments": []
 }

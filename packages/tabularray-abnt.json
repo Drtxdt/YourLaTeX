@@ -4,8 +4,11 @@
     "\\cftquadroname",
     "\\listadequadros",
     "\\listquadroname",
-    "\\quadroname",
-    "\\tabularray@abnt@tblr@count@roman"
+    "\\quadroname"
   ],
-  "environments": []
+  "environments": [
+    "abnttblr",
+    "longabnttblr",
+    "tallabnttblr"
+  ]
 }

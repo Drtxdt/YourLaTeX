@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\expandafter",
+    "\\pmtload",
+    "\\pmtprint",
+    "\\pmtsave",
+    "\\pmtshortfalse",
+    "\\pmtshorttrue"
+  ],
   "environments": []
 }

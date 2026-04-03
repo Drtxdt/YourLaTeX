@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\begin",
+    "\\bibliography",
+    "\\csname",
+    "\\documentclass",
+    "\\graphicspath",
+    "\\subfix"
+  ],
   "environments": []
 }

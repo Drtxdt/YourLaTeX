@@ -1,4 +1,18 @@
 {
-  "commands": [],
+  "commands": [
+    "\\DeclareThumbs",
+    "\\DefRGB",
+    "\\DefThisThumb",
+    "\\DefThumb",
+    "\\IfFileExists",
+    "\\PackageWarningNoLine",
+    "\\SetCatcodeRange",
+    "\\ThumbpdfDriver",
+    "\\UseRGB",
+    "\\shipout",
+    "\\thisthumb",
+    "\\thumb",
+    "\\x"
+  ],
   "environments": []
 }

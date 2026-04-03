@@ -1,4 +1,24 @@
 {
-  "commands": [],
-  "environments": []
+  "commands": [
+    "\\AlphabetMajuscule",
+    "\\AlphabetMinuscule",
+    "\\PointsScrabbleDE",
+    "\\PointsScrabbleEN",
+    "\\PointsScrabbleES",
+    "\\PointsScrabbleFR",
+    "\\ScrWordInlColFond",
+    "\\ScrWordInlColFonte",
+    "\\ScrWordInlFonte",
+    "\\ScrWordInlLang",
+    "\\ScrWordInlOffset",
+    "\\ScrWordInlScale",
+    "\\tmpscalecaseLCD",
+    "\\tmpscalecaseLCT",
+    "\\tmpscalecaseMCD",
+    "\\tmpscalecaseMCT"
+  ],
+  "environments": [
+    "EnvScrabble",
+    "EnvScrabbleFR"
+  ]
 }

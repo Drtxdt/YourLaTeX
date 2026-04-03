@@ -1,6 +1,9 @@
 {
   "commands": [
-    "\\opmInstance"
+    "\\defaulttriangleanchors",
+    "\\defaulttrianglelengths",
+    "\\opmInstance",
+    "\\trianglepath"
   ],
   "environments": []
 }

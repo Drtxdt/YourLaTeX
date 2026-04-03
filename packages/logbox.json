@@ -1,4 +1,12 @@
 {
-  "commands": [],
+  "commands": [
+    "\\ShowGroups",
+    "\\ShowIfs",
+    "\\ShowLists",
+    "\\Viewbox",
+    "\\dimbox",
+    "\\logbox",
+    "\\viewbox"
+  ],
   "environments": []
 }

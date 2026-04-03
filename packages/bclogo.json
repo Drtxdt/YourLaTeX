@@ -1,12 +1,9 @@
 {
   "commands": [
-    "\\bc@barreimageClip",
-    "\\bc@barreimageExt",
-    "\\bc@barreline",
-    "\\bc@barremotif",
-    "\\bc@barresnake",
-    "\\bc@barrewave",
-    "\\bc@barrezigzag",
+    "\\PackageName",
+    "\\filedate",
+    "\\fileversion",
+    "\\pagecolor",
     "\\titrebclogo"
   ],
   "environments": [

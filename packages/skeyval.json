@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\do",
+    "\\ifkeyundef",
+    "\\skvclassoptionsfound",
+    "\\skvcurrentvalue"
+  ],
   "environments": []
 }

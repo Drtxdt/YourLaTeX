@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\expandafter",
+    "\\lgrmathgreektable",
+    "\\lgrmathgreektableextra",
+    "\\lgrmathsetup",
+    "\\s"
+  ],
   "environments": []
 }

@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\myfiledate",
+    "\\myfileversion"
+  ],
   "environments": []
 }

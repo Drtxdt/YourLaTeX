@@ -1,11 +1,14 @@
 {
   "commands": [
+    "\\SetSinglespace",
+    "\\baselinestretch",
     "\\displayskipstretch",
     "\\doublespacing",
+    "\\filedate",
+    "\\filename",
+    "\\fileversion",
     "\\onehalfspacing",
-    "\\restore@spacing",
     "\\setdisplayskipstretch",
-    "\\SetSinglespace",
     "\\setstretch",
     "\\singlespacing"
   ],

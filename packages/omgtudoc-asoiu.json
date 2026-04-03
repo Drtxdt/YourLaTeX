@@ -1,0 +1,20 @@
+{
+  "commands": [
+    "\\CurrentOption",
+    "\\GostAsbuk",
+    "\\abbreviations",
+    "\\appendix",
+    "\\appendixhelp",
+    "\\appendixrec",
+    "\\conclusion",
+    "\\enumerate",
+    "\\gostasbuk",
+    "\\itemize",
+    "\\makelabel",
+    "\\preface",
+    "\\rmdefault",
+    "\\terms",
+    "\\termsandabbrev"
+  ],
+  "environments": []
+}

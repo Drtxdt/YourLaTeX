@@ -1,4 +1,22 @@
 {
-  "commands": [],
+  "commands": [
+    "\\csname",
+    "\\do",
+    "\\embedfile",
+    "\\embedfilefield",
+    "\\embedfilefinish",
+    "\\embedfilegetobject",
+    "\\embedfileifobjectexists",
+    "\\embedfilesetup",
+    "\\embedfilesort",
+    "\\empty",
+    "\\f",
+    "\\pdfcatalog",
+    "\\pdflastobj",
+    "\\pdfnames",
+    "\\pdfobj",
+    "\\stop",
+    "\\x"
+  ],
   "environments": []
 }

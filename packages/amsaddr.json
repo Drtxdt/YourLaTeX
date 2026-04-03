@@ -1,7 +1,14 @@
 {
   "commands": [
+    "\\address",
     "\\author",
-    "\\email"
+    "\\curraddr",
+    "\\email",
+    "\\filedate",
+    "\\filename",
+    "\\fileversion",
+    "\\par",
+    "\\urladdr"
   ],
   "environments": []
 }

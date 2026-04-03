@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\Conj",
+    "\\Herm",
+    "\\Inv",
+    "\\Tran",
+    "\\UnsetConciseNotation"
+  ],
   "environments": []
 }

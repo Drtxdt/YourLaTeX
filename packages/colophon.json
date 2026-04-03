@@ -1,4 +1,27 @@
 {
-  "commands": [],
+  "commands": [
+    "\\colophon",
+    "\\colophonbotspace",
+    "\\colophonclrpg",
+    "\\colophonmidspace",
+    "\\colophonnoclrblpg",
+    "\\colophonnofirstindent",
+    "\\colophonnofullpage",
+    "\\colophonpagestyle",
+    "\\colophonparalign",
+    "\\colophonparlead",
+    "\\colophonparsize",
+    "\\colophonparstyle",
+    "\\colophonpostparhook",
+    "\\colophonposttitlehook",
+    "\\colophonpreparhook",
+    "\\colophonpretitlehook",
+    "\\colophontitle",
+    "\\colophontitlealign",
+    "\\colophontitlesize",
+    "\\colophontitlestyle",
+    "\\colophontopspace",
+    "\\endcolophon"
+  ],
   "environments": []
 }

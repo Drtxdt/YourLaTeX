@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\beamergotobutton",
+    "\\beamerreturnbutton",
+    "\\beamerskipbutton",
+    "\\breakhere",
+    "\\endbeamerboxesrounded",
+    "\\insertgotosymbol",
+    "\\insertreturnsymbol",
+    "\\insertskipsymbol",
+    "\\pgfuseshading",
+    "\\put",
+    "\\redefbeamertemplate"
+  ],
+  "environments": []
+}

@@ -1,17 +1,7 @@
 {
   "commands": [
-    "\\ctip@cooltooltip@i",
-    "\\ctip@current@page",
-    "\\ctip@enter@js",
-    "\\ctip@exit@js",
-    "\\ctip@form@fields",
-    "\\ctip@last@invis",
-    "\\ctip@make@invisible@Widget",
-    "\\ctip@make@Text",
-    "\\ctip@make@Widget",
-    "\\ctip@tip@number",
-    "\\ctip@unfocus@js",
-    "\\ctip@update@pagenum"
+    "\\cooltooltip",
+    "\\cooltooltiptoggle"
   ],
   "environments": []
 }

@@ -1,11 +1,6 @@
 {
   "commands": [
-    "\\isSC@ODD",
-    "\\isSC@WIDEi",
-    "\\isSC@WIDEii",
-    "\\SC@FLOAT",
-    "\\SC@IDENT",
-    "\\SC@SaveCommands"
+    "\\label"
   ],
   "environments": [
     "SCfigure",

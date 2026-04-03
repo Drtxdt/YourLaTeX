@@ -1,0 +1,34 @@
+{
+  "commands": [
+    "\\chair",
+    "\\footrulewidth",
+    "\\headrulewidth",
+    "\\maketitle",
+    "\\nextmeeting",
+    "\\priormins",
+    "\\role",
+    "\\secretary",
+    "\\section",
+    "\\setabsent",
+    "\\setalsopresent",
+    "\\setcommittee",
+    "\\setdate",
+    "\\setmembers",
+    "\\setpresent",
+    "\\subsection",
+    "\\subsubsection"
+  ],
+  "environments": [
+    "emptysection",
+    "hiddenitems",
+    "hiddensubitems",
+    "hiddensubsubitems",
+    "hiddentext",
+    "itemlist",
+    "items",
+    "subitemlist",
+    "subitems",
+    "subsubitemlist",
+    "subsubitems"
+  ]
+}

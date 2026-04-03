@@ -1,7 +1,17 @@
 {
   "commands": [
+    "\\LogoOff",
+    "\\LogoOn",
+    "\\MyLogo",
+    "\\Restriction",
     "\\landscapefoils",
-    "\\portraitfoils"
+    "\\lanscapefoils",
+    "\\leftheader",
+    "\\newnonfloat",
+    "\\portraitfoils",
+    "\\rightfooter",
+    "\\rightheader",
+    "\\zerolistvertdimens"
   ],
   "environments": []
 }

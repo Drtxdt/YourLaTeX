@@ -1,11 +1,28 @@
 {
   "commands": [
+    "\\AbsLen",
+    "\\Cbezier",
     "\\DefOldPlotSymbol",
     "\\DefPlotSymbol",
     "\\DefShiftedPlotSymbol",
     "\\DefStandardPlotSymbol",
-    "\\pathmax",
-    "\\set@width"
+    "\\Lbezier",
+    "\\LenDiv",
+    "\\LenMult",
+    "\\LenNorm",
+    "\\LenSqrt",
+    "\\Length",
+    "\\Ljoin",
+    "\\PathLengthC",
+    "\\PathLengthQ",
+    "\\Qbezier",
+    "\\cArc",
+    "\\cArcs",
+    "\\cCircle",
+    "\\cbezier",
+    "\\lbezier",
+    "\\ljoin",
+    "\\pathmax"
   ],
   "environments": []
 }

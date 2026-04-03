@@ -1,12 +1,6 @@
 {
   "commands": [
-    "\\tablefootnote",
-    "\\tfn@footmiscparawarn",
-    "\\tfn@footnotemarks",
-    "\\tfn@footnotetext",
-    "\\tfn@swtbox",
-    "\\tfn@tablefootnoteprintout",
-    "\\tfn@updateHyper"
+    "\\tablefootnote"
   ],
   "environments": []
 }

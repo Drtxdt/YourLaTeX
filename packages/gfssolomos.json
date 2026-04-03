@@ -1,6 +1,7 @@
 {
   "commands": [
     "\\rmdefault",
+    "\\stigma",
     "\\textsolomos"
   ],
   "environments": [

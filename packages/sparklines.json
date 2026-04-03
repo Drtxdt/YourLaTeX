@@ -1,7 +1,12 @@
 {
   "commands": [
+    "\\spark",
     "\\sparkbottomline",
-    "\\sparklineheight"
+    "\\sparkbottomlinex",
+    "\\sparkdot",
+    "\\sparklineheight",
+    "\\sparkrectangle",
+    "\\sparkspike"
   ],
   "environments": [
     "sparkline",

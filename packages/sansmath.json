@@ -1,4 +1,14 @@
 {
-  "commands": [],
+  "commands": [
+    "\\EuUCGreek",
+    "\\EulGreek",
+    "\\EulGreekList",
+    "\\NonEulGreek",
+    "\\expandafter",
+    "\\sansmath",
+    "\\sansmathencoding",
+    "\\sfMathSwitch",
+    "\\unsansmath"
+  ],
   "environments": []
 }

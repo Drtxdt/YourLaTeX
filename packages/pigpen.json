@@ -1,5 +1,6 @@
 {
   "commands": [
+    "\\LaTeXpigpen",
     "\\pigpenfont"
   ],
   "environments": []

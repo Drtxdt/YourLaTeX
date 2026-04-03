@@ -1,7 +1,13 @@
 {
   "commands": [
-    "\\NotoSans@scale",
-    "\\NotoSansMono@scale"
+    "\\notomonofamily",
+    "\\notosansfamily",
+    "\\notoseriffamily",
+    "\\rmdefault",
+    "\\seriesdefault",
+    "\\sfdefault",
+    "\\sufigures",
+    "\\ttdefault"
   ],
   "environments": []
 }

@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\Intermission",
+    "\\IntermissionText",
+    "\\PartEnd",
+    "\\PartTitle",
+    "\\SetPieceIndentation",
+    "\\piece"
+  ],
+  "environments": [
+    "composition",
+    "programme"
+  ]
+}

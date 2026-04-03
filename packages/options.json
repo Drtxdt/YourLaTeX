@@ -1,6 +1,9 @@
 {
-  "commands": [],
-  "environments": [
-    "opt@marginlr"
-  ]
+  "commands": [
+    "\\expandafter",
+    "\\ifoptionisabsolute",
+    "\\optionnovalue",
+    "\\optionvalue"
+  ],
+  "environments": []
 }

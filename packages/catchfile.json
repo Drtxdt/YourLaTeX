@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\CatchFileDef",
+    "\\CatchFileEdef",
+    "\\Check",
+    "\\empty",
+    "\\expandafter",
+    "\\x"
+  ],
   "environments": []
 }

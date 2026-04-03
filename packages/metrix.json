@@ -1,4 +1,11 @@
 {
-  "commands": [],
-  "environments": []
+  "commands": [
+    "\\metrixFileDate",
+    "\\metrixFileDescription",
+    "\\metrixFileName",
+    "\\metrixFileVersion"
+  ],
+  "environments": [
+    "symbolline"
+  ]
 }

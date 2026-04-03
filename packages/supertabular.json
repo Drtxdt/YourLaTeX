@@ -1,4 +1,13 @@
 {
-  "commands": [],
+  "commands": [
+    "\\baslineskp",
+    "\\bottomcaption",
+    "\\endmpsupertabular",
+    "\\endsupertabular",
+    "\\mpsupertabular",
+    "\\supertabular",
+    "\\tablecaption",
+    "\\topcaption"
+  ],
   "environments": []
 }

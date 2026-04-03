@@ -1,8 +1,25 @@
 {
   "commands": [
-    "\\highlight@BeginHighlight",
-    "\\highlight@DoHighlight",
-    "\\highlight@EndHighlight"
+    "\\hlformulabg",
+    "\\hlformulaborder",
+    "\\hlformulaoffset",
+    "\\hlformulaoffsetH",
+    "\\hlformulaoffsetV",
+    "\\hlformulaopac",
+    "\\surlignformulatext",
+    "\\surlignformulebord",
+    "\\surlignformulefond",
+    "\\surlignformuleoffset",
+    "\\surlignformuleoffsetH",
+    "\\surlignformuleoffsetV",
+    "\\surlignformuleopac",
+    "\\surlignformuletexte",
+    "\\surlignparbg",
+    "\\surlignparborder",
+    "\\surlignparoffset",
+    "\\surlignparoffsetH",
+    "\\surlignparoffsetV",
+    "\\surlignparopac"
   ],
   "environments": []
 }

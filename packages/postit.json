@@ -1,4 +1,40 @@
 {
-  "commands": [],
-  "environments": []
+  "commands": [
+    "\\CommandeDecoration",
+    "\\HauteurScotch",
+    "\\LargeurStotch",
+    "\\LargeurTextePostIt",
+    "\\MarginHDPostIt",
+    "\\MarginHGPostIt",
+    "\\MarginOffsetV",
+    "\\MarginVBPostIt",
+    "\\MarginVHPostIt",
+    "\\OffsetOmbreA",
+    "\\OffsetOmbreB",
+    "\\OffsetOmbreC",
+    "\\OptionTikzPostIt",
+    "\\PostItAlignH",
+    "\\PostItAlignPostIt",
+    "\\PostItAlignV",
+    "\\PostItBorder",
+    "\\PostItCoul",
+    "\\PostItCoulClip",
+    "\\PostItCoulScaleClip",
+    "\\PostItDeclClip",
+    "\\PostItDeco",
+    "\\PostItExtraMargin",
+    "\\PostItHauteur",
+    "\\PostItIncline",
+    "\\PostItLarg",
+    "\\PostItPoliceTitre",
+    "\\PostItRappel",
+    "\\PostItRender",
+    "\\PostItTitre",
+    "\\TextePostIt",
+    "\\hauteur"
+  ],
+  "environments": [
+    "PostIt",
+    "PostItNote"
+  ]
 }

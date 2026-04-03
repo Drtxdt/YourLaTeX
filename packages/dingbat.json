@@ -1,11 +1,11 @@
 {
   "commands": [
+    "\\Sborder",
+    "\\Zborder",
     "\\anchor",
-    "\\ark@sym",
     "\\arkfamily",
     "\\carriagereturn",
     "\\checkmark",
-    "\\dingbat@sym",
     "\\dingbatfamily",
     "\\eye",
     "\\filledsquarewithdots",
@@ -18,10 +18,8 @@
     "\\rightthumbsdown",
     "\\rightthumbsup",
     "\\satellitedish",
-    "\\Sborder",
     "\\smallpencil",
-    "\\squarewithdots",
-    "\\Zborder"
+    "\\squarewithdots"
   ],
   "environments": []
 }

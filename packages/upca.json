@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\checkchar",
+    "\\control",
+    "\\controlchar",
+    "\\draw",
+    "\\ifdigit",
+    "\\modulo",
+    "\\rdtext",
+    "\\sndtext",
+    "\\split",
+    "\\strlen",
+    "\\upca",
+    "\\upcacode",
+    "\\upcahash",
+    "\\upcatext"
+  ],
+  "environments": []
+}

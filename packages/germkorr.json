@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\germkorr",
+    "\\glq",
+    "\\glqkgk",
+    "\\glqq",
+    "\\glqqkgk",
+    "\\nogermkorr"
+  ],
   "environments": []
 }

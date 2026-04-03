@@ -1,4 +1,18 @@
 {
-  "commands": [],
+  "commands": [
+    "\\FEYN",
+    "\\Feyn",
+    "\\annotate",
+    "\\arrow",
+    "\\belowl",
+    "\\belowr",
+    "\\csname",
+    "\\feyn",
+    "\\feynstrut",
+    "\\maxis",
+    "\\momentum",
+    "\\tannotate",
+    "\\vertexlabel"
+  ],
   "environments": []
 }

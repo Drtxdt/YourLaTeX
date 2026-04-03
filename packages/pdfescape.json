@@ -1,4 +1,16 @@
 {
-  "commands": [],
+  "commands": [
+    "\\EdefEscapeHex",
+    "\\EdefEscapeName",
+    "\\EdefEscapeString",
+    "\\EdefSanitize",
+    "\\EdefUnescapeHex",
+    "\\EdefUnescapeName",
+    "\\EdefUnescapeString",
+    "\\empty",
+    "\\expandafter",
+    "\\noexpand",
+    "\\x"
+  ],
   "environments": []
 }

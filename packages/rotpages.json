@@ -1,7 +1,9 @@
 {
   "commands": [
+    "\\endrotboxpages",
     "\\rotboxAtRotationHook",
-    "\\rotboxAtShippingHook"
+    "\\rotboxAtShippingHook",
+    "\\rotboxpages"
   ],
   "environments": []
 }

@@ -1,9 +1,12 @@
 {
   "commands": [
+    "\\bottom",
     "\\halfpiece",
     "\\jigsaw",
-    "\\jigsaw@getscaling",
-    "\\side"
+    "\\right",
+    "\\side",
+    "\\xmax",
+    "\\ymax"
   ],
   "environments": []
 }

@@ -1,4 +1,6 @@
 {
-  "commands": [],
+  "commands": [
+    "\\outerhbox"
+  ],
   "environments": []
 }

@@ -1,7 +1,9 @@
 {
   "commands": [
-    "\\cals@setcellprevdepth",
-    "\\cals@setpadding"
+    "\\cell",
+    "\\colwidths",
+    "\\next",
+    "\\spancontent"
   ],
   "environments": [
     "calstable"

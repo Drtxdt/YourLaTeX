@@ -1,0 +1,36 @@
+{
+  "commands": [
+    "\\afterpartskip",
+    "\\beforechapskip",
+    "\\beforepartskip",
+    "\\chaptermark",
+    "\\descriptionlabel",
+    "\\diagramname",
+    "\\frntspz",
+    "\\headcap",
+    "\\headsec",
+    "\\labelitemi",
+    "\\labelitemii",
+    "\\labelitemiii",
+    "\\listdiagramname",
+    "\\mcpar",
+    "\\midpartskip",
+    "\\numeroparte",
+    "\\partnamenum",
+    "\\printpartname",
+    "\\printpartnum",
+    "\\printparttitle",
+    "\\sectionmark",
+    "\\spazielen",
+    "\\spazielenx",
+    "\\thmcolor"
+  ],
+  "environments": [
+    "description*",
+    "enumerate*",
+    "enumeratea",
+    "exrig",
+    "itemize*",
+    "soluzione"
+  ]
+}

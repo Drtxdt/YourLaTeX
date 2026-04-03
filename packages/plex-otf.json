@@ -1,7 +1,4 @@
 {
-  "commands": [
-    "\\PlexMM@features",
-    "\\PlexMMbold@features"
-  ],
+  "commands": [],
   "environments": []
 }

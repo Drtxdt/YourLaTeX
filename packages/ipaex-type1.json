@@ -1,6 +1,17 @@
 {
   "commands": [
-    "\\CJKhook"
+    "\\CJKUsymbol",
+    "\\CJKhook",
+    "\\CJKipxgfamily",
+    "\\CJKipxmfamily",
+    "\\extendipaextypeI",
+    "\\ipxgfamily",
+    "\\ipxgsymbol",
+    "\\ipxmfamily",
+    "\\ipxmsymbol",
+    "\\noextendipaextypeI",
+    "\\textCJKipxg",
+    "\\textCJKipxm"
   ],
   "environments": []
 }

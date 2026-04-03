@@ -1,4 +1,14 @@
 {
   "commands": [],
-  "environments": []
+  "environments": [
+    "NotebookConsole",
+    "NotebookIn",
+    "NotebookMarkdown",
+    "NotebookOut",
+    "NotebookPitonConsole",
+    "NotebookPitonInOut",
+    "NotebookPitonMarkdown",
+    "NotebookPitonOut",
+    "NotebookRaw"
+  ]
 }

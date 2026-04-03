@@ -2,8 +2,29 @@
   "commands": [
     "\\appendsubframes",
     "\\bsfrestore",
+    "\\bsfrestorepart",
+    "\\bsfrestoresection",
+    "\\bsfrestoresubsection",
+    "\\bsfsubframepages",
+    "\\csname",
+    "\\filedate",
+    "\\fileversion",
+    "\\hyperlinkframestartnext",
+    "\\hyperlinkslidenext",
     "\\ifappend",
-    "\\ifsubframe"
+    "\\ifsubframe",
+    "\\insertpartheadnumber",
+    "\\insertsectionheadnumber",
+    "\\insertsubsectionheadnumber",
+    "\\inserttotalframenumberwithsub",
+    "\\noexpand",
+    "\\part",
+    "\\partentry",
+    "\\section",
+    "\\sectionentry",
+    "\\slideentry",
+    "\\subsection",
+    "\\subslideentry"
   ],
   "environments": [
     "subframe"

@@ -1,4 +1,8 @@
 {
-  "commands": [],
+  "commands": [
+    "\\acmd",
+    "\\bcmd",
+    "\\noexpand"
+  ],
   "environments": []
 }

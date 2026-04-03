@@ -1,18 +1,23 @@
 {
   "commands": [
-    "\\@newtest",
+    "\\cnttest",
+    "\\dimtest",
+    "\\endswith",
+    "\\equal",
+    "\\filedate",
+    "\\fileversion",
     "\\ifthenelse",
+    "\\isempty",
+    "\\isequivalentto",
+    "\\isin",
+    "\\isnamedefined",
+    "\\isodd",
+    "\\isundefined",
+    "\\lengthtest",
     "\\newtest",
-    "\\TE@cnttest",
-    "\\TE@cnttest@",
-    "\\TE@dimtest",
-    "\\TE@dimtest@",
-    "\\TE@endswith",
-    "\\TE@hook",
-    "\\TE@isempty",
-    "\\TE@isequivalentto",
-    "\\TE@isin",
-    "\\TE@isnamedefined"
+    "\\protect",
+    "\\terminateswith",
+    "\\value"
   ],
   "environments": []
 }

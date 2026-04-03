@@ -1,0 +1,38 @@
+{
+  "commands": [
+    "\\arraystretch",
+    "\\bfhei",
+    "\\bfsong",
+    "\\bibsection",
+    "\\buctsetup",
+    "\\captionfont",
+    "\\captionlabelfont",
+    "\\dcaption",
+    "\\em",
+    "\\emph",
+    "\\eqref",
+    "\\listofdesignfigures",
+    "\\longtable",
+    "\\taskitem",
+    "\\thedfigure",
+    "\\theequation",
+    "\\thefigure",
+    "\\thelstlisting",
+    "\\thesubfigure",
+    "\\thesubtable",
+    "\\thetable"
+  ],
+  "environments": [
+    "achievements",
+    "acknowledgement",
+    "bibenumerate",
+    "cabstract",
+    "conclusion",
+    "denotation",
+    "eabstract",
+    "foreword",
+    "resume",
+    "taskbook",
+    "translation"
+  ]
+}

@@ -1,9 +1,7 @@
 {
   "commands": [
-    "\\@makefntext",
-    "\\pdfcolfoot@current",
-    "\\pdfcolfoot@makefntext",
-    "\\pdfcolfoot@switch"
+    "\\expandafter",
+    "\\noexpand"
   ],
   "environments": []
 }

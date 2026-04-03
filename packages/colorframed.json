@@ -1,4 +1,13 @@
 {
-  "commands": [],
+  "commands": [
+    "\\CustomFBox",
+    "\\FrameCommand",
+    "\\colorframedTFconlabsep",
+    "\\colorframedTFtitlesep",
+    "\\colorframedTFtitleshift",
+    "\\colorframedbordercolorcommand",
+    "\\colorframedcolorbox",
+    "\\expandafter"
+  ],
   "environments": []
 }

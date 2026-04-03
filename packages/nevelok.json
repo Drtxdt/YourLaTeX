@@ -1,6 +1,12 @@
 {
   "commands": [
-    "\\z@aaz"
+    "\\Aaz",
+    "\\Aazt",
+    "\\Aazx",
+    "\\aaz",
+    "\\aazt",
+    "\\aazx",
+    "\\ifUnDefinedCs"
   ],
   "environments": []
 }

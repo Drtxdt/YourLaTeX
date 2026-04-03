@@ -1,8 +1,21 @@
 {
   "commands": [
+    "\\allmetacomments",
+    "\\copypfxfromto",
+    "\\copypfxlines",
+    "\\endoverpic",
+    "\\endoverpix",
+    "\\iflanguage",
+    "\\includegraphics",
+    "\\includegraphicx",
+    "\\onlylanguage",
+    "\\overpic",
+    "\\overpix",
     "\\ovpinput",
-    "\\pfx@overpic",
-    "\\pfxinput"
+    "\\pfxinput",
+    "\\selectedmetacomments",
+    "\\setpfxinput",
+    "\\setpfxoutput"
   ],
   "environments": []
 }

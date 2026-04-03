@@ -1,18 +1,28 @@
 {
   "commands": [
+    "\\AtBeginDelayedFloats",
+    "\\baselinestretch",
     "\\bottomfraction",
+    "\\docdate",
     "\\dofiglist",
     "\\dotablist",
-    "\\ef@makeinnocent",
+    "\\efloattype",
     "\\figurename",
+    "\\filedate",
+    "\\filename",
+    "\\fileversion",
     "\\floatplace",
     "\\markersintext",
+    "\\next",
+    "\\noexpand",
     "\\nofiglist",
     "\\nomarkersintext",
     "\\notablist",
     "\\tablename",
+    "\\test",
     "\\textfraction",
-    "\\topfraction"
+    "\\topfraction",
+    "\\x"
   ],
   "environments": []
 }

@@ -1,4 +1,17 @@
 {
-  "commands": [],
+  "commands": [
+    "\\Bra",
+    "\\BraDoubleVert",
+    "\\BraVert",
+    "\\Ket",
+    "\\Ketbra",
+    "\\SetDoubleVert",
+    "\\SetVert",
+    "\\bra",
+    "\\braket",
+    "\\ket",
+    "\\ketbra",
+    "\\midvert"
+  ],
   "environments": []
 }

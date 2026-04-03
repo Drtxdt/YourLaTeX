@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\cal",
+    "\\mit",
+    "\\petiteannonceaddtowidth",
+    "\\petiteannoncewidth"
+  ],
+  "environments": []
+}

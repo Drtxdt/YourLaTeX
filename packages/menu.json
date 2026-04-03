@@ -1,5 +1,8 @@
 {
   "commands": [
+    "\\filedate",
+    "\\fileversion",
+    "\\gt",
     "\\menu",
     "\\menutext"
   ],

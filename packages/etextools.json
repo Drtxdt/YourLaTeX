@@ -1,4 +1,21 @@
 {
-  "commands": [],
+  "commands": [
+    "\\do",
+    "\\getcharlistcount",
+    "\\ifdefblankspace",
+    "\\ifdefchar",
+    "\\ifdefcount",
+    "\\ifdefdimen",
+    "\\ifdefmathchar",
+    "\\ifdefmuskip",
+    "\\ifdefskip",
+    "\\ifdefthechar",
+    "\\ifdeftheletter",
+    "\\ifdeftoks",
+    "\\ifnotblank",
+    "\\ifsinglechar",
+    "\\let",
+    "\\noexpand"
+  ],
   "environments": []
 }

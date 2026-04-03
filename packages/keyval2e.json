@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\currfam",
+    "\\currkey",
+    "\\currpref",
+    "\\currval",
+    "\\innoval"
+  ],
   "environments": []
 }

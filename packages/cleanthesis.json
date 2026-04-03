@@ -1,5 +1,6 @@
 {
   "commands": [
+    "\\TODO",
     "\\book",
     "\\cftchapfont",
     "\\cftloftitlefont",
@@ -11,6 +12,7 @@
     "\\chapterlineswithprefixformat",
     "\\chaptermark",
     "\\cleanchapterquote",
+    "\\ctSetFont",
     "\\ctchapternumber",
     "\\ctchaptertitle",
     "\\ctfontfooterpagenumber",
@@ -19,7 +21,9 @@
     "\\ctfooterline",
     "\\ctfooterrightpagenumber",
     "\\cthesisorigin",
-    "\\ctSetFont",
+    "\\cthesissetcolor",
+    "\\cthesissetcolorbluegreen",
+    "\\cthesissetcolorbluemagenta",
     "\\descriptionlabel",
     "\\figref",
     "\\figrefadd",
@@ -48,7 +52,6 @@
     "\\thesispartlabelfont",
     "\\thesissectionfont",
     "\\thesissubsectionfont",
-    "\\TODO",
     "\\tref",
     "\\treft"
   ],

@@ -1,6 +1,6 @@
 {
   "commands": [
-    "\\embedall@embed"
+    "\\csvloop"
   ],
   "environments": []
 }

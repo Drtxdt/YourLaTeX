@@ -1,4 +1,16 @@
 {
-  "commands": [],
+  "commands": [
+    "\\next",
+    "\\normalsylab",
+    "\\normalsylabP",
+    "\\setmu",
+    "\\spacesylab",
+    "\\spacesylabP",
+    "\\spacesylabR",
+    "\\specsylab",
+    "\\specsylabP",
+    "\\sylab",
+    "\\sylabi"
+  ],
   "environments": []
 }

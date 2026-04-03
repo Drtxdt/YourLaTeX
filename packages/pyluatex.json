@@ -1,5 +1,6 @@
 {
   "commands": [
+    "\\PyLTVerbatimEnv",
     "\\py",
     "\\pyc",
     "\\pycq",
@@ -7,9 +8,6 @@
     "\\pyfileq",
     "\\pyfilerepl",
     "\\pyif",
-    "\\PyLTVerbatimEnv",
-    "\\pyluatex@boolopt",
-    "\\pyluatex@inline",
     "\\pyoption",
     "\\pyq",
     "\\pysession"

@@ -1,7 +1,12 @@
 {
   "commands": [
-    "\\deflp@logline",
-    "\\getlp@logline"
+    "\\csname",
+    "\\filedate",
+    "\\fileversion",
+    "\\linlinpap",
+    "\\linlogpap",
+    "\\loglinpap",
+    "\\loglogpap"
   ],
   "environments": []
 }

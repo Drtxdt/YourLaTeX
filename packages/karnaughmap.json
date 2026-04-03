@@ -1,14 +1,25 @@
 {
   "commands": [
     "\\karnaughmap",
-    "\\karnaughmapcolorfield",
+    "\\karnaughmapCellEntries",
     "\\karnaughmapHighlightField",
+    "\\karnaughmapNumCol",
+    "\\karnaughmapNumRow",
+    "\\karnaughmapNumVar",
+    "\\karnaughmapPCCColumnSpecifier",
     "\\karnaughmapPrintCellContents",
     "\\karnaughmapPrintIndex",
     "\\karnaughmapPrintValue",
     "\\karnaughmapShadeMapfieldFOUR",
     "\\karnaughmapShadeMapfieldTHREE",
     "\\karnaughmapShadeMapfieldTWO",
+    "\\karnaughmapSize",
+    "\\karnaughmapVarLabelB",
+    "\\karnaughmapVarLabelD",
+    "\\karnaughmapVariableBaseBias",
+    "\\karnaughmapVariableLeftBias",
+    "\\karnaughmapVariableTopBias",
+    "\\karnaughmapcolorfield",
     "\\setkarnaughmap"
   ],
   "environments": []

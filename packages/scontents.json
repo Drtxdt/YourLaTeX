@@ -1,4 +1,8 @@
 {
-  "commands": [],
+  "commands": [
+    "\\ScontentsFileDate",
+    "\\ScontentsFileDescription",
+    "\\ScontentsFileVersion"
+  ],
   "environments": []
 }

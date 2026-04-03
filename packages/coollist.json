@@ -1,7 +1,5 @@
 {
   "commands": [
-    "\\COOL@listEnd",
-    "\\COOL@listStop",
     "\\listcopy",
     "\\listlen",
     "\\listlenstore",

@@ -1,10 +1,16 @@
 {
   "commands": [
+    "\\CVSScategory",
+    "\\CVSSscore",
     "\\cvssLevel",
     "\\cvssLevelpretty",
     "\\cvssPrint",
     "\\cvssScorepretty",
-    "\\cvssTag"
+    "\\cvssTag",
+    "\\scoreCrit",
+    "\\scoreHigh",
+    "\\scoreLow",
+    "\\scoreMed"
   ],
   "environments": []
 }

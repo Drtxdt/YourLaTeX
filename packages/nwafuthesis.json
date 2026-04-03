@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\bibfont",
+    "\\bibrangedash",
+    "\\figureautorefname",
+    "\\figurename",
+    "\\gbcaselocalset",
+    "\\publicationskip",
+    "\\revsdnamepunct",
+    "\\tableautorefname",
+    "\\tablename"
+  ],
+  "environments": []
+}

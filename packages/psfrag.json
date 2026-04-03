@@ -1,5 +1,13 @@
 {
-  "commands": [],
+  "commands": [
+    "\\epsfbox",
+    "\\psfrag",
+    "\\psfragdebugoff",
+    "\\psfragdebugon",
+    "\\psfragscanoff",
+    "\\psfragscanon",
+    "\\psfragspecial"
+  ],
   "environments": [
     "psfrags"
   ]

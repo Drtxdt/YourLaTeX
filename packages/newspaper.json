@@ -1,7 +1,6 @@
 {
   "commands": [
-    "\\maketitle",
-    "\\ps@plain"
+    "\\maketitle"
   ],
   "environments": []
 }

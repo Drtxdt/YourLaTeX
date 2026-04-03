@@ -1,6 +1,8 @@
 {
   "commands": [
-    "\\DeclareTextOrnament"
+    "\\DeclareTextOrnament",
+    "\\csname",
+    "\\ornament"
   ],
   "environments": []
 }

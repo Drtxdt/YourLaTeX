@@ -1,6 +1,19 @@
 {
   "commands": [
-    "\\genericlabel"
+    "\\LabelSetup",
+    "\\PkgBlurb",
+    "\\ToMilli",
+    "\\TypeoutBlurb",
+    "\\action",
+    "\\addresslabel",
+    "\\boxedaddresslabel",
+    "\\endlabels",
+    "\\genericlabel",
+    "\\isitapar",
+    "\\labelfile",
+    "\\labels",
+    "\\promptlabels",
+    "\\skiplabels"
   ],
   "environments": []
 }

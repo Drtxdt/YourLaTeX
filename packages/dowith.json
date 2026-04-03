@@ -1,6 +1,27 @@
 {
   "commands": [
-    "\\do"
+    "\\DefExpandStart",
+    "\\DoDoWith",
+    "\\DoDoWithAllIn",
+    "\\DoDoWithAllOf",
+    "\\DoWith",
+    "\\DoWithAllIn",
+    "\\DoWithAllOf",
+    "\\FromTokenListMacroRemove",
+    "\\InTokenListMacroProvide",
+    "\\InitializeListMacro",
+    "\\ReInitializeListMacro",
+    "\\RemoveThisToken",
+    "\\TestListMacroForToken",
+    "\\ToListMacroAdd",
+    "\\do",
+    "\\expandafter",
+    "\\filedate",
+    "\\fileinfo",
+    "\\filename",
+    "\\fileversion",
+    "\\letdo",
+    "\\setdo"
   ],
   "environments": []
 }

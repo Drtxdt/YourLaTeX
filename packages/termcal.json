@@ -1,8 +1,13 @@
 {
   "commands": [
+    "\\RCSID",
     "\\calprintclass",
     "\\calprintdate",
     "\\classday",
+    "\\csname",
+    "\\docdate",
+    "\\filedate",
+    "\\fileversion",
     "\\noclassday"
   ],
   "environments": [

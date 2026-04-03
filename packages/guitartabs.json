@@ -1,0 +1,25 @@
+{
+  "commands": [
+    "\\albumtitle",
+    "\\artistname",
+    "\\gtuning",
+    "\\maketabheader",
+    "\\nextbar",
+    "\\note",
+    "\\notel",
+    "\\resteighth",
+    "\\resthalf",
+    "\\restquarter",
+    "\\restsixteenth",
+    "\\restwhole",
+    "\\songname",
+    "\\tabwidth",
+    "\\timesigbot",
+    "\\timesigtop",
+    "\\ypostimebot",
+    "\\ypostimetop"
+  ],
+  "environments": [
+    "tabline"
+  ]
+}

@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\Tinos@scale"
+    "\\rmdefault",
+    "\\tinosfamily"
   ],
   "environments": []
 }

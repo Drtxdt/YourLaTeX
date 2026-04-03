@@ -1,0 +1,18 @@
+{
+  "commands": [
+    "\\cftchapterleader",
+    "\\contentsname",
+    "\\dedication",
+    "\\degree",
+    "\\dept",
+    "\\fixmdhrulefill",
+    "\\fullpagethesis",
+    "\\gradyear",
+    "\\hrulefill",
+    "\\makethesistitle",
+    "\\manuscriptthesis",
+    "\\monthname",
+    "\\thesis"
+  ],
+  "environments": []
+}

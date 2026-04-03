@@ -1,9 +1,7 @@
 {
   "commands": [
-    "\\n@lq",
-    "\\n@lqq",
-    "\\n@rq",
-    "\\n@rqq"
+    "\\nlq",
+    "\\nrq"
   ],
   "environments": []
 }

@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\trsymfiledate",
+    "\\trsymfileversion"
+  ],
   "environments": []
 }

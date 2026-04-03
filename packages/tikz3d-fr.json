@@ -1,4 +1,24 @@
 {
-  "commands": [],
-  "environments": []
+  "commands": [
+    "\\Largeur",
+    "\\PFPaveSommetsDDD",
+    "\\PosTmpLabel",
+    "\\Profondeur",
+    "\\deftridimorigin",
+    "\\deftridimvue",
+    "\\detridimcouleur",
+    "\\detridimcouleurpts",
+    "\\detridimcouleurs",
+    "\\detridimfacedroite",
+    "\\detridimphi",
+    "\\detridimscale",
+    "\\detridimtheta",
+    "\\hauteur",
+    "\\tmpdetridimxscale",
+    "\\y"
+  ],
+  "environments": [
+    "EmpilementCubes",
+    "EnvTikzEspace"
+  ]
 }

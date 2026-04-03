@@ -1,4 +1,15 @@
 {
-  "commands": [],
+  "commands": [
+    "\\arrayrulecolor",
+    "\\doublerulesepcolor",
+    "\\expandafter",
+    "\\hiderowcolors",
+    "\\hline",
+    "\\multicolumn",
+    "\\next",
+    "\\rowcolor",
+    "\\rowcolors",
+    "\\showrowcolors"
+  ],
   "environments": []
 }

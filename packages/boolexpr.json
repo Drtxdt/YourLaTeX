@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\bex",
+    "\\switch"
+  ],
   "environments": []
 }

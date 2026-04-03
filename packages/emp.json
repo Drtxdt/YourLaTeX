@@ -1,9 +1,24 @@
 {
   "commands": [
+    "\\RCS",
     "\\emp",
+    "\\empTeX",
+    "\\empaddtoTeX",
+    "\\empaddtoprelude",
+    "\\empcmds",
     "\\empdef",
     "\\empfile",
-    "\\empgraph"
+    "\\empgraph",
+    "\\empprelude",
+    "\\empuse",
+    "\\empwrite",
+    "\\endemp",
+    "\\endempcmds",
+    "\\endempdef",
+    "\\endempfile",
+    "\\endempgraph",
+    "\\fileversion",
+    "\\theempfile"
   ],
   "environments": []
 }

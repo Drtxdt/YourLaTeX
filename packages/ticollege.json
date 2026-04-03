@@ -1,14 +1,14 @@
 {
   "commands": [
     "\\Aff",
-    "\\Calculator@nostar",
-    "\\Calculator@star",
     "\\ContrastDown",
     "\\ContrastUp",
     "\\Div",
-    "\\tabcolsep",
-    "\\TiCDef@Bool",
-    "\\TiCDefBool"
+    "\\TiCDefBool",
+    "\\fileauthor",
+    "\\filedate",
+    "\\fileversion",
+    "\\tabcolsep"
   ],
   "environments": []
 }

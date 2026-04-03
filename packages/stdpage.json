@@ -1,9 +1,10 @@
 {
   "commands": [
+    "\\ProcessOptionsWithKV",
+    "\\RaggedRightParindent",
     "\\baselinestretch",
     "\\familydefault",
     "\\footnotesize",
-    "\\RaggedRightParindent",
     "\\zeichenzahl",
     "\\zeilenzahl"
   ],

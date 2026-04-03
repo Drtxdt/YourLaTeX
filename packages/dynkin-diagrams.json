@@ -1,24 +1,25 @@
 {
   "commands": [
     "\\Cdynkin",
-    "\\Ddynkin@roots",
+    "\\Fdynkin",
+    "\\Hdynkin",
+    "\\Idynkin",
+    "\\LL",
+    "\\centerarc",
     "\\do",
-    "\\do@dynkin@diagram@list@item",
     "\\dynkinPrintLabels",
     "\\dynkinPrintLabelsStar",
     "\\dynkinSkip",
-    "\\Edynkin@unfolded",
-    "\\Edynkin@unfolded@rank@up@to@eight",
     "\\extendedBdynkin",
     "\\extendedCdynkin",
     "\\extendedEdynkin",
     "\\extendedFdynkin",
     "\\extendedGdynkin",
     "\\extendedHdynkin",
-    "\\extendedIdynkin",
-    "\\Fdynkin",
-    "\\Hdynkin",
-    "\\Idynkin"
+    "\\extendedIdynkin"
   ],
-  "environments": []
+  "environments": [
+    "DynkinDiagrams",
+    "dynkinDiagram"
+  ]
 }

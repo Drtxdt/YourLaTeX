@@ -1,8 +1,9 @@
 {
   "commands": [
-    "\\@doublealph",
-    "\\@doublegreek",
-    "\\@greek"
+    "\\alnumsecstyle",
+    "\\alnumsectionlevels",
+    "\\csname",
+    "\\otherseparators"
   ],
   "environments": []
 }

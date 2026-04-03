@@ -2,7 +2,9 @@
   "commands": [
     "\\aboveCaptionSpace",
     "\\arrangedFigContent",
+    "\\doextractminiplotpath",
     "\\epsContent",
+    "\\extractminiplotpath",
     "\\includeEps",
     "\\includeEpsNow",
     "\\includeEpsWrap",
@@ -21,14 +23,15 @@
     "\\newSubFig",
     "\\numSubFigCol",
     "\\numSubSubFigCol",
+    "\\pointless",
     "\\printLabel",
     "\\resetMiniPlot",
     "\\setSubFigScale",
     "\\setWrapFigOverhang",
     "\\standardGraphScale",
     "\\subFig",
-    "\\subfigcapmargin",
     "\\subLabelSuffix",
+    "\\subfigcapmargin",
     "\\wrappedEpsContent"
   ],
   "environments": [

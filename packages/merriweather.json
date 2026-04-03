@@ -1,7 +1,8 @@
 {
   "commands": [
-    "\\Merriwthr@scale",
-    "\\MerriwthrSans@scale"
+    "\\merriweatherfamily",
+    "\\merriweathersffamily",
+    "\\seriesdefault"
   ],
   "environments": []
 }

@@ -1,8 +1,27 @@
 {
-  "commands": [],
+  "commands": [
+    "\\add",
+    "\\coladdfromlabel",
+    "\\coladdtolabel",
+    "\\colmultlabel",
+    "\\colswapfromlabel",
+    "\\colswaptolabel",
+    "\\littleA",
+    "\\littleB",
+    "\\littleC",
+    "\\newmatrix",
+    "\\rowaddfromlabel",
+    "\\rowaddtolabel",
+    "\\rowmultlabel",
+    "\\rowswapfromlabel",
+    "\\rowswaptolabel",
+    "\\swap",
+    "\\switch",
+    "\\test",
+    "\\ttest"
+  ],
   "environments": [
     "example",
-    "g@matrix",
     "gmatrix"
   ]
 }

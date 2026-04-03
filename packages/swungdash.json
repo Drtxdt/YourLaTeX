@@ -1,6 +1,7 @@
 {
   "commands": [
     "\\swungdash",
+    "\\swungdashversionnumber",
     "\\thetilde",
     "\\twiddle"
   ],

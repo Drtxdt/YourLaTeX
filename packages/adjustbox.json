@@ -1,5 +1,17 @@
 {
-  "commands": [],
+  "commands": [
+    "\\IMAGEFILENAME",
+    "\\Largestside",
+    "\\Smallestside",
+    "\\adjboxvbottom",
+    "\\adjboxvcenter",
+    "\\adjboxvtop",
+    "\\checkoddpage",
+    "\\expandafter",
+    "\\largestside",
+    "\\setlength",
+    "\\smallestside"
+  ],
   "environments": [
     "adjnofloat"
   ]

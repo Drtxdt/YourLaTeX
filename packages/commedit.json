@@ -1,6 +1,25 @@
 {
   "commands": [
-    "\\@EveryShipout@Output"
+    "\\basepageargs",
+    "\\columnwidth",
+    "\\commeditComments",
+    "\\commeditPreamble",
+    "\\commeditText",
+    "\\commentsBox",
+    "\\commentsContinuationPageSetup",
+    "\\commentsEvenPageSetup",
+    "\\commentsHook",
+    "\\commentsOddPageSetup",
+    "\\commentsflushbottom",
+    "\\commentsraggedbottom",
+    "\\endcommeditComments",
+    "\\endcommeditPreamble",
+    "\\endcommeditText",
+    "\\endcommentsBox",
+    "\\noexpand",
+    "\\string",
+    "\\typesetComments",
+    "\\typesetContinuation"
   ],
   "environments": []
 }

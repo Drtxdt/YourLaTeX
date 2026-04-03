@@ -1,13 +1,6 @@
 {
   "commands": [
-    "\\maketitleru",
-    "\\rutitle@layout@seventeen",
-    "\\rutitle@layout@traditional",
-    "\\rutitle@layout@twentytwo",
-    "\\rutitlepage@others",
-    "\\rutitlepage@otherslist",
-    "\\rutitlepage@printothers",
-    "\\rutitlepage@sepothers"
+    "\\maketitleru"
   ],
   "environments": []
 }

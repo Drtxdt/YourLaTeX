@@ -13,6 +13,7 @@
     "\\OutlineLevelCont",
     "\\OutlineLevelEnd",
     "\\OutlineLevelStart",
+    "\\OutlineMsg",
     "\\OutlinePageBreaks",
     "\\PhantomEndLevel",
     "\\PhantomLevel",
@@ -24,7 +25,8 @@
     "\\SaveLevel",
     "\\SetBaseLevel",
     "\\StartLevel",
-    "\\UseLevel"
+    "\\UseLevel",
+    "\\next"
   ],
   "environments": [
     "Outline"

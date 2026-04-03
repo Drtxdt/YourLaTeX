@@ -1,7 +1,6 @@
 {
   "commands": [
     "\\familydefault",
-    "\\Magra@scale",
     "\\rmdefault"
   ],
   "environments": []

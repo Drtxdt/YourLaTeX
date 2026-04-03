@@ -1,8 +1,7 @@
 {
   "commands": [
+    "\\csname",
     "\\getchunk"
   ],
-  "environments": [
-    "pam@getchunkenv"
-  ]
+  "environments": []
 }

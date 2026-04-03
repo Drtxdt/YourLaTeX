@@ -1,10 +1,11 @@
 {
   "commands": [
-    "\\atfi@acroGraph@data",
-    "\\atfi@acroPaperclip@data",
-    "\\atfi@acroPushPin@data",
-    "\\atfi@acroTag@data",
-    "\\theatfi@tmp"
+    "\\attachfile",
+    "\\attachfilesetup",
+    "\\noattachfile",
+    "\\noexpand",
+    "\\notextattachfile",
+    "\\textattachfile"
   ],
   "environments": []
 }

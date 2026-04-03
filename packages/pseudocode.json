@@ -35,20 +35,18 @@
     "\\OF",
     "\\OR",
     "\\OUTPUT",
-    "\\pcode@AF",
-    "\\pcode@tab",
     "\\PROCEDURE",
     "\\REPEAT",
     "\\RETURN",
     "\\STMTNUM",
     "\\SUCCESS",
     "\\THEN",
-    "\\thepseudocode",
-    "\\thepseudonum",
     "\\TO",
     "\\TRUE",
     "\\UNTIL",
-    "\\WHILE"
+    "\\WHILE",
+    "\\thepseudocode",
+    "\\thepseudonum"
   ],
   "environments": [
     "pseudocode"

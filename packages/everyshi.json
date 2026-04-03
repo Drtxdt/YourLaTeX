@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\AtNextShipout",
+    "\\EveryShipout"
+  ],
   "environments": []
 }

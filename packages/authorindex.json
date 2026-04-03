@@ -1,5 +1,27 @@
 {
-  "commands": [],
+  "commands": [
+    "\\aialso",
+    "\\aibibindex",
+    "\\aibibpage",
+    "\\aifirst",
+    "\\aifirstpage",
+    "\\aimaxauthors",
+    "\\aimention",
+    "\\ainame",
+    "\\ainamefmt",
+    "\\ainocite",
+    "\\aionly",
+    "\\aipages",
+    "\\aipagetypeorder",
+    "\\airep",
+    "\\aisee",
+    "\\aitop",
+    "\\aitwosuffix",
+    "\\authorindexstyle",
+    "\\bibindex",
+    "\\item",
+    "\\theaipage"
+  ],
   "environments": [
     "theauthorindex"
   ]

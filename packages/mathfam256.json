@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\DeclareMathAccent",
+    "\\DeclareMathDelimiter",
+    "\\DeclareMathRadical",
+    "\\DeclareMathSymbol",
+    "\\DeclareSymbolFont",
+    "\\mathhexbox"
+  ],
   "environments": []
 }

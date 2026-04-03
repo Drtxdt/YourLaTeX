@@ -1,5 +1,12 @@
 {
-  "commands": [],
+  "commands": [
+    "\\caption",
+    "\\endfirsthead",
+    "\\endfoot",
+    "\\endhead",
+    "\\endlastfoot",
+    "\\longtable"
+  ],
   "environments": [
     "xltabular"
   ]

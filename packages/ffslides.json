@@ -1,0 +1,29 @@
+{
+  "commands": [
+    "\\blankpage",
+    "\\btextinclude",
+    "\\ctext",
+    "\\ctextinclude",
+    "\\drawbackground",
+    "\\drawfooter",
+    "\\drawheader",
+    "\\dtextinclude",
+    "\\dtextleftedge",
+    "\\dtextrightedge",
+    "\\dtexttopedge",
+    "\\ffpage",
+    "\\gridoff",
+    "\\gridon",
+    "\\makesection",
+    "\\makesubsection",
+    "\\putfig",
+    "\\qi",
+    "\\qii",
+    "\\qiii",
+    "\\qitemi",
+    "\\qitemii",
+    "\\qitemiii",
+    "\\showgrid"
+  ],
+  "environments": []
+}

@@ -1,5 +1,8 @@
 {
-  "commands": [],
+  "commands": [
+    "\\termlabel",
+    "\\termlabelfont"
+  ],
   "environments": [
     "term",
     "term*",

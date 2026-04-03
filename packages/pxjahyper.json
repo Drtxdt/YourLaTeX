@@ -1,6 +1,8 @@
 {
   "commands": [
-    "\\bxDebug"
+    "\\bxDebug",
+    "\\bxjatoucsCheckAvail",
+    "\\expandafter"
   ],
   "environments": []
 }

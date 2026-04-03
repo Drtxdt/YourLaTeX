@@ -1,6 +1,8 @@
 {
   "commands": [
-    "\\cmdstring"
+    "\\cmdstring",
+    "\\expandafter",
+    "\\fileversion"
   ],
   "environments": []
 }

@@ -1,5 +1,23 @@
 {
-  "commands": [],
+  "commands": [
+    "\\boxcolor",
+    "\\controlLength",
+    "\\guideY",
+    "\\leftUpwardCurve",
+    "\\lenI",
+    "\\lenII",
+    "\\lineColor",
+    "\\loopbody",
+    "\\midDownwardCurve",
+    "\\midUpwardCurve",
+    "\\newx",
+    "\\oldx",
+    "\\radius",
+    "\\rightDownwardCurve",
+    "\\y",
+    "\\ybot",
+    "\\ytop"
+  ],
   "environments": [
     "ribbonproof"
   ]

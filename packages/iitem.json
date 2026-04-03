@@ -1,6 +1,6 @@
 {
   "commands": [
-    "\\iitem@line@command",
+    "\\csname",
     "\\item"
   ],
   "environments": []

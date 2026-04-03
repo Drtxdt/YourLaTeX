@@ -1,6 +1,5 @@
 {
   "commands": [
-    "\\begin@subcaption@minipage",
     "\\caption",
     "\\dbltopfraction",
     "\\figure",
@@ -9,9 +8,6 @@
     "\\floatpagefraction",
     "\\graphic",
     "\\graphics",
-    "\\hep@figure@space",
-    "\\hep@panel@space",
-    "\\hep@table@space",
     "\\panel",
     "\\panelhspace",
     "\\panelvspace",

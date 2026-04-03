@@ -1,4 +1,21 @@
 {
-  "commands": [],
+  "commands": [
+    "\\BL",
+    "\\BR",
+    "\\Curve",
+    "\\Line",
+    "\\TL",
+    "\\TR",
+    "\\Vector",
+    "\\arrowlength",
+    "\\b",
+    "\\l",
+    "\\line",
+    "\\oval",
+    "\\r",
+    "\\strippt",
+    "\\t",
+    "\\vector"
+  ],
   "environments": []
 }

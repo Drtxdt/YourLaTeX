@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\ENDINPUTIFXPTEXDOTSTY",
+    "\\csname"
+  ],
   "environments": []
 }

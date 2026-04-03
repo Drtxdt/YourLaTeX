@@ -1,7 +1,12 @@
 {
   "commands": [
     "\\RerunFileCheck",
-    "\\RerunFileCheckSetup"
+    "\\RerunFileCheckSetup",
+    "\\glossary",
+    "\\index",
+    "\\makeglossary",
+    "\\makeindex",
+    "\\x"
   ],
   "environments": []
 }

@@ -1,4 +1,13 @@
 {
-  "commands": [],
+  "commands": [
+    "\\bibcite",
+    "\\bibitem",
+    "\\do",
+    "\\expandafter",
+    "\\filedate",
+    "\\fileversion",
+    "\\noexpand",
+    "\\verb"
+  ],
   "environments": []
 }

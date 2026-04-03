@@ -1,11 +1,19 @@
 {
   "commands": [
+    "\\CJKbold",
     "\\CJKboldbyembolden",
+    "\\CJKecglue",
+    "\\CJKforced",
     "\\CJKnoboldbyembolden",
+    "\\CJKnormal",
+    "\\CJKtilde",
+    "\\bxcjkjatypeHyperrefPatchDone",
     "\\ebdefault",
     "\\gtdefault",
     "\\mcdefault",
-    "\\mgdefault"
+    "\\mgdefault",
+    "\\uCJK",
+    "\\x"
   ],
   "environments": []
 }

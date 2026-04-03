@@ -1,0 +1,39 @@
+{
+  "commands": [
+    "\\address",
+    "\\authorname",
+    "\\bfdefault",
+    "\\disposable",
+    "\\disposablestring",
+    "\\footrulewidth",
+    "\\getpenname",
+    "\\getrunningtitle",
+    "\\getsurname",
+    "\\headrulewidth",
+    "\\ifsubmission",
+    "\\itdefault",
+    "\\msheading",
+    "\\msheadstring",
+    "\\newscene",
+    "\\nosubmit",
+    "\\pageofpages",
+    "\\penname",
+    "\\runningtitle",
+    "\\scdefault",
+    "\\scenebreak",
+    "\\sceneseparator",
+    "\\scenesepstring",
+    "\\sldefault",
+    "\\submit",
+    "\\surname",
+    "\\thirty",
+    "\\thirtystring",
+    "\\thought",
+    "\\ttdefault",
+    "\\updefault",
+    "\\wordcount"
+  ],
+  "environments": [
+    "synopsis"
+  ]
+}

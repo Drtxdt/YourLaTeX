@@ -1,4 +1,17 @@
 {
-  "commands": [],
+  "commands": [
+    "\\FnppOrigFootnote",
+    "\\FnppOrigFootnotemark",
+    "\\RCSPackage",
+    "\\date",
+    "\\fnpp",
+    "\\foot",
+    "\\footnote",
+    "\\footnotemark",
+    "\\id",
+    "\\init",
+    "\\maketitle",
+    "\\read"
+  ],
   "environments": []
 }

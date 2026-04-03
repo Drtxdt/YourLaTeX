@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\finkbase",
+    "\\finkdir",
+    "\\finkext",
+    "\\finkfile",
+    "\\finkpath"
+  ],
   "environments": []
 }

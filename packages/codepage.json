@@ -1,4 +1,27 @@
 {
-  "commands": [],
+  "commands": [
+    "\\Acute",
+    "\\AllActive",
+    "\\AllOther",
+    "\\Breve",
+    "\\Cedille",
+    "\\CheckSum",
+    "\\Circumflex",
+    "\\Diaresis",
+    "\\Grave",
+    "\\HungarUmlaut",
+    "\\Join",
+    "\\MakeHyphenationLetter",
+    "\\OverBar",
+    "\\OverDot",
+    "\\Tcheche",
+    "\\Tilda",
+    "\\UnderBar",
+    "\\UnderDot",
+    "\\codepage",
+    "\\docdate",
+    "\\filedate",
+    "\\fileversion"
+  ],
   "environments": []
 }

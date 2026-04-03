@@ -1,4 +1,17 @@
 {
-  "commands": [],
+  "commands": [
+    "\\IeC",
+    "\\IfFileExists",
+    "\\InputIfFileExists",
+    "\\LinkUnicodeOptionToPkg",
+    "\\MessageBreak",
+    "\\XDeclareUnicodeOption",
+    "\\csname",
+    "\\empty",
+    "\\expandafter",
+    "\\info",
+    "\\inputencoding",
+    "\\next"
+  ],
   "environments": []
 }

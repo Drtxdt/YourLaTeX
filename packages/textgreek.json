@@ -1,5 +1,13 @@
 {
   "commands": [
+    "\\DeclareTextGreekSymbol",
+    "\\TextGreek",
+    "\\return",
+    "\\temp",
+    "\\tempb",
+    "\\tempc",
+    "\\tempd",
+    "\\tempe",
     "\\textgreekfont",
     "\\textgreekfontmap"
   ],

@@ -1,5 +1,6 @@
 {
   "commands": [
+    "\\FrameCommand",
     "\\chuu",
     "\\chuuaki",
     "\\chuuakiprint",
@@ -8,7 +9,10 @@
     "\\chuukigou",
     "\\chuukigouprintA",
     "\\chuukigouprintB",
-    "\\chuuprint"
+    "\\chuuprint",
+    "\\zw"
   ],
-  "environments": []
+  "environments": [
+    "chuushaku"
+  ]
 }

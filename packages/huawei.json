@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\BLACK",
+    "\\BLANK",
+    "\\arraystretch",
+    "\\headrulewidth",
+    "\\param"
+  ],
+  "environments": []
+}

@@ -1,0 +1,24 @@
+{
+  "commands": [
+    "\\QASubcounterSeparator",
+    "\\QASubcounterStyle",
+    "\\QAadjustitem",
+    "\\QAendmark",
+    "\\descriptionlabel",
+    "\\pdfpageheight",
+    "\\textasterisk",
+    "\\textbacktick",
+    "\\textcolon",
+    "\\textequalsign",
+    "\\textleftparen",
+    "\\textrightparen",
+    "\\textsharp",
+    "\\textvert"
+  ],
+  "environments": [
+    "QACenter",
+    "QACompactCenter",
+    "QALeft",
+    "QARight"
+  ]
+}

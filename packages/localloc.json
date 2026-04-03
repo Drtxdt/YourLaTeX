@@ -1,4 +1,23 @@
 {
-  "commands": [],
+  "commands": [
+    "\\do",
+    "\\lnewbox",
+    "\\lnewcount",
+    "\\lnewdimen",
+    "\\lnewmuskip",
+    "\\lnewskip",
+    "\\lnewtoks",
+    "\\newbox",
+    "\\newcount",
+    "\\newdimen",
+    "\\newfam",
+    "\\newinsert",
+    "\\newlanguage",
+    "\\newmuskip",
+    "\\newread",
+    "\\newskip",
+    "\\newtoks",
+    "\\newwrite"
+  ],
   "environments": []
 }

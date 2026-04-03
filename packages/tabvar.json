@@ -1,9 +1,18 @@
 {
   "commands": [
-    "\\@socle",
+    "\\FlecheC",
+    "\\FlecheD",
+    "\\FlecheH",
+    "\\FlechesPS",
+    "\\TVarraystretch",
+    "\\TVarrowscale",
+    "\\TVarrowscolstretch",
+    "\\TVcenter",
+    "\\TVnl",
+    "\\TVstretch",
+    "\\TVtabularnewline",
     "\\arraystretch",
     "\\barre",
-    "\\barre@dth",
     "\\constante",
     "\\croit",
     "\\dbarre",
@@ -12,19 +21,7 @@
     "\\eastarrow",
     "\\enearrow",
     "\\esearrow",
-    "\\f@size",
-    "\\FlecheC",
-    "\\FlecheD",
-    "\\FlecheH",
-    "\\FlechesPS",
-    "\\niveau",
-    "\\reset@niveaux",
-    "\\TV@arrowcol@stretch",
-    "\\TVarraystretch",
-    "\\TVarrowscale",
-    "\\TVarrowscolstretch",
-    "\\TVcenter",
-    "\\TVstretch"
+    "\\niveau"
   ],
   "environments": [
     "tabvar"

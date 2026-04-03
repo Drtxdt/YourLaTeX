@@ -2,7 +2,9 @@
   "commands": [
     "\\packetsBitFont",
     "\\packetsEndLine",
+    "\\packetsFirstNodeInLastLine",
     "\\packetsInit",
+    "\\packetsLastNode",
     "\\packetsNextLine",
     "\\packetsPrintBitNumber",
     "\\packetsPrintBitScale",

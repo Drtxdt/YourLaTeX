@@ -1,4 +1,17 @@
 {
-  "commands": [],
+  "commands": [
+    "\\cmd",
+    "\\csname",
+    "\\do",
+    "\\ifpgfkeysnextchar",
+    "\\ifpgfkeysstar",
+    "\\pgfkeyscurrentkey",
+    "\\pgfkeyscurrentname",
+    "\\pgfkeysdefaultpath",
+    "\\pgfkeysrobustdef",
+    "\\pgfkeyssavedkey",
+    "\\pgfkeyssavedname",
+    "\\x"
+  ],
   "environments": []
 }

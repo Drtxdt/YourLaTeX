@@ -1,9 +1,11 @@
 {
   "commands": [
+    "\\alpha",
+    "\\hash",
     "\\phiDotted",
-    "\\phiDotted@",
     "\\phiOset",
-    "\\phiUset"
+    "\\phiUset",
+    "\\varphi"
   ],
   "environments": [
     "phicture",

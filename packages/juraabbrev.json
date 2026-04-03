@@ -1,6 +1,16 @@
 {
   "commands": [
-    "\\abbrevname"
+    "\\abb",
+    "\\abbrev",
+    "\\abbrevdef",
+    "\\abbrevname",
+    "\\abbrevuse",
+    "\\babb",
+    "\\citeart",
+    "\\citelaw",
+    "\\citepar",
+    "\\labb",
+    "\\protectab"
   ],
   "environments": [
     "abbreviations",

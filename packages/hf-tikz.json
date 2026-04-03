@@ -1,7 +1,11 @@
 {
   "commands": [
     "\\bcol",
-    "\\fcol"
+    "\\fcol",
+    "\\hfsetbordercolor",
+    "\\hfsetfillcolor",
+    "\\pgfsyspdfmark",
+    "\\savepointas"
   ],
   "environments": []
 }

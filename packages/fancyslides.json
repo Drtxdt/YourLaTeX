@@ -1,0 +1,20 @@
+{
+  "commands": [
+    "\\FrameCommand",
+    "\\customtextcol",
+    "\\fbckg",
+    "\\fitem",
+    "\\framedsl",
+    "\\itemized",
+    "\\misc",
+    "\\pitem",
+    "\\pointedsl",
+    "\\slogan",
+    "\\sources",
+    "\\startingslide",
+    "\\thankyou"
+  ],
+  "environments": [
+    "mybox"
+  ]
+}

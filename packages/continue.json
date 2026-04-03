@@ -1,8 +1,5 @@
 {
   "commands": [
-    "\\c@ntevenpagepos",
-    "\\c@ntoddpagepos",
-    "\\c@outcontpage",
     "\\contgo",
     "\\contstop",
     "\\flagcont",

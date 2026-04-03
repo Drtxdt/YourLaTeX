@@ -1,4 +1,25 @@
 {
-  "commands": [],
+  "commands": [
+    "\\MHsavecr",
+    "\\computelength",
+    "\\displaylines",
+    "\\endequ",
+    "\\endequa",
+    "\\endequs",
+    "\\equ",
+    "\\equa",
+    "\\equs",
+    "\\getlength",
+    "\\intertext",
+    "\\label",
+    "\\minilab",
+    "\\next",
+    "\\openup",
+    "\\ref",
+    "\\setlabtype",
+    "\\strutdepth",
+    "\\sublabeltype",
+    "\\tag"
+  ],
   "environments": []
 }

@@ -1,16 +1,7 @@
 {
   "commands": [
-    "\\mathversion",
-    "\\mdsy@calc@bsize",
-    "\\mdsy@DeclareActiveMathDelimiter",
-    "\\mdsy@DeclareActiveMathSymbol",
-    "\\mdsy@DeclareRobustCommand",
-    "\\mdsy@DeclareRobustCommandArg",
-    "\\mdsy@DeclareSymbolFont",
-    "\\mdsy@renewcommand",
-    "\\mdsy@scale",
-    "\\std@equal",
-    "\\std@minus"
+    "\\ifmathversionsans",
+    "\\mathversion"
   ],
   "environments": []
 }

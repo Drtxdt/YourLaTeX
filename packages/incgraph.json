@@ -1,4 +1,6 @@
 {
   "commands": [],
-  "environments": []
+  "environments": [
+    "inctext"
+  ]
 }

@@ -1,16 +1,5 @@
 {
   "commands": [
-    "\\@cfttocfinish",
-    "\\@cfttocstart",
-    "\\@contkeep",
-    "\\@contset",
-    "\\@contsf",
-    "\\@contst",
-    "\\@contsubbody",
-    "\\@contsubfloat",
-    "\\@dbflt",
-    "\\@float",
-    "\\@subcaption",
     "\\bicaption",
     "\\bicontcaption",
     "\\bionenumcaption",
@@ -30,11 +19,6 @@
     "\\contsubbottom",
     "\\contsubfigure",
     "\\contsubtop",
-    "\\doxxi@contcaption",
-    "\\fleg@figure",
-    "\\fleg@table",
-    "\\flegtoc@figure",
-    "\\flegtoc@table",
     "\\flushleftright",
     "\\footnote",
     "\\footnotemark",
@@ -52,6 +36,8 @@
     "\\newfloatentry",
     "\\newfloatenv",
     "\\newfloatlist",
+    "\\newfloatpagesoff",
+    "\\newfloatpageson",
     "\\newsubfloat",
     "\\normalcaption",
     "\\normalcaptionwidth",
@@ -60,12 +46,9 @@
     "\\providefixedcaption",
     "\\renewfixedcaption",
     "\\setnewfloatindents",
-    "\\subbody@cont",
     "\\subbottom",
     "\\subconcluded",
-    "\\subtop",
-    "\\toclevel@subfigure",
-    "\\toclevel@subtable"
+    "\\subtop"
   ],
   "environments": []
 }

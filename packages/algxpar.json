@@ -5,7 +5,8 @@
     "\\Range",
     "\\ShowCode",
     "\\TextString",
-    "\\UseCode"
+    "\\UseCode",
+    "\\temp"
   ],
   "environments": [
     "DefineCode"

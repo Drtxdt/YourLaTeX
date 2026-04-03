@@ -1,7 +1,11 @@
 {
   "commands": [
+    "\\Basmalahid",
+    "\\basmalahid",
     "\\idGetTrans",
-    "\\idSetTrans"
+    "\\idSetTrans",
+    "\\quraniddate",
+    "\\quranidversion"
   ],
   "environments": []
 }

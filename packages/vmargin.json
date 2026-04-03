@@ -1,4 +1,15 @@
 {
-  "commands": [],
+  "commands": [
+    "\\filedate",
+    "\\filename",
+    "\\fileversion",
+    "\\h",
+    "\\l",
+    "\\s",
+    "\\setpapersize",
+    "\\shiftmargins",
+    "\\t",
+    "\\w"
+  ],
   "environments": []
 }

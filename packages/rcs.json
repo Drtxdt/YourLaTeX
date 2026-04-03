@@ -1,4 +1,32 @@
 {
-  "commands": [],
+  "commands": [
+    "\\RCS",
+    "\\RCSID",
+    "\\RCSPackage",
+    "\\RCSTime",
+    "\\RCSdate",
+    "\\RCSdef",
+    "\\RcsEmptyLog",
+    "\\RcsEmptyValue",
+    "\\RcsHandleDate",
+    "\\RcsHandleStyleDate",
+    "\\RcsLogDate",
+    "\\RcsLogHeading",
+    "\\RcsLogHeadingName",
+    "\\RcsLogListStyle",
+    "\\RcsLogRevision",
+    "\\RcsLogStyle",
+    "\\RcsLogTime",
+    "\\RcsUnknownFile",
+    "\\csname",
+    "\\date",
+    "\\id",
+    "\\makelabel",
+    "\\next",
+    "\\rcs",
+    "\\rcsAuthor",
+    "\\rcsid",
+    "\\rcslog"
+  ],
   "environments": []
 }

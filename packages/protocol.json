@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\actionitem",
+    "\\begintime",
+    "\\chair",
+    "\\endtime",
+    "\\groupname",
+    "\\nextdate",
+    "\\nextplace",
+    "\\nexttime",
+    "\\place",
+    "\\vote",
+    "\\writer"
+  ],
+  "environments": [
+    "Absent",
+    "Persons"
+  ]
+}

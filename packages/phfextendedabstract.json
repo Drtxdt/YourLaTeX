@@ -1,0 +1,28 @@
+{
+  "commands": [
+    "\\bibsection",
+    "\\paragraph",
+    "\\phfeaDefineTheoremStyle",
+    "\\phfeaDisplayVerticalSpacingFactorWeight",
+    "\\phfeaHeadingStyle",
+    "\\phfeaListsItemSep",
+    "\\phfeaListsParSep",
+    "\\phfeaListsVerticalSkip",
+    "\\phfeaParagraphAfterHSkip",
+    "\\phfeaParagraphBeforeSkip",
+    "\\phfeaParagraphDecoration",
+    "\\phfeaParagraphDecorationSymbol",
+    "\\phfeaParagraphFormatHeading",
+    "\\phfeaParagraphStyle",
+    "\\phfeaParskipVerticalSpacingFactorWeight",
+    "\\phfeaSectionAfterHSkip",
+    "\\phfeaSectionBeforeSkip",
+    "\\phfeaSectionDecoration",
+    "\\phfeaSectionDecorationSymbol",
+    "\\phfeaSectionFormatHeading",
+    "\\phfeaSectionStyle",
+    "\\phfeaTitleStyle",
+    "\\section"
+  ],
+  "environments": []
+}

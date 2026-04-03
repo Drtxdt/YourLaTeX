@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\efoot",
+    "\\ehead",
+    "\\evenf",
+    "\\evenh",
+    "\\oddf",
+    "\\oddh",
+    "\\ofoot",
+    "\\ohead"
+  ],
+  "environments": []
+}

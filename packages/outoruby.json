@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\csname",
+    "\\expandafter",
+    "\\noexpand",
+    "\\outoruby",
+    "\\outorubyhyphenbreakable",
+    "\\outorubysetup"
+  ],
   "environments": []
 }

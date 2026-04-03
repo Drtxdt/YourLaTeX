@@ -1,4 +1,15 @@
 {
-  "commands": [],
+  "commands": [
+    "\\sfgbranch",
+    "\\sfgcurve",
+    "\\sfgnode",
+    "\\sfgsetangle",
+    "\\sfgsetarrowloc",
+    "\\sfgsetcompass",
+    "\\sfgsetlines",
+    "\\sfgsetsize",
+    "\\sfgsetunit",
+    "\\sfgtermnode"
+  ],
   "environments": []
 }

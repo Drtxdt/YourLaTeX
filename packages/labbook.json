@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\addcontentsline",
+    "\\appendix",
+    "\\backmatter",
+    "\\csname",
+    "\\experiment",
+    "\\labday",
+    "\\newexperiment",
+    "\\newsubexperiment",
+    "\\part",
+    "\\subexperiment",
+    "\\subsubsection"
+  ],
+  "environments": []
+}

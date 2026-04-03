@@ -3,13 +3,15 @@
     "\\Co",
     "\\Com",
     "\\Cop",
-    "\\go",
     "\\Hd",
     "\\Ho",
     "\\Hod",
     "\\Hou",
     "\\Hu",
     "\\No",
+    "\\Wo",
+    "\\Zo",
+    "\\go",
     "\\pho",
     "\\sfer",
     "\\sle",
@@ -24,9 +26,7 @@
     "\\sqs",
     "\\sqt",
     "\\squ",
-    "\\tbeta",
-    "\\Wo",
-    "\\Zo"
+    "\\tbeta"
   ],
   "environments": []
 }

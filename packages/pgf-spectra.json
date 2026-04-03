@@ -1,4 +1,12 @@
 {
-  "commands": [],
+  "commands": [
+    "\\pgfspectra",
+    "\\pgfspectraStyle",
+    "\\pgfspectraStyleReset",
+    "\\pgfspectrashade",
+    "\\wlcolor",
+    "\\wldez",
+    "\\wlquatromil"
+  ],
   "environments": []
 }

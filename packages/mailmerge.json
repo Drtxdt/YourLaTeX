@@ -1,10 +1,11 @@
 {
   "commands": [
+    "\\MAILMcurrtag",
+    "\\MAILMsetnumentries",
+    "\\MAILMsetnumfields",
     "\\field",
     "\\mailentry",
     "\\mailfields",
-    "\\MAILMsetnumentries",
-    "\\MAILMsetnumfields",
     "\\mailnewdata",
     "\\mailrepeat",
     "\\numberofentries",

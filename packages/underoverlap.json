@@ -1,7 +1,4 @@
 {
-  "commands": [
-    "\\uol@construct@final",
-    "\\uol@oldcsname"
-  ],
+  "commands": [],
   "environments": []
 }

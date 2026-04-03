@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\familydefault",
+    "\\insertaspectratio",
+    "\\insertpagenumber",
+    "\\mathfamilydefault"
+  ],
+  "environments": []
+}

@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\InsertBoxC",
+    "\\InsertBoxL",
+    "\\InsertBoxR",
+    "\\MoveBelowBox",
+    "\\ParShape",
+    "\\pageno",
+    "\\par"
+  ],
+  "environments": []
+}

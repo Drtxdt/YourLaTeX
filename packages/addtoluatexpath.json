@@ -1,6 +1,4 @@
 {
-  "commands": [
-    "\\input@path"
-  ],
+  "commands": [],
   "environments": []
 }

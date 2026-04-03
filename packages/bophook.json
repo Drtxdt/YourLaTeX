@@ -1,7 +1,6 @@
 {
   "commands": [
     "\\AtBeginPage",
-    "\\BH@originprint",
     "\\PageLayout"
   ],
   "environments": []

@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\dmnfiledate",
+    "\\dmnfileversion"
+  ],
   "environments": []
 }

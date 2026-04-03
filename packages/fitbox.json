@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\fitbox",
+    "\\fitboxset"
+  ],
   "environments": []
 }

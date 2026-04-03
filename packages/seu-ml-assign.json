@@ -1,0 +1,33 @@
+{
+  "commands": [
+    "\\argmax",
+    "\\argmin",
+    "\\assignno",
+    "\\boxedsection",
+    "\\duedate",
+    "\\firstfooteradditionalheight",
+    "\\footnoterule",
+    "\\footnotesep",
+    "\\hint",
+    "\\hintstyle",
+    "\\instructor",
+    "\\mainproblem",
+    "\\pdftitleadditionalname",
+    "\\problem",
+    "\\problempts",
+    "\\problemptsprint",
+    "\\sectionheadname",
+    "\\semester",
+    "\\setproblem",
+    "\\setsubproblem",
+    "\\solutionname",
+    "\\startsolution",
+    "\\startsolutionprintoption",
+    "\\startsolutionprintuseroption",
+    "\\studentID",
+    "\\subproblem",
+    "\\subsubproblem",
+    "\\tikzrule"
+  ],
+  "environments": []
+}

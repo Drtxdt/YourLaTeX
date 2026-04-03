@@ -1,8 +1,19 @@
 {
   "commands": [
+    "\\DeclareInterlinearStyle",
+    "\\UseInterlinearStyle",
+    "\\baselinestretch",
+    "\\csname",
     "\\interlinearstyle",
+    "\\lw",
+    "\\rmfamily",
     "\\switchlwsyntaxoff",
-    "\\switchlwsyntaxon"
+    "\\switchlwsyntaxon",
+    "\\usedoublespacing",
+    "\\useonehalfspacing",
+    "\\usesinglespacing"
   ],
-  "environments": []
+  "environments": [
+    "interlinear"
+  ]
 }

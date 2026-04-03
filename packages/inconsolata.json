@@ -1,9 +1,10 @@
 {
   "commands": [
+    "\\altzero",
+    "\\filedate",
+    "\\fileversion",
     "\\rmdefault",
-    "\\ttdefault",
-    "\\zifour@default",
-    "\\zifour@scaled"
+    "\\ttdefault"
   ],
   "environments": []
 }

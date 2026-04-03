@@ -1,7 +1,5 @@
 {
   "commands": [
-    "\\@createsub",
-    "\\@createsym",
     "\\addsymline",
     "\\bothheadingname",
     "\\closesymdef",
@@ -9,7 +7,6 @@
     "\\listofboth",
     "\\listofsubscripts",
     "\\listofsymbols",
-    "\\los@temp",
     "\\losstring",
     "\\markasunused",
     "\\markasused",

@@ -1,0 +1,25 @@
+{
+  "commands": [
+    "\\PB",
+    "\\asgimplies",
+    "\\boxit",
+    "\\courselabel",
+    "\\coursetitle",
+    "\\department",
+    "\\e",
+    "\\exercisesheet",
+    "\\ifshowanswers",
+    "\\pbitem",
+    "\\school",
+    "\\semester",
+    "\\solutionstext",
+    "\\student",
+    "\\theequation",
+    "\\university"
+  ],
+  "environments": [
+    "answer",
+    "problem",
+    "problemlist"
+  ]
+}

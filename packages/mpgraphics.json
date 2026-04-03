@@ -1,14 +1,26 @@
 {
   "commands": [
-    "\\mpg@formatname",
-    "\\mpg@graphicsextension",
-    "\\mpg@graphicsformatname",
-    "\\mpgfigname",
-    "\\mpgnoprocess",
+    "\\Array",
+    "\\ArrayIterator",
+    "\\BeforeMPDEFSStream",
+    "\\BeforeMPGStream",
+    "\\DeclareArray",
+    "\\MPDEFSverbatimwrite",
+    "\\MPGverbatimwrite",
+    "\\NotIfFileExists",
+    "\\OnlyIfFileExists",
+    "\\addToArray",
+    "\\clearArray",
+    "\\configure",
+    "\\endMPDEFSverbatimwrite",
+    "\\endMPGverbatimwrite",
+    "\\expandafter",
+    "\\getArraylength",
+    "\\hyphencheck",
     "\\mpgOff",
     "\\mpgOn",
-    "\\mpgraphics@date",
-    "\\mpgraphics@version"
+    "\\mpgfigname",
+    "\\mpgnoprocess"
   ],
   "environments": [
     "ltxpreamble",

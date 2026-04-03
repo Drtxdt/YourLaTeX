@@ -3,11 +3,13 @@
     "\\addmetaproperty",
     "\\contribution",
     "\\hyperrefloaded",
+    "\\ignorespacesandallpars",
     "\\metaauthor",
     "\\metatitle",
     "\\newpropertycommand",
     "\\researchfield",
-    "\\uri"
+    "\\uri",
+    "\\useignorespacesandallpars"
   ],
   "environments": []
 }

@@ -1,6 +1,13 @@
 {
   "commands": [
-    "\\do"
+    "\\do",
+    "\\mcexamoptions",
+    "\\mcsetupAnalysis",
+    "\\mcsetupAnswers",
+    "\\mcsetupConcept",
+    "\\mcsetupExam",
+    "\\mcsetupKey",
+    "\\mctheversion"
   ],
   "environments": [
     "setmcansweranalysistable",

@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\footrulewidth",
+    "\\headrulewidth",
+    "\\internalno",
+    "\\logo",
+    "\\maketitle",
+    "\\projectno",
+    "\\specialsection",
+    "\\subtitle",
+    "\\texorpdfstring",
+    "\\title",
+    "\\today",
+    "\\version"
+  ],
+  "environments": []
+}

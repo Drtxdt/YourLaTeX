@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\csname",
+    "\\phfsvnShipoutWatermarkXposRight",
+    "\\phfsvnShipoutWatermarkYposBaseline",
+    "\\phfsvnVersionIdTagInnerFont",
+    "\\phfsvnVersionIdTagOuterFont"
+  ],
   "environments": []
 }

@@ -1,4 +1,20 @@
 {
   "commands": [],
-  "environments": []
+  "environments": [
+    "thermoNOsubscripts",
+    "thermobar",
+    "thermobraces",
+    "thermobrackets",
+    "thermoextensiveplain",
+    "thermoextensivesuperscript",
+    "thermointensivelowercase",
+    "thermointensiveplain",
+    "thermolongpm",
+    "thermomolesrange",
+    "thermoparentheses",
+    "thermoplain",
+    "thermoshortpm",
+    "thermosubscripts",
+    "thermovmatrix"
+  ]
 }

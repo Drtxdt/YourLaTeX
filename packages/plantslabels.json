@@ -2,8 +2,6 @@
   "commands": [
     "\\LabelCols",
     "\\LabelRows",
-    "\\lm@ig",
-    "\\lm@measurebox",
     "\\numberoflabels",
     "\\plant"
   ],

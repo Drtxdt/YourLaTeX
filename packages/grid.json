@@ -1,5 +1,13 @@
 {
-  "commands": [],
+  "commands": [
+    "\\ProcessOptionsKV",
+    "\\enumerate",
+    "\\itemize",
+    "\\makelabel",
+    "\\roundoff",
+    "\\x",
+    "\\y"
+  ],
   "environments": [
     "gridenv",
     "gridfltenv"

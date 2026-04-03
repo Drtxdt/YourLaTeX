@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\IndexList",
+    "\\NoIndex",
+    "\\StopIndex",
+    "\\StopIndexList",
+    "\\printindex"
+  ],
   "environments": []
 }

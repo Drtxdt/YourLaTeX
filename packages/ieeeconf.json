@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\and",
+    "\\bibitem",
+    "\\callout",
+    "\\dobeforekey",
+    "\\email",
+    "\\endthebibitemlist",
+    "\\extrareflistcode",
+    "\\footnote",
+    "\\maketitle",
+    "\\next",
+    "\\thanks",
+    "\\thebibitemlist"
+  ],
+  "environments": [
+    "affiliation"
+  ]
+}

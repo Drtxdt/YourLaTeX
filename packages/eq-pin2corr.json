@@ -1,6 +1,30 @@
 {
   "commands": [
-    "\\setMaxRetakes"
+    "\\FreezeThisQuiz",
+    "\\FreezeThisQuizNot",
+    "\\PINclassPV",
+    "\\PINgobii",
+    "\\PINgobiii",
+    "\\classPINVar",
+    "\\csname",
+    "\\declPINId",
+    "\\declRePINId",
+    "\\eQzBtnActnsPIN",
+    "\\hashPINId",
+    "\\hashRePINId",
+    "\\makeEndQuizPIN",
+    "\\nMaxRetakes",
+    "\\numPINId",
+    "\\numRePINId",
+    "\\qzTallyTotalDefaults",
+    "\\restoreCorrBtn",
+    "\\setMaxRetakes",
+    "\\showScoreOff",
+    "\\showScoreOn",
+    "\\useBeginQuizCnt",
+    "\\useBeginQuizPIN",
+    "\\usePINCorrBtn",
+    "\\useWarnEndQuiz"
   ],
   "environments": []
 }

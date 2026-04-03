@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\inghead",
+    "\\ingred",
+    "\\rechead",
+    "\\recipe",
+    "\\subsubsection"
+  ],
+  "environments": []
+}

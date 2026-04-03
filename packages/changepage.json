@@ -1,6 +1,8 @@
 {
   "commands": [
-    "\\cp@whoopsusingmemoir",
+    "\\changepage",
+    "\\changetext",
+    "\\checkoddpage",
     "\\cplabel",
     "\\easypagecheck",
     "\\newpmemlabel",

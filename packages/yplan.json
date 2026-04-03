@@ -1,4 +1,25 @@
 {
-  "commands": [],
+  "commands": [
+    "\\April",
+    "\\August",
+    "\\December",
+    "\\February",
+    "\\Fr",
+    "\\January",
+    "\\July",
+    "\\June",
+    "\\March",
+    "\\May",
+    "\\Mo",
+    "\\November",
+    "\\October",
+    "\\Sa",
+    "\\September",
+    "\\Su",
+    "\\Th",
+    "\\Tu",
+    "\\We",
+    "\\leapyear"
+  ],
   "environments": []
 }

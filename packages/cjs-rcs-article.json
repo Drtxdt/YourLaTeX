@@ -1,0 +1,24 @@
+{
+  "commands": [
+    "\\Cov",
+    "\\E",
+    "\\Pr",
+    "\\Var",
+    "\\algorithmautorefname",
+    "\\corollaryautorefname",
+    "\\corr",
+    "\\definitionautorefname",
+    "\\diag",
+    "\\figureautorefname",
+    "\\lemmaautorefname",
+    "\\propositionautorefname",
+    "\\remarkautorefname",
+    "\\sectionautorefname",
+    "\\subsectionautorefname",
+    "\\subsubsectionautorefname",
+    "\\tableautorefname",
+    "\\theoremautorefname",
+    "\\tr"
+  ],
+  "environments": []
+}

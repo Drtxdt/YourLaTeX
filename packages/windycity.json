@@ -1,12 +1,9 @@
 {
   "commands": [
-    "\\@makefnmark",
-    "\\@seccntformat",
-    "\\adddot@section",
+    "\\BibTeX",
     "\\babel",
     "\\bibfield",
     "\\biblatex",
-    "\\BibTeX",
     "\\bibtype",
     "\\cftbeforesecskip",
     "\\cftmarktoc",
@@ -24,7 +21,9 @@
     "\\makelabel",
     "\\nfootnote",
     "\\opt",
+    "\\optitem",
     "\\polyglossia",
+    "\\reqitem",
     "\\sectionmark",
     "\\sty",
     "\\subsectionmark",
@@ -34,6 +33,7 @@
     "\\thesh",
     "\\tshortstack",
     "\\ttdefault",
+    "\\typeitem",
     "\\version",
     "\\website"
   ],

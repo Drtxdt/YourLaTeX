@@ -1,4 +1,15 @@
 {
-  "commands": [],
+  "commands": [
+    "\\delangcodeextras",
+    "\\demonthname",
+    "\\depardash",
+    "\\deqtd",
+    "\\enmonthname",
+    "\\enqtd",
+    "\\langcode",
+    "\\langcodeadjust",
+    "\\langcodedependent",
+    "\\uselangcode"
+  ],
   "environments": []
 }

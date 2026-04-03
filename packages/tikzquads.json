@@ -1,28 +1,6 @@
 {
   "commands": [
-    "\\tikzquads@@arrowtipat",
-    "\\tikzquads@@AutoRotateAnchor",
-    "\\tikzquads@@BBPoints",
-    "\\tikzquads@@CondDraw",
-    "\\tikzquads@@DrawRes",
-    "\\tikzquads@@HResPoints",
-    "\\tikzquads@@minussignat",
-    "\\tikzquads@@PGBaseAnchors",
-    "\\tikzquads@@PGPoints",
-    "\\tikzquads@@plussignat",
-    "\\tikzquads@@QuadBaseAnchors",
-    "\\tikzquads@@QuadGetAnchor",
-    "\\tikzquads@@QuadPoints",
-    "\\tikzquads@@ResBaseAnchors",
-    "\\tikzquads@@RotateAnchor",
-    "\\tikzquads@@SourceBaseAnchors",
-    "\\tikzquads@@SourcePoints",
-    "\\tikzquads@@ValueOf",
-    "\\tikzquads@@VResPoints",
-    "\\tikzquads@@Ydraw",
-    "\\tikzquads@@Yside",
-    "\\tikzquads@@Zdraw",
-    "\\tikzquads@@Zside"
+    "\\searchname"
   ],
   "environments": []
 }

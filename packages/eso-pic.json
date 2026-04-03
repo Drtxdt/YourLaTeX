@@ -3,18 +3,13 @@
     "\\AddToShipoutPicture",
     "\\AddToShipoutPictureBG",
     "\\AddToShipoutPictureFG",
+    "\\AtStockCenter",
+    "\\AtStockLowerLeft",
+    "\\AtStockUpperLeft",
     "\\ClearShipoutPicture",
     "\\ClearShipoutPictureBG",
     "\\ClearShipoutPictureFG",
-    "\\ESO@HookI",
-    "\\ESO@HookIBG",
-    "\\ESO@HookIFG",
-    "\\ESO@HookII",
-    "\\ESO@HookIIBG",
-    "\\ESO@HookIIFG",
-    "\\ESO@HookIII",
-    "\\ESO@HookIIIBG",
-    "\\ESO@HookIIIFG"
+    "\\ProcessOptionsWithKV"
   ],
   "environments": []
 }

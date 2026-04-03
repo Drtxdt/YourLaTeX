@@ -1,5 +1,8 @@
 {
-  "commands": [],
+  "commands": [
+    "\\adjmulticols",
+    "\\endadjmulticols"
+  ],
   "environments": [
     "adjmulticols*"
   ]

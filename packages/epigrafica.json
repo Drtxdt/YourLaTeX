@@ -1,6 +1,9 @@
 {
   "commands": [
+    "\\LaTeX",
+    "\\LaTeXe",
     "\\rmdefault",
+    "\\stigma",
     "\\textbullet"
   ],
   "environments": []

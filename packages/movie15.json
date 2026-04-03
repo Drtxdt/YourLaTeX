@@ -1,8 +1,7 @@
 {
   "commands": [
-    "\\@MXV@includeiiid",
-    "\\@MXV@parseline",
-    "\\includemovie"
+    "\\includemovie",
+    "\\pdfmdfivesum"
   ],
   "environments": []
 }

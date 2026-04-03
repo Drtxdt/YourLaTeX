@@ -3,6 +3,7 @@
     "\\branchheight",
     "\\childattachsep",
     "\\childsidesep",
+    "\\synttree",
     "\\trianglebalance"
   ],
   "environments": []

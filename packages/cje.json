@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\bysame",
+    "\\newblock",
+    "\\thebibliography",
+    "\\theenumiv"
+  ],
   "environments": []
 }

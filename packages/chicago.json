@@ -1,6 +1,23 @@
 {
   "commands": [
-    "\\refname"
+    "\\cite",
+    "\\citeA",
+    "\\citeANP",
+    "\\citeN",
+    "\\citeNP",
+    "\\citeauthoryear",
+    "\\citeyear",
+    "\\citeyearNP",
+    "\\fullcite",
+    "\\fullciteA",
+    "\\newblock",
+    "\\refname",
+    "\\shortcite",
+    "\\shortciteA",
+    "\\shortciteANP",
+    "\\shortciteN",
+    "\\shortciteNP",
+    "\\thebibliography"
   ],
   "environments": []
 }

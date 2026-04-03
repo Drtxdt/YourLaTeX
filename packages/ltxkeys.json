@@ -1,4 +1,27 @@
 {
-  "commands": [],
+  "commands": [
+    "\\CurrentPref",
+    "\\InnocentVal",
+    "\\currmatch",
+    "\\defwith",
+    "\\do",
+    "\\elt",
+    "\\elta",
+    "\\eltb",
+    "\\eltc",
+    "\\eltnum",
+    "\\envarg",
+    "\\expandafter",
+    "\\ifkeyval",
+    "\\ifkeyvalTF",
+    "\\ifval",
+    "\\ifvalTF",
+    "\\keyval",
+    "\\noexpand",
+    "\\val",
+    "\\x",
+    "\\y",
+    "\\z"
+  ],
   "environments": []
 }

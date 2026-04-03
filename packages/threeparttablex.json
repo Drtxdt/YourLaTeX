@@ -1,5 +1,8 @@
 {
-  "commands": [],
+  "commands": [
+    "\\endtablenotes",
+    "\\makelabel"
+  ],
   "environments": [
     "TableNotes",
     "ThreePartTable"

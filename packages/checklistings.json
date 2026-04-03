@@ -1,4 +1,13 @@
 {
-  "commands": [],
+  "commands": [
+    "\\ChkListingErr",
+    "\\ChkListingMsg",
+    "\\checklistings",
+    "\\chklistingcmd",
+    "\\chklistingerr",
+    "\\chklistingfile",
+    "\\chklistingmsg",
+    "\\setchklistingcmd"
+  ],
   "environments": []
 }

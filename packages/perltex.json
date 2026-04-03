@@ -1,9 +1,14 @@
 {
   "commands": [
-    "\\plmac@await@existence",
-    "\\plmac@IfFileExists",
-    "\\plmac@write@perl",
-    "\\plmac@write@perl@i"
+    "\\begin",
+    "\\end",
+    "\\expandafter",
+    "\\perldo",
+    "\\perlnewcommand",
+    "\\perlnewenvironment",
+    "\\perlrenewcommand",
+    "\\perlrenewenvironment",
+    "\\protect"
   ],
   "environments": []
 }

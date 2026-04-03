@@ -1,4 +1,12 @@
 {
-  "commands": [],
+  "commands": [
+    "\\TibetanInputOcpList",
+    "\\filedate",
+    "\\fileversion",
+    "\\makeendsym",
+    "\\outputlatin",
+    "\\outputtibetan",
+    "\\tbfamily"
+  ],
   "environments": []
 }

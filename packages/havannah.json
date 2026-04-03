@@ -1,7 +1,5 @@
 {
-  "commands": [
-    "\\h@draw@hex"
-  ],
+  "commands": [],
   "environments": [
     "HavannahBoard",
     "HexBoard",

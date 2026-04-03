@@ -1,8 +1,15 @@
 {
   "commands": [
+    "\\enddescription",
+    "\\endenumerate",
+    "\\endeqpminipage",
+    "\\enditemize",
     "\\eqboxwidth",
-    "\\eqp@settowidth",
-    "\\eqp@storefont",
+    "\\eqframebox",
+    "\\eqmakebox",
+    "\\eqminipage",
+    "\\eqparbox",
+    "\\eqsavebox",
     "\\eqsetmaxwidth",
     "\\eqsetmaxwidthto",
     "\\eqsetminwidth",

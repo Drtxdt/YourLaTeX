@@ -1,5 +1,9 @@
 {
   "commands": [
+    "\\Basmalahur",
+    "\\basmalahur",
+    "\\quranurdate",
+    "\\quranurversion",
     "\\urGetTrans",
     "\\urSetTrans"
   ],

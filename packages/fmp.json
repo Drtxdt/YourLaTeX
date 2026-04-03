@@ -1,5 +1,7 @@
 {
   "commands": [
+    "\\endfmp",
+    "\\fmp",
     "\\fmpaddtoscriptpostamble",
     "\\fmpaddtoscriptpreamble",
     "\\fmpaddtosourcepostamble",

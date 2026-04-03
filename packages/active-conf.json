@@ -1,0 +1,25 @@
+{
+  "commands": [
+    "\\address",
+    "\\appendix",
+    "\\bottomfraction",
+    "\\cite",
+    "\\dblfloatpagefraction",
+    "\\dbltopfraction",
+    "\\email",
+    "\\enumerate",
+    "\\eqref",
+    "\\figref",
+    "\\floatpagefraction",
+    "\\footnote",
+    "\\itemize",
+    "\\makelabel",
+    "\\note",
+    "\\secref",
+    "\\tabref",
+    "\\textfraction",
+    "\\thefootnote",
+    "\\topfraction"
+  ],
+  "environments": []
+}

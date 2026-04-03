@@ -1,6 +1,7 @@
 {
   "commands": [
     "\\alter",
+    "\\hang",
     "\\name",
     "\\panic"
   ],

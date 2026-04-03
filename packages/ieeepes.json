@@ -1,11 +1,21 @@
 {
   "commands": [
+    "\\B",
+    "\\T",
+    "\\figure",
+    "\\filedate",
+    "\\filename",
+    "\\fileversion",
+    "\\section",
     "\\subsection",
-    "\\subsubsection"
+    "\\subsubsection",
+    "\\table",
+    "\\thebibliography",
+    "\\today"
   ],
   "environments": [
-    "biography",
     "Figure",
-    "Table"
+    "Table",
+    "biography"
   ]
 }

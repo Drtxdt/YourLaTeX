@@ -1,7 +1,13 @@
 {
   "commands": [
+    "\\csname",
     "\\showlabelfont",
-    "\\showlabelsetlabel"
+    "\\showlabelrefline",
+    "\\showlabels",
+    "\\showlabelsetlabel",
+    "\\showlabelsinline",
+    "\\showlabelsmarginal",
+    "\\showlabeltype"
   ],
   "environments": []
 }

@@ -1,11 +1,8 @@
 {
   "commands": [
-    "\\syntrace@displaytrace",
-    "\\syntrace@labelletter",
-    "\\syntrace@reset",
+    "\\csname",
     "\\syntraceaddresetmacro",
     "\\syntraceremoveresetmacro",
-    "\\thesyntrace@labelcounter",
     "\\traceLabel",
     "\\traceReference"
   ],

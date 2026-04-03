@@ -1,4 +1,17 @@
 {
-  "commands": [],
+  "commands": [
+    "\\bibliography",
+    "\\bibliographyunit",
+    "\\bibunit",
+    "\\defaultbibliography",
+    "\\defaultbibliographystyle",
+    "\\endbibunit",
+    "\\given",
+    "\\hgulp",
+    "\\plugh",
+    "\\putbib",
+    "\\remequivalent",
+    "\\thebibliography"
+  ],
   "environments": []
 }

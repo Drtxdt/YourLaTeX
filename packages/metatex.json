@@ -1,0 +1,22 @@
+{
+  "commands": [
+    "\\MT",
+    "\\MTbeginchar",
+    "\\MTchar",
+    "\\MTcode",
+    "\\MTendchar",
+    "\\MTendmark",
+    "\\MTendslashing",
+    "\\MTfont",
+    "\\MTlabel",
+    "\\MTline",
+    "\\MTslashing",
+    "\\bye",
+    "\\do",
+    "\\finishMPgraphic",
+    "\\next",
+    "\\oldfinMPgrap",
+    "\\texbye"
+  ],
+  "environments": []
+}

@@ -1,9 +1,8 @@
 {
   "commands": [
-    "\\@captype",
-    "\\ext@listing",
-    "\\fnum@listing",
-    "\\l@listing",
+    "\\filedate",
+    "\\filename",
+    "\\fileversion",
     "\\listingname",
     "\\listlistingname",
     "\\listoflistings"

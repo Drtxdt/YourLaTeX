@@ -1,5 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\makelabel"
+  ],
   "environments": [
     "etaremune"
   ]

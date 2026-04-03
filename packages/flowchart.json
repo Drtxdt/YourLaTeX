@@ -1,4 +1,27 @@
 {
-  "commands": [],
+  "commands": [
+    "\\arcoffset",
+    "\\band",
+    "\\decisionanchor",
+    "\\decisionborder",
+    "\\decisionpath",
+    "\\decisionref",
+    "\\decisionrefout",
+    "\\predprocAnchorpath",
+    "\\predprocBackground",
+    "\\radius",
+    "\\refx",
+    "\\refy",
+    "\\storageAnchorpath",
+    "\\storageBackground",
+    "\\storageParams",
+    "\\storageParamsOuter",
+    "\\storagepath",
+    "\\terminalanchor",
+    "\\terminalborder",
+    "\\terminalpath",
+    "\\terminalrefne",
+    "\\terminalrefneout"
+  ],
   "environments": []
 }

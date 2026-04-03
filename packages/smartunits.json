@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\pgfkeysgsetvalue"
+    "\\pgfkeysgsetvalue",
+    "\\pgfmathresult"
   ],
   "environments": []
 }

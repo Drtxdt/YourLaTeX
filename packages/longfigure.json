@@ -1,8 +1,24 @@
 {
   "commands": [
+    "\\LFProcessOptions",
     "\\LFcounter",
+    "\\LFoutfile",
     "\\LFreset",
-    "\\strcfstr"
+    "\\LFuc",
+    "\\LFupcase",
+    "\\crcr",
+    "\\csname",
+    "\\endLFfirsthead",
+    "\\endLFfoot",
+    "\\endLFhead",
+    "\\endLFlastfoot",
+    "\\endlongfigure",
+    "\\longfigure",
+    "\\newpage",
+    "\\nopagebreak",
+    "\\pagebreak",
+    "\\strcfstr",
+    "\\x"
   ],
   "environments": []
 }

@@ -1,6 +1,23 @@
 {
   "commands": [
-    "\\bbbbifundefined"
+    "\\bbbbifpackageloaded",
+    "\\bbbbifundefined",
+    "\\btxISBNfont",
+    "\\btxISSNfont",
+    "\\btxetalfont",
+    "\\btxifchangecase",
+    "\\btxjournalfont",
+    "\\btxjtitlefont",
+    "\\btxlastnamefont",
+    "\\btxnamefont",
+    "\\btxnumeralfont",
+    "\\btxprintmonthyear",
+    "\\btxpublisherfont",
+    "\\btxtitlefont",
+    "\\btxurldatefont",
+    "\\btxurlfont",
+    "\\btxvolumefont",
+    "\\csname"
   ],
   "environments": []
 }

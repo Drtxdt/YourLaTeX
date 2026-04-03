@@ -1,17 +1,22 @@
 {
   "commands": [
+    "\\BibTeX",
+    "\\CPAuthorFont",
+    "\\CPCopyrightFont",
+    "\\CPInSourceFont",
+    "\\CPInstituteFont",
+    "\\CPPublisherCheck",
+    "\\CPTitleFont",
     "\\CoverPageBody",
     "\\CoverPageFooter",
     "\\CoverPageFooterInfo",
     "\\CoverPageFooterLogo",
     "\\CoverPageHeader",
     "\\CoverPageSetup",
-    "\\CP@PrintCoverPage",
-    "\\CPAuthorFont",
-    "\\CPCopyrightFont",
-    "\\CPInSourceFont",
-    "\\CPInstituteFont",
-    "\\CPTitleFont"
+    "\\article",
+    "\\incollection",
+    "\\inproceedings",
+    "\\misc"
   ],
   "environments": []
 }

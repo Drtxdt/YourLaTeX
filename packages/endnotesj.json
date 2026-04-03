@@ -1,4 +1,22 @@
 {
-  "commands": [],
+  "commands": [
+    "\\addtoendnotes",
+    "\\csname",
+    "\\endnote",
+    "\\endnotemark",
+    "\\endnotetext",
+    "\\enoteformat",
+    "\\enoteheading",
+    "\\enotesize",
+    "\\expandafter",
+    "\\kcharparline",
+    "\\linesparpage",
+    "\\makeenmark",
+    "\\next",
+    "\\notesname",
+    "\\theendnote",
+    "\\theendnotes",
+    "\\theenmark"
+  ],
   "environments": []
 }

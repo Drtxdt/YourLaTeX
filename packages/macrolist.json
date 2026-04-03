@@ -1,12 +1,5 @@
 {
   "commands": [
-    "\\macrolist@exists",
-    "\\macrolist@inbounds",
-    "\\macrolist@listadd",
-    "\\macrolist@listeadd",
-    "\\macrolist@listforeachaction",
-    "\\macrolist@listforeachi",
-    "\\macrolist@listforeachii",
     "\\macrolistadd",
     "\\macrolistclear",
     "\\macrolistcontains",

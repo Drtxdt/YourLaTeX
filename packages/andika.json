@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\Andika@scale"
+    "\\andikafamily",
+    "\\sfdefault"
   ],
   "environments": []
 }

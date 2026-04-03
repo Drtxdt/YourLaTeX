@@ -1,4 +1,21 @@
 {
-  "commands": [],
+  "commands": [
+    "\\CurrentOption",
+    "\\DeclareMicrotypeAlias",
+    "\\DeclareMicrotypeBabelHook",
+    "\\DeclareMicrotypeFilePrefix",
+    "\\DeclareMicrotypeSet",
+    "\\DeclareMicrotypeSetDefault",
+    "\\DeclareMicrotypeVariants",
+    "\\LoadMicrotypeFile",
+    "\\SetProtrusion",
+    "\\UseMicrotypeSet",
+    "\\expandafter",
+    "\\lsstyle",
+    "\\noexpand",
+    "\\space",
+    "\\textls",
+    "\\x"
+  ],
   "environments": []
 }

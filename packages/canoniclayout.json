@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\chaptermark",
+    "\\sectionmark"
+  ],
   "environments": []
 }

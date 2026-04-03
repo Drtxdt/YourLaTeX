@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\colorInfo",
+    "\\colorInfoRGB",
+    "\\colorModel",
+    "\\colorValue"
+  ],
   "environments": []
 }

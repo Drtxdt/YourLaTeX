@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\abbr",
+    "\\abbrA",
+    "\\abbrB",
+    "\\abbrdef",
+    "\\abbrloaded",
+    "\\csname",
+    "\\next"
+  ],
+  "environments": []
+}

@@ -1,0 +1,27 @@
+{
+  "commands": [
+    "\\Huge",
+    "\\LARGE",
+    "\\Large",
+    "\\blockroundedcorners",
+    "\\footnotesize",
+    "\\huge",
+    "\\innerblockroundedcorners",
+    "\\large",
+    "\\normalsize",
+    "\\noterotate",
+    "\\noteroundedcorners",
+    "\\rememberparameter",
+    "\\scriptsize",
+    "\\small",
+    "\\tiny",
+    "\\title",
+    "\\titleroundedcorners"
+  ],
+  "environments": [
+    "columns",
+    "settitle",
+    "subcolumns",
+    "tikzfigure"
+  ]
+}

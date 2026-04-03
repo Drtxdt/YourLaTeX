@@ -1,8 +1,7 @@
 {
   "commands": [
-    "\\@HwM@magic@star"
+    "\\do",
+    "\\greatpumpkin"
   ],
-  "environments": [
-    "@HwM@math@picture"
-  ]
+  "environments": []
 }

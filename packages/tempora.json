@@ -1,9 +1,9 @@
 {
   "commands": [
-    "\\familydefault",
     "\\LGCscale",
+    "\\familydefault",
     "\\rmdefault",
-    "\\Tempora@scale"
+    "\\sufigures"
   ],
   "environments": []
 }

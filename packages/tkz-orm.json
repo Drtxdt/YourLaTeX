@@ -4,12 +4,21 @@
     "\\constraintdeclarealias",
     "\\constraintdeclareasnode",
     "\\constraintdeclareshape",
-    "\\orm@font",
-    "\\orm@font@bold",
-    "\\orm@font@bold@scriptsize",
-    "\\orm@font@scriptsize",
-    "\\orm@font@tiny",
-    "\\orm@textsubscript"
+    "\\ormarrowdown",
+    "\\ormarrowleft",
+    "\\ormarrowright",
+    "\\ormarrowup",
+    "\\ormbf",
+    "\\ormbraces",
+    "\\ormc",
+    "\\ormind",
+    "\\ormleft",
+    "\\ormsub",
+    "\\ormsup",
+    "\\ormtext",
+    "\\ormup",
+    "\\ormvalues",
+    "\\tkzorm"
   ],
   "environments": []
 }

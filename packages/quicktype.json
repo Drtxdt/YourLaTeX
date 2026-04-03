@@ -2,13 +2,6 @@
   "commands": [
     "\\B",
     "\\Doc",
-    "\\eDoc",
-    "\\eFig",
-    "\\eItemz",
-    "\\eMinipg",
-    "\\eQuickTable",
-    "\\eTable",
-    "\\eTabular",
     "\\Fig",
     "\\I",
     "\\IB",
@@ -16,10 +9,17 @@
     "\\Minipg",
     "\\QT",
     "\\QuickTable",
-    "\\subtitle",
     "\\Tabular",
     "\\TitlePage",
-    "\\TitlePageGraphic"
+    "\\TitlePageGraphic",
+    "\\eDoc",
+    "\\eFig",
+    "\\eItemz",
+    "\\eMinipg",
+    "\\eQuickTable",
+    "\\eTable",
+    "\\eTabular",
+    "\\subtitle"
   ],
   "environments": []
 }

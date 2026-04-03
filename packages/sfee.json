@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\abstract",
+    "\\authorcontribution",
+    "\\codeavailability",
+    "\\dataavailability",
+    "\\endabstract",
+    "\\fnmark",
+    "\\headlinecolor",
+    "\\maketitle"
+  ],
+  "environments": [
+    "AuthorContribution"
+  ]
+}

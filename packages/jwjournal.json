@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\pdfpageheight",
+    "\\textasterisk",
+    "\\textbacktick",
+    "\\textcolon",
+    "\\textequalsign",
+    "\\textleftparen",
+    "\\textrightparen",
+    "\\textsharp",
+    "\\textvert"
+  ],
+  "environments": [
+    "JWJournalCenter",
+    "JWJournalCompactCenter",
+    "JWJournalLeft",
+    "JWJournalRight"
+  ]
+}

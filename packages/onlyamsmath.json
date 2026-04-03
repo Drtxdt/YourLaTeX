@@ -1,6 +1,10 @@
 {
   "commands": [
-    "\\onlyams@error"
+    "\\checkdsp",
+    "\\displaymath",
+    "\\dollarcode",
+    "\\dspcomplain",
+    "\\eqnarray"
   ],
   "environments": []
 }

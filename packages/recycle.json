@@ -1,4 +1,8 @@
 {
-  "commands": [],
+  "commands": [
+    "\\RECYCLE",
+    "\\Recycle",
+    "\\recycle"
+  ],
   "environments": []
 }

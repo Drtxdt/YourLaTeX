@@ -1,7 +1,15 @@
 {
   "commands": [
+    "\\dofigtest",
+    "\\dohangf",
+    "\\dohangt",
+    "\\dotabtest",
+    "\\figinsert",
     "\\fltditem",
-    "\\fltitem"
+    "\\fltitem",
+    "\\tabinsert",
+    "\\tryfig",
+    "\\trytab"
   ],
   "environments": [
     "floatingfigure",

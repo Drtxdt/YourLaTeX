@@ -1,4 +1,12 @@
 {
-  "commands": [],
+  "commands": [
+    "\\PosTmpLabel",
+    "\\TwoDimCoul",
+    "\\TwoDimDecalLabel",
+    "\\TwoDimFonte",
+    "\\TwoDimLabel",
+    "\\TwoDimStylePt",
+    "\\TwoDimtaillePt"
+  ],
   "environments": []
 }

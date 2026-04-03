@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\filedate",
+    "\\fileinfo",
+    "\\fileversion",
+    "\\modroman",
+    "\\modromannumeral",
+    "\\nbmodroman"
+  ],
   "environments": []
 }

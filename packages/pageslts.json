@@ -1,20 +1,22 @@
 {
   "commands": [
+    "\\XRoman",
     "\\erroralphalph",
     "\\expandPagenumbering",
+    "\\extract",
+    "\\lastpageref",
     "\\lastpagereftext",
     "\\lastpagereftextstar",
+    "\\lastpagereftxt",
     "\\lastpages",
     "\\pagenumbering",
-    "\\pagesLTS@EveryShipout",
-    "\\pagesLTS@makeHy",
-    "\\pagesLTS@providecounter",
-    "\\pagesLTS@putlabel",
-    "\\pagesLTS@putlabels",
-    "\\pagesLTS@writelabel",
+    "\\pagesLTS",
+    "\\pagesLTSlastpage",
+    "\\pagesLTSlastpageHy",
+    "\\pncmissing",
+    "\\theCurrentPageLocal",
     "\\thepage",
-    "\\xroman",
-    "\\XRoman"
+    "\\xroman"
   ],
   "environments": []
 }

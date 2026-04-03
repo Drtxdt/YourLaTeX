@@ -1,4 +1,12 @@
 {
-  "commands": [],
+  "commands": [
+    "\\cite",
+    "\\citeauthor",
+    "\\citeauthoryear",
+    "\\citenoparens",
+    "\\citetext",
+    "\\citeyear",
+    "\\shortcite"
+  ],
   "environments": []
 }

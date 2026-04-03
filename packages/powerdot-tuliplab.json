@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\labelitemi",
+    "\\labelitemii",
+    "\\labelitemiii",
+    "\\labelitemiv",
+    "\\rmdefault"
+  ],
   "environments": []
 }

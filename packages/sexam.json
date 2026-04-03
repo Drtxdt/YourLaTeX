@@ -3,7 +3,8 @@
     "\\partshook",
     "\\thepartno",
     "\\thequestion",
-    "\\thesubpart"
+    "\\thesubpart",
+    "\\xwords"
   ],
   "environments": []
 }

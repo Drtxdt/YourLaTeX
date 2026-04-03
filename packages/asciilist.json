@@ -1,8 +1,12 @@
 {
-  "commands": [],
+  "commands": [
+    "\\UP",
+    "\\UPTO",
+    "\\do",
+    "\\input"
+  ],
   "environments": [
     "AsciiDocList",
-    "AsciiList",
-    "asclst@Heading"
+    "AsciiList"
   ]
 }

@@ -1,0 +1,34 @@
+{
+  "commands": [
+    "\\coursename",
+    "\\coveranswers",
+    "\\covernoanswers",
+    "\\examname",
+    "\\instructions",
+    "\\instructorname",
+    "\\namespace",
+    "\\printcover",
+    "\\printworkspace",
+    "\\promptrandomexam",
+    "\\promptversions",
+    "\\questionfrombank",
+    "\\setcoursename",
+    "\\setcoveranswers",
+    "\\setcovernoanswers",
+    "\\setexamname",
+    "\\setinstructions",
+    "\\setinstructorname",
+    "\\setnamespace",
+    "\\setnumberofquestions",
+    "\\setquestionpath",
+    "\\setsolutionspace",
+    "\\settermname",
+    "\\setworkspace",
+    "\\termname",
+    "\\workspace"
+  ],
+  "environments": [
+    "questionbank",
+    "versions"
+  ]
+}

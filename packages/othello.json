@@ -1,4 +1,27 @@
 {
-  "commands": [],
+  "commands": [
+    "\\black",
+    "\\botborder",
+    "\\csname",
+    "\\empty",
+    "\\gofontsize",
+    "\\inidiagram",
+    "\\inifulldiagram",
+    "\\lftborder",
+    "\\lftbotcorner",
+    "\\lfttopcorner",
+    "\\neutral",
+    "\\newgoline",
+    "\\pos",
+    "\\rtborder",
+    "\\rtbotcorner",
+    "\\rttopcorner",
+    "\\showdiagram",
+    "\\showfulldiagram",
+    "\\textblack",
+    "\\textwhite",
+    "\\topborder",
+    "\\white"
+  ],
   "environments": []
 }

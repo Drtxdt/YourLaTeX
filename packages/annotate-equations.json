@@ -1,8 +1,10 @@
 {
   "commands": [
+    "\\EAspace",
+    "\\EAxshift",
+    "\\addvalue",
     "\\annotate",
     "\\annotatetwo",
-    "\\EAxshift",
     "\\eqnannotateCurrentNode",
     "\\eqnannotationfont",
     "\\eqnannotationstrut",
@@ -14,8 +16,15 @@
     "\\eqnhighlightshade",
     "\\eqnmark",
     "\\eqnmarkbox",
+    "\\myEAcolor",
+    "\\myEAmarkOne",
+    "\\myEAmarkTwo",
+    "\\myEAmarks",
+    "\\myEAtext",
+    "\\myEAxshift",
     "\\swapNorthSouth",
-    "\\swapWestEast"
+    "\\swapWestEast",
+    "\\usevalue"
   ],
   "environments": []
 }

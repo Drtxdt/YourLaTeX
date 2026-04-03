@@ -1,13 +1,18 @@
 {
   "commands": [
     "\\eqlistauto",
+    "\\eqlistinit",
+    "\\eqlistinitpar",
+    "\\eqlistlabel",
     "\\eqlistnoauto",
-    "\\longitem"
+    "\\eqliststarinit",
+    "\\longitem",
+    "\\makelabel"
   ],
   "environments": [
-    "eqlist",
     "Eqlist",
-    "eqlist*",
-    "Eqlist*"
+    "Eqlist*",
+    "eqlist",
+    "eqlist*"
   ]
 }

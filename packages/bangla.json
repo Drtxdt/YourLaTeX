@@ -4,10 +4,19 @@
     "\\banglaenumerate",
     "\\banglaequation",
     "\\banglafigure",
+    "\\banglaipa",
     "\\banglapage",
     "\\banglasection",
     "\\banglatable",
-    "\\fooA"
+    "\\csname",
+    "\\fooA",
+    "\\xgenerateTransliteration",
+    "\\xxgenerateTransliteration",
+    "\\xxxgenerateTransliteration",
+    "\\zzrow",
+    "\\zztable"
   ],
-  "environments": []
+  "environments": [
+    "isoindictranse"
+  ]
 }

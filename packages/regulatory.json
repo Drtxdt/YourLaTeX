@@ -1,11 +1,20 @@
 {
   "commands": [
-    "\\aref",
     "\\Aref",
+    "\\Nref",
+    "\\Rref",
+    "\\aref",
+    "\\begincompaction",
+    "\\currentendlist",
+    "\\findendlist",
     "\\glossarysection",
     "\\glsnamefont",
-    "\\l@article",
-    "\\l@para",
+    "\\listterminator",
+    "\\nref",
+    "\\rref",
+    "\\sortedlist",
+    "\\sortlist",
+    "\\startlist",
     "\\thearticle",
     "\\thepara"
   ],

@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\DNA",
+    "\\DNAblock",
+    "\\DNAreserve",
+    "\\struty"
+  ],
   "environments": []
 }

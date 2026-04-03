@@ -1,4 +1,16 @@
 {
-  "commands": [],
+  "commands": [
+    "\\filemodNewest",
+    "\\filemodOldest",
+    "\\filemodcmpresult",
+    "\\filemoddate",
+    "\\filemodparse",
+    "\\filemodresultfile",
+    "\\filemodtime",
+    "\\filemodtz",
+    "\\filemodz",
+    "\\thefilemod",
+    "\\thefilemoddate"
+  ],
   "environments": []
 }

@@ -1,0 +1,37 @@
+{
+  "commands": [
+    "\\CAwords",
+    "\\CondSans",
+    "\\CondSansBold",
+    "\\FontWarning",
+    "\\JourName",
+    "\\MonoNotMono",
+    "\\PaperNumber",
+    "\\appendicesname",
+    "\\bibfont",
+    "\\bm",
+    "\\bottomrule",
+    "\\cite",
+    "\\doitext",
+    "\\eqref",
+    "\\figurename",
+    "\\footnote",
+    "\\footnoterule",
+    "\\footrulewidth",
+    "\\headrulewidth",
+    "\\keywordname",
+    "\\linenumberfont",
+    "\\midrule",
+    "\\nomname",
+    "\\revfootnote",
+    "\\ssztwo",
+    "\\tablename",
+    "\\toprule",
+    "\\versiondate",
+    "\\versionno"
+  ],
+  "environments": [
+    "abstract",
+    "nomenclature"
+  ]
+}

@@ -1,22 +1,23 @@
 {
   "commands": [
-    "\\@@section",
-    "\\@section",
     "\\appendixbibliographyprelim",
     "\\appendixbibliographystyle",
     "\\appendixprelim",
+    "\\appendixproof",
     "\\appendixrefname",
     "\\appendixsectionformat",
-    "\\axp@@@section",
-    "\\axp@forward@link",
-    "\\axp@forward@setup",
-    "\\axp@forward@target",
-    "\\axp@redefinelabels",
-    "\\axp@with@forward",
     "\\bibname",
+    "\\claimproof",
+    "\\endappendixproof",
+    "\\endclaimproof",
+    "\\endproof",
+    "\\expandonce",
     "\\mainbodyrepeatedtheorem",
     "\\nosectionappendix",
-    "\\refname"
+    "\\proof",
+    "\\refname",
+    "\\section",
+    "\\tableofcontents"
   ],
   "environments": [
     "proofsketch",

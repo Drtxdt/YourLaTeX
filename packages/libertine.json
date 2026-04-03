@@ -1,10 +1,9 @@
 {
   "commands": [
-    "\\LinuxBiolinumT@scale",
-    "\\LinuxLibertineDisplayT@scale",
-    "\\LinuxLibertineInitialsT@scale",
-    "\\LinuxLibertineMonoT@scale",
-    "\\LinuxLibertineT@scale"
+    "\\rmdefault",
+    "\\sfdefault",
+    "\\sufigures",
+    "\\ttdefault"
   ],
   "environments": []
 }

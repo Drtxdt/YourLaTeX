@@ -1,4 +1,28 @@
 {
-  "commands": [],
+  "commands": [
+    "\\datedate",
+    "\\datedayname",
+    "\\datemonthname",
+    "\\dateselectlanguage",
+    "\\filedate",
+    "\\fileversion",
+    "\\ifleapyear",
+    "\\ifvaliddate",
+    "\\mynextdate",
+    "\\myprevdate",
+    "\\nextdate",
+    "\\prevdate",
+    "\\setdate",
+    "\\setdatebynumber",
+    "\\setdatenumber",
+    "\\setdatetoday",
+    "\\setdayname",
+    "\\setdaynamebynumber",
+    "\\setmonthname",
+    "\\setmydatebynumber",
+    "\\setmydatenumber",
+    "\\setstartyear",
+    "\\thestartyear"
+  ],
   "environments": []
 }

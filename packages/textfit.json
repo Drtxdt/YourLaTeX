@@ -1,4 +1,14 @@
 {
-  "commands": [],
+  "commands": [
+    "\\Fontname",
+    "\\docdate",
+    "\\filedate",
+    "\\fileversion",
+    "\\magstep",
+    "\\magsteps",
+    "\\or",
+    "\\scaletoheight",
+    "\\scaletowidth"
+  ],
   "environments": []
 }

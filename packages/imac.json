@@ -1,7 +1,6 @@
 {
   "commands": [
-    "\\@cite",
-    "\\@makecaption",
+    "\\Programname",
     "\\abstractname",
     "\\dblfloatpagefraction",
     "\\dblfloatsep",
@@ -22,6 +21,7 @@
     "\\sfdefault",
     "\\subsection",
     "\\subsubsection",
+    "\\tablename",
     "\\textfloatsep",
     "\\textfraction",
     "\\vect"

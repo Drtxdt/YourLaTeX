@@ -1,9 +1,33 @@
 {
   "commands": [
+    "\\arraystretch",
+    "\\endtcbverbatimwrite",
+    "\\endtcbwritetemp",
+    "\\endtcolorbox",
+    "\\noexpand",
+    "\\tcbcounter",
+    "\\tcbdimto",
+    "\\tcbglueto",
+    "\\tcbheightfromgroup",
+    "\\tcbifoddpage",
+    "\\tcbifoddpageoroneside",
+    "\\tcblower",
     "\\tcbox",
+    "\\tcbpatcharcangular",
+    "\\tcbpatcharcround",
     "\\tcbpkgprefix",
+    "\\tcbsegmentstate",
+    "\\tcbset",
+    "\\tcbsetforeverylayer",
+    "\\tcbsetmanagedlayers",
     "\\tcbsubskin",
-    "\\tcbsubtitle"
+    "\\tcbsubtitle",
+    "\\tcbtextwidth",
+    "\\tcbuselibrary",
+    "\\tcbusetemp",
+    "\\tcbverbatimwrite",
+    "\\tcbwritetemp",
+    "\\thetcbcounter"
   ],
   "environments": []
 }

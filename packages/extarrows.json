@@ -1,14 +1,14 @@
 {
   "commands": [
-    "\\xleftrightarrow",
     "\\xLeftrightarrow",
+    "\\xLongleftarrow",
+    "\\xLongleftrightarrow",
+    "\\xLongrightarrow",
+    "\\xleftrightarrow",
     "\\xlongequal",
     "\\xlongleftarrow",
-    "\\xLongleftarrow",
     "\\xlongleftrightarrow",
-    "\\xLongleftrightarrow",
-    "\\xlongrightarrow",
-    "\\xLongrightarrow"
+    "\\xlongrightarrow"
   ],
   "environments": []
 }

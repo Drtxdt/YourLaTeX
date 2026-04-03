@@ -1,7 +1,15 @@
 {
   "commands": [
+    "\\Fx",
+    "\\Lapdf",
+    "\\Px",
+    "\\Tx",
+    "\\Ty",
+    "\\endlapdf",
+    "\\endpdf",
     "\\lapdf",
-    "\\pdf"
+    "\\pdf",
+    "\\pdfTeX"
   ],
   "environments": []
 }

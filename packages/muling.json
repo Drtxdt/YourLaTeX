@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\maketitle",
+    "\\shorttitle",
+    "\\subtitle",
+    "\\supervisor"
+  ],
+  "environments": []
+}

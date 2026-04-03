@@ -1,5 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\sotoneteram"
+  ],
   "environments": [
     "tram"
   ]

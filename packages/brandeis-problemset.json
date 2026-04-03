@@ -1,16 +1,15 @@
 {
   "commands": [
-    "\\@seccntformat",
-    "\\bps@pcsym",
-    "\\bps@problem@",
-    "\\bps@problemkeys",
-    "\\bps@setuplistings",
     "\\bpsset",
+    "\\csname",
     "\\maketitle",
     "\\maketitlepage",
     "\\solutionstyle"
   ],
   "environments": [
-    "solution"
+    "ganttschedule",
+    "problem",
+    "solution",
+    "subproblem"
   ]
 }

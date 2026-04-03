@@ -1,7 +1,13 @@
 {
   "commands": [
-    "\\@openffbib@code",
-    "\\fcite"
+    "\\fcite",
+    "\\ffbibcite",
+    "\\ffbibdata",
+    "\\ffbibitem",
+    "\\ffbibliography",
+    "\\ffbibliographystyle",
+    "\\ffbibstyle",
+    "\\noffcite"
   ],
   "environments": [
     "theffbibliography"

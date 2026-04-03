@@ -3,6 +3,7 @@
     "\\additem",
     "\\arraystretch",
     "\\linesep",
+    "\\makeinvoice",
     "\\setaccountnumber",
     "\\setaddress",
     "\\setdeadline",

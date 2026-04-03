@@ -1,0 +1,37 @@
+{
+  "commands": [
+    "\\bodyoftext",
+    "\\chaptermark",
+    "\\deptfactemp",
+    "\\doublespacing",
+    "\\insertappendix",
+    "\\insertchapter",
+    "\\insertcode",
+    "\\insertimage",
+    "\\insertlatexfile",
+    "\\insertpdf",
+    "\\insertprefatory",
+    "\\inserttable",
+    "\\normalspacing",
+    "\\onehalfspacing",
+    "\\sectionmark",
+    "\\singlespacing",
+    "\\specializationtemp",
+    "\\today",
+    "\\triplespacing",
+    "\\truedoublespacing"
+  ],
+  "environments": [
+    "description",
+    "figure",
+    "figure*",
+    "plate",
+    "plate*",
+    "quotation",
+    "quote",
+    "table",
+    "table*",
+    "titlepage",
+    "verse"
+  ]
+}

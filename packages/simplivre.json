@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\limstrut",
+    "\\loweredvdots",
+    "\\raisesymbol",
+    "\\setminus",
+    "\\varinjlim",
+    "\\varprojlim"
+  ],
+  "environments": []
+}

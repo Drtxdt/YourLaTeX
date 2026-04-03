@@ -1,11 +1,18 @@
 {
   "commands": [
-    "\\@pnumwidth",
-    "\\@tocrmarg",
+    "\\Bib",
+    "\\BibTeX",
+    "\\CPKmenusep",
     "\\CPKpoststrut",
     "\\CPKprestrut",
     "\\CPKrunningecho",
-    "\\CPKvstrut"
+    "\\CPKvstrut",
+    "\\ConTeXt",
+    "\\MacroFont",
+    "\\XeLaTeX",
+    "\\XeTeX",
+    "\\tubhideheight",
+    "\\tubreflect"
   ],
   "environments": []
 }

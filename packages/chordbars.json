@@ -1,15 +1,22 @@
 {
   "commands": [
+    "\\MajS",
+    "\\add",
     "\\addHalfBar",
     "\\addMeasures",
+    "\\addN",
+    "\\barsize",
     "\\bpbfour",
     "\\bpbthree",
     "\\bpm",
+    "\\chordFontSize",
     "\\chordf",
     "\\chordh",
     "\\chordline",
     "\\countbarsNo",
     "\\countbarsYes",
+    "\\delta",
+    "\\dim",
     "\\flat",
     "\\newchordline",
     "\\printNbBars",
@@ -17,7 +24,13 @@
     "\\repeatBarPair",
     "\\resetchordbars",
     "\\sharp",
-    "\\songtitle"
+    "\\songtitle",
+    "\\susF",
+    "\\titleFontSize",
+    "\\vspaceafter",
+    "\\vspacebefore",
+    "\\xoffset",
+    "\\ycoeff"
   ],
   "environments": [
     "chordbar",

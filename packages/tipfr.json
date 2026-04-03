@@ -1,9 +1,10 @@
 {
   "commands": [
-    "\\Calculatrice@nostar",
-    "\\Calculatrice@star",
-    "\\Def@Bool",
     "\\DefBool",
+    "\\domain",
+    "\\fileauthor",
+    "\\filedate",
+    "\\fileversion",
     "\\tabcolsep"
   ],
   "environments": []

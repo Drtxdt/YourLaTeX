@@ -1,8 +1,9 @@
 {
   "commands": [
+    "\\SetSinglespace",
+    "\\baselinestretch",
     "\\doublespacing",
     "\\onehalfspacing",
-    "\\SetSinglespace",
     "\\setstretch",
     "\\singlespacing",
     "\\spacesetup"

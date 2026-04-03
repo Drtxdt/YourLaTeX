@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\addcontentsline",
+    "\\cref",
+    "\\do",
+    "\\marginpar",
+    "\\ref"
+  ],
   "environments": []
 }

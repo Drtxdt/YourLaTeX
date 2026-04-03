@@ -1,4 +1,20 @@
 {
-  "commands": [],
+  "commands": [
+    "\\endoutline",
+    "\\labeloutlni",
+    "\\labeloutlnii",
+    "\\labeloutlniii",
+    "\\labeloutlniv",
+    "\\labeloutlnv",
+    "\\labeloutlnvi",
+    "\\makelabel",
+    "\\outline",
+    "\\theoutlni",
+    "\\theoutlnii",
+    "\\theoutlniii",
+    "\\theoutlniv",
+    "\\theoutlnv",
+    "\\theoutlnvi"
+  ],
   "environments": []
 }

@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\cvsection",
+    "\\desc",
+    "\\email",
+    "\\mailingaddr",
+    "\\maketitle",
+    "\\name",
+    "\\phone",
+    "\\webpage"
+  ],
+  "environments": [
+    "detail"
+  ]
+}

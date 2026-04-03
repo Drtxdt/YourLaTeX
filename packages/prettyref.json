@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\newrefformat",
+    "\\prettyref"
+  ],
   "environments": []
 }

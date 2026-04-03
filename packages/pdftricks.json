@@ -1,5 +1,25 @@
 {
-  "commands": [],
+  "commands": [
+    "\\Array",
+    "\\ArrayIterator",
+    "\\BeforeStream",
+    "\\DeclareArray",
+    "\\Filedate",
+    "\\Fileversion",
+    "\\PDFTWarning",
+    "\\PDFTWarningNoLine",
+    "\\PDFTfigname",
+    "\\addToArray",
+    "\\clearArray",
+    "\\configure",
+    "\\endpdfverbatimwrite",
+    "\\expandafter",
+    "\\getArraylength",
+    "\\hyphencheck",
+    "\\noprocess",
+    "\\pdfverbatimwrite",
+    "\\tmpfile"
+  ],
   "environments": [
     "pdfdisplay",
     "pdfinline",

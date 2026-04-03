@@ -4,6 +4,8 @@
     "\\tdplotcalctransformmainscreen",
     "\\tdplotcalctransformrotmain",
     "\\tdplotcheckdiff",
+    "\\tdplotcrossprod",
+    "\\tdplotdefinepoints",
     "\\tdplotdiv",
     "\\tdplotdosurfaceplot",
     "\\tdplotdrawarc",

@@ -1,7 +1,9 @@
 {
   "commands": [
-    "\\truncate",
-    "\\TruncateMarker"
+    "\\TruncateMarker",
+    "\\expandafter",
+    "\\selectfont",
+    "\\truncate"
   ],
   "environments": []
 }

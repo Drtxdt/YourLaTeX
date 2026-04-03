@@ -1,7 +1,5 @@
 {
   "commands": [
-    "\\COOL@intEnd",
-    "\\COOL@strEnd",
     "\\ifstrchareq",
     "\\ifstrleneq",
     "\\isdecimal",

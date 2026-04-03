@@ -1,6 +1,18 @@
 {
   "commands": [
-    "\\signchart"
+    "\\signChartWidth",
+    "\\signHeight",
+    "\\signHeightKey",
+    "\\signchart",
+    "\\signs",
+    "\\theArrow",
+    "\\thisVal",
+    "\\valNorthSouth",
+    "\\valNorthSouthKey",
+    "\\valSep",
+    "\\valSepKey",
+    "\\vals",
+    "\\valsarray"
   ],
   "environments": []
 }

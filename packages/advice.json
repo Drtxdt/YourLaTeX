@@ -1,4 +1,28 @@
 {
-  "commands": [],
+  "commands": [
+    "\\AdviceAfterSetup",
+    "\\AdviceArgs",
+    "\\AdviceBailoutHandler",
+    "\\AdviceCollector",
+    "\\AdviceCollectorOptions",
+    "\\AdviceCsnameGetOriginal",
+    "\\AdviceGetOriginal",
+    "\\AdviceIfArgs",
+    "\\AdviceInnerHandler",
+    "\\AdviceName",
+    "\\AdviceNamespace",
+    "\\AdviceOptions",
+    "\\AdviceOriginal",
+    "\\AdviceOuterHandler",
+    "\\AdviceRawCollectorOptions",
+    "\\AdviceReplaced",
+    "\\AdviceRunConditions",
+    "\\AdviceSetup",
+    "\\AdviceTracingOff",
+    "\\AdviceTracingOn",
+    "\\AdviceType",
+    "\\expandafter",
+    "\\noexpand"
+  ],
   "environments": []
 }

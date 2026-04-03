@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\fmm@scale"
+    "\\fmmLaTeX",
+    "\\fmmTeX"
   ],
   "environments": []
 }

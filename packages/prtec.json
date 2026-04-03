@@ -1,0 +1,26 @@
+{
+  "commands": [
+    "\\CAemail",
+    "\\HeaderConfName",
+    "\\PaperNo",
+    "\\PaperTitle",
+    "\\bibfont",
+    "\\bm",
+    "\\cite",
+    "\\confcity",
+    "\\confdate",
+    "\\confname",
+    "\\doitext",
+    "\\eqref",
+    "\\footnote",
+    "\\footnoterule",
+    "\\footrulewidth",
+    "\\headrulewidth",
+    "\\paperno",
+    "\\papertitle",
+    "\\thefootnote",
+    "\\versiondate",
+    "\\versionno"
+  ],
+  "environments": []
+}

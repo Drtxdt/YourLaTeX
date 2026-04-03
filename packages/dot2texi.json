@@ -1,4 +1,8 @@
 {
-  "commands": [],
+  "commands": [
+    "\\BeforeStream",
+    "\\dottotexverbatimwrite",
+    "\\enddottotexverbatimwrite"
+  ],
   "environments": []
 }

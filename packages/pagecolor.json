@@ -5,6 +5,7 @@
     "\\newpagecolor",
     "\\nopagecolor",
     "\\pagecolor",
+    "\\pagecolortmpb",
     "\\restorebackgroundpagecolor",
     "\\restorepagecolor"
   ],

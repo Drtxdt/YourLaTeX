@@ -14,15 +14,7 @@
     "\\fancytabsTextVPos",
     "\\fancytabsTop",
     "\\fancytabsWidth",
-    "\\multiplier",
-    "\\tab@count",
-    "\\tab@floor",
-    "\\tab@leftcolor",
-    "\\tab@rightcolor",
-    "\\tab@rotate",
-    "\\tab@style",
-    "\\tab@texthpos",
-    "\\tab@textvpos"
+    "\\multiplier"
   ],
   "environments": []
 }

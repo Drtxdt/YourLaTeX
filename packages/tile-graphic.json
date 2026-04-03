@@ -1,8 +1,26 @@
 {
   "commands": [
+    "\\CommentCutFile",
+    "\\IWTD",
+    "\\afterPkgCreationHook",
+    "\\afterTileCreationHook",
+    "\\compileTileFiles",
     "\\definePath",
+    "\\dvipsappArgs",
+    "\\fullPathToSource",
+    "\\latexappArgs",
     "\\packagesuffix",
-    "\\setTileParams"
+    "\\pathToPic",
+    "\\pkgappArgs",
+    "\\setTileParams",
+    "\\string",
+    "\\syscopy",
+    "\\sysdel",
+    "\\sysmove",
+    "\\tgInFolder",
+    "\\tileTheGraphic",
+    "\\tileappArgs",
+    "\\wrtTileCuts"
   ],
   "environments": []
 }

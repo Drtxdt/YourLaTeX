@@ -1,6 +1,13 @@
 {
   "commands": [
-    "\\MGreek"
+    "\\ISOfam",
+    "\\ISOohm",
+    "\\ISOser",
+    "\\ISOsha",
+    "\\MGreek",
+    "\\mathit",
+    "\\mathrm",
+    "\\unit"
   ],
   "environments": []
 }

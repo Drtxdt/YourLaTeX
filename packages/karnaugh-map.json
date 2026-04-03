@@ -1,39 +1,8 @@
 {
   "commands": [
-    "\\@karnaughmap@func@bailoutsideenvironment@",
-    "\\@karnaughmap@func@decimaltobin@",
-    "\\@karnaughmap@func@updatecolor@",
-    "\\@karnaughmap@local@bordercontent@",
-    "\\@karnaughmap@local@coordinateone@",
-    "\\@karnaughmap@local@coordinatetwo@",
-    "\\@karnaughmap@local@fillcontent@",
-    "\\@karnaughmap@local@maprealignmentx@",
-    "\\@karnaughmap@local@maprealignmenty@",
-    "\\@karnaughmap@local@matrixtemplate@",
-    "\\@karnaughmap@local@mirror@",
-    "\\@karnaughmap@local@mirrorx@",
-    "\\@karnaughmap@local@mirrory@",
-    "\\@karnaughmap@local@orientation@",
-    "\\@karnaughmap@local@tmpusedcells@",
-    "\\@karnaughmap@option@implicantcolors",
-    "\\@karnaughmap@option@label",
-    "\\@karnaughmap@var@bw@",
-    "\\@karnaughmap@var@color@",
-    "\\@karnaughmap@var@colors@",
-    "\\@karnaughmap@var@labelA@",
-    "\\@karnaughmap@var@labelB@",
-    "\\@karnaughmap@var@labelC@",
-    "\\@karnaughmap@var@labelD@",
-    "\\@karnaughmap@var@labelE@",
-    "\\@karnaughmap@var@labelF@",
-    "\\@karnaughmap@var@labeltype@",
-    "\\@karnaughmap@var@labelX@",
-    "\\@karnaughmap@var@labelY@",
-    "\\@karnaughmap@var@labelZ@",
-    "\\@karnaughmap@var@mapsizex@",
-    "\\@karnaughmap@var@mapsizey@",
-    "\\@karnaughmap@var@mapsizez@",
-    "\\@karnaughmap@var@usedcells@"
+    "\\expandafter"
   ],
-  "environments": []
+  "environments": [
+    "karnaugh-map"
+  ]
 }

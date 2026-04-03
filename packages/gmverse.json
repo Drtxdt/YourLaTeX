@@ -1,5 +1,12 @@
 {
-  "commands": [],
+  "commands": [
+    "\\afterfi",
+    "\\defobeylines",
+    "\\firstofone",
+    "\\ignoreactiveM",
+    "\\par",
+    "\\verseopticalcenter"
+  ],
   "environments": [
     "prosato"
   ]

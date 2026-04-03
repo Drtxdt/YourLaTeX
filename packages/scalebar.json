@@ -1,7 +1,6 @@
 {
   "commands": [
-    "\\SB@unitB",
-    "\\SB@unitT",
+    "\\SBRound",
     "\\scalebar"
   ],
   "environments": []

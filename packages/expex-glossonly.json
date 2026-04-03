@@ -1,6 +1,13 @@
 {
   "commands": [
-    "\\EPGL@glosslineone"
+    "\\aboveskiplist",
+    "\\colorlist",
+    "\\everylist",
+    "\\itemtypelist",
+    "\\mainlist",
+    "\\newb",
+    "\\printGramm",
+    "\\strutlist"
   ],
   "environments": []
 }

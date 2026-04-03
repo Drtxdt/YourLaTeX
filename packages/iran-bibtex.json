@@ -1,10 +1,14 @@
 {
   "commands": [
     "\\cite",
+    "\\csname",
     "\\doi",
     "\\enquote",
     "\\eprint",
+    "\\extrayearlabelen",
     "\\faquote",
+    "\\iranbibtexdate",
+    "\\iranbibtexfirstrelease",
     "\\url"
   ],
   "environments": []

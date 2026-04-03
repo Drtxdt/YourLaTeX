@@ -1,7 +1,11 @@
 {
   "commands": [
-    "\\@isnumber",
-    "\\@scannumber"
+    "\\argdef",
+    "\\bibliography",
+    "\\mylop",
+    "\\mylopoff",
+    "\\newcites",
+    "\\thebibliography"
   ],
   "environments": []
 }

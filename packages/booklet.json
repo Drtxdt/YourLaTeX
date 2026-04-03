@@ -1,13 +1,13 @@
 {
   "commands": [
     "\\checkforlandscape",
+    "\\magstepminus",
     "\\pagespersignature",
     "\\setdvipstargetpages",
     "\\setpdftargetpages",
     "\\source",
     "\\target",
     "\\targettopbottom",
-    "\\twoup@end",
     "\\twoupclearpage",
     "\\twoupemptypage"
   ],

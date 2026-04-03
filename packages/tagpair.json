@@ -1,6 +1,7 @@
 {
   "commands": [
     "\\bottomline",
+    "\\linewidthfactor",
     "\\narrowraggedleft",
     "\\pairing"
   ],

@@ -1,8 +1,11 @@
 {
   "commands": [
+    "\\ProcessUnusedOptions",
+    "\\WarningIfLoaded",
+    "\\WarningIfLoadedNoOption",
+    "\\expandafter",
     "\\ficshape",
     "\\fscshape",
-    "\\ProcessUnusedOptions",
     "\\selectgreekfamily"
   ],
   "environments": []

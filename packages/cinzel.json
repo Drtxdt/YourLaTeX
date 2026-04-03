@@ -1,4 +1,8 @@
 {
-  "commands": [],
+  "commands": [
+    "\\cinzelfamily",
+    "\\itshape",
+    "\\rmdefault"
+  ],
   "environments": []
 }

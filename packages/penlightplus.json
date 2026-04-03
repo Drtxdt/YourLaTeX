@@ -1,5 +1,6 @@
 {
   "commands": [
+    "\\luastringE",
     "\\writePDFmetadata"
   ],
   "environments": []

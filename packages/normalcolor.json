@@ -1,7 +1,10 @@
 {
   "commands": [
-    "\\@@setnormalcolor",
-    "\\@setnormalcolor"
+    "\\filedate",
+    "\\filerevision",
+    "\\noexpand",
+    "\\resetnormalcolor",
+    "\\setnormalcolor"
   ],
   "environments": []
 }

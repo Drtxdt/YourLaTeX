@@ -8,9 +8,9 @@
     "\\ActionEvenement",
     "\\ActionFranchissement",
     "\\ActionRecept",
-    "\\Actions",
     "\\ActionX",
     "\\ActionXV",
+    "\\Actions",
     "\\BrancheOU",
     "\\CadreEncap",
     "\\Comment",
@@ -41,10 +41,10 @@
     "\\Lien",
     "\\LienActivation",
     "\\LienRetour",
-    "\\LienRetoura",
     "\\LienRetourN",
     "\\LienRetourOU",
     "\\LienRetourUp",
+    "\\LienRetoura",
     "\\MacroEtape",
     "\\MacroEtapeE",
     "\\MacroEtapeS",
@@ -59,7 +59,10 @@
     "\\Transition",
     "\\TransitionPuits",
     "\\TransitionRecept",
-    "\\TransitionSource"
+    "\\TransitionSource",
+    "\\encap",
+    "\\nometape",
+    "\\nomgraphe"
   ],
   "environments": [
     "Encap"

@@ -1,6 +1,7 @@
 {
   "commands": [
     "\\ispm",
+    "\\ispmc",
     "\\ispmcomma",
     "\\ispmdexpm",
     "\\ispmdexpmt",
@@ -8,6 +9,7 @@
     "\\ispmdexppt",
     "\\ispmeighth",
     "\\ispmfifth",
+    "\\ispmflushpd",
     "\\ispmfourth",
     "\\ispmn",
     "\\ispmninth",
@@ -16,6 +18,7 @@
     "\\ispmone",
     "\\ispmpl",
     "\\ispmpr",
+    "\\ispmrc",
     "\\ispms",
     "\\ispmseventh",
     "\\ispmsixth",

@@ -1,8 +1,16 @@
 {
   "commands": [
-    "\\@mciteNatbibCiteCmdList",
+    "\\bibliography",
+    "\\bibliographystyle",
+    "\\bibnote",
+    "\\bibnotemark",
+    "\\bibnotetext",
+    "\\bibnumfmt",
     "\\cite",
-    "\\latin"
+    "\\citenumfont",
+    "\\expandafter",
+    "\\latin",
+    "\\thebibnote"
   ],
   "environments": []
 }

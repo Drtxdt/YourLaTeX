@@ -1,20 +1,27 @@
 {
   "commands": [
+    "\\ClozeSetLocalOptions",
+    "\\ClozeTextColor",
     "\\cloze",
     "\\clozeextend",
     "\\clozefil",
     "\\clozefix",
+    "\\clozefixplain",
     "\\clozehide",
     "\\clozeline",
     "\\clozelinefil",
+    "\\clozelinefilplain",
+    "\\clozelineplain",
     "\\clozenol",
+    "\\clozenolplain",
+    "\\clozeplain",
     "\\clozeset",
     "\\clozesetoption",
     "\\clozeshow",
-    "\\clozestrike",
-    "\\ClozeTextColor"
+    "\\clozestrike"
   ],
   "environments": [
+    "clozebox",
     "clozepar",
     "clozespace"
   ]

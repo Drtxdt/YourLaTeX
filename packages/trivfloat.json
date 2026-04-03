@@ -1,24 +1,7 @@
 {
   "commands": [
-    "\\@chapter",
-    "\\tfl@bgroup",
-    "\\tfl@chapter",
-    "\\tfl@chapter@fix",
-    "\\tfl@chapter@hook",
-    "\\tfl@egroup",
-    "\\tfl@floatname",
-    "\\tfl@generate@ext",
-    "\\tfl@make@execute",
-    "\\tfl@make@float",
-    "\\tfl@make@floatrow",
-    "\\tfl@make@memoir",
-    "\\tfl@make@names",
-    "\\tfl@make@pkg",
-    "\\tfl@name@format",
-    "\\tfl@trivfloat",
-    "\\tfl@uppercase",
-    "\\tfl@uppercase@aux",
-    "\\tfl@upperfirst",
+    "\\i",
+    "\\j",
     "\\trivfloat"
   ],
   "environments": []

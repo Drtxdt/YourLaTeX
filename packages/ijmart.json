@@ -1,0 +1,35 @@
+{
+  "commands": [
+    "\\and",
+    "\\andify",
+    "\\appendix",
+    "\\author",
+    "\\centeredsection",
+    "\\curraddr",
+    "\\curraddrname",
+    "\\doiinfo",
+    "\\email",
+    "\\emailaddrname",
+    "\\footnoterule",
+    "\\footrulewidth",
+    "\\headrulewidth",
+    "\\mqedhere",
+    "\\pagespan",
+    "\\paragraph",
+    "\\qed",
+    "\\qedsymbol",
+    "\\section",
+    "\\subparagraph",
+    "\\subsection",
+    "\\subsubsection",
+    "\\thanks",
+    "\\thefootnote",
+    "\\thesection",
+    "\\urladdr",
+    "\\urladdrname"
+  ],
+  "environments": [
+    "namedprop",
+    "namedprop*"
+  ]
+}

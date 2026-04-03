@@ -1,4 +1,27 @@
 {
-  "commands": [],
+  "commands": [
+    "\\BrokenBinOff",
+    "\\BrokenBinOn",
+    "\\SetBreakableBin",
+    "\\SetBreakableInner",
+    "\\SetBreakableRel",
+    "\\SetMathOperator",
+    "\\SetOpenBracket",
+    "\\SetPunctuation",
+    "\\UnicodeMathSymbol",
+    "\\UnsetBrokenCmd",
+    "\\brokenbin",
+    "\\brokeninner",
+    "\\brokenrel",
+    "\\cdott",
+    "\\cmd",
+    "\\endxy",
+    "\\expandafter",
+    "\\nobr",
+    "\\par",
+    "\\xDeclareBoolOptionX",
+    "\\xDeclareChoiceOptionX",
+    "\\xy"
+  ],
   "environments": []
 }

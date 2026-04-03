@@ -1,5 +1,8 @@
 {
   "commands": [
+    "\\IfBoolFalse",
+    "\\IfBoolTF",
+    "\\IfTokenListEmpty",
     "\\tblrcontfootname",
     "\\tblrcontheadname"
   ],

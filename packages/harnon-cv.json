@@ -1,0 +1,30 @@
+{
+  "commands": [
+    "\\FrameCommand",
+    "\\addcallout",
+    "\\adddocumentheader",
+    "\\addheadertext",
+    "\\addsubheader",
+    "\\addtimelinebullet",
+    "\\addtimelineheader",
+    "\\author",
+    "\\recenthistory",
+    "\\starttimeline",
+    "\\stoptimeline",
+    "\\timelineitem",
+    "\\timelinespacer",
+    "\\youraddress",
+    "\\youremail",
+    "\\yourname",
+    "\\yournumber",
+    "\\yourwebsite"
+  ],
+  "environments": [
+    "callout",
+    "sectionheader",
+    "subheader",
+    "timelinebar",
+    "timelinebullet",
+    "timelineheader"
+  ]
+}

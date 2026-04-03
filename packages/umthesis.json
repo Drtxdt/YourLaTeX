@@ -1,0 +1,43 @@
+{
+  "commands": [
+    "\\abschairname",
+    "\\appendixpage",
+    "\\bibpreamble",
+    "\\bibsection",
+    "\\chaircommitteemember",
+    "\\chaptername",
+    "\\cochaircommitteemember",
+    "\\committee",
+    "\\committeemember",
+    "\\descripthook",
+    "\\enumerate",
+    "\\enumhook",
+    "\\enumhooki",
+    "\\enumhookii",
+    "\\enumhookiii",
+    "\\enumhookiv",
+    "\\fileauthor",
+    "\\filedate",
+    "\\filename",
+    "\\fileversion",
+    "\\heading",
+    "\\itemhook",
+    "\\itemhooki",
+    "\\itemhookii",
+    "\\itemhookiii",
+    "\\itemhookiv",
+    "\\itemize",
+    "\\mainmatter",
+    "\\makecopyright",
+    "\\makelabel",
+    "\\prefacename"
+  ],
+  "environments": [
+    "abstract",
+    "acknowledgments",
+    "dedication",
+    "finalabstract",
+    "frontispiece",
+    "preface"
+  ]
+}

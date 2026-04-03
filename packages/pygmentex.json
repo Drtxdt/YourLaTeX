@@ -1,7 +1,13 @@
 {
-  "commands": [],
+  "commands": [
+    "\\FormatLineNumber",
+    "\\VerbatimOutAppend",
+    "\\remainingglobaloptions",
+    "\\remainingoptions",
+    "\\remaininguseroptions",
+    "\\widest"
+  ],
   "environments": [
-    "pygmented",
-    "pygmented@snippet@framed"
+    "pygmented"
   ]
 }

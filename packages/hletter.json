@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\closing",
+    "\\closingtwo",
+    "\\opening",
+    "\\reference",
+    "\\reftext",
+    "\\sign"
+  ],
+  "environments": []
+}

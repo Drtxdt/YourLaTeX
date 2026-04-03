@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\do",
+    "\\paste",
+    "\\sendout",
+    "\\shipout"
+  ],
   "environments": []
 }

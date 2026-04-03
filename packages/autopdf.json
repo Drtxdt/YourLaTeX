@@ -1,4 +1,17 @@
 {
-  "commands": [],
+  "commands": [
+    "\\AND",
+    "\\DELETE",
+    "\\LEFT",
+    "\\OR",
+    "\\REDIRTO",
+    "\\RIGHT",
+    "\\SILENT",
+    "\\autopdfinclude",
+    "\\csname",
+    "\\expandafter",
+    "\\noexpand",
+    "\\string"
+  ],
   "environments": []
 }

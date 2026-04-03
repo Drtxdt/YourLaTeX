@@ -1,12 +1,10 @@
 {
   "commands": [
-    "\\grid@unique@test",
+    "\\SavePos",
     "\\gridbase",
     "\\gridinterval",
-    "\\gridset@luaorpdf",
     "\\newpos",
     "\\savepos",
-    "\\SavePos",
     "\\thegridinfo",
     "\\theposinfo",
     "\\theypos",

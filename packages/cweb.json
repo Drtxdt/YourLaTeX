@@ -1,0 +1,32 @@
+{
+  "commands": [
+    "\\CwebBaseClass",
+    "\\CwebCRChanged",
+    "\\CwebChangedListName",
+    "\\CwebCrossRef",
+    "\\CwebIdIndex",
+    "\\CwebIndexDeclared",
+    "\\CwebIndexEntry",
+    "\\CwebListSection",
+    "\\CwebListSectionDiv",
+    "\\CwebReadIndex",
+    "\\CwebReadPPList",
+    "\\CwebRefList",
+    "\\CwebRefListName",
+    "\\CwebXRCite",
+    "\\CwebXRCites",
+    "\\CwebXRUse",
+    "\\CwebXRUses",
+    "\\I",
+    "\\RCSClass",
+    "\\csname",
+    "\\cwbbRank",
+    "\\cweb",
+    "\\date",
+    "\\enddocument",
+    "\\id",
+    "\\next",
+    "\\numberline"
+  ],
+  "environments": []
+}

@@ -1,10 +1,5 @@
 {
   "commands": [
-    "\\@chapapp",
-    "\\@epipos",
-    "\\@epirule",
-    "\\@episource",
-    "\\@epitext",
     "\\dropchapter",
     "\\epigraph",
     "\\epigraphflush",

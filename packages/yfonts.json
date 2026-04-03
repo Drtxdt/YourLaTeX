@@ -1,5 +1,14 @@
 {
   "commands": [
+    "\\frakdefault",
+    "\\frakfamily",
+    "\\fraklines",
+    "\\gothdefault",
+    "\\gothfamily",
+    "\\initdefault",
+    "\\initfamily",
+    "\\swabdefault",
+    "\\swabfamily",
     "\\yinipar",
     "\\yinitpar"
   ],

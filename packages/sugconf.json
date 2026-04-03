@@ -1,0 +1,24 @@
+{
+  "commands": [
+    "\\OtherTrademarks",
+    "\\SASisRegisteredTrademark",
+    "\\SASregistered",
+    "\\SUGconfKeywords",
+    "\\SUGconfSubject",
+    "\\bottomfraction",
+    "\\contentsname",
+    "\\refname",
+    "\\rmdefault",
+    "\\section",
+    "\\sfdefault",
+    "\\subsection",
+    "\\sugconfbanner",
+    "\\sugconfkeywords",
+    "\\sugconfpapernumber",
+    "\\sugconfsubject",
+    "\\textfraction",
+    "\\tightlist",
+    "\\ttdefault"
+  ],
+  "environments": []
+}

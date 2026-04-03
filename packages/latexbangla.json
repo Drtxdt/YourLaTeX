@@ -1,5 +1,7 @@
 {
   "commands": [
+    "\\equationautorefname",
+    "\\numtobangla",
     "\\thecorollary",
     "\\theenumi",
     "\\theenumii",
@@ -9,7 +11,8 @@
     "\\thefootnote",
     "\\theproblem",
     "\\theproperty",
-    "\\thetheorem"
+    "\\thetheorem",
+    "\\tobangla"
   ],
   "environments": [
     "latin",

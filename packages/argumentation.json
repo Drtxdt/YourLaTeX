@@ -1,11 +1,11 @@
 {
   "commands": [
-    "\\@arg@style",
     "\\AF",
     "\\AFcomplete",
     "\\afref",
     "\\arguments",
     "\\attacks",
+    "\\csname",
     "\\do",
     "\\fullafref",
     "\\setafstyle",
@@ -15,5 +15,8 @@
     "\\setattackstyle",
     "\\setsupportstyle"
   ],
-  "environments": []
+  "environments": [
+    "af",
+    "af*"
+  ]
 }

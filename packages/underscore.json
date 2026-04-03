@@ -1,7 +1,11 @@
 {
   "commands": [
+    "\\ActiveUnderscore",
     "\\BreakableUnderscore",
-    "\\UnderscoreCommands"
+    "\\UnderscoreCommands",
+    "\\do",
+    "\\expandafter",
+    "\\noexpand"
   ],
   "environments": []
 }

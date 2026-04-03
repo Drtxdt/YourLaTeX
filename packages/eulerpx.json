@@ -1,6 +1,25 @@
 {
   "commands": [
-    "\\sum"
+    "\\Im",
+    "\\Re",
+    "\\aleph",
+    "\\filedate",
+    "\\fileversion",
+    "\\ge",
+    "\\hbar",
+    "\\le",
+    "\\mathfrak",
+    "\\mathscr",
+    "\\mathsection",
+    "\\smallsum",
+    "\\sum",
+    "\\varaleph",
+    "\\varmathfrak",
+    "\\varmathscr",
+    "\\varrho",
+    "\\varsigma",
+    "\\varsmallsum",
+    "\\varsum"
   ],
   "environments": []
 }

@@ -1,5 +1,19 @@
 {
   "commands": [
+    "\\abIconCertificate",
+    "\\abIconCheck",
+    "\\abIconCogs",
+    "\\abIconExclamationCircle",
+    "\\abIconExclamationTriangle",
+    "\\abIconFire",
+    "\\abIconGithub",
+    "\\abIconInfoCircle",
+    "\\abIconLightBulb",
+    "\\abIconThumbsDown",
+    "\\abIconThumbsUp",
+    "\\abIconTwitter",
+    "\\abLongLine",
+    "\\abShortLine",
     "\\aweboxdebug",
     "\\awesomeboxadjustcontentwidth",
     "\\awesomeboxrestorecontentwidth",
@@ -10,6 +24,7 @@
     "\\warningbox"
   ],
   "environments": [
+    "awesomeblock",
     "cautionblock",
     "importantblock",
     "noteblock",

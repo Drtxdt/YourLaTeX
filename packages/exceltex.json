@@ -1,5 +1,7 @@
 {
   "commands": [
+    "\\cellrefs",
+    "\\exceltexVersion",
     "\\inccell",
     "\\inctab"
   ],

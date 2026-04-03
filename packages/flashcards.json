@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\cardbackstyle",
+    "\\cardfrontfoot",
+    "\\cardfrontfootstyle",
+    "\\cardfrontheadstyle",
+    "\\cardfrontstyle"
+  ],
+  "environments": [
+    "flashcard"
+  ]
+}

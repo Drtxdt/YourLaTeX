@@ -1,4 +1,8 @@
 {
-  "commands": [],
+  "commands": [
+    "\\docmute",
+    "\\document",
+    "\\documentclass"
+  ],
   "environments": []
 }

@@ -1,14 +1,12 @@
 {
   "commands": [
-    "\\addansw@r",
-    "\\addansw@rstar",
-    "\\answ@r",
-    "\\answ@rstar",
     "\\ExamClass",
     "\\ExamHead",
     "\\ExamInstrBox",
     "\\ExamName",
     "\\ExamNameLine",
+    "\\addanswer",
+    "\\answer",
     "\\noanswer"
   ],
   "environments": []

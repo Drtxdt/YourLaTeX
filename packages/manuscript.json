@@ -1,11 +1,14 @@
 {
   "commands": [
+    "\\bfseries",
     "\\descfont",
+    "\\em",
     "\\emph",
     "\\rmdefault",
     "\\sectfont",
     "\\sfdefault",
     "\\textbf",
+    "\\thefootnote",
     "\\ttdefault"
   ],
   "environments": []

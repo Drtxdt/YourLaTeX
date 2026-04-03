@@ -1,0 +1,26 @@
+{
+  "commands": [
+    "\\CJKindent",
+    "\\chaptermark",
+    "\\hei",
+    "\\heiti",
+    "\\makecover",
+    "\\makelabel",
+    "\\numberline",
+    "\\sectionmark",
+    "\\song",
+    "\\songti",
+    "\\tableofcontents",
+    "\\version",
+    "\\xduthesis"
+  ],
+  "environments": [
+    "acknowledgments",
+    "cabstract",
+    "cauthorbio",
+    "ckeywords",
+    "eabstract",
+    "eauthorbio",
+    "ekeywords"
+  ]
+}

@@ -1,4 +1,14 @@
 {
-  "commands": [],
+  "commands": [
+    "\\Longarrownot",
+    "\\Longmapsfrom",
+    "\\Longmapsto",
+    "\\Mapsfrom",
+    "\\Mapsto",
+    "\\longarrownot",
+    "\\longmapsfrom",
+    "\\mapsfrom",
+    "\\varcopyright"
+  ],
   "environments": []
 }

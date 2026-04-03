@@ -1,10 +1,5 @@
 {
   "commands": [
-    "\\@eemeir",
-    "\\@eemeirF",
-    "\\@eemeirM",
-    "\\@eemeirword",
-    "\\@newwordpair",
     "\\askforgender",
     "\\female",
     "\\male",

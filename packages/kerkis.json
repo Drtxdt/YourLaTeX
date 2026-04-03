@@ -1,10 +1,14 @@
 {
   "commands": [
+    "\\LaTeX",
+    "\\LaTeXe",
+    "\\Stigma",
     "\\calshape",
     "\\rmdefault",
     "\\sbseries",
     "\\scslshape",
     "\\sfdefault",
+    "\\stigma",
     "\\textcal",
     "\\textsb",
     "\\textscsl",

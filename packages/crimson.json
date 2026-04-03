@@ -1,6 +1,9 @@
 {
   "commands": [
-    "\\Crimson@scale"
+    "\\crimson",
+    "\\crimsonlining",
+    "\\crimsonoldstyle",
+    "\\crimsonsemibold"
   ],
   "environments": []
 }

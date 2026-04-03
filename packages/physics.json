@@ -1,5 +1,7 @@
 {
   "commands": [
+    "\\Residue",
+    "\\Trace",
     "\\acos",
     "\\acosecant",
     "\\acosine",
@@ -12,6 +14,7 @@
     "\\arccsc",
     "\\arcsec",
     "\\arcsecant",
+    "\\argin",
     "\\asec",
     "\\asecant",
     "\\asin",
@@ -19,14 +22,14 @@
     "\\atan",
     "\\atangent",
     "\\csch",
+    "\\diffd",
     "\\erf",
     "\\hypcosecant",
     "\\hypsecant",
     "\\rank",
-    "\\Residue",
     "\\sech",
     "\\trace",
-    "\\Trace"
+    "\\trigopt"
   ],
   "environments": []
 }

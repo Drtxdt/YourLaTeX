@@ -1,12 +1,21 @@
 {
   "commands": [
+    "\\blockcolor",
+    "\\blockcomm",
+    "\\blockname",
     "\\drawthread",
+    "\\f",
+    "\\l",
     "\\mess",
     "\\newinst",
     "\\newthread",
     "\\postlevel",
     "\\prelevel",
-    "\\setthreadbias"
+    "\\returnvalue",
+    "\\setthreadbias",
+    "\\t",
+    "\\threadbias",
+    "\\unitfactor"
   ],
   "environments": [
     "call",

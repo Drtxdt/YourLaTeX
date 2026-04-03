@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\bottomfraction",
+    "\\chaptermark",
+    "\\coloredfootline",
+    "\\coloredheadline",
+    "\\d",
+    "\\fancytoc",
+    "\\footnote",
+    "\\marginpar",
+    "\\sectionmark",
+    "\\textfraction",
+    "\\topfraction",
+    "\\traditionaltoc",
+    "\\twopagepicture",
+    "\\twopagepicturen"
+  ],
+  "environments": []
+}

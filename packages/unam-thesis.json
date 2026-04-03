@@ -1,0 +1,36 @@
+{
+  "commands": [
+    "\\arraystretch",
+    "\\asesor",
+    "\\baselinestretch",
+    "\\campoconocimiento",
+    "\\campodisciplinario",
+    "\\chaptermark",
+    "\\escudofacultad",
+    "\\escudouniversidad",
+    "\\facultad",
+    "\\fechaexamen",
+    "\\grado",
+    "\\headrulewidth",
+    "\\instituto",
+    "\\lstlistingname",
+    "\\lstlistlistingname",
+    "\\lugar",
+    "\\maketitle",
+    "\\mdv",
+    "\\presidente",
+    "\\primersuplente",
+    "\\programaestudio",
+    "\\secretario",
+    "\\segundosuplente",
+    "\\tema",
+    "\\thepage",
+    "\\thickhrulefill",
+    "\\tipotrabajo",
+    "\\universidad",
+    "\\vocal"
+  ],
+  "environments": [
+    "unacolumna"
+  ]
+}

@@ -1,7 +1,15 @@
 {
   "commands": [
     "\\addxref",
-    "\\xref"
+    "\\docdate",
+    "\\filedate",
+    "\\fileversion",
+    "\\newlabel",
+    "\\pageref",
+    "\\ref",
+    "\\refstepcounter",
+    "\\xref",
+    "\\xreflabel"
   ],
   "environments": []
 }

@@ -1,10 +1,24 @@
 {
   "commands": [
-    "\\BaskervilleF@scale",
+    "\\defigures",
     "\\familydefault",
+    "\\filedate",
+    "\\fileversion",
+    "\\lfstyle",
+    "\\osfstyle",
     "\\rmdefault",
+    "\\sufigures",
     "\\textcircled",
-    "\\textfrac"
+    "\\textfrac",
+    "\\textlf",
+    "\\textosf",
+    "\\textsc",
+    "\\texttlf",
+    "\\texttosf",
+    "\\tlfstyle",
+    "\\tosfstyle",
+    "\\useosf",
+    "\\useproportional"
   ],
   "environments": []
 }

@@ -2,7 +2,12 @@
   "commands": [
     "\\encodingdefault",
     "\\nogreek",
+    "\\oldencdef",
+    "\\oldrmdef",
+    "\\oldsfdef",
+    "\\oldttdef",
     "\\rmdefault",
+    "\\setupgreek",
     "\\sfdefault",
     "\\ttdefault"
   ],

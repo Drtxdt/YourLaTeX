@@ -1,9 +1,8 @@
 {
   "commands": [
-    "\\@firstofone@go",
-    "\\@firstofone@len",
-    "\\@genbrace",
-    "\\@repeat@num@times",
+    "\\adownbracefill",
+    "\\aupbracefill",
+    "\\bfil",
     "\\bracecolor",
     "\\bracefil",
     "\\bracescript",

@@ -1,4 +1,8 @@
 {
-  "commands": [],
+  "commands": [
+    "\\empty",
+    "\\thepage",
+    "\\x"
+  ],
   "environments": []
 }

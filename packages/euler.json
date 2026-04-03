@@ -1,4 +1,20 @@
 {
-  "commands": [],
+  "commands": [
+    "\\MathOldstyle",
+    "\\Relbar",
+    "\\filedate",
+    "\\fileversion",
+    "\\gets",
+    "\\hbar",
+    "\\land",
+    "\\leftarrowfill",
+    "\\lnot",
+    "\\lor",
+    "\\relbar",
+    "\\rightarrowfill",
+    "\\to",
+    "\\varrho",
+    "\\varsigma"
+  ],
   "environments": []
 }

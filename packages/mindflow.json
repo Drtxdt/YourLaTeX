@@ -1,13 +1,22 @@
 {
   "commands": [
+    "\\AutoIncolumn",
+    "\\LocallyStopLineNumbers",
+    "\\ResumeIncolumn",
+    "\\ResumeLineNumbers",
+    "\\endmindflow",
+    "\\endmindflowOFF",
+    "\\endmindflowON",
     "\\mfSepLine",
-    "\\mindflow@makeLineNumber",
+    "\\mindflow",
     "\\mindflowLeft",
     "\\mindflowMarkerFont",
     "\\mindflowNumFont",
+    "\\mindflowOFF",
+    "\\mindflowON",
     "\\mindflowRight",
-    "\\mindflowset",
-    "\\mindflowTextFont"
+    "\\mindflowTextFont",
+    "\\mindflowset"
   ],
   "environments": []
 }

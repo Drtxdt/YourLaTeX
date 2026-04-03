@@ -1,7 +1,14 @@
 {
   "commands": [
+    "\\expandafter",
+    "\\quietstack",
+    "\\removebs",
     "\\setstackgap",
-    "\\stack@macro@name"
+    "\\stackalignment",
+    "\\stackengineversionnumber",
+    "\\stacktype",
+    "\\useanchorwidth",
+    "\\usestackstrut"
   ],
   "environments": []
 }

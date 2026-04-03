@@ -1,6 +1,8 @@
 {
   "commands": [
     "\\AddToKeyvalOption",
+    "\\CurrentOption",
+    "\\CurrentOptionValue",
     "\\DeclareBoolOption",
     "\\DeclareComplementaryOption",
     "\\DeclareDefaultOption",
@@ -10,7 +12,12 @@
     "\\DisableKeyvalOption",
     "\\ProcessKeyvalOptions",
     "\\ProcessLocalKeyvalOptions",
-    "\\SetupKeyvalOptions"
+    "\\SetupKeyvalOptions",
+    "\\csname",
+    "\\empty",
+    "\\expandafter",
+    "\\noexpand",
+    "\\x"
   ],
   "environments": []
 }

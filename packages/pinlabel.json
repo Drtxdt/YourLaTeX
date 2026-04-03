@@ -1,4 +1,18 @@
 {
-  "commands": [],
+  "commands": [
+    "\\includegraphics",
+    "\\includegraphicsplain",
+    "\\includegraphicswithoptions",
+    "\\labellist",
+    "\\partest",
+    "\\pinlabel",
+    "\\psdraft",
+    "\\psfig",
+    "\\psfull",
+    "\\psnoisy",
+    "\\pssilent",
+    "\\setlabel",
+    "\\typeout"
+  ],
   "environments": []
 }

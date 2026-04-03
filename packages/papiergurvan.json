@@ -1,4 +1,24 @@
 {
-  "commands": [],
-  "environments": []
+  "commands": [
+    "\\ColGgurvan",
+    "\\GurvanCoulA",
+    "\\GurvanCoulB",
+    "\\GurvanCoulC",
+    "\\GurvanElarD",
+    "\\GurvanElarG",
+    "\\GurvanHautPapier",
+    "\\GurvanLargPapier",
+    "\\GurvanNbCarreauxIM",
+    "\\GurvanNbCarreauxLarg",
+    "\\GurvanNbLigMU",
+    "\\GurvanNbTotColonnes",
+    "\\GurvanNbTotInterLignes",
+    "\\GurvanNbTotLignes",
+    "\\GurvanNbTotLignesMU",
+    "\\GurvanParStretchPar"
+  ],
+  "environments": [
+    "EnvGurvan",
+    "PleinePageGurvan"
+  ]
 }

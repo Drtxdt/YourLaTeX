@@ -1,6 +1,4 @@
 {
-  "commands": [
-    "\\@tracklang@declareoption"
-  ],
+  "commands": [],
   "environments": []
 }

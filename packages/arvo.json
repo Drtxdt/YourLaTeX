@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\Arvo@scale",
+    "\\Arvoproportional",
+    "\\Arvotabular",
     "\\familydefault",
     "\\rmdefault"
   ],

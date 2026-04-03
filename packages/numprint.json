@@ -1,4 +1,14 @@
 {
-  "commands": [],
+  "commands": [
+    "\\color",
+    "\\csname",
+    "\\npboldmath",
+    "\\pm",
+    "\\textcelsius",
+    "\\textdegree",
+    "\\textmu",
+    "\\textohm",
+    "\\textperthousand"
+  ],
   "environments": []
 }

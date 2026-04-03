@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\Letestore@KV@Option"
+    "\\filedate",
+    "\\fileversion"
   ],
   "environments": []
 }

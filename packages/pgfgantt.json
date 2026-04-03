@@ -1,5 +1,12 @@
 {
-  "commands": [],
+  "commands": [
+    "\\csname",
+    "\\currentweek",
+    "\\ganttlinklabel",
+    "\\ganttset",
+    "\\ganttvalueof",
+    "\\newganttchartelement"
+  ],
   "environments": [
     "ganttchart"
   ]

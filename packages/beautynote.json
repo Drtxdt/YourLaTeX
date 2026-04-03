@@ -1,0 +1,39 @@
+{
+  "commands": [
+    "\\Line",
+    "\\auxsettings",
+    "\\chapbackheightI",
+    "\\chapbackheightII",
+    "\\chapnameyshift",
+    "\\chaptermark",
+    "\\chapternonum",
+    "\\chapternumbered",
+    "\\copyrightpage",
+    "\\copyrights",
+    "\\defaultsettings",
+    "\\docauthor",
+    "\\dockeywords",
+    "\\docsubtitle",
+    "\\doctitle",
+    "\\familynameformat",
+    "\\filedate",
+    "\\fileversion",
+    "\\footext",
+    "\\headrulewidth",
+    "\\hlenofnode",
+    "\\mkbibnamefamily",
+    "\\mylength",
+    "\\nodecorners",
+    "\\pagenumber",
+    "\\prob",
+    "\\qedsymbol",
+    "\\sectionmark",
+    "\\subsectionmark",
+    "\\vlenofnode",
+    "\\xshiftofnode"
+  ],
+  "environments": [
+    "note",
+    "solution"
+  ]
+}

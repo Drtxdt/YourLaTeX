@@ -1,4 +1,13 @@
 {
-  "commands": [],
+  "commands": [
+    "\\bs",
+    "\\doublebs",
+    "\\fourbs",
+    "\\givenopt",
+    "\\includeRnwVer",
+    "\\insp",
+    "\\inspw",
+    "\\string"
+  ],
   "environments": []
 }

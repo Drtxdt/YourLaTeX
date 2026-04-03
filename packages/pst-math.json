@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\RandomNumbers",
+    "\\defineRandIntervall",
+    "\\getNumberFromList",
+    "\\makeRandomNumberList",
+    "\\makeSimpleRandomNumberList",
+    "\\next"
+  ],
   "environments": []
 }

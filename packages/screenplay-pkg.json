@@ -1,8 +1,5 @@
 {
   "commands": [
-    "\\@screenfont",
-    "\\@screensetup",
-    "\\@screenspacing",
     "\\centretitle",
     "\\contd",
     "\\dialbreak",

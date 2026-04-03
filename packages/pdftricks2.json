@@ -1,7 +1,35 @@
 {
   "commands": [
+    "\\Filedate",
+    "\\Fileversion",
+    "\\PackageInfoNoLine",
+    "\\PdfTInfo",
+    "\\PdfTInfoNoLine",
+    "\\SpecialCoor",
+    "\\addtopsstyle",
+    "\\cmp",
+    "\\cmpto",
+    "\\configps",
+    "\\configpsblock",
+    "\\configpsonly",
+    "\\configpsonlyblock",
+    "\\degrees",
+    "\\end",
+    "\\endconfigpsblock",
+    "\\endconfigpsonlyblock",
+    "\\endpspicture",
+    "\\msg",
+    "\\newpsstyle",
+    "\\next",
+    "\\processfp",
+    "\\pspicture",
+    "\\psset",
+    "\\radians",
+    "\\test",
+    "\\the",
     "\\usepackageps",
-    "\\usepackagepsonly"
+    "\\usepackagepsonly",
+    "\\verbgroup"
   ],
   "environments": []
 }

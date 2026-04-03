@@ -1,9 +1,11 @@
 {
   "commands": [
-    "\\@PLplaylabel",
-    "\\@PLputline",
-    "\\@PLtypemodline",
     "\\PLthemoduloline",
+    "\\longdirection",
+    "\\makelabel",
+    "\\phantomline",
+    "\\shortdirection",
+    "\\speaker",
     "\\typeline"
   ],
   "environments": [

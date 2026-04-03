@@ -4,7 +4,8 @@
     "\\datak",
     "\\ekaiafoot",
     "\\headrulewidth",
-    "\\izenburua"
+    "\\izenburua",
+    "\\sectionmark"
   ],
   "environments": [
     "autoreak",

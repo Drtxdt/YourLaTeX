@@ -1,9 +1,7 @@
 {
   "commands": [
-    "\\@dudenpt",
-    "\\dudenpt@",
-    "\\dudenpt@arg",
-    "\\ISO"
+    "\\ISO",
+    "\\x"
   ],
   "environments": []
 }

@@ -1,4 +1,17 @@
 {
-  "commands": [],
+  "commands": [
+    "\\ExecutePawnMove",
+    "\\ParseCastlingA",
+    "\\ParseCastlingAA",
+    "\\csname",
+    "\\expandafter",
+    "\\loadgame",
+    "\\longmoves",
+    "\\printmove",
+    "\\savegame",
+    "\\shortmoves",
+    "\\variation",
+    "\\xskakcurrentgameid"
+  ],
   "environments": []
 }

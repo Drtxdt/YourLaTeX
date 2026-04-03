@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\endnote",
+    "\\endnoteautorefname",
+    "\\expandafter",
+    "\\next",
+    "\\phantomendnote"
+  ],
   "environments": []
 }

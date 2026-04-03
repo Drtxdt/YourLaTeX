@@ -1,9 +1,15 @@
 {
   "commands": [
-    "\\fgeeta",
     "\\fgeN",
+    "\\fgeU",
+    "\\fgeeta",
     "\\fgeoverU",
-    "\\fgeU"
+    "\\spiritusasper",
+    "\\spiritusasperA",
+    "\\spiritusasperB",
+    "\\spirituslenis",
+    "\\spirituslenisA",
+    "\\spirituslenisB"
   ],
   "environments": []
 }

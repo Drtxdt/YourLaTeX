@@ -1,11 +1,14 @@
 {
   "commands": [
-    "\\@savefrml",
     "\\frameliston",
     "\\frametitle",
+    "\\g",
     "\\printframelist",
     "\\tgframelistbackhook",
     "\\tgframelistfronthook"
   ],
-  "environments": []
+  "environments": [
+    "outerretainblock",
+    "posterblock"
+  ]
 }

@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\arraybackslash",
+    "\\endtabulary",
+    "\\expandafter",
+    "\\multicolumn",
+    "\\tabulary",
+    "\\tyformat"
+  ],
   "environments": []
 }

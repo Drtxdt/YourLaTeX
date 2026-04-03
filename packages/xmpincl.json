@@ -1,11 +1,6 @@
 {
   "commands": [
-    "\\includexmp",
-    "\\mcs@xmpincl@filename",
-    "\\mcs@xmpincl@patchFile",
-    "\\mcs@xmpinclEnd",
-    "\\mcs@xmpinclStart",
-    "\\mcs@xmpinclStartAlt"
+    "\\includexmp"
   ],
   "environments": []
 }

@@ -1,4 +1,15 @@
 {
-  "commands": [],
+  "commands": [
+    "\\bottomtitlespace",
+    "\\cleardoublepage",
+    "\\csname",
+    "\\expandafter",
+    "\\footnote",
+    "\\markboth",
+    "\\markright",
+    "\\newpage",
+    "\\nostruts",
+    "\\titlespacing"
+  ],
   "environments": []
 }

@@ -1,8 +1,15 @@
 {
   "commands": [
+    "\\NCC",
+    "\\No",
     "\\acknow",
+    "\\acknowname",
+    "\\arcctg",
+    "\\arctg",
     "\\cref",
-    "\\mop"
+    "\\ctg",
+    "\\mop",
+    "\\tg"
   ],
   "environments": []
 }

@@ -2,7 +2,9 @@
   "commands": [
     "\\agendaautomatica",
     "\\dataapresentacao",
-    "\\email"
+    "\\email",
+    "\\lalicemail",
+    "\\temp"
   ],
   "environments": []
 }

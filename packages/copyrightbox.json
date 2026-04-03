@@ -1,8 +1,6 @@
 {
   "commands": [
-    "\\copyrightbox",
-    "\\CRB@setcopyrightfont",
-    "\\CRB@setcopyrightparagraphstyle"
+    "\\copyrightbox"
   ],
   "environments": []
 }

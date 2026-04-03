@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\globaltoc",
+    "\\localbib",
+    "\\localtoc",
+    "\\nonumchapter",
+    "\\talkautorefname"
+  ],
+  "environments": [
+    "summary"
+  ]
+}

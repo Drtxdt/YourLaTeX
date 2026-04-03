@@ -1,8 +1,8 @@
 {
   "commands": [
+    "\\NewValue",
     "\\articlesubtitlepunct",
     "\\articletitlepunct",
-    "\\blxarch@namefirstsep",
     "\\booklabelnamepunct",
     "\\compcitedelim",
     "\\daterealdatedelim",

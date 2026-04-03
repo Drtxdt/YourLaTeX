@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\tdoclang",
+    "\\tdocsep",
+    "\\thesection",
+    "\\thesubsection",
+    "\\thesubsubsection"
+  ],
+  "environments": [
+    "tdocshowcase",
+    "tdoctopic"
+  ]
+}

@@ -1,4 +1,23 @@
 {
-  "commands": [],
+  "commands": [
+    "\\A",
+    "\\C",
+    "\\CXXVIII",
+    "\\XCIII",
+    "\\a",
+    "\\b",
+    "\\bar",
+    "\\bcbox",
+    "\\bdbox",
+    "\\bebox",
+    "\\c",
+    "\\codxi",
+    "\\codxxxix",
+    "\\csumxi",
+    "\\cxxviii",
+    "\\ean",
+    "\\for",
+    "\\hexchar"
+  ],
   "environments": []
 }

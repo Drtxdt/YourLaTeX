@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\footnotemarkfont",
+    "\\supsDate",
+    "\\supsStyle",
+    "\\supsSuprstyle",
+    "\\supsVersion"
+  ],
   "environments": []
 }

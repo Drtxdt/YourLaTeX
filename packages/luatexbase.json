@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\BeginCatcodeRegime",
+    "\\EndCatcodeRegime",
+    "\\ProvidesPackage",
+    "\\RequireLuaModule",
+    "\\newattribute",
+    "\\newcatcodetable"
+  ],
   "environments": []
 }

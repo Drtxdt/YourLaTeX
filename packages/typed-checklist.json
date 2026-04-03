@@ -1,5 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\csname",
+    "\\do",
+    "\\expandafter"
+  ],
   "environments": [
     "CheckList"
   ]

@@ -1,7 +1,6 @@
 {
   "commands": [
-    "\\makebase",
-    "\\Sil@MB@maxdiv"
+    "\\makebase"
   ],
   "environments": []
 }

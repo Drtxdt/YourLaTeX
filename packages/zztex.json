@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\TeX",
+    "\\ZzTeX",
+    "\\declareeverypar",
+    "\\defineatsigncommand",
+    "\\definemarker",
+    "\\everyparlist",
+    "\\fmtname",
+    "\\requiredeverypar",
+    "\\zremovePlaindef"
+  ],
+  "environments": []
+}

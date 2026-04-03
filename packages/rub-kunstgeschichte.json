@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\appendix",
+    "\\configureTitlepage",
+    "\\figuresource",
+    "\\maketitle",
+    "\\printbibliographies",
+    "\\printfiguresources",
+    "\\subtitle"
+  ],
+  "environments": []
+}

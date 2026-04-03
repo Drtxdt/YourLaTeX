@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\LAST",
+    "\\MID",
+    "\\csname",
+    "\\expandafter"
+  ],
   "environments": []
 }

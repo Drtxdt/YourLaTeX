@@ -1,6 +1,25 @@
 {
   "commands": [
-    "\\makeLineNumber"
+    "\\centerlargechars",
+    "\\chartline",
+    "\\chartstrut",
+    "\\endchart",
+    "\\evenline",
+    "\\fonttable",
+    "\\hex",
+    "\\makeLineNumber",
+    "\\mfcomment",
+    "\\mftinput",
+    "\\morechart",
+    "\\next",
+    "\\oct",
+    "\\oddline",
+    "\\quad",
+    "\\reposition",
+    "\\setdigs",
+    "\\setmftdefaults",
+    "\\table",
+    "\\testrow"
   ],
   "environments": [
     "explaincode",

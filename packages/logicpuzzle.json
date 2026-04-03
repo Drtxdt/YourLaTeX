@@ -1,5 +1,6 @@
 {
   "commands": [
+    "\\csname",
     "\\definecounterstyle"
   ],
   "environments": [

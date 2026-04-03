@@ -1,5 +1,36 @@
 {
-  "commands": [],
+  "commands": [
+    "\\SignalFlagColorDefinitions",
+    "\\background",
+    "\\chevron",
+    "\\country",
+    "\\flagsdefault",
+    "\\flagstretch",
+    "\\flagvariant",
+    "\\framecode",
+    "\\framecolor",
+    "\\gridcode",
+    "\\hangangle",
+    "\\hbar",
+    "\\hstripesII",
+    "\\hstripesIII",
+    "\\hstripesIV",
+    "\\hstripesV",
+    "\\hstripesVI",
+    "\\makeifemblem",
+    "\\makeifgrid",
+    "\\makeifnoemblem",
+    "\\moon",
+    "\\starV",
+    "\\starVI",
+    "\\starn",
+    "\\unionjack",
+    "\\vbar",
+    "\\viewangle",
+    "\\vstripesII",
+    "\\vstripesIII",
+    "\\worldflag"
+  ],
   "environments": [
     "flagdescription"
   ]

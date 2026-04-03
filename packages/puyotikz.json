@@ -1,9 +1,11 @@
 {
   "commands": [
+    "\\puyobigscale",
     "\\puyoboard",
     "\\puyocolor",
     "\\puyogrid",
-    "\\puyomarker"
+    "\\puyomarker",
+    "\\puyosmallscale"
   ],
   "environments": [
     "puyotikz"

@@ -1,8 +1,14 @@
 {
   "commands": [
+    "\\defigures",
     "\\familydefault",
-    "\\Montserrat@scale",
-    "\\sfdefault"
+    "\\filedate",
+    "\\fileversion",
+    "\\infigures",
+    "\\montserratalt",
+    "\\nufigures",
+    "\\sfdefault",
+    "\\sufigures"
   ],
   "environments": []
 }

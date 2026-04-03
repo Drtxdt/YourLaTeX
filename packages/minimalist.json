@@ -1,5 +1,7 @@
 {
   "commands": [
+    "\\LocallyStopLineNumbers",
+    "\\ResumeLineNumbers",
     "\\linenumberfont"
   ],
   "environments": []

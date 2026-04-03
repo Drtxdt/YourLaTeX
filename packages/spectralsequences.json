@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\SseqOrientationNormal",
+    "\\SseqOrientationSideways",
+    "\\SseqOrientationToggle",
+    "\\expandafter",
+    "\\sseqpower",
+    "\\sseqpowerempty"
+  ],
   "environments": []
 }

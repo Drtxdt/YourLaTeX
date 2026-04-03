@@ -1,6 +1,11 @@
 {
   "commands": [
     "\\LettrineFont",
+    "\\dUnit",
+    "\\dsubop",
+    "\\dunit",
+    "\\dunknown",
+    "\\phkl",
     "\\rmdefault",
     "\\textinit",
     "\\textphlk"

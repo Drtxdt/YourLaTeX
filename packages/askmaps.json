@@ -1,10 +1,11 @@
 {
   "commands": [
     "\\askmap",
-    "\\askmap@askmap",
-    "\\askmap@usecapf",
+    "\\askmapargumentstring",
     "\\askmapbitcombinationsize",
     "\\askmapcontentsize",
+    "\\askmapgetchar",
+    "\\askmapgetonechar",
     "\\askmapi",
     "\\askmapii",
     "\\askmapiii",

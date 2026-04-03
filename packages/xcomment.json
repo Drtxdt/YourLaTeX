@@ -1,4 +1,18 @@
 {
-  "commands": [],
+  "commands": [
+    "\\begin",
+    "\\csname",
+    "\\end",
+    "\\envirsep",
+    "\\filedate",
+    "\\fileversion",
+    "\\newxcomment",
+    "\\next",
+    "\\nofloat",
+    "\\norescanfile",
+    "\\rescan",
+    "\\rescanfile",
+    "\\xcommentchar"
+  ],
   "environments": []
 }

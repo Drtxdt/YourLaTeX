@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\Affiliation",
+    "\\Email",
+    "\\FirstPage",
+    "\\Number",
+    "\\Title",
+    "\\Volume",
+    "\\Year",
+    "\\and",
+    "\\footnoterule",
+    "\\keywords",
+    "\\refname",
+    "\\shortauthor",
+    "\\shorttitle",
+    "\\tableofcontents"
+  ],
+  "environments": []
+}

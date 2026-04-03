@@ -1,4 +1,13 @@
 {
-  "commands": [],
+  "commands": [
+    "\\boldmath",
+    "\\lnfigures",
+    "\\prfigures",
+    "\\proportionalmath",
+    "\\tabularmath",
+    "\\tbfigures",
+    "\\txfigures",
+    "\\unboldmath"
+  ],
   "environments": []
 }

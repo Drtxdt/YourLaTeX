@@ -1,8 +1,11 @@
 {
   "commands": [
+    "\\buildnumber",
     "\\increaseBuild",
+    "\\parseline",
     "\\setVersion",
-    "\\version"
+    "\\version",
+    "\\versionnumber"
   ],
   "environments": []
 }

@@ -1,8 +1,11 @@
 {
   "commands": [
-    "\\@declarerobustactchar",
     "\\DeclareRobustActChar",
-    "\\ReDeclareRobActChar"
+    "\\ReDeclareRobActChar",
+    "\\filedate",
+    "\\fileinfo",
+    "\\fileversion",
+    "\\protect"
   ],
   "environments": []
 }

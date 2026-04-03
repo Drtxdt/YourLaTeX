@@ -1,8 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\lverb",
+    "\\verb"
+  ],
   "environments": [
-    "@@UFca@bblenv@datalist",
-    "@@UFca@bblenv@refsection",
-    "@@UFca@bblenv@sortlist"
+    "entry"
   ]
 }

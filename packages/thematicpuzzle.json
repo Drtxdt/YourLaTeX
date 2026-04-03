@@ -1,4 +1,14 @@
 {
-  "commands": [],
+  "commands": [
+    "\\puzzthmbc",
+    "\\puzzthmbg",
+    "\\puzzthmcolicon",
+    "\\puzzthmfontlab",
+    "\\puzzthmlab",
+    "\\puzzthmscalab",
+    "\\puzzthmscale",
+    "\\puzzthmthick",
+    "\\tmprounded"
+  ],
   "environments": []
 }

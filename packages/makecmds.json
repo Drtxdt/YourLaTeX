@@ -1,4 +1,12 @@
 {
-  "commands": [],
+  "commands": [
+    "\\makecommand",
+    "\\makecounter",
+    "\\makeenvironment",
+    "\\makelength",
+    "\\providecounter",
+    "\\provideenvironment",
+    "\\providelength"
+  ],
   "environments": []
 }

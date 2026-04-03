@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\arab",
+    "\\arabdottedcircle",
+    "\\arabtt",
+    "\\arabttexample",
+    "\\arabttsep",
+    "\\kesh"
+  ],
   "environments": []
 }

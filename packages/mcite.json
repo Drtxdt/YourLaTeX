@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\RCS",
+    "\\endmcbibliography",
+    "\\fileversion",
+    "\\mcbibliography",
+    "\\mcite"
+  ],
   "environments": []
 }

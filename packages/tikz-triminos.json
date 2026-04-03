@@ -1,4 +1,12 @@
 {
-  "commands": [],
+  "commands": [
+    "\\tkztriminobgcolor",
+    "\\tkztriminocolor",
+    "\\tkztriminodecofont",
+    "\\tkztriminofont",
+    "\\tkztriminoiconlogo",
+    "\\tkztriminostar",
+    "\\tkztriminotxtlogo"
+  ],
   "environments": []
 }

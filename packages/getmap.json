@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\StringEncodingConvert",
+    "\\csname"
+  ],
   "environments": []
 }

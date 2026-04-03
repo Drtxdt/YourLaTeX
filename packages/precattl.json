@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\EIhandler",
+    "\\precattl"
+  ],
   "environments": []
 }

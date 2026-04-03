@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\do",
+    "\\jfmsync",
+    "\\jfmsyncbox",
+    "\\pxchfonNoCheckExpert",
+    "\\pxchfonNoCheckMultiweight"
+  ],
   "environments": []
 }

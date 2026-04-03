@@ -1,6 +1,10 @@
 {
   "commands": [
-    "\\magicnum"
+    "\\StripPrefix",
+    "\\empty",
+    "\\magicnum",
+    "\\noexpand",
+    "\\x"
   ],
   "environments": []
 }

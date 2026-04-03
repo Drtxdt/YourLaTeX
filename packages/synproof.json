@@ -1,8 +1,6 @@
 {
   "commands": [
     "\\And",
-    "\\assumend",
-    "\\assumption",
     "\\Exists",
     "\\Falsum",
     "\\Forall",
@@ -12,6 +10,9 @@
     "\\Or",
     "\\ResetDim",
     "\\SetDim",
+    "\\assumend",
+    "\\assumption",
+    "\\newctr",
     "\\step"
   ],
   "environments": [

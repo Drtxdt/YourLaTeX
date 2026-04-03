@@ -1,4 +1,8 @@
 {
-  "commands": [],
+  "commands": [
+    "\\tiny",
+    "\\zh",
+    "\\zw"
+  ],
   "environments": []
 }

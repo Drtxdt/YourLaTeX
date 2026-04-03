@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\ce"
+    "\\ce",
+    "\\hyphen"
   ],
   "environments": []
 }

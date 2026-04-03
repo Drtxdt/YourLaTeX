@@ -1,11 +1,5 @@
 {
   "commands": [
-    "\\@disableMajors",
-    "\\@disableMinors",
-    "\\@disableOutlining",
-    "\\@disableTopics",
-    "\\@outlineAtBegin",
-    "\\@outlineAtEnd",
     "\\listOutline",
     "\\major",
     "\\minor",

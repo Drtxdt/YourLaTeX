@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\aalokDate",
+    "\\aalokName",
+    "\\aalokVersion",
+    "\\appendixautorefname",
+    "\\figureautorefname",
+    "\\footrulewidth",
+    "\\mtctitle",
+    "\\orcid",
+    "\\orcidlogo",
+    "\\orcidno",
+    "\\parsecomma",
+    "\\tableautorefname"
+  ],
+  "environments": []
+}

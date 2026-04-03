@@ -1,5 +1,19 @@
 {
-  "commands": [],
+  "commands": [
+    "\\do",
+    "\\expandafter",
+    "\\pydatabuffermdfivesum",
+    "\\pydataclearbuffername",
+    "\\pydataclearmeta",
+    "\\pydataclearschema",
+    "\\pydataclosefilename",
+    "\\pydatareleasefilehandle",
+    "\\pydatasetbuffername",
+    "\\pydatasetfilehandle",
+    "\\pydatasetfilename",
+    "\\pydatasetschemamissing",
+    "\\pydatawritebuffer"
+  ],
   "environments": [
     "pydatabuffermlvalue",
     "pydatawritemlvalue"

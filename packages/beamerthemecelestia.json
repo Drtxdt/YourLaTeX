@@ -1,7 +1,5 @@
 {
   "commands": [
-    "\\@font@warning",
-    "\\@testcolor",
     "\\alert",
     "\\celestiaCircle",
     "\\celestiaDiamond",
@@ -10,7 +8,9 @@
     "\\mathdef",
     "\\mathterm",
     "\\setblockopacity",
-    "\\texttt"
+    "\\texttt",
+    "\\titlealignment",
+    "\\verb"
   ],
   "environments": []
 }

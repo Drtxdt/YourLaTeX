@@ -1,5 +1,7 @@
 {
   "commands": [
+    "\\HyperRaiseLinkDefault",
+    "\\hang",
     "\\keytitle",
     "\\leadONE",
     "\\leadTWO",

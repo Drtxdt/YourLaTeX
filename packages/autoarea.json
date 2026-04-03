@@ -1,9 +1,11 @@
 {
   "commands": [
+    "\\PTaa",
     "\\autoaccountingarcoff",
     "\\autoaccountingarcon",
     "\\autoaccountingoff",
     "\\autoaccountingon",
+    "\\newcommand",
     "\\plottedat",
     "\\restoreanglesyntax"
   ],

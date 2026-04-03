@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\DisableOTLatinVariableSlotsKinsoku",
+    "\\ENDINPUTUPZHKINSOKUDOTSTY",
+    "\\EnableOTLatinVariableSlotsKinsoku",
+    "\\setupzhkinsokuwith"
+  ],
   "environments": []
 }

@@ -1,0 +1,20 @@
+{
+  "commands": [
+    "\\author",
+    "\\chaptermark",
+    "\\cleardoublepage",
+    "\\copyrighttext",
+    "\\degree",
+    "\\department",
+    "\\gradyear",
+    "\\headerstyle",
+    "\\maketitle",
+    "\\sectionmark",
+    "\\title"
+  ],
+  "environments": [
+    "abstract",
+    "acknowledgements",
+    "dedication"
+  ]
+}

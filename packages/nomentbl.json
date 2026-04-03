@@ -1,4 +1,15 @@
 {
-  "commands": [],
+  "commands": [
+    "\\docdate",
+    "\\endthenomenclature",
+    "\\eqdeclaration",
+    "\\nomAname",
+    "\\nomGname",
+    "\\nomXname",
+    "\\nomZname",
+    "\\nomname",
+    "\\pagedeclaration",
+    "\\thenomenclature"
+  ],
   "environments": []
 }

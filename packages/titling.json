@@ -1,7 +1,5 @@
 {
   "commands": [
-    "\\@bscontmark",
-    "\\@bsmtitlempty",
     "\\and",
     "\\appendiargdef",
     "\\calccentering",
@@ -17,6 +15,7 @@
     "\\maketitlehookb",
     "\\maketitlehookc",
     "\\maketitlehookd",
+    "\\noexpand",
     "\\postauthor",
     "\\postdate",
     "\\posttitle",
@@ -28,6 +27,8 @@
     "\\thanks",
     "\\thanksfootextra",
     "\\thanksfootmark",
+    "\\thanksfootpost",
+    "\\thanksfootpre",
     "\\thanksgap",
     "\\thanksheadextra",
     "\\thanksmark",

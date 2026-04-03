@@ -1,7 +1,6 @@
 {
   "commands": [
-    "\\@tikzinclude@picture@ended",
-    "\\@tikzinclude@picture@started"
+    "\\par"
   ],
   "environments": []
 }

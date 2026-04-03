@@ -1,0 +1,21 @@
+{
+  "commands": [
+    "\\cftafterloftitle",
+    "\\cftafterloftitleskip",
+    "\\cftafterlottitle",
+    "\\cftafterlottitleskip",
+    "\\cftaftertoctitle",
+    "\\cftaftertoctitleskip",
+    "\\cftbeforeloftitleskip",
+    "\\cftbeforelottitleskip",
+    "\\cftbeforetoctitleskip",
+    "\\makeapproval",
+    "\\maketitlepage",
+    "\\sectionbreak",
+    "\\startbody"
+  ],
+  "environments": [
+    "dissertation-abstract",
+    "dissertation-acknowledgements"
+  ]
+}

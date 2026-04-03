@@ -1,0 +1,21 @@
+{
+  "commands": [
+    "\\affiliation",
+    "\\and",
+    "\\author",
+    "\\copyrightinfo",
+    "\\copyrightlicense",
+    "\\footrulewidth",
+    "\\headrulewidth",
+    "\\journalnumber",
+    "\\journalvolume",
+    "\\keywords",
+    "\\maketitle",
+    "\\subject",
+    "\\thanks",
+    "\\title",
+    "\\titleimage",
+    "\\today"
+  ],
+  "environments": []
+}

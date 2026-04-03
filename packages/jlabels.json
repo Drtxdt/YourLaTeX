@@ -1,8 +1,12 @@
 {
   "commands": [
     "\\beginjlabels",
+    "\\endjlabels",
     "\\jlabel",
     "\\jlabelLengths",
+    "\\jlabelfillstylec",
+    "\\jlabelfillstyler",
+    "\\jlabeljustify",
     "\\jlabelt",
     "\\myjlabel"
   ],

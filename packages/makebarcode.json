@@ -1,4 +1,12 @@
 {
-  "commands": [],
+  "commands": [
+    "\\BarcodeSanitize",
+    "\\HPlabel",
+    "\\ITFbarcode",
+    "\\ZWBCtest",
+    "\\csname",
+    "\\expandafter",
+    "\\next"
+  ],
   "environments": []
 }

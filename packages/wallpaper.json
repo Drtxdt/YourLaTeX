@@ -2,9 +2,9 @@
   "commands": [
     "\\CenterWallPaper",
     "\\ClearWallPaper",
-    "\\LenToUnit",
     "\\LLCornerWallPaper",
     "\\LRCornerWallPaper",
+    "\\LenToUnit",
     "\\ThisCenterWallPaper",
     "\\ThisLLCornerWallPaper",
     "\\ThisLRCornerWallPaper",

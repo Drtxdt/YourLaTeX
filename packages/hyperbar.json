@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\DefaultOptionsofBarcode",
+    "\\LayoutBarcodeField",
+    "\\MakeBarcodeField",
+    "\\qBarcodeFld"
+  ],
   "environments": []
 }

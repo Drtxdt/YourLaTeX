@@ -1,0 +1,18 @@
+{
+  "commands": [
+    "\\bibliography",
+    "\\bibname",
+    "\\chapter",
+    "\\endthebibliography",
+    "\\expandafter",
+    "\\raggedleft",
+    "\\raggedright",
+    "\\refname",
+    "\\section",
+    "\\today"
+  ],
+  "environments": [
+    "rubric",
+    "thebibliography"
+  ]
+}

@@ -1,8 +1,9 @@
 {
   "commands": [
-    "\\@BIBLABEL",
-    "\\@currentHref",
-    "\\hyper@anchorend"
+    "\\MBbibcite",
+    "\\MBlabel",
+    "\\bibliographysequence",
+    "\\bibliographytimeline"
   ],
   "environments": []
 }

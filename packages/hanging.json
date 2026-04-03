@@ -1,17 +1,8 @@
 {
   "commands": [
-    "\\h@ngallowhyphens",
-    "\\h@ngcolon",
-    "\\h@ngcomma",
-    "\\h@ngexcl",
-    "\\h@ngfstop",
-    "\\h@nglqq",
-    "\\h@nglquote",
-    "\\h@ngquery",
-    "\\h@ngrqq",
-    "\\h@ngrquote",
-    "\\h@ngscolon",
+    "\\activatepunct",
     "\\hangpara",
+    "\\next",
     "\\nhlq",
     "\\nhpt",
     "\\nhrq"

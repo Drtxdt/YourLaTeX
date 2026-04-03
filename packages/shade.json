@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "\\Fill",
+    "\\fill",
+    "\\shade"
+  ],
+  "environments": []
+}

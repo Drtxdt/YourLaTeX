@@ -1,5 +1,6 @@
 {
   "commands": [
+    "\\argiii",
     "\\colorA",
     "\\colorB",
     "\\hexboard",
@@ -28,6 +29,7 @@
     "\\hexthismover",
     "\\setcolorA",
     "\\setcolorB",
+    "\\testA",
     "\\thiscolor",
     "\\xchor",
     "\\ychor"

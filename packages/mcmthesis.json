@@ -1,0 +1,41 @@
+{
+  "commands": [
+    "\\AIcite",
+    "\\AImatter",
+    "\\MCMversion",
+    "\\abstract",
+    "\\abstractname",
+    "\\bottomfraction",
+    "\\dif",
+    "\\endabstract",
+    "\\endkeywords",
+    "\\figurename",
+    "\\floatpagefraction",
+    "\\headset",
+    "\\keywords",
+    "\\keywordsname",
+    "\\lhaddress",
+    "\\lstbasicfont",
+    "\\makesheet",
+    "\\maketitle",
+    "\\mcmsetup",
+    "\\me",
+    "\\memodate",
+    "\\memofrom",
+    "\\memologo",
+    "\\memosubject",
+    "\\memoto",
+    "\\mi",
+    "\\problem",
+    "\\reportname",
+    "\\tablename",
+    "\\team",
+    "\\textfraction",
+    "\\topfraction"
+  ],
+  "environments": [
+    "ReportAiUse",
+    "letter",
+    "memo"
+  ]
+}

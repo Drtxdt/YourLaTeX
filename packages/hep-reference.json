@@ -1,8 +1,12 @@
 {
   "commands": [
+    "\\BackrefFootnoteTag",
     "\\creflastconjunction",
     "\\footnote",
-    "\\subcref"
+    "\\labelcrefrange",
+    "\\subcref",
+    "\\to",
+    "\\varepsilon"
   ],
   "environments": []
 }

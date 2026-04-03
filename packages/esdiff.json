@@ -1,12 +1,7 @@
 {
   "commands": [
     "\\diff",
-    "\\diffp",
-    "\\ES@croisint",
-    "\\ES@derpint",
-    "\\ES@difint",
-    "\\ES@dop",
-    "\\ES@taille"
+    "\\diffp"
   ],
   "environments": []
 }

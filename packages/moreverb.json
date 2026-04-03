@@ -1,5 +1,18 @@
 {
-  "commands": [],
+  "commands": [
+    "\\boxedverbatim",
+    "\\endboxedverbatim",
+    "\\endlisting",
+    "\\endlistingcont",
+    "\\endverbatimwrite",
+    "\\listingcont",
+    "\\listinginput",
+    "\\listinglabel",
+    "\\verbatimcmd",
+    "\\verbatimtabinput",
+    "\\verbatimtabsize",
+    "\\verbatimwrite"
+  ],
   "environments": [
     "verbatimtab"
   ]

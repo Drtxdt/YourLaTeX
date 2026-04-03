@@ -1,4 +1,25 @@
 {
-  "commands": [],
+  "commands": [
+    "\\AppendToUseXCJKTextFontCommands",
+    "\\CATCODE",
+    "\\DeclareFixJFMCJKTextFontCommand",
+    "\\DeclareStandardCJKTextFontCommand",
+    "\\ENDGROUP",
+    "\\ENDINPUTFIXJFMDOTSTY",
+    "\\EveryparPostHook",
+    "\\EveryparPreHook",
+    "\\FixJFMParindent",
+    "\\FixJFMSpacing",
+    "\\GDEF",
+    "\\RELAX",
+    "\\SetFixJFMSpacingShrink",
+    "\\SetFixJFMSpacingStretch",
+    "\\UseFixJFMCJKTextFontCommands",
+    "\\UseStandardCJKTextFontCommands",
+    "\\expandafter",
+    "\\fixjfmparindent",
+    "\\fixjfmspacing",
+    "\\leavevmode"
+  ],
   "environments": []
 }

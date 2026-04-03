@@ -1,10 +1,13 @@
 {
   "commands": [
+    "\\expandafter",
     "\\index",
+    "\\indexname",
     "\\indexprologue",
     "\\indexsetup",
     "\\makeindex",
-    "\\printindex"
+    "\\printindex",
+    "\\splitindexoptions"
   ],
   "environments": []
 }

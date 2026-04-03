@@ -1,4 +1,29 @@
 {
-  "commands": [],
+  "commands": [
+    "\\amsloaded",
+    "\\mathalphaDate",
+    "\\mathalphaVersion",
+    "\\mathbfbb",
+    "\\mathbfcal",
+    "\\mathbffrak",
+    "\\mathbfscr",
+    "\\minusone",
+    "\\txtbbGamma",
+    "\\txtbbPi",
+    "\\txtbbdotlessi",
+    "\\txtbbdotlessj",
+    "\\txtbbeight",
+    "\\txtbbfive",
+    "\\txtbbfour",
+    "\\txtbbgamma",
+    "\\txtbbnine",
+    "\\txtbbone",
+    "\\txtbbpi",
+    "\\txtbbseven",
+    "\\txtbbsix",
+    "\\txtbbthree",
+    "\\txtbbtwo",
+    "\\txtbbzero"
+  ],
   "environments": []
 }

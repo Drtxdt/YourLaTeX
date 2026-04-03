@@ -1,0 +1,20 @@
+{
+  "commands": [
+    "\\abstract",
+    "\\baselinestretch",
+    "\\bibname",
+    "\\chaptermark",
+    "\\cleardoublepage",
+    "\\corrector",
+    "\\coverpicture",
+    "\\dedicate",
+    "\\footrulewidth",
+    "\\headrulewidth",
+    "\\mystretch",
+    "\\sectionmark",
+    "\\studentid",
+    "\\supervisor",
+    "\\thefootnote"
+  ],
+  "environments": []
+}

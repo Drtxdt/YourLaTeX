@@ -1,12 +1,12 @@
 {
   "commands": [
-    "\\allPart",
-    "\\allPartFront",
     "\\ARROWHEAD",
-    "\\dotarrow",
     "\\DotArrowSetHead",
     "\\DotArrowSetRaise",
     "\\DotArrowSetSep",
+    "\\allPart",
+    "\\allPartFront",
+    "\\dotarrow",
     "\\onePartX"
   ],
   "environments": []

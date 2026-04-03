@@ -1,7 +1,4 @@
 {
-  "commands": [
-    "\\sourcecodepro@ligatures",
-    "\\SourceCodePro@scale"
-  ],
+  "commands": [],
   "environments": []
 }

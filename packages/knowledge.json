@@ -1,5 +1,16 @@
 {
-  "commands": [],
+  "commands": [
+    "\\begin",
+    "\\end",
+    "\\ensuretext",
+    "\\exp",
+    "\\klactivatequotation",
+    "\\kldeactivatequotation",
+    "\\knowledgeIntroIndexStyle",
+    "\\label",
+    "\\makequotationactive",
+    "\\makequotationletter"
+  ],
   "environments": [
     "m",
     "scope"

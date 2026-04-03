@@ -1,15 +1,5 @@
 {
   "commands": [
-    "\\doclicense@baseUrlCC",
-    "\\doclicense@icon",
-    "\\doclicense@imagemodifier",
-    "\\doclicense@lang",
-    "\\doclicense@longName",
-    "\\doclicense@modifier@uppercase",
-    "\\doclicense@set",
-    "\\doclicense@setVersion",
-    "\\doclicense@versionFallback",
-    "\\doclicense@versionUsed",
     "\\doclicenseFullText",
     "\\doclicenseFullTextFileName",
     "\\doclicenseIcon",
@@ -36,7 +26,5 @@
     "\\labelenumiii",
     "\\labelenumiv"
   ],
-  "environments": [
-    "doclicense@enumerate"
-  ]
+  "environments": []
 }

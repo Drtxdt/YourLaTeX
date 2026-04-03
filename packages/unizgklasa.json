@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\baselinestretch",
+    "\\druganaslovna",
+    "\\ime",
+    "\\prvanaslovna",
+    "\\titlepage",
+    "\\uni"
+  ],
+  "environments": []
+}

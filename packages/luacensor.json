@@ -1,5 +1,6 @@
 {
   "commands": [
+    "\\H",
     "\\allwarning",
     "\\b",
     "\\c",
@@ -11,11 +12,11 @@
     "\\dangersign",
     "\\donothing",
     "\\dquad",
-    "\\H",
     "\\hddn",
     "\\i",
     "\\k",
     "\\l",
+    "\\luacensorversionnumber",
     "\\maketitle",
     "\\o",
     "\\onething",

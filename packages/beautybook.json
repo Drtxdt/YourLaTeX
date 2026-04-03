@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\Rad",
+    "\\barwidth",
+    "\\evensidbardeepcolor",
+    "\\inrad",
+    "\\itbf",
+    "\\mysectionformat",
+    "\\mysectionnonumformat",
+    "\\mytcbtheoremset",
+    "\\rad",
+    "\\subsectionnonumstyle",
+    "\\subsectionnumstyle",
+    "\\theight",
+    "\\tikzoverlay",
+    "\\tlen"
+  ],
+  "environments": []
+}

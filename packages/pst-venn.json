@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\filedate",
+    "\\fileversion",
+    "\\next",
+    "\\psVenn"
+  ],
   "environments": []
 }

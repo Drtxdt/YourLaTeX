@@ -1,8 +1,11 @@
 {
   "commands": [
     "\\familydefault",
-    "\\MFBOldstyle@scale",
-    "\\rmdefault"
+    "\\inffigures",
+    "\\rmdefault",
+    "\\supfigures",
+    "\\textsubscript",
+    "\\textsuperscript"
   ],
   "environments": []
 }

@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "\\cc",
+    "\\ccname",
+    "\\closing",
+    "\\enclname",
+    "\\headtoname",
+    "\\opening",
+    "\\pagename"
+  ],
+  "environments": []
+}

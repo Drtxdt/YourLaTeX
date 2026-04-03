@@ -1,7 +1,4 @@
 {
-  "commands": [
-    "\\IMFELLEnglish@scale",
-    "\\IMFELLEnglishSC@scale"
-  ],
+  "commands": [],
   "environments": []
 }

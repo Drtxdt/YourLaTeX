@@ -1,4 +1,16 @@
 {
-  "commands": [],
+  "commands": [
+    "\\Expand",
+    "\\MultiExpand",
+    "\\NoExpand",
+    "\\Recurse",
+    "\\Super",
+    "\\UnsafeExpand",
+    "\\command",
+    "\\def",
+    "\\next",
+    "\\space",
+    "\\xa"
+  ],
   "environments": []
 }

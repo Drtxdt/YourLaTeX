@@ -1,25 +1,24 @@
 {
   "commands": [
-    "\\acro",
     "\\Acro",
-    "\\acro@define",
+    "\\Acrostyle",
+    "\\Aterm",
+    "\\Atermstyle",
+    "\\Tacro",
+    "\\Tacrostyle",
+    "\\Termstyle",
+    "\\acro",
     "\\acroexpand",
     "\\acroindexstyle",
     "\\acrostyle",
-    "\\Acrostyle",
     "\\aterm",
-    "\\Aterm",
     "\\atermstyle",
-    "\\Atermstyle",
     "\\bfhref",
     "\\provideacronym",
     "\\tacro",
-    "\\Tacro",
     "\\tacrostyle",
-    "\\Tacrostyle",
     "\\term",
-    "\\termstyle",
-    "\\Termstyle"
+    "\\termstyle"
   ],
   "environments": []
 }

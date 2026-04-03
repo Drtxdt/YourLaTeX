@@ -1,4 +1,19 @@
 {
-  "commands": [],
+  "commands": [
+    "\\amslogo",
+    "\\bibtexlogo",
+    "\\bwzlogo",
+    "\\cent",
+    "\\cpluspluslogo",
+    "\\euro",
+    "\\fingerlogo",
+    "\\metafontlogo",
+    "\\metapostlogo",
+    "\\naira",
+    "\\numero",
+    "\\slitexlogo",
+    "\\won",
+    "\\yen"
+  ],
   "environments": []
 }

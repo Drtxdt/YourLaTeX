@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\uniscdate",
+    "\\uniscdescription",
+    "\\uniscname",
+    "\\uniscversion"
+  ],
   "environments": []
 }

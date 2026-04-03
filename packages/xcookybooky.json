@@ -1,13 +1,12 @@
 {
   "commands": [
-    "\\@newpagehint",
+    "\\LettrineFontHook",
     "\\bakingtemperature",
     "\\graph",
     "\\headrulewidth",
     "\\hint",
     "\\ingredients",
     "\\introduction",
-    "\\LettrineFontHook",
     "\\portion",
     "\\postingredients",
     "\\postpreparation",
@@ -23,12 +22,10 @@
     "\\setHeadlines",
     "\\setRecipeColors",
     "\\setRecipeLengths",
-    "\\setRecipenameFont",
     "\\setRecipeSizes",
+    "\\setRecipenameFont",
     "\\step",
-    "\\suggestion",
-    "\\xcb@cmd@recipeoverview",
-    "\\xcb@separationgraph"
+    "\\suggestion"
   ],
   "environments": [
     "recipe"

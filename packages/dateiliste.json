@@ -1,17 +1,9 @@
 {
   "commands": [
-    "\\@addtofilelist",
-    "\\@writefilelist",
-    "\\dateiliste@babel",
-    "\\dateiliste@catxii@transform",
-    "\\dateiliste@escapeii",
-    "\\dateiliste@escapetoken",
-    "\\dateiliste@postInclude",
-    "\\dateiliste@preInclude",
-    "\\dateiliste@scantoken@tr",
+    "\\ProvideFileInfos",
+    "\\afterfi",
     "\\mainFileToList",
-    "\\printFileList",
-    "\\ProvideFileInfos"
+    "\\printFileList"
   ],
   "environments": []
 }

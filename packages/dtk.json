@@ -1,0 +1,32 @@
+{
+  "commands": [
+    "\\DTKissue",
+    "\\DTKmathFontName",
+    "\\DTKmonth",
+    "\\DTKrmFontName",
+    "\\DTKsfFontName",
+    "\\DTKttFontName",
+    "\\DTKversion",
+    "\\DTKversiondate",
+    "\\DTKyear",
+    "\\and",
+    "\\author",
+    "\\bibliography",
+    "\\footnote",
+    "\\lstlisting",
+    "\\marginfont",
+    "\\sectionlinesformat",
+    "\\texteuro",
+    "\\theequation",
+    "\\thefigure",
+    "\\thelstlisting",
+    "\\thetable",
+    "\\verbatim",
+    "\\x"
+  ],
+  "environments": [
+    "Figure",
+    "Table",
+    "abstract"
+  ]
+}

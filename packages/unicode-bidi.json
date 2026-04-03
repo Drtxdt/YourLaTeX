@@ -1,7 +1,4 @@
 {
-  "commands": [
-    "\\unicode@bidi@finishlatin",
-    "\\unicode@bidi@startlatin"
-  ],
+  "commands": [],
   "environments": []
 }

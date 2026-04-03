@@ -1,5 +1,22 @@
 {
-  "commands": [],
+  "commands": [
+    "\\autodelimiters",
+    "\\delimiterprefix",
+    "\\ignorelimits",
+    "\\includelimits",
+    "\\lleft",
+    "\\mleft",
+    "\\mmbin",
+    "\\mmiddle",
+    "\\mmop",
+    "\\mmord",
+    "\\mmpunct",
+    "\\mmrel",
+    "\\mright",
+    "\\pulldelimiter",
+    "\\pushdelimiter",
+    "\\rright"
+  ],
   "environments": [
     "longmath",
     "longmath*"

@@ -1,5 +1,16 @@
 {
-  "commands": [],
+  "commands": [
+    "\\PreviewBbAdjust",
+    "\\csname",
+    "\\endpsmatrix",
+    "\\endpspicture",
+    "\\includegraphics",
+    "\\noexpand",
+    "\\nofiles",
+    "\\psmatrix",
+    "\\savepicture",
+    "\\shipout"
+  ],
   "environments": [
     "postscript",
     "pst-pdf-defs"

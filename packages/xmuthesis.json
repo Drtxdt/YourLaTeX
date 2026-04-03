@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\IfXeTeXTF",
+    "\\algbackskip",
+    "\\lstbasicfont"
+  ],
+  "environments": [
+    "abstract"
+  ]
+}

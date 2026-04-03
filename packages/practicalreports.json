@@ -1,9 +1,9 @@
 {
   "commands": [
+    "\\E",
     "\\boxanswer",
     "\\duckfoot",
     "\\e",
-    "\\E",
     "\\footer",
     "\\goodfoot",
     "\\header",

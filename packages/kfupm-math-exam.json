@@ -1,0 +1,21 @@
+{
+  "commands": [
+    "\\N",
+    "\\Q",
+    "\\R",
+    "\\Z",
+    "\\codestr",
+    "\\filedate",
+    "\\fileversion",
+    "\\footrulewidth",
+    "\\getInstructions",
+    "\\headrulewidth",
+    "\\instructions",
+    "\\nl",
+    "\\nonl",
+    "\\pagecount",
+    "\\thepage",
+    "\\versioncover"
+  ],
+  "environments": []
+}

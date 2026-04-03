@@ -9,7 +9,8 @@
     "\\ZifferPunktAus",
     "\\ZifferStrich",
     "\\ZifferStrichAn",
-    "\\ZifferStrichAus"
+    "\\ZifferStrichAus",
+    "\\n"
   ],
   "environments": []
 }

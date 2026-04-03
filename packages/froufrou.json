@@ -1,9 +1,12 @@
 {
   "commands": [
-    "\\@froufrouAsterism",
-    "\\@froufrouClosing",
-    "\\@froufrouDinkus",
-    "\\@froufrouTightAsterism"
+    "\\c",
+    "\\i",
+    "\\k",
+    "\\l",
+    "\\m",
+    "\\p",
+    "\\r"
   ],
   "environments": []
 }

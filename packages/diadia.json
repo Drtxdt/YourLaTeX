@@ -2,6 +2,8 @@
   "commands": [
     "\\annotation",
     "\\arraystretch",
+    "\\columnseprulecolor",
+    "\\csname",
     "\\diadiatab",
     "\\infobox",
     "\\mcentry",

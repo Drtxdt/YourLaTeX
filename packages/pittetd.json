@@ -1,0 +1,28 @@
+{
+  "commands": [
+    "\\committeemember",
+    "\\contentsline",
+    "\\csname",
+    "\\date",
+    "\\degree",
+    "\\numberline",
+    "\\thanks",
+    "\\title",
+    "\\topfraction",
+    "\\year"
+  ],
+  "environments": [
+    "abstract",
+    "abstract*",
+    "description",
+    "figure",
+    "figure*",
+    "quotation",
+    "quote",
+    "table",
+    "table*",
+    "thebibliography",
+    "theindex",
+    "verse"
+  ]
+}

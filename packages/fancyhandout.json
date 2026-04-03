@@ -1,0 +1,32 @@
+{
+  "commands": [
+    "\\and",
+    "\\author",
+    "\\date",
+    "\\familydefault",
+    "\\fancysection",
+    "\\fancysubsection",
+    "\\fancysubsubsection",
+    "\\footrulewidth",
+    "\\insertauthor",
+    "\\insertdate",
+    "\\insertinstitute",
+    "\\insertshortauthor",
+    "\\insertshortdate",
+    "\\insertshortinstitute",
+    "\\insertshortsubtitle",
+    "\\insertshorttitle",
+    "\\insertsubtitle",
+    "\\inserttitle",
+    "\\institute",
+    "\\maketitle",
+    "\\numberline",
+    "\\section",
+    "\\subsection",
+    "\\subsubsection",
+    "\\subtitle",
+    "\\tableofcontents",
+    "\\title"
+  ],
+  "environments": []
+}

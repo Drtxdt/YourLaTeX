@@ -1,11 +1,17 @@
 {
   "commands": [
+    "\\encodingdefault",
     "\\englishfamilydefault",
-    "\\fontstlwg@scale",
+    "\\familydefault",
+    "\\latintext",
+    "\\rmdefault",
+    "\\sfdefault",
     "\\thaifamilydefault",
     "\\thairmdefault",
     "\\thaisfdefault",
-    "\\thaittdefault"
+    "\\thaitext",
+    "\\thaittdefault",
+    "\\ttdefault"
   ],
   "environments": []
 }

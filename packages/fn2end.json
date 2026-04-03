@@ -1,7 +1,5 @@
 {
   "commands": [
-    "\\@copynote",
-    "\\@setupcopy",
     "\\makeendnotes",
     "\\notenumberformat",
     "\\restorefootnotes",

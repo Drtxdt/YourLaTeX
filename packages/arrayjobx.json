@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\arrayx",
+    "\\clrarray",
+    "\\delarray",
+    "\\newarray",
+    "\\readarray",
+    "\\testarray"
+  ],
   "environments": []
 }

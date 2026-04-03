@@ -1,5 +1,7 @@
 {
   "commands": [
+    "\\newstylenums",
+    "\\oldstylenums",
     "\\rmdefault",
     "\\sfdefault",
     "\\ttdefault"

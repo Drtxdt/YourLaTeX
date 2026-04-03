@@ -1,5 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\CDlor",
+    "\\Iat",
+    "\\clap",
+    "\\csname",
+    "\\tag"
+  ],
   "environments": [
     "CD"
   ]

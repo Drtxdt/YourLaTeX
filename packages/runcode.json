@@ -1,8 +1,9 @@
 {
   "commands": [
-    "\\generated",
     "\\LANG",
     "\\LANGcmd",
+    "\\generated",
+    "\\langs",
     "\\printcode",
     "\\runcmd",
     "\\setvalue",

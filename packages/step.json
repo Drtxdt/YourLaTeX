@@ -1,8 +1,9 @@
 {
   "commands": [
     "\\familydefault",
+    "\\infigures",
     "\\rmdefault",
-    "\\STEP@scale"
+    "\\sufigures"
   ],
   "environments": []
 }

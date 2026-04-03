@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\MessageBreak",
+    "\\check",
+    "\\empty",
+    "\\space",
+    "\\x"
+  ],
   "environments": []
 }

@@ -1,5 +1,6 @@
 {
   "commands": [
+    "\\Qcircuit",
     "\\barrier",
     "\\bra",
     "\\cctrl",
@@ -39,7 +40,6 @@
     "\\op",
     "\\pureghost",
     "\\push",
-    "\\Qcircuit",
     "\\qswap",
     "\\qw",
     "\\qwa",

@@ -1,0 +1,25 @@
+{
+  "commands": [
+    "\\headerfont",
+    "\\itemfont",
+    "\\leftheader",
+    "\\makelabel",
+    "\\maketitle",
+    "\\paragraph",
+    "\\rightheader",
+    "\\section",
+    "\\sectionfont",
+    "\\subparagraph",
+    "\\subsection",
+    "\\subsectionfont",
+    "\\subsubsection",
+    "\\title",
+    "\\titlefont",
+    "\\topiclabelfont",
+    "\\topicmargin",
+    "\\topictitlefont"
+  ],
+  "environments": [
+    "topic"
+  ]
+}

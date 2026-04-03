@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\AddSpotColor",
+    "\\NewSpotColorSpace",
+    "\\SetPageColorResource",
+    "\\SetPageColorSpace",
+    "\\SpotColor",
+    "\\SpotSpace"
+  ],
   "environments": []
 }

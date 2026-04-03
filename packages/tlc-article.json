@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\ER",
+    "\\footrulewidth",
+    "\\headrulewidth",
+    "\\inputIfExists",
+    "\\tlcBeginLandscape",
+    "\\tlcDarkblue",
+    "\\tlcDebug",
+    "\\tlcEndLandscape",
+    "\\tlcIsDefined",
+    "\\tlcTitlePageAndTableOfContents",
+    "\\tlcVersionPart",
+    "\\tlcVspace"
+  ],
+  "environments": []
+}

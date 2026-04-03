@@ -1,8 +1,7 @@
 {
   "commands": [
-    "\\mc@ComputeMultChoicesWidth",
-    "\\mc@FinalChoice",
-    "\\mc@InitialChoice"
+    "\\choicesdate",
+    "\\choicesversion"
   ],
   "environments": [
     "choices"

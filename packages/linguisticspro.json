@@ -1,7 +1,8 @@
 {
   "commands": [
-    "\\LinguisticsPro@scale",
-    "\\LinguisticsProInitials@scale"
+    "\\linguisticsprolgr",
+    "\\linguisticsprot",
+    "\\seriesdefault"
   ],
   "environments": []
 }

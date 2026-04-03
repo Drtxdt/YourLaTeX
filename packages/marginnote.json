@@ -1,22 +1,9 @@
 {
   "commands": [
-    "\\@mn@@@marginnote",
-    "\\@mn@@marginnote",
-    "\\@mn@currpage",
-    "\\@mn@currxpos",
-    "\\@mn@if@RTL",
-    "\\@mn@marginnote",
-    "\\@mn@margintest",
-    "\\@mn@thispage",
     "\\marginfont",
     "\\marginnote",
     "\\marginnotetextwidth",
     "\\marginnotevadjust",
-    "\\mn@parboxrestore",
-    "\\mn@strut",
-    "\\mn@vadjust",
-    "\\mn@vlap",
-    "\\mn@zbox",
     "\\newmarginnote",
     "\\raggedleftmarginnote",
     "\\raggedrightmarginnote"

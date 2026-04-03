@@ -1,4 +1,16 @@
 {
-  "commands": [],
-  "environments": []
+  "commands": [
+    "\\colunit",
+    "\\convertto"
+  ],
+  "environments": [
+    "Args",
+    "Envs",
+    "Keys",
+    "Macros",
+    "Options",
+    "Syntax",
+    "Values",
+    "dcAbstract"
+  ]
 }

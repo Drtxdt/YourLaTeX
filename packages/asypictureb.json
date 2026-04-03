@@ -1,16 +1,15 @@
 {
   "commands": [
-    "\\@asyerrorfilename",
-    "\\asy@angle",
-    "\\AsyCompileIfNecessary",
-    "\\ASYPIC@recordname",
     "\\ASYPICcomparefiles",
+    "\\AsyCompileIfNecessary",
+    "\\RequireAsyRecompile",
+    "\\asyheader",
+    "\\asypicture",
     "\\asyset",
     "\\copyfile",
     "\\deletefile",
     "\\getfontsize",
-    "\\RequireAsyRecompile",
-    "\\shell@execute"
+    "\\noexpand"
   ],
   "environments": []
 }

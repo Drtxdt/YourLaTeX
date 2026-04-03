@@ -1,0 +1,18 @@
+{
+  "commands": [
+    "\\author",
+    "\\csfiledate",
+    "\\csfileversion",
+    "\\date",
+    "\\maketitle",
+    "\\section",
+    "\\subsection",
+    "\\subsubsection",
+    "\\theauthor",
+    "\\thedate",
+    "\\theequation",
+    "\\thetitle",
+    "\\title"
+  ],
+  "environments": []
+}

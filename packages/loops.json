@@ -1,4 +1,19 @@
 {
-  "commands": [],
+  "commands": [
+    "\\aitems",
+    "\\alist",
+    "\\blist",
+    "\\do",
+    "\\foreachitemcount",
+    "\\foreachnextitem",
+    "\\foreachprevitem",
+    "\\lastcicada",
+    "\\nextcicada",
+    "\\noexpand",
+    "\\nr",
+    "\\skvexpandonce",
+    "\\stack",
+    "\\x"
+  ],
   "environments": []
 }

@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\inserttotalslidenumber",
+    "\\noexpand"
+  ],
   "environments": []
 }

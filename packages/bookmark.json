@@ -1,14 +1,19 @@
 {
   "commands": [
-    "\\bookmark",
     "\\BookmarkAtEnd",
-    "\\bookmarkdefinestyle",
     "\\BookmarkDriverDefault",
+    "\\belowpdfbookmark",
+    "\\bookmark",
+    "\\bookmarkdefinestyle",
     "\\bookmarkget",
     "\\bookmarksetup",
     "\\bookmarksetupnext",
-    "\\Hy@writebookmark",
-    "\\pdfbookmark"
+    "\\currentpdfbookmark",
+    "\\expandafter",
+    "\\noexpand",
+    "\\pdfbookmark",
+    "\\pdfoutline",
+    "\\subpdfbookmark"
   ],
   "environments": []
 }

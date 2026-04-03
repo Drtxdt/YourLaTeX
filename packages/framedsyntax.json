@@ -1,6 +1,12 @@
 {
   "commands": [
-    "\\FScs"
+    "\\FScs",
+    "\\SetSIbgd",
+    "\\SetSIfrm",
+    "\\SetSItxt"
   ],
-  "environments": []
+  "environments": [
+    "FramedSyntax",
+    "Sintassi"
+  ]
 }

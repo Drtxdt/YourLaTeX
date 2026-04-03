@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\centerlastline"
+    "\\centerlastline",
+    "\\endcenterlastline"
   ],
   "environments": []
 }

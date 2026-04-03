@@ -1,4 +1,21 @@
 {
-  "commands": [],
+  "commands": [
+    "\\tkzArea",
+    "\\tkzAreafg",
+    "\\tkzDefPointByFct",
+    "\\tkzDrawRiemannSum",
+    "\\tkzDrawRiemannSumInf",
+    "\\tkzDrawRiemannSumMid",
+    "\\tkzDrawRiemannSumSup",
+    "\\tkzDrawTangentLine",
+    "\\tkzFct",
+    "\\tkzFctPar",
+    "\\tkzFctPolar",
+    "\\tkzFctPt",
+    "\\tkzXH",
+    "\\tkzfctloaded",
+    "\\tkzfctset",
+    "\\x"
+  ],
   "environments": []
 }

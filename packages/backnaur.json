@@ -1,10 +1,5 @@
 {
   "commands": [
-    "\\bnf@morenn",
-    "\\bnf@moreyn",
-    "\\bnf@prodnn",
-    "\\bnf@prodyn",
-    "\\bnf@tsfont",
     "\\bnfes",
     "\\bnfmore",
     "\\bnfor",

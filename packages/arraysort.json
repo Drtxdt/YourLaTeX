@@ -1,9 +1,5 @@
 {
   "commands": [
-    "\\arraysort@comparestr",
-    "\\arraysort@extrapkgs",
-    "\\arraysort@repeats",
-    "\\arraysort@sort",
     "\\arraysortcomparenum",
     "\\arraysortcomparestr",
     "\\sortArrayPartitionFirst",

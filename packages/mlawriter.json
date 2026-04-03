@@ -1,0 +1,21 @@
+{
+  "commands": [
+    "\\bf",
+    "\\centering",
+    "\\citepage",
+    "\\endcite",
+    "\\endmla",
+    "\\endquote",
+    "\\it",
+    "\\makeheadline",
+    "\\mla",
+    "\\quote",
+    "\\rm",
+    "\\setheader",
+    "\\settitle",
+    "\\sl",
+    "\\today",
+    "\\url"
+  ],
+  "environments": []
+}

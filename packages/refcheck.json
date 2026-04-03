@@ -1,7 +1,23 @@
 {
   "commands": [
+    "\\bibitem",
+    "\\checkunlbld",
     "\\citation",
-    "\\label"
+    "\\cleanprefix",
+    "\\filedate",
+    "\\filename",
+    "\\fileversion",
+    "\\ignoreunlbld",
+    "\\label",
+    "\\nocitenames",
+    "\\norefnames",
+    "\\refcheckxrdoc",
+    "\\setoffmsgs",
+    "\\setonmsgs",
+    "\\showcitenames",
+    "\\showrefnames",
+    "\\usedref",
+    "\\wrtusdrf"
   ],
   "environments": []
 }

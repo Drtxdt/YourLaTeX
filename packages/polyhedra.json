@@ -5,11 +5,9 @@
     "\\EdgeThickness",
     "\\FocusColor",
     "\\HalfspaceColor",
-    "\\intersectionColor",
     "\\OpenColor",
     "\\OpenHyperplanePattern",
     "\\OpenPolygonPattern",
-    "\\point",
     "\\PolygonColor",
     "\\PolyhedraDefaultHeight",
     "\\PolyhedraDefaultScale",
@@ -19,7 +17,15 @@
     "\\ShadeColor",
     "\\VertexColor",
     "\\VertexTextColor",
-    "\\VertexThickness"
+    "\\VertexThickness",
+    "\\bounddraw",
+    "\\fillcolor",
+    "\\intersectionColor",
+    "\\point",
+    "\\splicelist",
+    "\\thelabel",
+    "\\thepoint",
+    "\\thevertex"
   ],
   "environments": []
 }

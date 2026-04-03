@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\csname",
+    "\\empty",
+    "\\noexpand",
+    "\\x"
+  ],
   "environments": []
 }

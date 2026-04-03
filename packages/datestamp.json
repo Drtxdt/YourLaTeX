@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\datestampdate",
+    "\\datestampdescription",
+    "\\datestampname",
+    "\\datestampversion"
+  ],
   "environments": []
 }

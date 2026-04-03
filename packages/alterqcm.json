@@ -1,24 +1,22 @@
 {
   "commands": [
-    "\\altersquare",
-    "\\aq@adjust",
-    "\\aq@forLoop",
-    "\\aq@hauteurbox",
-    "\\aq@melange",
-    "\\aq@pre",
-    "\\aq@preVF",
-    "\\aq@prop",
-    "\\aq@questionVF",
-    "\\aq@style@numquest",
-    "\\aq@style@numrep",
-    "\\aq@style@title",
-    "\\aq@title",
     "\\AQannexe",
     "\\AQmessage",
     "\\AQms",
     "\\AQquestion",
+    "\\addtotoks",
+    "\\altersquare",
+    "\\aqfoottext",
+    "\\aqlabelforquest",
+    "\\aqlabelforrep",
+    "\\aqpretxt",
+    "\\aqpretxtVF",
+    "\\aqtextforfalse",
+    "\\aqtextfortrue",
     "\\dingchecksquare",
-    "\\dingsquare"
+    "\\dingsquare",
+    "\\nextrandom",
+    "\\setrannum"
   ],
   "environments": [
     "alterqcm"

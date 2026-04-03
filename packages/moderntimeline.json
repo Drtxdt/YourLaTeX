@@ -1,12 +1,5 @@
 {
   "commands": [
-    "\\tl@formatendyear",
-    "\\tl@formatstartyear",
-    "\\tl@splitlabels",
-    "\\tl@splitlabels@auxi",
-    "\\tl@tlcvbar",
-    "\\tl@yearfraction",
-    "\\tl@yearfraction@auxi",
     "\\tlcventry",
     "\\tldatecventry",
     "\\tldatelabelcventry",

@@ -1,5 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\csname"
+  ],
   "environments": [
     "answer",
     "comment",

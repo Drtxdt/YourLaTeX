@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\CCM@KV@Option",
+    "\\filedate",
+    "\\fileversion",
     "\\overrightarc",
     "\\widearc"
   ],

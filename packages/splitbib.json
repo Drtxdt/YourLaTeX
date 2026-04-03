@@ -1,4 +1,26 @@
 {
-  "commands": [],
+  "commands": [
+    "\\NMSBsort",
+    "\\NMSBsortlt",
+    "\\SBalias",
+    "\\SBcomment",
+    "\\SBentries",
+    "\\SBmiscprefix",
+    "\\SBmisctitle",
+    "\\SBsubtitle",
+    "\\SBsubtitlefont",
+    "\\SBsubtitlestyle",
+    "\\SBtitle",
+    "\\SBtitlefont",
+    "\\SBtitlestyle",
+    "\\category",
+    "\\chapter",
+    "\\csname",
+    "\\endcategory",
+    "\\endthebibliography",
+    "\\expandafter",
+    "\\section",
+    "\\thebibliography"
+  ],
   "environments": []
 }

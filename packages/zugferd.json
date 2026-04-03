@@ -1,12 +1,28 @@
 {
   "commands": [
-    "\\insertZugferdData",
     "\\InsertZugferdData",
+    "\\LaTeX",
+    "\\LaTeXe",
+    "\\MF",
+    "\\MP",
+    "\\P",
+    "\\SliTeX",
+    "\\TeX",
+    "\\TextOrMath",
+    "\\begin",
+    "\\dots",
+    "\\eTeX",
+    "\\end",
+    "\\halign",
+    "\\insertZugferdData",
+    "\\ldots",
+    "\\newline",
     "\\setupZUGFeRDStrings",
     "\\startWritingZUGFeRDxml",
     "\\stopWritingZUGFeRDxml",
-    "\\zugferd@paymentMeans@english",
-    "\\zugferd@paymentMeans@german"
+    "\\textcolor"
   ],
-  "environments": []
+  "environments": [
+    "ZUGFeRD"
+  ]
 }

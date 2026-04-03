@@ -1,10 +1,6 @@
 {
   "commands": [
-    "\\@@writetorep",
-    "\\BKM@DefGotoNameAction",
-    "\\Hy@DestName",
-    "\\Hy@OutlineName",
-    "\\Hy@StartlinkName",
+    "\\pdfdest",
     "\\theHypDest"
   ],
   "environments": []

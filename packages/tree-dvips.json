@@ -1,4 +1,25 @@
 {
-  "commands": [],
+  "commands": [
+    "\\aanodeconnect",
+    "\\aanodecurve",
+    "\\abarnodeconnect",
+    "\\anodeconnect",
+    "\\anodecurve",
+    "\\arrowhead",
+    "\\barnodeconnect",
+    "\\delink",
+    "\\delinkcurve",
+    "\\makedash",
+    "\\node",
+    "\\nodebox",
+    "\\nodecircle",
+    "\\nodeconnect",
+    "\\nodecurve",
+    "\\nodeoval",
+    "\\nodepoint",
+    "\\nodetriangle",
+    "\\pscmd",
+    "\\thinline"
+  ],
   "environments": []
 }

@@ -1,4 +1,27 @@
 {
-  "commands": [],
+  "commands": [
+    "\\ST",
+    "\\STautoround",
+    "\\STdate",
+    "\\STdatetonum",
+    "\\STeol",
+    "\\STmessage",
+    "\\STname",
+    "\\STnumericfieldmarker",
+    "\\STprintnum",
+    "\\STreset",
+    "\\STseedoc",
+    "\\STset",
+    "\\STsetdecimalsep",
+    "\\STsetdisplaymarks",
+    "\\STtag",
+    "\\STtextcell",
+    "\\STtocopylist",
+    "\\STtranposechar",
+    "\\STver",
+    "\\csname",
+    "\\expandafter",
+    "\\spreadtab"
+  ],
   "environments": []
 }

@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\Input",
+    "\\TXSmods",
+    "\\TXSpatches",
+    "\\TeXsis",
+    "\\TeXsisLib",
+    "\\filename",
+    "\\fmtname",
+    "\\fmtversion",
+    "\\revdate"
+  ],
+  "environments": []
+}

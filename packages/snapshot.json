@@ -1,8 +1,14 @@
 {
   "commands": [
-    "\\controldates",
+    "\\G",
+    "\\N",
+    "\\ProvidesFile",
+    "\\ProvidesLanguage",
     "\\RequireVersions",
-    "\\SpecialInput"
+    "\\SpecialInput",
+    "\\T",
+    "\\X",
+    "\\controldates"
   ],
   "environments": []
 }

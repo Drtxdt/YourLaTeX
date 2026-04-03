@@ -1,0 +1,24 @@
+{
+  "commands": [
+    "\\author",
+    "\\endmultislide",
+    "\\endslide",
+    "\\maketitle",
+    "\\multislide",
+    "\\section",
+    "\\slide",
+    "\\slidesadjust",
+    "\\slidesmag",
+    "\\slidestyle",
+    "\\subsection",
+    "\\tableofcontents",
+    "\\thempfootnote",
+    "\\theslide",
+    "\\theslidelabel",
+    "\\thesubslide",
+    "\\title"
+  ],
+  "environments": [
+    "notes"
+  ]
+}

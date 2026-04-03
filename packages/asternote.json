@@ -1,4 +1,23 @@
 {
-  "commands": [],
+  "commands": [
+    "\\asternote",
+    "\\asternotereset",
+    "\\asternotesuperscript",
+    "\\asternotetext",
+    "\\asternumber",
+    "\\asternumbersetsuperscript",
+    "\\asternumbersuperscript",
+    "\\asternumbertext",
+    "\\asterref",
+    "\\asterrefsuperscript",
+    "\\asterreftext",
+    "\\setasternoteindent",
+    "\\setasternotenoindent",
+    "\\setasternotesuperscript",
+    "\\setasternotetext",
+    "\\setasternumbertext",
+    "\\setasterrefsuperscript",
+    "\\setasterreftext"
+  ],
   "environments": []
 }

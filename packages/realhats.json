@@ -3,7 +3,8 @@
     "\\gethat",
     "\\hat",
     "\\hatn",
-    "\\hatnoptions"
+    "\\hatnoptions",
+    "\\hatused"
   ],
   "environments": []
 }

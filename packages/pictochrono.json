@@ -1,4 +1,12 @@
 {
-  "commands": [],
+  "commands": [
+    "\\colchrono",
+    "\\coltimechrono",
+    "\\deltachrono",
+    "\\echellechronoarrondis",
+    "\\echellechronotraits",
+    "\\hautchrono",
+    "\\raisechrono"
+  ],
   "environments": []
 }

@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\doubleposterbox",
+    "\\email",
+    "\\faicon",
+    "\\highlight",
+    "\\labelitemi",
+    "\\labelitemii",
+    "\\maketitle",
+    "\\posterbox"
+  ],
+  "environments": []
+}

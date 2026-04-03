@@ -1,6 +1,29 @@
 {
   "commands": [
-    "\\herosSF@scale"
+    "\\LCASE",
+    "\\LCPSP",
+    "\\LCtoSC",
+    "\\LCtoSMCP",
+    "\\LDLIG",
+    "\\LFRAC",
+    "\\LHLIG",
+    "\\LLIGA",
+    "\\LSALT",
+    "\\LSS",
+    "\\Land",
+    "\\Lcase",
+    "\\Lcpsp",
+    "\\Lctosc",
+    "\\Lctosmcp",
+    "\\Ldlig",
+    "\\Lfrac",
+    "\\Lhlig",
+    "\\Lliga",
+    "\\Lsalt",
+    "\\Lsinf",
+    "\\Lss",
+    "\\Lsup",
+    "\\sufigures"
   ],
   "environments": []
 }

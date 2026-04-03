@@ -3,6 +3,9 @@
     "\\breaklig",
     "\\keeplig",
     "\\nolig",
+    "\\selnoligpackagedate",
+    "\\selnoligpackagename",
+    "\\selnoligpackageversion",
     "\\uselig"
   ],
   "environments": []

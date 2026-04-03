@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\@SYRestoreBooleans",
+    "\\filedate",
+    "\\fileversion",
     "\\setpresyl",
     "\\setsylergo",
     "\\setsylergosign",
@@ -14,7 +15,9 @@
     "\\setsylsepa",
     "\\setsylsepb",
     "\\syl",
+    "\\syllog",
     "\\syllogC",
+    "\\syllogTA",
     "\\syllogTAC"
   ],
   "environments": []

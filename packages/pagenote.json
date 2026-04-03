@@ -1,13 +1,7 @@
 {
   "commands": [
-    "\\@pagenote",
-    "\\@printnotes",
-    "\\@sprintnotes",
-    "\\@wrpnote",
     "\\addtonotes",
     "\\chaptername",
-    "\\f@rtoc",
-    "\\immediate@protected@write",
     "\\makepagenote",
     "\\notedivision",
     "\\noteentry",
@@ -18,6 +12,8 @@
     "\\notesname",
     "\\pageinnotes",
     "\\pagename",
+    "\\pagenote",
+    "\\pagenotesubhead",
     "\\pnofilewarn",
     "\\postnoteinnotes",
     "\\prenoteinnotes",

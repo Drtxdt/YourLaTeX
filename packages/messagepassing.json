@@ -8,15 +8,6 @@
     "\\colouredboxcolour",
     "\\crash",
     "\\drawtimeline",
-    "\\mp@annotaterotation",
-    "\\mp@checkpointanchor",
-    "\\mp@colouredboxcolour",
-    "\\mp@messagelabelanchor",
-    "\\mp@oobcolour",
-    "\\mp@processnameanchor",
-    "\\mp@stateintervalanchor",
-    "\\mp@timeticksanchor",
-    "\\mp@verticalrotation",
     "\\oobcolour",
     "\\processlength",
     "\\restart",
@@ -25,5 +16,7 @@
     "\\stateinterval",
     "\\stateintervalspecial"
   ],
-  "environments": []
+  "environments": [
+    "messagepassing"
+  ]
 }

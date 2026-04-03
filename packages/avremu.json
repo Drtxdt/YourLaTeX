@@ -1,5 +1,6 @@
 {
   "commands": [
+    "\\do",
     "\\useavremulibrary"
   ],
   "environments": []

@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "\\biog",
+    "\\cpyrght",
+    "\\diagram",
+    "\\footrulewidth",
+    "\\headrulewidth",
+    "\\important",
+    "\\intro",
+    "\\note"
+  ],
+  "environments": [
+    "pattern"
+  ]
+}

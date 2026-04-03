@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\fmtname",
+    "\\footnote",
+    "\\gt",
+    "\\mc"
+  ],
+  "environments": []
+}

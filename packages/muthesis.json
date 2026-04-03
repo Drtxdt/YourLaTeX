@@ -1,0 +1,30 @@
+{
+  "commands": [
+    "\\abstracttitle",
+    "\\afterabstract",
+    "\\afterpreface",
+    "\\beforeabstract",
+    "\\comment",
+    "\\copyrightpage",
+    "\\copyrightyear",
+    "\\declpage",
+    "\\degreetitle",
+    "\\dept",
+    "\\endthebibliography",
+    "\\faculty",
+    "\\firstreader",
+    "\\newblock",
+    "\\prefacesection",
+    "\\principaladviser",
+    "\\principaladvisor",
+    "\\school",
+    "\\secondreader",
+    "\\signature",
+    "\\signaturepage",
+    "\\submitdate",
+    "\\thebibliography",
+    "\\theenumiv",
+    "\\titlep"
+  ],
+  "environments": []
+}

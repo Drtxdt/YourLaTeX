@@ -1,6 +1,19 @@
 {
   "commands": [
-    "\\notesname"
+    "\\addtoendnotes",
+    "\\endnote",
+    "\\endnotemark",
+    "\\endnotetext",
+    "\\enoteformat",
+    "\\enoteheading",
+    "\\enotesize",
+    "\\footnote",
+    "\\makeenmark",
+    "\\next",
+    "\\notesname",
+    "\\theendnote",
+    "\\theendnotes",
+    "\\theenmark"
   ],
   "environments": []
 }

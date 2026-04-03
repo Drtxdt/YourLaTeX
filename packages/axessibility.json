@@ -1,13 +1,16 @@
 {
   "commands": [
-    "\\auxiliaryspace",
     "\\BeginAccSupp",
+    "\\auxiliaryspace",
     "\\document",
     "\\doreplacement",
-    "\\enddocument"
+    "\\enddocument",
+    "\\wrap",
+    "\\wrapml",
+    "\\wrapmlalt",
+    "\\wrapmlstar"
   ],
   "environments": [
-    "temp@env",
     "tempenv"
   ]
 }

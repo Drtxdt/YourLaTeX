@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\bottomnote",
+    "\\course",
+    "\\csname",
+    "\\footrulewidth",
+    "\\header",
+    "\\headrulewidth",
+    "\\keywords",
+    "\\logoimage",
+    "\\maketitle",
+    "\\rollno",
+    "\\semester",
+    "\\square",
+    "\\subject",
+    "\\titlelabel"
+  ],
+  "environments": []
+}

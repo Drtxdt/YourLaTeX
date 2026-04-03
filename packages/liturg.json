@@ -1,5 +1,6 @@
 {
   "commands": [
+    "\\LettrineFontHook",
     "\\caplettrine",
     "\\latin",
     "\\latinpart",
@@ -7,7 +8,6 @@
     "\\lessonheading",
     "\\lessonsource",
     "\\lessontitle",
-    "\\LettrineFontHook",
     "\\massenglish",
     "\\prayerheading",
     "\\psalmheading"

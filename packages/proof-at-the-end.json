@@ -1,7 +1,21 @@
 {
   "commands": [
+    "\\csname",
     "\\makeallother",
+    "\\pratendlastoptions",
+    "\\pratendtextlink",
+    "\\pratendtextproof",
+    "\\prefixPrAtEndFiles",
     "\\proofname"
   ],
-  "environments": []
+  "environments": [
+    "proofEnd",
+    "proofEndDebug",
+    "proofEndOrig",
+    "textAtEnd",
+    "theoremEnd",
+    "theoremEndDebug",
+    "theoremEndOrig",
+    "theoremEndRestateBefore"
+  ]
 }

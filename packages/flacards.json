@@ -1,0 +1,26 @@
+{
+  "commands": [
+    "\\bcfoot",
+    "\\bchead",
+    "\\blfoot",
+    "\\blhead",
+    "\\brfoot",
+    "\\brhead",
+    "\\card",
+    "\\cardbox",
+    "\\cardinnerbox",
+    "\\cardtext",
+    "\\cardtextstyleb",
+    "\\cardtextstylef",
+    "\\colsperpage",
+    "\\fcfoot",
+    "\\fchead",
+    "\\flfoot",
+    "\\flhead",
+    "\\frfoot",
+    "\\frhead",
+    "\\pagesetup",
+    "\\rowsperpage"
+  ],
+  "environments": []
+}

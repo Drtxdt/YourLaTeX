@@ -1,0 +1,16 @@
+{
+  "commands": [
+    "\\GradPolar",
+    "\\factor",
+    "\\minimumdistance",
+    "\\minorticklength",
+    "\\ticklength",
+    "\\xlength",
+    "\\xlinsq",
+    "\\xmindiv",
+    "\\ylength",
+    "\\ylinsq",
+    "\\ymindiv"
+  ],
+  "environments": []
+}

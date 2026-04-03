@@ -1,4 +1,13 @@
 {
-  "commands": [],
+  "commands": [
+    "\\edef",
+    "\\expandafter",
+    "\\new",
+    "\\next",
+    "\\provide",
+    "\\renew",
+    "\\space",
+    "\\z"
+  ],
   "environments": []
 }

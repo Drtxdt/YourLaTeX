@@ -1,4 +1,15 @@
 {
-  "commands": [],
+  "commands": [
+    "\\DeclareDelimiter",
+    "\\csarg",
+    "\\cxkvSetup",
+    "\\expandafter",
+    "\\string",
+    "\\usekvdelim",
+    "\\w",
+    "\\x",
+    "\\y",
+    "\\z"
+  ],
   "environments": []
 }

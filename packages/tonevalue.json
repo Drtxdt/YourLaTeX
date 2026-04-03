@@ -2,7 +2,10 @@
   "commands": [
     "\\drawuntpoint",
     "\\linkuntpoints",
-    "\\untpoint"
+    "\\sendiauToListStr",
+    "\\toneVisualisationFontCmd",
+    "\\untpoint",
+    "\\xjoinbycomma"
   ],
   "environments": [
     "untVisualisation"

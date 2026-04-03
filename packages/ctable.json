@@ -1,9 +1,14 @@
 {
   "commands": [
+    "\\FL",
+    "\\LL",
+    "\\ML",
+    "\\NN",
     "\\ctable",
     "\\setupctable",
     "\\tmark",
-    "\\tnote"
+    "\\tnote",
+    "\\transparent"
   ],
   "environments": []
 }

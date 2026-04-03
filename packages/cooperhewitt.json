@@ -1,6 +1,8 @@
 {
   "commands": [
-    "\\CpHwt@scale"
+    "\\cphwtfamily",
+    "\\sfdefault",
+    "\\supfigures"
   ],
   "environments": []
 }

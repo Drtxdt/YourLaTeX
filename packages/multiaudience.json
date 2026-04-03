@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\CurrentAudience",
+    "\\DefCurrentAudience",
+    "\\DefMultiaudienceCommand",
+    "\\NewMultiaudienceSectionEnv",
+    "\\SetNewAudience",
+    "\\showto"
+  ],
   "environments": []
 }

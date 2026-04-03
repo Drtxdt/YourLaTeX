@@ -1,12 +1,22 @@
 {
   "commands": [
-    "\\gentium@math",
-    "\\gentium@math@features",
-    "\\gentium@mono",
-    "\\gentium@mono@features",
-    "\\gentium@sans",
-    "\\gentium@sans@features",
-    "\\gentiumRM@scale"
+    "\\LCV",
+    "\\LCtoSC",
+    "\\LCtoSMCP",
+    "\\LFRAC",
+    "\\LLIGA",
+    "\\LSS",
+    "\\LSUB",
+    "\\LSUP",
+    "\\Lctosc",
+    "\\Lctosmcp",
+    "\\Lcv",
+    "\\Lfrac",
+    "\\Llang",
+    "\\Lliga",
+    "\\Lss",
+    "\\Lsub",
+    "\\Lsup"
   ],
   "environments": []
 }

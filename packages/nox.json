@@ -1,9 +1,25 @@
 {
   "commands": [
+    "\\addtocellnotes",
+    "\\amp",
     "\\cellflush",
     "\\celllabel",
+    "\\cellnote",
+    "\\cellnoteformat",
+    "\\cellnoteheading",
+    "\\cellnotemark",
+    "\\cellnotesize",
+    "\\cellnotesname",
+    "\\cellnotetext",
     "\\celltitle",
     "\\linenoformat",
+    "\\makecellmark",
+    "\\next",
+    "\\nox",
+    "\\readme",
+    "\\thecellmark",
+    "\\thecellnote",
+    "\\thecellnotes",
     "\\tntabledimen"
   ],
   "environments": [

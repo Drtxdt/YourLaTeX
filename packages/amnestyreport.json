@@ -1,0 +1,26 @@
+{
+  "commands": [
+    "\\FrameCommand",
+    "\\UrlFont",
+    "\\attribution",
+    "\\endfigure",
+    "\\endtable",
+    "\\figure",
+    "\\footrulewidth",
+    "\\headrulewidth",
+    "\\maketitle",
+    "\\normalFigureCaptions",
+    "\\normalTableCaptions",
+    "\\numberline",
+    "\\sectionautorefname",
+    "\\sideFigureCaptions",
+    "\\sideTableCaptions",
+    "\\subsectionautorefname",
+    "\\subsubsectionautorefname",
+    "\\table",
+    "\\tightlist"
+  ],
+  "environments": [
+    "AmnestyGlossary"
+  ]
+}

@@ -1,7 +1,10 @@
 {
   "commands": [
-    "\\EBGaramond@scale",
-    "\\EBGaramondInitials@scale"
+    "\\ebgaramondlgr",
+    "\\infigures",
+    "\\initials",
+    "\\seriesdefault",
+    "\\sufigures"
   ],
   "environments": []
 }

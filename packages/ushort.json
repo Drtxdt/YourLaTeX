@@ -1,11 +1,12 @@
 {
   "commands": [
+    "\\expandafter",
     "\\ushort",
     "\\ushortCreate",
+    "\\ushortEnsuremath",
     "\\ushortd",
     "\\ushortdline",
     "\\ushortdw",
-    "\\ushortEnsuremath",
     "\\ushortw"
   ],
   "environments": []

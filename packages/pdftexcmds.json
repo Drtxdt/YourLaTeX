@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\csname",
+    "\\empty",
+    "\\x",
+    "\\y",
+    "\\z"
+  ],
   "environments": []
 }

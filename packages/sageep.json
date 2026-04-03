@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\and",
+    "\\author",
+    "\\bottomfraction",
+    "\\cite",
+    "\\floatpagefraction",
+    "\\maketitle",
+    "\\textfraction",
+    "\\topfraction"
+  ],
+  "environments": []
+}

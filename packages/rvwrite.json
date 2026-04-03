@@ -1,4 +1,18 @@
 {
-  "commands": [],
+  "commands": [
+    "\\Filedate",
+    "\\Fileversion",
+    "\\ampchr",
+    "\\bslchr",
+    "\\dlrchr",
+    "\\ervwrite",
+    "\\hshchr",
+    "\\lbrchr",
+    "\\newrvwrite",
+    "\\next",
+    "\\rbrchr",
+    "\\rvwrite",
+    "\\tldchr"
+  ],
   "environments": []
 }

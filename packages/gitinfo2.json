@@ -1,12 +1,6 @@
 {
   "commands": [
-    "\\@gitFootRev",
-    "\\@gitlFootRev",
-    "\\@gitPage",
-    "\\@gitrFootRev",
     "\\baselinestretch",
-    "\\GI@githeadinfo@file",
-    "\\GI@repo@prefix",
     "\\gitAbbrevHash",
     "\\gitAuthorDate",
     "\\gitAuthorEmail",
@@ -23,11 +17,6 @@
     "\\gitDirty",
     "\\gitFirstTagDescribe",
     "\\gitHash",
-    "\\gitInf@describe",
-    "\\gitInf@dirtflag",
-    "\\gitInf@mcount",
-    "\\gitInf@off",
-    "\\gitInf@rel",
     "\\gitMark",
     "\\gitMarkFormat",
     "\\gitMarkPref",
@@ -40,7 +29,8 @@
     "\\gitVtag",
     "\\gitVtagn",
     "\\gitVtags",
-    "\\gitWrapEmail"
+    "\\gitWrapEmail",
+    "\\noexpand"
   ],
   "environments": []
 }

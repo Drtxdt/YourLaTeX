@@ -1,4 +1,16 @@
 {
-  "commands": [],
+  "commands": [
+    "\\pdfliteral",
+    "\\pgfPT",
+    "\\pgfPTdvnfont",
+    "\\pgfPTresetstyle",
+    "\\pgfPTstyle",
+    "\\pgfPTzhFontFeatures",
+    "\\pgfPTzhnumber",
+    "\\pgfPTzhnumberfont",
+    "\\pgfPTzhtextfontLv",
+    "\\pgfPTzhtextfontSS",
+    "\\pgfPTzhtextfontSSB"
+  ],
   "environments": []
 }

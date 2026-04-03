@@ -1,6 +1,12 @@
 {
   "commands": [
-    "\\FixateFormat"
+    "\\FixateFormat",
+    "\\NameauthIndex",
+    "\\SNN",
+    "\\Space",
+    "\\SpaceW",
+    "\\expandafter",
+    "\\test"
   ],
   "environments": [
     "AltFormatZone",

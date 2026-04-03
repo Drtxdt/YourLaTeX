@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\HTMLchapHook",
+    "\\HTMLsecHook",
+    "\\formatdateny",
+    "\\jrnlday",
+    "\\jrnlmonth",
+    "\\noyearbasque",
+    "\\noyearenglish",
+    "\\noyearfrench",
+    "\\noyearrussian",
+    "\\noyearspanish"
+  ],
+  "environments": [
+    "journal"
+  ]
+}

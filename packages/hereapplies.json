@@ -1,13 +1,10 @@
 {
   "commands": [
-    "\\get@hainfo",
     "\\hadelimiter",
     "\\halastdelimiter",
     "\\hapage",
     "\\hapages",
     "\\hereapplies",
-    "\\starred@hereapplies",
-    "\\starred@nochecks@hereapplies",
     "\\whereapplies"
   ],
   "environments": []

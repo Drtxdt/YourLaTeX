@@ -1,4 +1,10 @@
 {
   "commands": [],
-  "environments": []
+  "environments": [
+    "autoadjustwidth",
+    "figure*",
+    "marginfigure",
+    "margintable",
+    "table*"
+  ]
 }

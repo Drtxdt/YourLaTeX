@@ -1,5 +1,15 @@
 {
-  "commands": [],
+  "commands": [
+    "\\biography",
+    "\\biographyLyX",
+    "\\computeilg",
+    "\\createparshapespec",
+    "\\endbiography",
+    "\\getpic",
+    "\\par",
+    "\\prune",
+    "\\wstrut"
+  ],
   "environments": [
     "eqnfloat",
     "eqnfloat*"

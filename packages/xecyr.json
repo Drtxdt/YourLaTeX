@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\cyrdash",
+    "\\setmainfont",
+    "\\setmonofont",
+    "\\setsansfont"
+  ],
   "environments": []
 }

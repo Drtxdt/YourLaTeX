@@ -1,4 +1,14 @@
 {
-  "commands": [],
+  "commands": [
+    "\\AfterEndEnv",
+    "\\begin",
+    "\\end",
+    "\\endextract",
+    "\\expandafter",
+    "\\extract",
+    "\\extractionlabel",
+    "\\extractline",
+    "\\string"
+  ],
   "environments": []
 }

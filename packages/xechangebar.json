@@ -1,10 +1,22 @@
 {
   "commands": [
-    "\\cb@trace",
+    "\\DVIPS",
+    "\\DVItoPS",
+    "\\LN",
+    "\\Textures",
+    "\\VTeX",
+    "\\cbcolor",
     "\\cbdelete",
     "\\cbend",
     "\\cbstart",
-    "\\nochangebars"
+    "\\do",
+    "\\driver",
+    "\\emTeX",
+    "\\nochangebars",
+    "\\noexpand",
+    "\\pdfTeX",
+    "\\the",
+    "\\xetex"
   ],
   "environments": [
     "changebar"

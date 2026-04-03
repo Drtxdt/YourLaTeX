@@ -1,4 +1,22 @@
 {
-  "commands": [],
+  "commands": [
+    "\\computeilg",
+    "\\createparshapespec",
+    "\\endfigwindow",
+    "\\endtabwindow",
+    "\\endwindow",
+    "\\figwindow",
+    "\\framepic",
+    "\\par",
+    "\\protect",
+    "\\prune",
+    "\\tabwindow",
+    "\\wframepic",
+    "\\wincaption",
+    "\\window",
+    "\\winrefstepcounter",
+    "\\winstepcounter",
+    "\\wstrut"
+  ],
   "environments": []
 }

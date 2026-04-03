@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\cf",
+    "\\roundbox"
+  ],
   "environments": []
 }

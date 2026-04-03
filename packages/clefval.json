@@ -1,8 +1,11 @@
 {
   "commands": [
-    "\\@newk@ey",
-    "\\@setTheValue",
-    "\\TheValue"
+    "\\TheKey",
+    "\\TheValue",
+    "\\filedate",
+    "\\fileinfo",
+    "\\fileversion",
+    "\\newkey"
   ],
   "environments": []
 }

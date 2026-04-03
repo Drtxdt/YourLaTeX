@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\NewEnviron",
+    "\\RenewEnviron",
+    "\\csname",
+    "\\environbodyname",
+    "\\environfinalcode"
+  ],
   "environments": []
 }

@@ -1,9 +1,17 @@
 {
   "commands": [
-    "\\@drs",
     "\\alifdrs",
+    "\\baselinestretch",
     "\\drs",
+    "\\drsalignment",
+    "\\drsarraystretch",
+    "\\drsboxalignh",
+    "\\drsboxalignv",
+    "\\drscondfont",
     "\\drsdiamond",
+    "\\drshacksetspace",
+    "\\drsseparator",
+    "\\drsvarfont",
     "\\ifdrs",
     "\\negdrs",
     "\\qdrs",

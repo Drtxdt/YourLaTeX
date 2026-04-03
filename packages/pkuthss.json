@@ -1,0 +1,24 @@
+{
+  "commands": [
+    "\\Box",
+    "\\arraystretch",
+    "\\blacksquare",
+    "\\ctitle",
+    "\\cuniversity",
+    "\\headrulewidth",
+    "\\makeblind",
+    "\\maketitle",
+    "\\pgfsysdriver",
+    "\\pkuthssinfo",
+    "\\setpdfproperties",
+    "\\specialchap",
+    "\\tableofcontents",
+    "\\thefootnote",
+    "\\thssnl"
+  ],
+  "environments": [
+    "beabstract",
+    "cabstract",
+    "eabstract"
+  ]
+}

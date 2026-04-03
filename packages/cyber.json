@@ -1,17 +1,26 @@
 {
   "commands": [
+    "\\addtosectionname",
     "\\articlesecuritylabel",
     "\\booksecuritylabel",
     "\\bydefault",
     "\\change",
     "\\compliancehelper",
+    "\\distributionA",
+    "\\distributionB",
+    "\\distributionC",
+    "\\distributionD",
+    "\\distributionE",
+    "\\distributionF",
     "\\documented",
     "\\documents",
     "\\doneby",
     "\\executivesummaryiacontrol",
     "\\explanationshelper",
+    "\\foreach",
     "\\headrulewidth",
     "\\iaindexheadstyle",
+    "\\iamarginsize",
     "\\implements",
     "\\indexhelper",
     "\\makedodtitle",
@@ -23,7 +32,9 @@
     "\\requirement",
     "\\requirementsdocument",
     "\\sectionnamehelper",
-    "\\unimplemented"
+    "\\today",
+    "\\unimplemented",
+    "\\version"
   ],
   "environments": [
     "changelog",

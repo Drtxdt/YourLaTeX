@@ -1,0 +1,22 @@
+{
+  "commands": [
+    "\\bookcover",
+    "\\bookcoverdescgeometry",
+    "\\csname",
+    "\\endbookcover",
+    "\\letnamebookcovercomponenttype",
+    "\\makebookcover",
+    "\\newbookcovercomponenttype",
+    "\\newbookcoverpart",
+    "\\newnamebookcovercomponenttype",
+    "\\newnamebookcoverpart",
+    "\\renewbookcovercomponenttype",
+    "\\renewbookcoverpart",
+    "\\setbookcover",
+    "\\showbookcoverparameters"
+  ],
+  "environments": [
+    "bookcoverdescription",
+    "bookcoverelement"
+  ]
+}

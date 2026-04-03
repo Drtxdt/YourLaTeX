@@ -1,17 +1,21 @@
 {
   "commands": [
-    "\\@initisotab",
-    "\\notablelasthead",
-    "\\PWST@lastpagecr",
-    "\\PWST@setfirstcall",
     "\\PWSTcalchtlines",
     "\\PWSTcalnextpageht",
     "\\PWSTinit",
     "\\PWSToplastpagenum",
     "\\PWSTsethead",
+    "\\baslineskp",
+    "\\bottomcaption",
+    "\\endmpxtabular",
+    "\\endxtabular",
+    "\\mpxtabular",
+    "\\notablelasthead",
+    "\\tablecaption",
     "\\tablelasthead",
-    "\\x@endsupertabular",
-    "\\xentrystretch"
+    "\\topcaption",
+    "\\xentrystretch",
+    "\\xtabular"
   ],
   "environments": []
 }

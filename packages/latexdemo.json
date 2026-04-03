@@ -1,10 +1,6 @@
 {
   "commands": [
-    "\\democodefile",
-    "\\democodeprefix",
     "\\DemoError",
-    "\\demoresultprefix",
-    "\\preResultSkip",
     "\\PrintCodeAndResultsNone",
     "\\PrintCodeAndResultsPage",
     "\\PrintCodeAndResultsParallel",
@@ -12,6 +8,11 @@
     "\\PrintCodeAndResultsStackedLines",
     "\\PrintDemo",
     "\\PrintDemoUsingKeys",
+    "\\demoInputFile",
+    "\\democodefile",
+    "\\democodeprefix",
+    "\\demoresultprefix",
+    "\\preResultSkip",
     "\\printlatexcode",
     "\\printlatexresult",
     "\\printlatexresultlines",

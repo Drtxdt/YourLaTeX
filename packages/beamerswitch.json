@@ -1,0 +1,28 @@
+{
+  "commands": [
+    "\\ArticleSuffix",
+    "\\BeamerSuffix",
+    "\\BeamerswitchSpawn",
+    "\\HandoutSuffix",
+    "\\SpawnedCompiler",
+    "\\SpawnedLuaTeX",
+    "\\SpawnedPDFTeX",
+    "\\SpawnedTeX",
+    "\\SpawnedXeTeX",
+    "\\TransSuffix",
+    "\\and",
+    "\\articlelayout",
+    "\\handoutlayout",
+    "\\insertinstitute",
+    "\\insertsubtitle",
+    "\\inserttitle",
+    "\\inst",
+    "\\institute",
+    "\\pgfpageoptionborder",
+    "\\pgfpageoptionfirstshipout",
+    "\\subtitle",
+    "\\thanks",
+    "\\title"
+  ],
+  "environments": []
+}

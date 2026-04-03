@@ -1,5 +1,6 @@
 {
   "commands": [
+    "\\BBB",
     "\\appointment",
     "\\deadline",
     "\\exam",
@@ -8,11 +9,21 @@
     "\\lecture",
     "\\meeting",
     "\\officehour",
+    "\\oral",
+    "\\phigh",
+    "\\plow",
+    "\\pmandatory",
+    "\\pmid",
+    "\\pnone",
     "\\printSpCalendar",
-    "\\semesterplannerLua@encircle",
-    "\\semesterplannerLua@event",
     "\\seminar",
-    "\\tutorial"
+    "\\tba",
+    "\\tbd",
+    "\\teams",
+    "\\tutorial",
+    "\\written",
+    "\\youtube",
+    "\\zoom"
   ],
   "environments": [
     "appointments",

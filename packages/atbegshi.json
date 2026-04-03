@@ -1,4 +1,19 @@
 {
-  "commands": [],
+  "commands": [
+    "\\AtBeginShipout",
+    "\\AtBeginShipoutAddToBox",
+    "\\AtBeginShipoutAddToBoxForeground",
+    "\\AtBeginShipoutBoxDepth",
+    "\\AtBeginShipoutBoxHeight",
+    "\\AtBeginShipoutBoxWidth",
+    "\\AtBeginShipoutDiscard",
+    "\\AtBeginShipoutFirst",
+    "\\AtBeginShipoutInit",
+    "\\AtBeginShipoutNext",
+    "\\AtBeginShipoutUpperLeft",
+    "\\AtBeginShipoutUpperLeftForeground",
+    "\\empty",
+    "\\x"
+  ],
   "environments": []
 }

@@ -1,4 +1,8 @@
 {
-  "commands": [],
+  "commands": [
+    "\\addtocontents",
+    "\\listoftoc",
+    "\\noexpand"
+  ],
   "environments": []
 }

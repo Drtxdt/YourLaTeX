@@ -1,4 +1,15 @@
 {
-  "commands": [],
+  "commands": [
+    "\\ProvidesFile",
+    "\\StringEncodingConvert",
+    "\\StringEncodingConvertTest",
+    "\\StringEncodingList",
+    "\\StringEncodingLoad",
+    "\\StringEncodingSuccessFailure",
+    "\\csname",
+    "\\empty",
+    "\\noexpand",
+    "\\x"
+  ],
   "environments": []
 }

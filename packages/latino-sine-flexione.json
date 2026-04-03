@@ -1,6 +1,24 @@
 {
   "commands": [
-    "\\Rom@n"
+    "\\abstractname",
+    "\\alsoname",
+    "\\appendixname",
+    "\\bibname",
+    "\\chaptername",
+    "\\contentsname",
+    "\\datename",
+    "\\figurename",
+    "\\glossaryname",
+    "\\indexname",
+    "\\listfigurename",
+    "\\listtablename",
+    "\\pagename",
+    "\\partname",
+    "\\prefacename",
+    "\\proofname",
+    "\\refname",
+    "\\seename",
+    "\\tablename"
   ],
   "environments": []
 }

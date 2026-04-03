@@ -1,9 +1,10 @@
 {
   "commands": [
-    "\\@getRawUnicode",
-    "\\@stringiiUnicode",
+    "\\aref",
+    "\\defUniStr",
     "\\displayUnicode",
-    "\\stringiiUnicode"
+    "\\stringiiUnicode",
+    "\\unicodeStr"
   ],
   "environments": []
 }

@@ -1,13 +1,13 @@
 {
   "commands": [
-    "\\@anim@missing",
-    "\\@anim@multiframe",
-    "\\@anim@newframe",
-    "\\@anim@newframestar",
-    "\\animategraphics"
+    "\\animategraphics",
+    "\\animateinline",
+    "\\depth",
+    "\\height",
+    "\\multiframebreak",
+    "\\width"
   ],
   "environments": [
-    "anim@export",
     "animateinline"
   ]
 }

@@ -1,5 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\CMidRule",
+    "\\MidRule",
+    "\\Row",
+    "\\do"
+  ],
   "environments": [
     "KeyValTable",
     "KeyValTableContent"

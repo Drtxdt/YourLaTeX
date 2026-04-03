@@ -1,4 +1,12 @@
 {
-  "commands": [],
-  "environments": []
+  "commands": [
+    "\\Root",
+    "\\defaultWeightLatticeSize",
+    "\\myx",
+    "\\myy",
+    "\\weight"
+  ],
+  "environments": [
+    "rootSystem"
+  ]
 }

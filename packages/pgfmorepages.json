@@ -1,4 +1,19 @@
 {
-  "commands": [],
+  "commands": [
+    "\\csname",
+    "\\expandafter",
+    "\\pgfpageoptionborder",
+    "\\pgfpageoptionbordercode",
+    "\\pgfpageoptioncornerwidth",
+    "\\pgfpageoptionfirstcenter",
+    "\\pgfpageoptionfirstshipout",
+    "\\pgfpageoptionheight",
+    "\\pgfpageoptionsecondcenter",
+    "\\pgfpageoptiontwoheight",
+    "\\pgfpageoptiontwowidth",
+    "\\pgfpageoptionwidth",
+    "\\pgfpagesuselayout",
+    "\\shipout"
+  ],
   "environments": []
 }

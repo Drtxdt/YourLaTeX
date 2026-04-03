@@ -1,6 +1,8 @@
 {
   "commands": [
-    "\\GilliusADF@scale"
+    "\\gilliuscondensedfamily",
+    "\\gilliusfamily",
+    "\\sfdefault"
   ],
   "environments": []
 }

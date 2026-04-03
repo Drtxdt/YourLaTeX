@@ -1,5 +1,14 @@
 {
-  "commands": [],
+  "commands": [
+    "\\SCR",
+    "\\SCRdate",
+    "\\SCRname",
+    "\\SCRver",
+    "\\csname",
+    "\\turn",
+    "\\turnleft",
+    "\\turnright"
+  ],
   "environments": [
     "scratch"
   ]

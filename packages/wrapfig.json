@@ -1,6 +1,14 @@
 {
   "commands": [
-    "\\WFclear"
+    "\\WFclear",
+    "\\endwrapfloat",
+    "\\expandafter",
+    "\\noexpand",
+    "\\par",
+    "\\width",
+    "\\wrapfigure",
+    "\\wrapfloat",
+    "\\wraptable"
   ],
   "environments": []
 }

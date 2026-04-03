@@ -1,22 +1,12 @@
 {
   "commands": [
     "\\BibTeX",
+    "\\DescribeMacro",
+    "\\an",
     "\\cmd",
     "\\cmdprint",
-    "\\DescribeMacro",
-    "\\skb@cfg@origlast",
-    "\\skb@defCfgVars",
-    "\\skb@figureOptReset",
-    "\\skb@getCfgVars",
-    "\\skb@input@dofig",
-    "\\skb@input@doife",
-    "\\skb@input@dopub",
-    "\\skb@input@dorep",
-    "\\skb@input@doroot",
-    "\\skb@input@dosli",
-    "\\skb@setCfgVars",
-    "\\skb@slides@doslinote",
-    "\\skb@tmp",
+    "\\filearg",
+    "\\intarg",
     "\\skbacft",
     "\\skbacronyms",
     "\\skbauthor",
@@ -41,7 +31,8 @@
     "\\skbpdfinfo",
     "\\skbslidecite",
     "\\skbsubject",
-    "\\skbtitle"
+    "\\skbtitle",
+    "\\sl"
   ],
   "environments": [
     "skbnoteenum",

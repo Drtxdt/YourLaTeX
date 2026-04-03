@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\ProvidesDictionary",
+    "\\csname",
+    "\\expandafter",
+    "\\noexpand"
+  ],
   "environments": []
 }

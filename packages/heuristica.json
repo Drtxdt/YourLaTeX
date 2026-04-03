@@ -1,9 +1,17 @@
 {
   "commands": [
     "\\familydefault",
-    "\\Heuristica@scale",
+    "\\filedate",
+    "\\fileversion",
+    "\\infigures",
     "\\rmdefault",
-    "\\textfrac"
+    "\\sufigures",
+    "\\textfrac",
+    "\\textlf",
+    "\\textosf",
+    "\\texttlf",
+    "\\texttosf",
+    "\\useosf"
   ],
   "environments": []
 }

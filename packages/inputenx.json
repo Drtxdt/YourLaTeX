@@ -4,7 +4,8 @@
     "\\BeforeInputEncoding",
     "\\CurrentInputEncodingName",
     "\\CurrentInputEncodingOption",
-    "\\InputEncoding"
+    "\\InputEncoding",
+    "\\InputenxAlias"
   ],
   "environments": []
 }

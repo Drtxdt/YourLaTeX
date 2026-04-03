@@ -7,5 +7,10 @@
     "\\enableAPautopassnest",
     "\\enableAPprotectnest"
   ],
-  "environments": []
+  "environments": [
+    "AutoPuncItems",
+    "AutoPuncItemsE",
+    "AutoPuncItemsO",
+    "AutoPuncTabular"
+  ]
 }

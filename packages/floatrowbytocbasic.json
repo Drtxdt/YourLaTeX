@@ -1,11 +1,9 @@
 {
   "commands": [
     "\\DeclareNewFloatType",
-    "\\floatrowbytocbasic@get@currext",
-    "\\floatrowbytocbasic@incompatibility@error",
-    "\\listof",
     "\\ProvideFloatType",
-    "\\RedeclareFloatType"
+    "\\RedeclareFloatType",
+    "\\listof"
   ],
   "environments": []
 }

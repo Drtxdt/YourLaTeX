@@ -1,0 +1,27 @@
+{
+  "commands": [
+    "\\MatapliChapterFont",
+    "\\arraystretch",
+    "\\chaptermark",
+    "\\contentsname",
+    "\\correspondant",
+    "\\familydefault",
+    "\\headrulewidth",
+    "\\mois",
+    "\\numero",
+    "\\ruleunder",
+    "\\ruleundersub",
+    "\\section",
+    "\\subsection",
+    "\\thecorollary",
+    "\\thelemma"
+  ],
+  "environments": [
+    "Important",
+    "bloc",
+    "matapliauteurtitre",
+    "matapliquote",
+    "soutenance",
+    "soutenanceHDR"
+  ]
+}

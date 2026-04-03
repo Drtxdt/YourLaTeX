@@ -1,15 +1,13 @@
 {
   "commands": [
-    "\\@gls@write@entrycounts",
     "\\acronymtype",
-    "\\begin@sentence",
+    "\\csname",
     "\\dummyacronym",
+    "\\frenchspacing",
     "\\gGlsXtrSetField",
     "\\glsdonohyperlink",
     "\\glsxtrsetfieldifexists",
     "\\glsxtrusefield",
-    "\\hep@disable",
-    "\\hep@if@begin@of@sentence",
     "\\resetacronym",
     "\\sentence"
   ],

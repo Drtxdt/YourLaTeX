@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\chaptermark",
+    "\\sectionmark"
+  ],
+  "environments": [
+    "description",
+    "figure",
+    "figure*",
+    "quotation",
+    "quote",
+    "table",
+    "table*",
+    "thebibliography",
+    "theindex",
+    "titlepage",
+    "verse"
+  ]
+}

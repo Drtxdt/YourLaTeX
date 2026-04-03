@@ -1,6 +1,6 @@
 {
-  "commands": [],
-  "environments": [
-    "snotez@sidefloat"
-  ]
+  "commands": [
+    "\\theHsidenote"
+  ],
+  "environments": []
 }

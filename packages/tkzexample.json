@@ -1,6 +1,17 @@
 {
   "commands": [
-    "\\tkzSavedCode"
+    "\\commenthandler",
+    "\\endoftkzexample",
+    "\\endoftkzltxexample",
+    "\\endtkzexample",
+    "\\endtkzltxexample",
+    "\\par",
+    "\\tkzFileSavedPrefix",
+    "\\tkzSavedCode",
+    "\\tkzexample",
+    "\\tkzltxexample",
+    "\\tkzref",
+    "\\typesetcomment"
   ],
   "environments": []
 }

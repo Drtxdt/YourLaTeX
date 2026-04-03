@@ -1,7 +1,11 @@
 {
   "commands": [
     "\\SnRHrefNumber",
-    "\\SnRletcountercounter"
+    "\\SnRInitialRinputSetup",
+    "\\SnRInitialSinputSetup",
+    "\\SnRletcountercounter",
+    "\\do",
+    "\\theHlstlisting"
   ],
   "environments": []
 }

@@ -24,8 +24,6 @@
     "TSq*",
     "TV",
     "TV*",
-    "TVapp",
-    "TVapp*",
     "TVI",
     "TVI*",
     "TVIapp",
@@ -39,6 +37,8 @@
     "TVS",
     "TVS*",
     "TVZ",
-    "TVZ*"
+    "TVZ*",
+    "TVapp",
+    "TVapp*"
   ]
 }

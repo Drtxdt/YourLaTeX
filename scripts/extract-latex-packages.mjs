@@ -8,24 +8,28 @@ const execFileAsync = promisify(execFile)
 const ROOT_DIR = process.cwd()
 const OUTPUT_DIR = path.join(ROOT_DIR, 'packages')
 const CONCURRENCY = Number.parseInt(process.env.EXTRACT_CONCURRENCY ?? '6', 10)
-const TLMGR_BIN = process.env.TLMGR_BIN ||
-  "D:\\texlive\\texlive\\2025\\bin\\windows\\tlmgr.bat"
-const KPSEWHICH_BIN =  process.env.KPSEWHICH_BIN ||
-  "D:\\texlive\\texlive\\2025\\bin\\windows\\kpsewhich.exe"
+
+const TLMGR_BIN =
+  process.env.TLMGR_BIN ||
+  'D:\\texlive\\texlive\\2025\\bin\\windows\\tlmgr.bat'
+
+const KPSEWHICH_BIN =
+  process.env.KPSEWHICH_BIN ||
+  'D:\\texlive\\texlive\\2025\\bin\\windows\\kpsewhich.exe'
+
+/* ------------------ 工具函数 ------------------ */
 
 async function runCommand(command, args, timeout = 15000) {
   try {
     const isBat = command.endsWith('.bat') || command.endsWith('.cmd')
 
     const finalCommand = isBat ? 'cmd.exe' : command
-    const finalArgs = isBat
-      ? ['/c', command, ...args]
-      : args
+    const finalArgs = isBat ? ['/c', command, ...args] : args
 
     const { stdout } = await execFileAsync(finalCommand, finalArgs, {
       windowsHide: true,
       timeout,
-      maxBuffer: 10 * 1024 * 1024,
+      maxBuffer: 20 * 1024 * 1024,
     })
 
     return String(stdout ?? '')
@@ -36,152 +40,182 @@ async function runCommand(command, args, timeout = 15000) {
   }
 }
 
-function parseInstalledPackages(tlmgrOutput) {
-  const packages = new Set()
-  const lines = tlmgrOutput.split(/\r?\n/)
+function parseInstalledPackages(output) {
+  const set = new Set()
+  const lines = output.split(/\r?\n/)
 
   for (const line of lines) {
-    const trimmed = line.trim()
-    if (!trimmed.startsWith('i ')) {
-      continue
-    }
+    const t = line.trim()
+    if (!t.startsWith('i ')) continue
 
-    const matchWithColon = trimmed.match(/^i\s+([^:\s]+)\s*:/)
-    if (matchWithColon?.[1]) {
-      packages.add(matchWithColon[1])
-      continue
-    }
+    const m1 = t.match(/^i\s+([^:\s]+)\s*:/)
+    const m2 = t.match(/^i\s+([^\s]+)\s+-/)
 
-    const matchWithDash = trimmed.match(/^i\s+([^\s]+)\s+-/)
-    if (matchWithDash?.[1]) {
-      packages.add(matchWithDash[1])
-    }
+    if (m1?.[1]) set.add(m1[1])
+    else if (m2?.[1]) set.add(m2[1])
   }
 
-  return Array.from(packages).sort((a, b) => a.localeCompare(b))
+  return [...set].sort()
 }
 
-function normalizeCommand(command) {
-  return command.startsWith('\\') ? command : `\\${command}`
+function normalizeCommand(name) {
+  return name.startsWith('\\') ? name : `\\${name}`
 }
 
-function extractFromSty(content) {
-  const commandSet = new Set()
-  const environmentSet = new Set()
+function isValidCommand(name) {
+  return !name.includes('@')
+}
+
+/* ------------------ 核心解析 ------------------ */
+
+function extractFromContent(content) {
+  const commands = new Set()
+  const environments = new Set()
 
   const commandPatterns = [
     /\\newcommand\*?\s*\{\\([A-Za-z@]+)\}/g,
     /\\renewcommand\*?\s*\{\\([A-Za-z@]+)\}/g,
     /\\providecommand\*?\s*\{\\([A-Za-z@]+)\}/g,
     /\\DeclareMathOperator\*?\s*\{\\([A-Za-z@]+)\}/g,
+    /\\DeclareRobustCommand\*?\s*\{\\([A-Za-z@]+)\}/g,
+    /\\DeclarePairedDelimiter\*?\s*\{\\([A-Za-z@]+)\}/g,
+
+    /\\def\s*\\([A-Za-z@]+)/g,
+    /\\let\s*\\([A-Za-z@]+)\s*=/g,
   ]
 
   for (const pattern of commandPatterns) {
-    let match
-    while ((match = pattern.exec(content)) !== null) {
-      if (match[1]) {
-        commandSet.add(normalizeCommand(match[1].trim()))
+    let m
+    while ((m = pattern.exec(content)) !== null) {
+      const name = m[1]?.trim()
+      if (name && isValidCommand(name)) {
+        commands.add(normalizeCommand(name))
       }
     }
   }
 
-  const environmentPattern = /\\newenvironment\*?\s*\{([A-Za-z@*:-]+)\}/g
-  let envMatch
-  while ((envMatch = environmentPattern.exec(content)) !== null) {
-    if (envMatch[1]) {
-      environmentSet.add(envMatch[1].trim())
+  const envPatterns = [
+    /\\newenvironment\*?\s*\{([A-Za-z@*:-]+)\}/g,
+    /\\RenewDocumentEnvironment\s*\{([A-Za-z@*:-]+)\}/g,
+    /\\NewDocumentEnvironment\s*\{([A-Za-z@*:-]+)\}/g,
+  ]
+
+  for (const pattern of envPatterns) {
+    let m
+    while ((m = pattern.exec(content)) !== null) {
+      const name = m[1]?.trim()
+      if (name && !name.includes('@')) {
+        environments.add(name)
+      }
     }
   }
 
   return {
-    commands: Array.from(commandSet).sort((a, b) => a.localeCompare(b)),
-    environments: Array.from(environmentSet).sort((a, b) => a.localeCompare(b)),
+    commands: [...commands].sort(),
+    environments: [...environments].sort(),
   }
 }
 
-function sanitizePackageName(name) {
-  return name.replace(/[^A-Za-z0-9._-]/g, '_')
-}
+/* ------------------ 找文件（增强版） ------------------ */
 
-async function processPackage(packageName, index, total) {
-  console.log(`[${index + 1}/${total}] Processing package: ${packageName}`)
+async function findPackageFile(packageName) {
+  const exts = ['.sty', '.cls', '.tex']
 
-  const styPathOutput = await runCommand(KPSEWHICH_BIN, [`${packageName}.sty`], 10000)
-  const styPath = styPathOutput?.trim()
-
-  if (!styPath) {
-    console.log(`  - Skip ${packageName}: .sty not found via kpsewhich`)
-    return { processed: false, packageName }
-  }
-
-  let styContent = ''
-  try {
-    styContent = await fs.readFile(styPath, 'utf-8')
-  } catch {
-    console.log(`  - Skip ${packageName}: failed to read ${styPath}`)
-    return { processed: false, packageName }
-  }
-
-  const extracted = extractFromSty(styContent)
-  const outputPath = path.join(OUTPUT_DIR, `${sanitizePackageName(packageName)}.json`)
-  await fs.writeFile(outputPath, JSON.stringify(extracted, null, 2), 'utf-8')
-
-  console.log(`  - Done ${packageName}: ${extracted.commands.length} commands, ${extracted.environments.length} environments`)
-  return { processed: true, packageName }
-}
-
-async function runWithConcurrency(packageNames, concurrency) {
-  const results = []
-  let cursor = 0
-
-  async function worker() {
-    while (true) {
-      const current = cursor
-      cursor += 1
-
-      if (current >= packageNames.length) {
-        return
-      }
-
-      const packageName = packageNames[current]
-      const result = await processPackage(packageName, current, packageNames.length)
-      results.push(result)
+  for (const ext of exts) {
+    const result = await runCommand(KPSEWHICH_BIN, [`${packageName}${ext}`])
+    if (result && result.trim()) {
+      return result.trim()
     }
   }
 
-  const workerCount = Math.max(1, Math.min(concurrency, packageNames.length))
-  await Promise.all(Array.from({ length: workerCount }, () => worker()))
+  return null
+}
+
+/* ------------------ 主处理 ------------------ */
+
+function sanitize(name) {
+  return name.replace(/[^A-Za-z0-9._-]/g, '_')
+}
+
+async function processPackage(name, index, total) {
+  console.log(`[${index + 1}/${total}] ${name}`)
+
+  const filePath = await findPackageFile(name)
+
+  if (!filePath) {
+    console.log(`  - skip: file not found`)
+    return { processed: false }
+  }
+
+  let content = ''
+  try {
+    content = await fs.readFile(filePath, 'utf-8')
+  } catch {
+    console.log(`  - skip: read failed`)
+    return { processed: false }
+  }
+
+  const extracted = extractFromContent(content)
+
+  const outputPath = path.join(OUTPUT_DIR, `${sanitize(name)}.json`)
+  await fs.writeFile(outputPath, JSON.stringify(extracted, null, 2))
+
+  console.log(
+    `  - ok: ${extracted.commands.length} cmd, ${extracted.environments.length} env`
+  )
+
+  return { processed: true }
+}
+
+/* ------------------ 并发控制 ------------------ */
+
+async function runPool(list, concurrency) {
+  let cursor = 0
+  const results = []
+
+  async function worker() {
+    while (true) {
+      const i = cursor++
+      if (i >= list.length) return
+      const res = await processPackage(list[i], i, list.length)
+      results.push(res)
+    }
+  }
+
+  await Promise.all(
+    Array.from({ length: Math.min(concurrency, list.length) }, worker)
+  )
+
   return results
 }
 
+/* ------------------ 入口 ------------------ */
+
 async function main() {
-  console.log(`Running: ${TLMGR_BIN} list --only-installed`)
-  const tlmgrOutput = await runCommand(TLMGR_BIN, ['list', '--only-installed'], 30000)
+  console.log('Running tlmgr...')
 
-  if (!tlmgrOutput) {
-    throw new Error(`Failed to execute ${TLMGR_BIN}. Please ensure TeX Live tools are installed and set TLMGR_BIN/KPSEWHICH_BIN if needed.`)
+  const output = await runCommand(TLMGR_BIN, ['list', '--only-installed'], 30000)
+
+  if (!output) {
+    throw new Error('tlmgr failed')
   }
 
-  const packageNames = parseInstalledPackages(tlmgrOutput)
-  if (packageNames.length === 0) {
-    throw new Error('No installed package names parsed from tlmgr output.')
-  }
+  const packages = parseInstalledPackages(output)
+
+  console.log(`Found ${packages.length} packages`)
 
   await fs.mkdir(OUTPUT_DIR, { recursive: true })
 
-  console.log(`Found ${packageNames.length} installed packages. Concurrency=${CONCURRENCY}`)
-  const results = await runWithConcurrency(packageNames, CONCURRENCY)
+  const results = await runPool(packages, CONCURRENCY)
 
-  const successCount = results.filter((item) => item.processed).length
-  const skippedCount = results.length - successCount
+  const ok = results.filter(r => r.processed).length
 
-  console.log('Extraction complete.')
-  console.log(`  - Processed: ${successCount}`)
-  console.log(`  - Skipped: ${skippedCount}`)
-  console.log(`  - Output directory: ${OUTPUT_DIR}`)
+  console.log('Done.')
+  console.log(`Success: ${ok}`)
+  console.log(`Skip: ${results.length - ok}`)
 }
 
-main().catch((error) => {
-  console.error('[extract:latex-packages] Failed:', error instanceof Error ? error.message : String(error))
-  process.exitCode = 1
+main().catch(err => {
+  console.error(err)
+  process.exit(1)
 })

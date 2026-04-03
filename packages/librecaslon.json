@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\LibreCsln@scale",
+    "\\infigures",
+    "\\librecaslonfamily",
     "\\rmdefault"
   ],
   "environments": []

@@ -1,7 +1,6 @@
 {
   "commands": [
     "\\familydefault",
-    "\\Gudea@scale",
     "\\rmdefault"
   ],
   "environments": []

@@ -1,10 +1,5 @@
 {
   "commands": [
-    "\\@defaultcnfont",
-    "\\@iprintcites",
-    "\\@makechapterhead",
-    "\\@makeschapterhead",
-    "\\@newfontcmd",
     "\\chapnumfont",
     "\\chapterheadendvskip",
     "\\chapterheadstartvskip",

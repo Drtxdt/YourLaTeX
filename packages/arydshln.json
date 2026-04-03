@@ -1,4 +1,31 @@
 {
-  "commands": [],
+  "commands": [
+    "\\ADLactivate",
+    "\\ADLdrawingmode",
+    "\\ADLinactivate",
+    "\\ADLnoshorthanded",
+    "\\ADLnullwide",
+    "\\ADLnullwidehline",
+    "\\ADLsomewide",
+    "\\ADLsomewidehline",
+    "\\MessageBreak",
+    "\\arrayrulecolor",
+    "\\cdashline",
+    "\\cline",
+    "\\csname",
+    "\\dashgapcolor",
+    "\\doublerulesepcolor",
+    "\\endLongtable",
+    "\\endarray",
+    "\\endlongtable",
+    "\\endtabular",
+    "\\firsthdashline",
+    "\\hdashline",
+    "\\hline",
+    "\\lasthdashline",
+    "\\multicolumn",
+    "\\next",
+    "\\nodashgapcolor"
+  ],
   "environments": []
 }

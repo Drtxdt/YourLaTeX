@@ -1,10 +1,22 @@
 {
   "commands": [
-    "\\AlgolRevived@scale",
     "\\familydefault",
+    "\\filedate",
+    "\\fileversion",
+    "\\infigures",
+    "\\lfstyle",
+    "\\osfstyle",
     "\\rmdefault",
+    "\\sufigures",
     "\\textfrac",
-    "\\ttdefault"
+    "\\textlf",
+    "\\textosf",
+    "\\texttlf",
+    "\\texttosf",
+    "\\tlfstyle",
+    "\\tosfstyle",
+    "\\ttdefault",
+    "\\useosf"
   ],
   "environments": []
 }

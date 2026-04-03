@@ -1,6 +1,11 @@
 {
   "commands": [
+    "\\LaTeX",
+    "\\LaTeXe",
+    "\\TeX",
     "\\familydefault",
+    "\\mathsterling",
+    "\\noexpand",
     "\\sfdefault",
     "\\ttdefault"
   ],

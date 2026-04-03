@@ -1,17 +1,5 @@
 {
   "commands": [
-    "\\@bXInputi",
-    "\\@bXInputii",
-    "\\bX@CompaNorm",
-    "\\bX@CompaOnly",
-    "\\bX@CompNorm",
-    "\\bX@CompOnly",
-    "\\bX@CompSumNorm",
-    "\\bX@CompSumOnly",
-    "\\bX@SumaNorm",
-    "\\bX@SumaOnly",
-    "\\bX@SumbNorm",
-    "\\bX@SumbOnly",
     "\\bXBloc",
     "\\bXBlocL",
     "\\bXBlocPotato",
@@ -22,8 +10,8 @@
     "\\bXChain",
     "\\bXChainReturn",
     "\\bXComp",
-    "\\bXCompa",
     "\\bXCompSum",
+    "\\bXCompa",
     "\\bXDefaultLineStyle",
     "\\bXInput",
     "\\bXLabelStyle",
@@ -38,7 +26,6 @@
     "\\bXLoop",
     "\\bXNodeShiftx",
     "\\bXNodeShifty",
-    "\\bXonlyOneBloc",
     "\\bXOutput",
     "\\bXReturn",
     "\\bXStyleBloc",
@@ -49,7 +36,9 @@
     "\\bXStyleSumDefault",
     "\\bXSum",
     "\\bXSuma",
-    "\\bXSumb"
+    "\\bXSumb",
+    "\\bXonlyOneBloc",
+    "\\lastx"
   ],
   "environments": []
 }

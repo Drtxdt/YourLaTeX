@@ -1,5 +1,8 @@
 {
-  "commands": [],
+  "commands": [
+    "\\protect",
+    "\\thesubequation"
+  ],
   "environments": [
     "subeqnarray",
     "subeqnarray*"

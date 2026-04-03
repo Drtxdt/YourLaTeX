@@ -1,9 +1,10 @@
 {
   "commands": [
-    "\\@alobe",
     "\\atom",
     "\\drawLevel",
     "\\orbital",
+    "\\orbitalDrawing",
+    "\\s",
     "\\satom",
     "\\setOrbitalDrawing"
   ],

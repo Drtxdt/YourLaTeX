@@ -1,8 +1,17 @@
 {
   "commands": [
+    "\\filedate",
+    "\\fileversion",
     "\\geltextfrac",
+    "\\lfstyle",
+    "\\nxt",
+    "\\osfstyle",
+    "\\textSC",
+    "\\textULC",
     "\\textde",
-    "\\textsmde"
+    "\\textsmde",
+    "\\tlfstyle",
+    "\\tosfstyle"
   ],
   "environments": []
 }

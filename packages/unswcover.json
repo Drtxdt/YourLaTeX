@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\makeunswfrontmatter",
+    "\\makeunswphdtitlepage",
+    "\\unswcotutelle",
+    "\\unswdegree",
+    "\\unswdissertationsheet",
+    "\\unswschool"
+  ],
   "environments": []
 }

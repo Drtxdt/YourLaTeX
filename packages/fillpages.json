@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\csname",
+    "\\insertFillPages",
+    "\\setDefaultFillPage",
+    "\\setFillPage"
+  ],
   "environments": []
 }

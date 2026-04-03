@@ -1,4 +1,15 @@
 {
-  "commands": [],
+  "commands": [
+    "\\Big",
+    "\\Bigg",
+    "\\big",
+    "\\bigg",
+    "\\domathcomma",
+    "\\leftarrowfill",
+    "\\relbar",
+    "\\rightarrowfill",
+    "\\varrho",
+    "\\varsigma"
+  ],
   "environments": []
 }

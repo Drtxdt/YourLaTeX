@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\fmtext",
+    "\\fmtversion",
+    "\\plain",
+    "\\psizzl"
+  ],
+  "environments": []
+}

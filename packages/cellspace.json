@@ -1,11 +1,10 @@
 {
   "commands": [
-    "\\@endpbox",
-    "\\@startpbox",
     "\\addparagraphcolumntypes",
     "\\bcolumn",
-    "\\cellspace@parcoltypes",
-    "\\ecolumn"
+    "\\ecolumn",
+    "\\filedate",
+    "\\fileversion"
   ],
   "environments": []
 }

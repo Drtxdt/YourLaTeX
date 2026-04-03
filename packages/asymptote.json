@@ -1,6 +1,29 @@
 {
   "commands": [
-    "\\ASYanimategraphics"
+    "\\ASYanimategraphics",
+    "\\ASYasydir",
+    "\\ASYheight",
+    "\\ASYlatexdir",
+    "\\ASYprefix",
+    "\\ASYviewportheight",
+    "\\ASYviewportwidth",
+    "\\ASYwidth",
+    "\\AsyExtension",
+    "\\Asymptote",
+    "\\CurrentAsymptote",
+    "\\ProcessAsymptote",
+    "\\WriteAsyLine",
+    "\\WriteGlobalAsyLine",
+    "\\argtwo",
+    "\\asydef",
+    "\\asydir",
+    "\\asylatexdir",
+    "\\csarg",
+    "\\endasy",
+    "\\fixstar",
+    "\\globalASYdefs",
+    "\\rawJobname",
+    "\\unquoteJobname"
   ],
   "environments": []
 }

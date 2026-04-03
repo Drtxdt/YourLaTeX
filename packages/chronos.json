@@ -1,4 +1,11 @@
 {
-  "commands": [],
-  "environments": []
+  "commands": [
+    "\\csname",
+    "\\expandafter",
+    "\\searchname",
+    "\\tempa"
+  ],
+  "environments": [
+    "chronos"
+  ]
 }

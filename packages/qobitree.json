@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\branch",
+    "\\faketreewidth",
+    "\\leaf",
+    "\\ontop",
+    "\\poptree",
+    "\\tree"
+  ],
+  "environments": []
+}

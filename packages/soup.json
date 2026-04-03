@@ -1,4 +1,11 @@
 {
-  "commands": [],
-  "environments": []
+  "commands": [
+    "\\showlist"
+  ],
+  "environments": [
+    "Alphabetsoup",
+    "alphabetsoup",
+    "homemadesoup",
+    "numbersoup"
+  ]
 }

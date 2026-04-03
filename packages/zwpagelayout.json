@@ -1,4 +1,29 @@
 {
-  "commands": [],
+  "commands": [
+    "\\CropFlap",
+    "\\CropSpine",
+    "\\CropXSpine",
+    "\\CropXtrim",
+    "\\CropYtrim",
+    "\\NewEvenPage",
+    "\\NewOddPage",
+    "\\OverprintXeTeXExtGState",
+    "\\SetEvenPageMessage",
+    "\\SetOddPageMessage",
+    "\\SetPDFminorversion",
+    "\\SetTeXingDate",
+    "\\UserBotMargin",
+    "\\UserLeftMargin",
+    "\\UserRightMargin",
+    "\\UserTopMargin",
+    "\\UserWidth",
+    "\\clap",
+    "\\ifcaseZWdriver",
+    "\\noBboxes",
+    "\\pagestyle",
+    "\\shipout",
+    "\\thePageNumber",
+    "\\thispagestyle"
+  ],
   "environments": []
 }

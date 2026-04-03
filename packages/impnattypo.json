@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\thechapter"
+    "\\thechapter",
+    "\\usecolor"
   ],
   "environments": []
 }

@@ -1,20 +1,27 @@
 {
   "commands": [
-    "\\DBD@indexgroup",
+    "\\NoAutoSpacing",
+    "\\encapchar",
+    "\\expandafter",
     "\\formatfont",
     "\\glsxtrabbrvpluralsuffix",
     "\\glsxtrregularfont",
+    "\\hdpindex",
+    "\\index",
     "\\indexdef",
     "\\indexex",
     "\\indexheading",
     "\\indexmark",
     "\\indexsee",
     "\\printbibliography",
+    "\\program",
     "\\seelink",
     "\\targetindexentry",
     "\\targetindexentryi",
     "\\targetindexentryii",
-    "\\ttdefault"
+    "\\ttdefault",
+    "\\yatCl",
+    "\\yatcl"
   ],
   "environments": []
 }

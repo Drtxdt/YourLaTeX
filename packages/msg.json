@@ -1,6 +1,29 @@
 {
   "commands": [
-    "\\PackageWarning"
+    "\\MessageBreak",
+    "\\PackageWarning",
+    "\\endinput",
+    "\\filedate",
+    "\\fileversion",
+    "\\getmsg",
+    "\\help",
+    "\\helpi",
+    "\\inputencoding",
+    "\\issueallmsg",
+    "\\issuemsg",
+    "\\issuemsgx",
+    "\\msg",
+    "\\msgencoding",
+    "\\msgheader",
+    "\\msgid",
+    "\\msgparti",
+    "\\msgpartii",
+    "\\msgpartiii",
+    "\\msgtrailer",
+    "\\next",
+    "\\packagewarningheader",
+    "\\retrievemsg",
+    "\\space"
   ],
   "environments": []
 }

@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\newtotcounter",
+    "\\regtotcounter",
+    "\\sp",
+    "\\totcdocdate",
+    "\\totcfiledate",
+    "\\totcfileversion"
+  ],
   "environments": []
 }

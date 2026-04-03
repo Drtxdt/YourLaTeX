@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\lipsumdate",
+    "\\lipsumversion"
+  ],
   "environments": []
 }

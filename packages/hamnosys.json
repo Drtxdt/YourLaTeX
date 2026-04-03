@@ -1,6 +1,6 @@
 {
   "commands": [
-    "\\@wordtohamnosys",
+    "\\hamnosys",
     "\\texthamnosys"
   ],
   "environments": []

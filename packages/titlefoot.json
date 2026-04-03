@@ -1,10 +1,13 @@
 {
   "commands": [
-    "\\@makefnmark",
+    "\\amssubj",
     "\\amssubjname",
     "\\authorfnname",
+    "\\authorfootnote",
     "\\footnotecomma",
+    "\\keywords",
     "\\keywordsname",
+    "\\runningtitle",
     "\\runningtitlename",
     "\\unmarkedfntext"
   ],

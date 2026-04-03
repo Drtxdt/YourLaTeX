@@ -1,7 +1,6 @@
 {
   "commands": [
     "\\brick",
-    "\\brick@draw",
     "\\newrow",
     "\\wallbrick"
   ],

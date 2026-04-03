@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\Comment",
+    "\\EndComment",
+    "\\hsss",
+    "\\letterspace"
+  ],
+  "environments": []
+}

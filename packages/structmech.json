@@ -1,4 +1,16 @@
 {
-  "commands": [],
+  "commands": [
+    "\\FAC",
+    "\\absvalue",
+    "\\axisColor",
+    "\\convention",
+    "\\fillColor",
+    "\\fillOpacity",
+    "\\lineColor",
+    "\\lineWidth",
+    "\\nodeColor",
+    "\\rotationColor",
+    "\\showvalue"
+  ],
   "environments": []
 }

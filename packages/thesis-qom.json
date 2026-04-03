@@ -1,0 +1,22 @@
+{
+  "commands": [
+    "\\PrintWordCount",
+    "\\Thesis",
+    "\\abstractname",
+    "\\addsymbol",
+    "\\baselinestretch",
+    "\\bibname",
+    "\\bigpar",
+    "\\cleardoublepage",
+    "\\endtitlepage",
+    "\\latinabstract",
+    "\\pagetitle",
+    "\\qomtitle",
+    "\\thesisdetails",
+    "\\titlepage"
+  ],
+  "environments": [
+    "abstractcount",
+    "preamblepage"
+  ]
+}

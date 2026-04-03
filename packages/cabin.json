@@ -1,6 +1,8 @@
 {
   "commands": [
-    "\\Cabin@scale"
+    "\\cabinfamily",
+    "\\seriesdefault",
+    "\\sfdefault"
   ],
   "environments": []
 }

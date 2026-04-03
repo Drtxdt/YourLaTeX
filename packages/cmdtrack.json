@@ -1,6 +1,11 @@
 {
   "commands": [
     "\\ShowPackageInfo",
+    "\\do",
+    "\\expandafter",
+    "\\logcmd",
+    "\\newtheorem",
+    "\\testthm",
     "\\untrack"
   ],
   "environments": []

@@ -1,6 +1,4 @@
 {
-  "commands": [
-    "\\bibletext@checkdefined"
-  ],
+  "commands": [],
   "environments": []
 }

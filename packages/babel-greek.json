@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\BabelGreekNumeralMarker",
+    "\\BabelGreekNumeralMarkerEnd",
+    "\\BabelGreekNumeralMyriads",
+    "\\greeknumeral"
+  ],
+  "environments": []
+}

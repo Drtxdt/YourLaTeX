@@ -1,7 +1,9 @@
 {
   "commands": [],
   "environments": [
+    "changelog",
     "changelogdescription",
-    "changelogitemize"
+    "changelogitemize",
+    "version"
   ]
 }

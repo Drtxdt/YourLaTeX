@@ -1,4 +1,15 @@
 {
-  "commands": [],
+  "commands": [
+    "\\blockmargin",
+    "\\clearmargin",
+    "\\dumpmargins",
+    "\\expandafter",
+    "\\extendmargin",
+    "\\marginphantom",
+    "\\marginskip",
+    "\\mparshift",
+    "\\softclearmargin",
+    "\\unblockmargin"
+  ],
   "environments": []
 }

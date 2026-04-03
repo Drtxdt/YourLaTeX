@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\fistrumdate",
+    "\\fistrumversion"
+  ],
   "environments": []
 }

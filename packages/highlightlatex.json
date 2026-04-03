@@ -1,8 +1,18 @@
 {
   "commands": [
+    "\\callwithpure",
+    "\\expandafter",
+    "\\frameval",
+    "\\hll",
     "\\hllDelimDollar",
     "\\hllDelimParen",
     "\\hllPrepareBlock",
+    "\\linesvalue",
+    "\\myclosebrace",
+    "\\myopenbrace",
+    "\\noexpand",
+    "\\setHighlightFrame",
+    "\\setframe",
     "\\updatehighlight"
   ],
   "environments": [

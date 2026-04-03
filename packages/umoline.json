@@ -1,4 +1,14 @@
 {
-  "commands": [],
+  "commands": [
+    "\\Midline",
+    "\\MidlineChar",
+    "\\Overline",
+    "\\PackageError",
+    "\\UMOline",
+    "\\UMOnewline",
+    "\\UMOspace",
+    "\\Underline",
+    "\\next"
+  ],
   "environments": []
 }

@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\dotcoord",
+    "\\dotpincoord",
+    "\\ncoord",
+    "\\odotcoord",
+    "\\odotpincoord",
+    "\\pincoord"
+  ],
   "environments": []
 }

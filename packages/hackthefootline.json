@@ -1,6 +1,7 @@
 {
   "commands": [
     "\\hackthefootline",
+    "\\htfObsoleteCMD",
     "\\htfauthinst",
     "\\htfauthorpths",
     "\\htfcheckauthor",
@@ -19,14 +20,14 @@
     "\\htfnodate",
     "\\htfnoframenrs",
     "\\htfnotitle",
-    "\\htfObsoleteCMD",
     "\\htfonlyauthor",
     "\\htfonlyinstitute",
     "\\htfpercentframenrs",
     "\\htfprintmessage",
     "\\htfsepspace",
     "\\htfshortdate",
-    "\\htfshorttitle"
+    "\\htfshorttitle",
+    "\\htfupdateprogress"
   ],
   "environments": []
 }

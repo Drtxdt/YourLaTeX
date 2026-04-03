@@ -1,4 +1,29 @@
 {
-  "commands": [],
+  "commands": [
+    "\\DOZnumtoword",
+    "\\Doman",
+    "\\Doznumtoword",
+    "\\basex",
+    "\\basexii",
+    "\\doman",
+    "\\doz",
+    "\\doznumtoword",
+    "\\dozrankeightword",
+    "\\dozrankelvword",
+    "\\dozrankfiveword",
+    "\\dozrankfourword",
+    "\\dozranknineword",
+    "\\dozrankoneword",
+    "\\dozranksevenword",
+    "\\dozranksixword",
+    "\\dozranktenword",
+    "\\dozrankthreeword",
+    "\\dozranktwoword",
+    "\\gobbletorelax",
+    "\\ninthofmany",
+    "\\nocounters",
+    "\\pdfmapfile",
+    "\\printdozrankword"
+  ],
   "environments": []
 }

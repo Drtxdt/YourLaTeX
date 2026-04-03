@@ -3,18 +3,24 @@
     "\\Alpha",
     "\\Beta",
     "\\Chi",
+    "\\EnGrec",
     "\\Epsilon",
     "\\Eta",
     "\\Iota",
     "\\Kappa",
     "\\Mu",
     "\\Nu",
-    "\\omicron",
     "\\Omicron",
+    "\\PackageName",
     "\\Rho",
     "\\Tau",
-    "\\upomicron",
-    "\\Zeta"
+    "\\Zeta",
+    "\\engrec",
+    "\\filedate",
+    "\\fileinfo",
+    "\\fileversion",
+    "\\omicron",
+    "\\upomicron"
   ],
   "environments": []
 }

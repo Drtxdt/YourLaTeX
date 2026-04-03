@@ -1,6 +1,5 @@
 {
   "commands": [
-    "\\@setseccntt@c",
     "\\maxsecnumdepth",
     "\\maxtocdepth",
     "\\setsecnumdepth",

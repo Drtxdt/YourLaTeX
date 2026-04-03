@@ -1,4 +1,10 @@
 {
   "commands": [],
-  "environments": []
+  "environments": [
+    "saveenv",
+    "saveenvghost",
+    "saveenvkeeplast",
+    "saveenvkeeplastreinsert",
+    "saveenvreinsert"
+  ]
 }

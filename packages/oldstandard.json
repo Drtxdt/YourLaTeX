@@ -1,6 +1,8 @@
 {
   "commands": [
-    "\\OldStandard@scale"
+    "\\infigures",
+    "\\oldstandardlgr",
+    "\\sufigures"
   ],
   "environments": []
 }

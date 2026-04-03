@@ -1,7 +1,9 @@
 {
   "commands": [
+    "\\endnumVblock",
+    "\\nbVlabel",
     "\\nblabel",
-    "\\nbVlabel"
+    "\\numVblock"
   ],
   "environments": []
 }

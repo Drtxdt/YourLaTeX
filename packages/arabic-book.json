@@ -1,0 +1,27 @@
+{
+  "commands": [
+    "\\SepMark",
+    "\\addvspace",
+    "\\appendix",
+    "\\bibname",
+    "\\cftchapaftersnum",
+    "\\cftchapfont",
+    "\\cftchapleader",
+    "\\cftchappagefont",
+    "\\cftfigaftersnum",
+    "\\cftsecaftersnum",
+    "\\cftsubsecaftersnum",
+    "\\cfttabaftersnum",
+    "\\chaptername",
+    "\\contentsname",
+    "\\listfigurename",
+    "\\listtablename",
+    "\\makeabstract",
+    "\\namedappendix",
+    "\\theappendixfigure",
+    "\\theappendixtable",
+    "\\theequation",
+    "\\thepage"
+  ],
+  "environments": []
+}

@@ -1,4 +1,21 @@
 {
-  "commands": [],
+  "commands": [
+    "\\auxlinedistance",
+    "\\company",
+    "\\companylabelheight",
+    "\\emptylabel",
+    "\\extratopmargin",
+    "\\fullheight",
+    "\\labeltext",
+    "\\narrowlabels",
+    "\\normalheight",
+    "\\setbgcompany",
+    "\\setbglabel",
+    "\\setfgcompany",
+    "\\setfglabel",
+    "\\widelabels",
+    "\\ylowercompany",
+    "\\yuppercompany"
+  ],
   "environments": []
 }

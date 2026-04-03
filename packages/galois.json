@@ -1,15 +1,17 @@
 {
   "commands": [
-    "\\comp",
-    "\\galois",
-    "\\galoiS",
-    "\\Galois",
     "\\GaloiS",
-    "\\GaloisArrowsSep",
+    "\\Galois",
     "\\GaloisArrowTagSep",
     "\\GaloisArrowThickness",
+    "\\GaloisArrowsSep",
+    "\\GaloisStyle",
+    "\\comp",
+    "\\filedate",
+    "\\fileversion",
+    "\\galoiS",
     "\\galoiSr",
-    "\\GaloisStyle"
+    "\\galois"
   ],
   "environments": []
 }

@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\csname",
+    "\\endtabular",
+    "\\footnote",
+    "\\footnotemark"
+  ],
   "environments": []
 }

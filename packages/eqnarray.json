@@ -1,4 +1,13 @@
 {
-  "commands": [],
+  "commands": [
+    "\\docdate",
+    "\\endequationarray",
+    "\\eqnnum",
+    "\\equationarray",
+    "\\filedate",
+    "\\fileversion",
+    "\\multicolumn",
+    "\\yesnumber"
+  ],
   "environments": []
 }

@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\AfterPackage",
+    "\\csname",
+    "\\input",
+    "\\label",
+    "\\ref"
+  ],
   "environments": []
 }

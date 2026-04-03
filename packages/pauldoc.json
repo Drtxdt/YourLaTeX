@@ -1,16 +1,15 @@
 {
   "commands": [
+    "\\LPPLparagraph",
+    "\\LPPLsection",
+    "\\LPPLsubsection",
+    "\\LPPLsubsubsection",
     "\\cmd",
     "\\generalname",
     "\\ifReferenceExists",
     "\\includeLicense",
     "\\lpplfilename",
-    "\\LPPLparagraph",
-    "\\LPPLsection",
-    "\\LPPLsubsection",
-    "\\LPPLsubsubsection",
-    "\\pack",
-    "\\pauldoc@indexsec"
+    "\\pack"
   ],
   "environments": []
 }

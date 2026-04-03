@@ -1,6 +1,23 @@
 {
   "commands": [
-    "\\hv@braceIndex"
+    "\\Index",
+    "\\IndexXXi",
+    "\\IndexXXii",
+    "\\IndexXXiii",
+    "\\IndexXi",
+    "\\bfIndex",
+    "\\filedate",
+    "\\fileversion",
+    "\\hvIDXfontDefault",
+    "\\iBraceL",
+    "\\iBraceR",
+    "\\iVert",
+    "\\itIndex",
+    "\\sIndex",
+    "\\saIndex",
+    "\\scIndex",
+    "\\sfIndex",
+    "\\ttIndex"
   ],
   "environments": []
 }

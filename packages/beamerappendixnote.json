@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\appxnote"
+    "\\appxnote",
+    "\\options"
   ],
   "environments": []
 }

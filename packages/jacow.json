@@ -1,0 +1,26 @@
+{
+  "commands": [
+    "\\NoCaseChange",
+    "\\UrlFont",
+    "\\bottomfraction",
+    "\\cite",
+    "\\docdate",
+    "\\endthebibliography",
+    "\\filedate",
+    "\\fileversion",
+    "\\finentrypunct",
+    "\\floatpagefraction",
+    "\\maketitle",
+    "\\newblock",
+    "\\section",
+    "\\textfraction",
+    "\\thebibliography",
+    "\\thefootnote",
+    "\\topfraction"
+  ],
+  "environments": [
+    "Description",
+    "Enumerate",
+    "Itemize"
+  ]
+}

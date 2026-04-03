@@ -1,7 +1,11 @@
 {
   "commands": [
+    "\\alphSort",
     "\\bubblesort",
-    "\\doublebubblesort"
+    "\\doublebubblesort",
+    "\\expandafter",
+    "\\leftappendItem",
+    "\\realSort"
   ],
   "environments": []
 }

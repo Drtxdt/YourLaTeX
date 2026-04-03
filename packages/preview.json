@@ -1,6 +1,14 @@
 {
   "commands": [
-    "\\PreviewSnarfEnvironment"
+    "\\PreviewClose",
+    "\\PreviewEnvironment",
+    "\\PreviewMacro",
+    "\\PreviewOpen",
+    "\\PreviewSnarfEnvironment",
+    "\\csname",
+    "\\next",
+    "\\shipout",
+    "\\string"
   ],
   "environments": [
     "nopreview",

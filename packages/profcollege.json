@@ -1,4 +1,29 @@
 {
-  "commands": [],
+  "commands": [
+    "\\Eqalign",
+    "\\PfCSymbolDiv",
+    "\\PfCSymbolTimes",
+    "\\RKalmostcrying",
+    "\\RKangry",
+    "\\RKbigsmile",
+    "\\RKblush",
+    "\\RKconfused",
+    "\\RKdevilish",
+    "\\RKlookdown",
+    "\\RKlookleft",
+    "\\RKlookright",
+    "\\RKlookup",
+    "\\RKmartian",
+    "\\RKneutral",
+    "\\RKsad",
+    "\\RKsexy",
+    "\\RKsmallsmile",
+    "\\RKsmile",
+    "\\Suspensionfill",
+    "\\bla",
+    "\\filedate",
+    "\\fileversion",
+    "\\mathunderline"
+  ],
   "environments": []
 }

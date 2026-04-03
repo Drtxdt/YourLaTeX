@@ -1,18 +1,39 @@
 {
   "commands": [
+    "\\ArrowBetweenLines",
+    "\\DeclarePairedDelimiterX",
+    "\\DeclarePairedDelimiterXPP",
+    "\\EQ",
+    "\\MH",
+    "\\MT",
     "\\crampedsubstack",
-    "\\shortintertext"
+    "\\delimsize",
+    "\\downbracketend",
+    "\\downbracketfill",
+    "\\forced",
+    "\\intertext",
+    "\\l",
+    "\\ordinarycolon",
+    "\\overbrace",
+    "\\prescript",
+    "\\shortintertext",
+    "\\shortvdotswithin",
+    "\\underbrace",
+    "\\upbracketend",
+    "\\upbracketfill",
+    "\\vcentcolon",
+    "\\xmathstrut"
   ],
   "environments": [
-    "bmatrix*",
     "Bmatrix*",
+    "Vmatrix*",
+    "bmatrix*",
     "crampedsubarray",
     "matrix*",
     "multlined",
     "pmatrix*",
     "smallmatrix*",
     "spreadlines",
-    "vmatrix*",
-    "Vmatrix*"
+    "vmatrix*"
   ]
 }

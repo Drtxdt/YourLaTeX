@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\DvdBibSpace",
+    "\\leadzero",
+    "\\listofdvds",
+    "\\listofemptydescriptions",
+    "\\listoffaultyrecordings",
+    "\\thelabelcount"
+  ],
+  "environments": [
+    "Dvd"
+  ]
+}

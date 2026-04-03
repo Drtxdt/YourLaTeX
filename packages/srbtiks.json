@@ -1,7 +1,9 @@
 {
   "commands": [
-    "\\@roman",
-    "\\@Roman",
+    "\\CYR",
+    "\\LAT",
+    "\\cyr",
+    "\\lat",
     "\\rmdefault"
   ],
   "environments": []

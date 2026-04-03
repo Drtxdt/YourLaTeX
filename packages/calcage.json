@@ -1,10 +1,6 @@
 {
   "commands": [
-    "\\calcage",
-    "\\calcage@options",
-    "\\calcage@yearPluralSuffix",
-    "\\calcage@yearSuffix",
-    "\\calcage@yearWord"
+    "\\calcage"
   ],
   "environments": []
 }

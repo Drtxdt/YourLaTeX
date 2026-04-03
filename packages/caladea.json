@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\Caladea@scale"
+    "\\caladeafamily",
+    "\\rmdefault"
   ],
   "environments": []
 }

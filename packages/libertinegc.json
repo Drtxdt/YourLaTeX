@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\LinuxLibertineTGC@scale"
+    "\\filedate",
+    "\\fileversion"
   ],
   "environments": []
 }

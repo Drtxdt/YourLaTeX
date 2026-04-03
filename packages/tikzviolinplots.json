@@ -1,6 +1,5 @@
 {
   "commands": [
-    "\\violin@getnth",
     "\\violinplot",
     "\\violinplotwholefile",
     "\\violinsetoptions"

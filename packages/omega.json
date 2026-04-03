@@ -1,5 +1,23 @@
 {
-  "commands": [],
+  "commands": [
+    "\\OMEGA",
+    "\\OTP",
+    "\\beginL",
+    "\\beginR",
+    "\\endL",
+    "\\endR",
+    "\\heshe",
+    "\\himher",
+    "\\hisher",
+    "\\i",
+    "\\rmdefault",
+    "\\ss",
+    "\\textbackslash",
+    "\\textbraceleft",
+    "\\textbraceright",
+    "\\textbullet",
+    "\\ttdefault"
+  ],
   "environments": [
     "arab",
     "berber",

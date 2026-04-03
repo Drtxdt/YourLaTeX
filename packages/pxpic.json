@@ -1,4 +1,13 @@
 {
-  "commands": [],
+  "commands": [
+    "\\csname",
+    "\\pxpic",
+    "\\pxpicaddcolorlist",
+    "\\pxpicnewcolorlist",
+    "\\pxpicnewmode",
+    "\\pxpicsetcolorlist",
+    "\\pxpicsetmode",
+    "\\unexpanded"
+  ],
   "environments": []
 }

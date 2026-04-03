@@ -1,7 +1,10 @@
 {
   "commands": [
+    "\\basmalahde",
     "\\deGetTrans",
-    "\\deSetTrans"
+    "\\deSetTrans",
+    "\\qurandedate",
+    "\\qurandeversion"
   ],
   "environments": []
 }

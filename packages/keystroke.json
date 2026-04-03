@@ -2,8 +2,8 @@
   "commands": [
     "\\Alt",
     "\\AltGr",
-    "\\Break",
     "\\BSpace",
+    "\\Break",
     "\\Ctrl",
     "\\DArrow",
     "\\Del",
@@ -22,8 +22,6 @@
     "\\Scroll",
     "\\Shift",
     "\\Spacebar",
-    "\\suse@@tab",
-    "\\suse@tab",
     "\\Tab",
     "\\UArrow"
   ],

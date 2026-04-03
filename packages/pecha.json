@@ -1,0 +1,24 @@
+{
+  "commands": [
+    "\\baselinestretch",
+    "\\chapter",
+    "\\evenleft",
+    "\\evenright",
+    "\\maketitle",
+    "\\newsheet",
+    "\\oddleft",
+    "\\oddright",
+    "\\paragraph",
+    "\\part",
+    "\\section",
+    "\\subparagraph",
+    "\\subsection",
+    "\\subsubsection",
+    "\\tibnumeral",
+    "\\tibsmall",
+    "\\title"
+  ],
+  "environments": [
+    "titlepage"
+  ]
+}

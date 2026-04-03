@@ -1,16 +1,28 @@
 {
   "commands": [
-    "\\bldefault",
-    "\\cwdefault",
     "\\DeclareFontShapeWithSizes",
     "\\DeclareRuneSeparators",
+    "\\bfseries",
+    "\\bldefault",
+    "\\curvedtwigs",
+    "\\cwdefault",
+    "\\filedate",
+    "\\fileversion",
+    "\\hightwigs",
     "\\lfdefault",
+    "\\lfseries",
     "\\lldefault",
+    "\\lowtwigs",
+    "\\mdseries",
     "\\mldefault",
     "\\rodefault",
+    "\\roundedtwigs",
     "\\rwdefault",
     "\\stdefault",
-    "\\swdefault"
+    "\\straighttwigs",
+    "\\swdefault",
+    "\\withlines",
+    "\\withoutlines"
   ],
   "environments": []
 }

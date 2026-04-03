@@ -1,4 +1,18 @@
 {
-  "commands": [],
+  "commands": [
+    "\\SET",
+    "\\fillzeros",
+    "\\headsep",
+    "\\makevruler",
+    "\\next",
+    "\\oddsidemargin",
+    "\\plainoutput",
+    "\\pop",
+    "\\popnil",
+    "\\push",
+    "\\setdefault",
+    "\\unsetvruler",
+    "\\wlog"
+  ],
   "environments": []
 }

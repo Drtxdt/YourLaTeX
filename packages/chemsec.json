@@ -1,4 +1,18 @@
 {
-  "commands": [],
+  "commands": [
+    "\\ChemCite",
+    "\\ChemFCite",
+    "\\ChemFullLabelStyle",
+    "\\ChemLabelStyle",
+    "\\ChemMFCite",
+    "\\ChemMSCite",
+    "\\ChemMainCounterStyle",
+    "\\ChemSCite",
+    "\\ChemShortLabelStyle",
+    "\\ChemSubCounterStyle",
+    "\\DefineChemical",
+    "\\NoCite",
+    "\\csname"
+  ],
   "environments": []
 }

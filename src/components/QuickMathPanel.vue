@@ -33,7 +33,6 @@ const symbols = [
         @click="emit('insert', item.latex)"
       >
         <span class="symbol-glyph">{{ item.symbol }}</span>
-        <span class="symbol-latex">{{ item.latex }}</span>
       </button>
     </div>
   </section>

@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\BredzenieDash",
+    "\\BredzenieHyphen",
+    "\\BredzenieNbsp",
+    "\\BredzenieSep",
+    "\\bredzenie",
+    "\\csname"
+  ],
   "environments": []
 }

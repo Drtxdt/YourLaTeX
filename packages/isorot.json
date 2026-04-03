@@ -1,14 +1,26 @@
 {
   "commands": [
-    "\\@initisofig",
-    "\\@initisotab",
     "\\clockwise",
     "\\controtcaption",
     "\\counterclockwise",
+    "\\endrotate",
+    "\\endsideways",
+    "\\endsidewaysfigure",
+    "\\endsidewaystable",
+    "\\endturn",
     "\\figuresleft",
     "\\figuresright",
+    "\\rotate",
     "\\rotatedirection",
-    "\\rotcapfont"
+    "\\rotcapfont",
+    "\\rotcaption",
+    "\\rotdriver",
+    "\\sideways",
+    "\\sidewaysfigure",
+    "\\sidewaystable",
+    "\\therpage",
+    "\\turn",
+    "\\turnbox"
   ],
   "environments": [
     "sidewaysfigure*",

@@ -1,7 +1,8 @@
 {
   "commands": [
-    "\\@reqoutput",
-    "\\LogreqDTDVersion"
+    "\\LogreqDTDVersion",
+    "\\do",
+    "\\expandafter"
   ],
   "environments": []
 }

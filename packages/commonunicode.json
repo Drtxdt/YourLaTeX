@@ -1,7 +1,7 @@
 {
   "commands": [
-    "\\COMMONUNICODE@llangle",
-    "\\COMMONUNICODE@rrangle"
+    "\\DeclareUnicodeCharacter",
+    "\\tmp"
   ],
   "environments": []
 }

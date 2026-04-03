@@ -1,0 +1,24 @@
+{
+  "commands": [
+    "\\author",
+    "\\course",
+    "\\group",
+    "\\id",
+    "\\maketitle",
+    "\\metaleft",
+    "\\metaright",
+    "\\sheetno",
+    "\\subsubtask",
+    "\\subtask",
+    "\\task",
+    "\\teacher",
+    "\\title",
+    "\\titleleft",
+    "\\titleright",
+    "\\todo",
+    "\\todomark",
+    "\\todotext",
+    "\\university"
+  ],
+  "environments": []
+}

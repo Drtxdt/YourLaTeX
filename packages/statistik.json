@@ -1,10 +1,10 @@
 {
   "commands": [
-    "\\chapter",
-    "\\Orig@Chapter",
+    "\\ProcessOptionsWithKV",
     "\\ShowPagesOfThisChapter",
-    "\\St@chapter",
-    "\\St@schapter",
+    "\\TitleOfLastChapter",
+    "\\WrtStatistik",
+    "\\chapter",
     "\\stabegincommand",
     "\\stabody",
     "\\staenconding",
@@ -13,9 +13,7 @@
     "\\staheader",
     "\\statabline",
     "\\staxmlencoding",
-    "\\staxmlenconding",
-    "\\TitleOfLastChapter",
-    "\\WrtStatistik"
+    "\\staxmlenconding"
   ],
   "environments": []
 }

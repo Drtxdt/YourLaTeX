@@ -1,4 +1,14 @@
 {
-  "commands": [],
+  "commands": [
+    "\\documentclass",
+    "\\newcmykcolor",
+    "\\newcmykcolorx",
+    "\\newgray",
+    "\\newhsbcolor",
+    "\\newhsbcolorx",
+    "\\newrgbcolor",
+    "\\newrgbcolorx",
+    "\\xglobal"
+  ],
   "environments": []
 }

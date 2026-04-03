@@ -1,4 +1,32 @@
 {
-  "commands": [],
+  "commands": [
+    "\\B",
+    "\\at",
+    "\\au",
+    "\\ceb",
+    "\\cebs",
+    "\\cib",
+    "\\cibs",
+    "\\co",
+    "\\cos",
+    "\\cw",
+    "\\cws",
+    "\\eb",
+    "\\ee",
+    "\\et",
+    "\\feut",
+    "\\hw",
+    "\\ib",
+    "\\k",
+    "\\kb",
+    "\\pe",
+    "\\pr",
+    "\\se",
+    "\\ste",
+    "\\thorlogo",
+    "\\thorlogogroot",
+    "\\vp",
+    "\\wp"
+  ],
   "environments": []
 }

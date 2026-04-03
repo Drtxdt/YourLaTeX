@@ -1,0 +1,35 @@
+{
+  "commands": [
+    "\\Huge",
+    "\\LARGE",
+    "\\Large",
+    "\\cftafterloftitle",
+    "\\cftafterlottitle",
+    "\\cftaftertoctitle",
+    "\\cftchappresnum",
+    "\\cftdotsep",
+    "\\cftloftitlefont",
+    "\\cftlottitlefont",
+    "\\cfttoctitlefont",
+    "\\chapter",
+    "\\contentsname",
+    "\\cosupervisor",
+    "\\declaretypist",
+    "\\graduationdate",
+    "\\headingsize",
+    "\\huge",
+    "\\makeappendix",
+    "\\makebibliography",
+    "\\maketableofcontents",
+    "\\maketitle",
+    "\\othercommitteemembers",
+    "\\supervisor"
+  ],
+  "environments": [
+    "acknowledgments",
+    "address",
+    "dedication",
+    "middlecenter",
+    "vita"
+  ]
+}

@@ -1,5 +1,13 @@
 {
-  "commands": [],
+  "commands": [
+    "\\makelabel",
+    "\\mdfmaindate",
+    "\\mdframedpackagename",
+    "\\mdfrevision",
+    "\\mdversion",
+    "\\next",
+    "\\thempfn"
+  ],
   "environments": [
     "mdframed"
   ]

@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\PoiretOne@scale"
+    "\\poiretonefamily",
+    "\\sfdefault"
   ],
   "environments": []
 }

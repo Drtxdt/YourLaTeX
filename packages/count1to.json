@@ -1,9 +1,4 @@
 {
-  "commands": [
-    "\\@countItoIX@bugfix",
-    "\\@countItoIX@ifs",
-    "\\@countItoIX@init",
-    "\\@countItoIX@shipout"
-  ],
+  "commands": [],
   "environments": []
 }

@@ -1,16 +1,16 @@
 {
   "commands": [
+    "\\QuoteOrNot",
+    "\\bibitem",
     "\\bibliography",
     "\\cite",
+    "\\csname",
+    "\\hereafter",
     "\\idemtext",
-    "\\last@cited",
     "\\newBibCommand",
-    "\\opcit@cite",
-    "\\opcit@cite@star",
     "\\opcittext",
-    "\\renew@cites",
     "\\sameauthors",
-    "\\thebib@renew"
+    "\\toomit"
   ],
   "environments": []
 }

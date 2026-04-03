@@ -1,22 +1,27 @@
 {
   "commands": [
+    "\\SFlag",
     "\\beginbox",
     "\\blank",
     "\\blocbox",
     "\\boucle",
+    "\\cooleur",
+    "\\couleur",
     "\\hb",
     "\\kbox",
     "\\looope",
     "\\loope",
     "\\sailors",
     "\\scbox",
-    "\\SFlag",
     "\\sialooors",
     "\\sialoors",
     "\\simenon",
     "\\sqb",
     "\\teste",
-    "\\turnbox"
+    "\\texte",
+    "\\turnbox",
+    "\\x",
+    "\\y"
   ],
   "environments": []
 }

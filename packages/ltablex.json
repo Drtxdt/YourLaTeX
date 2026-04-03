@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\caption",
+    "\\endfirsthead",
+    "\\endfoot",
+    "\\endhead",
+    "\\endlastfoot"
+  ],
   "environments": []
 }

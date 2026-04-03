@@ -1,0 +1,13 @@
+{
+  "commands": [
+    "\\group",
+    "\\maketitle",
+    "\\module",
+    "\\partner",
+    "\\rom",
+    "\\semester",
+    "\\supervisor",
+    "\\tutor"
+  ],
+  "environments": []
+}

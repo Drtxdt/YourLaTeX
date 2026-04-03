@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\StackedVigesimal",
+    "\\vigesimal"
+  ],
   "environments": []
 }

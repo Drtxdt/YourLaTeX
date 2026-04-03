@@ -1,7 +1,9 @@
 {
   "commands": [
     "\\DefineCodeSection",
-    "\\SetCodeSection"
+    "\\SetCodeSection",
+    "\\expandafter",
+    "\\next"
   ],
   "environments": []
 }

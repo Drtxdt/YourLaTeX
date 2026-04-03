@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\endprocessing",
+    "\\idxwrite",
+    "\\jobname",
+    "\\newwrite",
+    "\\processidxfile",
+    "\\setjobname"
+  ],
+  "environments": []
+}

@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\degreemonth",
+    "\\degreeyear",
+    "\\formattext",
+    "\\maketitle",
+    "\\msthesis",
+    "\\phdthesis"
+  ],
+  "environments": []
+}

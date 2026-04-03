@@ -1,5 +1,7 @@
 {
   "commands": [
+    "\\Otonal",
+    "\\Utonal",
     "\\acc",
     "\\flat",
     "\\flatflat",
@@ -7,7 +9,6 @@
     "\\heji",
     "\\nat",
     "\\otonal",
-    "\\Otonal",
     "\\otonaleleven",
     "\\otonalfiveflat",
     "\\otonalfiveflatflat",
@@ -49,7 +50,6 @@
     "\\tempsharp",
     "\\tempsharpsharp",
     "\\utonal",
-    "\\Utonal",
     "\\utonaleleven",
     "\\utonalfiveflat",
     "\\utonalfiveflatflat",

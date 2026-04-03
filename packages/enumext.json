@@ -1,4 +1,10 @@
 {
   "commands": [],
-  "environments": []
+  "environments": [
+    "enumext",
+    "enumext*",
+    "keyans",
+    "keyans*",
+    "keyanspic"
+  ]
 }

@@ -1,6 +1,19 @@
 {
-  "commands": [],
+  "commands": [
+    "\\dominimpcolor",
+    "\\endmplibcode",
+    "\\minimpcolor",
+    "\\mpcolor",
+    "\\mplibcode",
+    "\\mplibcodeinherit",
+    "\\mplibnumbersystem",
+    "\\mplibsetformat",
+    "\\mplibshowlog",
+    "\\mplibtextextlabel",
+    "\\protect"
+  ],
   "environments": [
+    ":metapost:",
     "metapost"
   ]
 }

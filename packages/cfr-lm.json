@@ -1,5 +1,7 @@
 {
   "commands": [
+    "\\dotdigitenc",
+    "\\mathsterling",
     "\\zeroslash"
   ],
   "environments": []

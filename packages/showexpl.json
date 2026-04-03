@@ -1,6 +1,9 @@
 {
   "commands": [
-    "\\SX@IDENT"
+    "\\ResultBox",
+    "\\noexpand",
+    "\\refstepcounter",
+    "\\theHlstnumber"
   ],
   "environments": []
 }

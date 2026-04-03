@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\abstract",
+    "\\backmatter",
+    "\\chapterformat",
+    "\\chapterlinesformat",
+    "\\chapterlineswithprefixformat",
+    "\\dictumwidth",
+    "\\frontmatter",
+    "\\headingdot",
+    "\\mainmatter",
+    "\\maketitle",
+    "\\sectionlinesformat",
+    "\\signatureBox",
+    "\\thefootnote",
+    "\\titlepagestyle"
+  ],
+  "environments": []
+}

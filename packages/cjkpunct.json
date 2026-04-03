@@ -1,4 +1,14 @@
 {
-  "commands": [],
+  "commands": [
+    "\\CJKplainout",
+    "\\CJKpunctallowbreakbetweenpuncts",
+    "\\CJKpunctmapfamily",
+    "\\CJKpunctnobreakbetweenpuncts",
+    "\\CJKpunctsetkern",
+    "\\CJKpunctstyle",
+    "\\csname",
+    "\\filedate",
+    "\\fileversion"
+  ],
   "environments": []
 }

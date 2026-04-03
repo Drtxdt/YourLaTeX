@@ -1,16 +1,33 @@
 {
   "commands": [
-    "\\@PrintEnvelope",
-    "\\mlabel",
-    "\\opening",
+    "\\AtBeginLabelPage",
+    "\\AtBeginLabels",
+    "\\ChangeBigLabel",
+    "\\ChangeEnvelope",
+    "\\ChangeLabel",
+    "\\FirstLabel",
+    "\\PSwait",
     "\\PrintAddress",
     "\\PrintBarCode",
     "\\PrintBigLabel",
     "\\PrintEnvelope",
     "\\PrintLabel",
     "\\PrintReturnAddress",
+    "\\ReName",
+    "\\SetBigLabel",
+    "\\SetEnvelope",
+    "\\SetLabel",
+    "\\mlabel",
+    "\\opening",
+    "\\printonelabel",
     "\\printreturnlabels",
-    "\\re"
+    "\\re",
+    "\\recontents",
+    "\\resumelabels",
+    "\\returnaddress",
+    "\\startlabels",
+    "\\suppresslabels",
+    "\\suppressonelabel"
   ],
   "environments": []
 }

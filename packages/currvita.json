@@ -1,10 +1,15 @@
 {
   "commands": [
-    "\\@cvplace",
-    "\\@noitemerr",
+    "\\cvbibname",
+    "\\cvheadingfont",
+    "\\cvlabelfont",
+    "\\cvlistheadingfont",
+    "\\cvplace",
     "\\date",
+    "\\endthebibliography",
     "\\makelabel",
     "\\newblock",
+    "\\thebibliography",
     "\\theenumiv"
   ],
   "environments": [

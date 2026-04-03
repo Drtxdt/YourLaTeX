@@ -1,11 +1,27 @@
 {
   "commands": [
-    "\\familydefault",
-    "\\fbb@scale",
     "\\Qnoswash",
     "\\Qswash",
+    "\\familydefault",
+    "\\filedate",
+    "\\fileversion",
+    "\\inffigures",
+    "\\lfstyle",
+    "\\osfstyle",
     "\\rmdefault",
-    "\\textfrac"
+    "\\supfigures",
+    "\\textde",
+    "\\textfrac",
+    "\\textlf",
+    "\\textosf",
+    "\\textsc",
+    "\\texttlf",
+    "\\texttosf",
+    "\\tlfstyle",
+    "\\tosfstyle",
+    "\\useosf",
+    "\\useproportional",
+    "\\usetosf"
   ],
   "environments": []
 }

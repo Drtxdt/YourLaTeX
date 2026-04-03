@@ -1,4 +1,13 @@
 {
-  "commands": [],
+  "commands": [
+    "\\extrafloats",
+    "\\locbox",
+    "\\loccount",
+    "\\locdimen",
+    "\\locmarks",
+    "\\locmuskip",
+    "\\locskip",
+    "\\loctoks"
+  ],
   "environments": []
 }

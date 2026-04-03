@@ -1,0 +1,30 @@
+{
+  "commands": [
+    "\\color",
+    "\\description",
+    "\\endtrivlist",
+    "\\enumerate",
+    "\\input",
+    "\\itemize",
+    "\\label",
+    "\\lyxend",
+    "\\maketitle",
+    "\\next",
+    "\\onslide",
+    "\\pause",
+    "\\pdbookmark",
+    "\\pdcontentsline",
+    "\\pddefinelyxtemplate",
+    "\\pddefinepalettes",
+    "\\pddefinetemplate",
+    "\\pdifsetup",
+    "\\pdsetup",
+    "\\section",
+    "\\tableofcontents",
+    "\\thefootnote",
+    "\\thenote",
+    "\\theslide",
+    "\\twocolumn"
+  ],
+  "environments": []
+}

@@ -1,0 +1,14 @@
+{
+  "commands": [
+    "\\frenchcontentsname",
+    "\\labelenumii",
+    "\\overrightarc",
+    "\\widearc"
+  ],
+  "environments": [
+    "alert",
+    "example",
+    "proof",
+    "remark"
+  ]
+}

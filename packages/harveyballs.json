@@ -1,4 +1,14 @@
 {
-  "commands": [],
+  "commands": [
+    "\\harveyBallFull",
+    "\\harveyBallHalf",
+    "\\harveyBallNone",
+    "\\harveyBallQuarter",
+    "\\harveyBallThreeQuarter",
+    "\\harveyBallsColor",
+    "\\harveyBallsLineColor",
+    "\\harveyBallsLineWidth",
+    "\\harveyBallsSize"
+  ],
   "environments": []
 }

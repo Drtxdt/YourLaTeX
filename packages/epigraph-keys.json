@@ -1,6 +1,18 @@
 {
   "commands": [
+    "\\afterepigraphskip",
+    "\\beforeepigraphskip",
     "\\epigraph",
+    "\\epigraphauthorsourceindent",
+    "\\epigraphdash",
+    "\\epigraphquotefont",
+    "\\epigraphstyle",
+    "\\epigraphtextindent",
+    "\\epigraphtextwidth",
+    "\\epigraphtranslationfont",
+    "\\expblank",
+    "\\expgiven",
+    "\\expnil",
     "\\qitem",
     "\\smallerSmallCapsTracking"
   ],

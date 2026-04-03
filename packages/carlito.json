@@ -1,6 +1,9 @@
 {
   "commands": [
-    "\\Carlito@scale"
+    "\\carlitofamily",
+    "\\infigures",
+    "\\sfdefault",
+    "\\sufigures"
   ],
   "environments": []
 }

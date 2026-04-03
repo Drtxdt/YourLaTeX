@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "\\bibfont",
+    "\\figure",
+    "\\table"
+  ],
+  "environments": [
+    "abstract"
+  ]
+}

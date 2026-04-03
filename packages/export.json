@@ -1,7 +1,6 @@
 {
   "commands": [
     "\\AddInputInAux",
-    "\\closeexport",
     "\\Export",
     "\\ExportArrayParams",
     "\\ExportIf",
@@ -10,8 +9,13 @@
     "\\ExportPageLayout",
     "\\ExportParameter",
     "\\Import",
+    "\\PreciseExportLength",
+    "\\bibcite",
+    "\\closeexport",
     "\\openexport",
-    "\\PreciseExportLength"
+    "\\xcaption",
+    "\\xcaptionf",
+    "\\xcaptiont"
   ],
   "environments": []
 }

@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\DeclareInputMath",
+    "\\RieBC",
+    "\\RieC",
+    "\\TextSymbolUnavailable",
+    "\\expandafter",
+    "\\inputencoding"
+  ],
   "environments": []
 }

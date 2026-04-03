@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\@eVoverc"
+    "\\filedate",
+    "\\fileversion"
   ],
   "environments": []
 }

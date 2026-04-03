@@ -1,6 +1,9 @@
 {
   "commands": [
-    "\\noaccsupp"
+    "\\filedate",
+    "\\fileversion",
+    "\\noaccsupp",
+    "\\noexpand"
   ],
   "environments": []
 }

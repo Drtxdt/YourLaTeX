@@ -1,4 +1,19 @@
 {
-  "commands": [],
+  "commands": [
+    "\\AtEndFrame",
+    "\\AtEveryBeginFrame",
+    "\\AtEveryEndFrame",
+    "\\dospots",
+    "\\dospotsfooter",
+    "\\dospotsheader",
+    "\\resetspotlightcolor",
+    "\\resetspotlightstyle",
+    "\\setspotlightcolor",
+    "\\setspotlightstyle",
+    "\\spot",
+    "\\spotlightcolor",
+    "\\spotlightnodeoptions",
+    "\\xa"
+  ],
   "environments": []
 }

@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\a",
+    "\\b",
+    "\\c",
+    "\\input"
+  ],
+  "environments": []
+}

@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\actionsocg",
+    "\\expandafter",
+    "\\hideocg",
+    "\\ocgxversion",
+    "\\showocg",
+    "\\switchocg"
+  ],
   "environments": []
 }

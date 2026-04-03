@@ -1,6 +1,5 @@
 {
   "commands": [
-    "\\inet@defaultangle",
     "\\inetbox",
     "\\inetboxstyle",
     "\\inetcell",
@@ -12,6 +11,9 @@
     "\\inetprombox",
     "\\inetsetfancycellstyle",
     "\\inetsetfancywirestyle",
+    "\\inetwire",
+    "\\inetwirecoords",
+    "\\inetwirefree",
     "\\inetwirestyle"
   ],
   "environments": []

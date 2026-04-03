@@ -1,4 +1,23 @@
 {
-  "commands": [],
+  "commands": [
+    "\\FancyDColor",
+    "\\FancyDSeparation",
+    "\\FancyDSymbol",
+    "\\FancyMark",
+    "\\FancyMarkPosition",
+    "\\FancyNSColor",
+    "\\FancyNTWidth",
+    "\\FancyNTextColor",
+    "\\FancyNilColor",
+    "\\FancyNilHeight",
+    "\\FancyNlColor",
+    "\\FancyUColor",
+    "\\FancyZColorOne",
+    "\\FancyZColorTwo",
+    "\\FancyZTextColorOne",
+    "\\FancyZTextColorTwo",
+    "\\leaderfill",
+    "\\par"
+  ],
   "environments": []
 }

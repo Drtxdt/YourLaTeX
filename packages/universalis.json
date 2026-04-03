@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\UniversalisADFStd@scale"
+    "\\sfdefault",
+    "\\univrsfamily"
   ],
   "environments": []
 }

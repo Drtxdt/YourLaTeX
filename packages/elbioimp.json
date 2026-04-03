@@ -1,0 +1,28 @@
+{
+  "commands": [
+    "\\Huge",
+    "\\LARGE",
+    "\\Large",
+    "\\affiliation",
+    "\\and",
+    "\\floatpagefraction",
+    "\\footnoterule",
+    "\\footnotesize",
+    "\\huge",
+    "\\keywords",
+    "\\large",
+    "\\maketitle",
+    "\\normalsize",
+    "\\sameaffiliation",
+    "\\samethanks",
+    "\\scriptsize",
+    "\\section",
+    "\\small",
+    "\\subsection",
+    "\\subsubsection",
+    "\\thanks",
+    "\\thempfootnote",
+    "\\tiny"
+  ],
+  "environments": []
+}

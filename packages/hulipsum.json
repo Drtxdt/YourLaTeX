@@ -1,10 +1,10 @@
 {
   "commands": [
-    "\\@@hulipsum",
-    "\\@@hulipsumsave",
-    "\\@hulipsum",
-    "\\@hulipsumsave",
-    "\\hulipsumdocument"
+    "\\hulipsum",
+    "\\hulipsumdocument",
+    "\\hulipsumexp",
+    "\\hulipsumsave",
+    "\\sethulipsumdefault"
   ],
   "environments": []
 }

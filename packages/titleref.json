@@ -1,6 +1,11 @@
 {
   "commands": [
-    "\\theTitleReference"
+    "\\addcontentsline",
+    "\\currenttitle",
+    "\\label",
+    "\\noexpand",
+    "\\theTitleReference",
+    "\\titleref"
   ],
   "environments": []
 }

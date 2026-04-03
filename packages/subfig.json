@@ -1,4 +1,21 @@
 {
-  "commands": [],
+  "commands": [
+    "\\ContinuedFloat",
+    "\\DeclareCaptionListOfFormat",
+    "\\DeclareSubrefFormat",
+    "\\ProcessPackageOptions",
+    "\\caption",
+    "\\captionlabelsep",
+    "\\label",
+    "\\listsubcaptions",
+    "\\newsubfloat",
+    "\\next",
+    "\\protect",
+    "\\refstepcounter",
+    "\\refsteponlycounter",
+    "\\string",
+    "\\subfloat",
+    "\\subref"
+  ],
   "environments": []
 }

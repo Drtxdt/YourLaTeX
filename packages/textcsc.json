@@ -3,7 +3,8 @@
     "\\csconly",
     "\\csconlyshape",
     "\\cscshape",
-    "\\textcsc"
+    "\\textcsc",
+    "\\textcscversionnumber"
   ],
   "environments": []
 }

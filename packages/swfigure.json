@@ -1,4 +1,9 @@
 {
-  "commands": [],
-  "environments": []
+  "commands": [
+    "\\FScaptionShift",
+    "\\SWcaptionShift"
+  ],
+  "environments": [
+    "DFimage"
+  ]
 }

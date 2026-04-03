@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\LuakeysGetClassOptions",
+    "\\LuakeysGetPackageOptions"
+  ],
   "environments": []
 }

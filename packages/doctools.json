@@ -1,15 +1,19 @@
 {
   "commands": [
-    "\\@AddFileEntry",
     "\\AfterLastParam",
+    "\\Default",
+    "\\Example",
+    "\\IndexFileB",
+    "\\PrintDescribeEnv",
+    "\\PrintDescribeMacro",
+    "\\PrintEnvName",
+    "\\PrintMacroName",
     "\\arraystretch",
     "\\bs",
     "\\command",
-    "\\Default",
-    "\\doctools@indexHeadFont",
     "\\env",
     "\\environment",
-    "\\Example",
+    "\\expandafter",
     "\\file",
     "\\labelfile",
     "\\latex",
@@ -19,8 +23,8 @@
     "\\parameter",
     "\\person",
     "\\printCodeFromFile",
-    "\\theHfile",
-    "\\theHMacroName"
+    "\\theHMacroName",
+    "\\theHfile"
   ],
   "environments": [
     "Optionlist"

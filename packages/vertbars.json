@@ -1,8 +1,9 @@
 {
   "commands": [
+    "\\LNenv",
     "\\addtodef",
     "\\addtomakeLNL",
-    "\\LNenv",
+    "\\noexpand",
     "\\pwvbLNL"
   ],
   "environments": [

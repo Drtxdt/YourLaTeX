@@ -1,9 +1,7 @@
 {
   "commands": [
-    "\\@ifdefined",
+    "\\do",
     "\\prevrepl",
-    "\\repl@text@i",
-    "\\repl@text@ii",
     "\\repltext"
   ],
   "environments": []

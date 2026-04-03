@@ -1,4 +1,32 @@
 {
-  "commands": [],
+  "commands": [
+    "\\DeleteShortVerb",
+    "\\GMverbatimspecials",
+    "\\Name",
+    "\\ProvideDateVersion",
+    "\\ProvideInfo",
+    "\\ProvideLeafInfo",
+    "\\VerbHyphen",
+    "\\VerbT",
+    "\\VisSpacesGrey",
+    "\\breakablevisspace",
+    "\\breakbslash",
+    "\\breaklbrace",
+    "\\dekclubs",
+    "\\do",
+    "\\dobreaklbrace",
+    "\\dobreakspace",
+    "\\endverbatim",
+    "\\gmdExt",
+    "\\gmutilsThanks",
+    "\\olddekclubs",
+    "\\par",
+    "\\verb",
+    "\\verbDiscretionaryHyphen",
+    "\\verbatim",
+    "\\verbatimfont",
+    "\\verbeolOK",
+    "\\xiiclub"
+  ],
   "environments": []
 }

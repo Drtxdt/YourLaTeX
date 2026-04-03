@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\csname",
+    "\\mmapnotexcodes",
+    "\\mmapusetexcodes",
+    "\\next",
+    "\\noexpand"
+  ],
   "environments": []
 }

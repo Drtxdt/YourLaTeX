@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\getlength",
+    "\\length",
+    "\\myhearts",
+    "\\next"
+  ],
   "environments": []
 }

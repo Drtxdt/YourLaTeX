@@ -1,8 +1,21 @@
 {
-  "commands": [],
+  "commands": [
+    "\\Sns",
+    "\\comp",
+    "\\exp",
+    "\\maincomp",
+    "\\maketitle",
+    "\\sns",
+    "\\stex",
+    "\\stexdoctitle",
+    "\\thisnotation"
+  ],
   "environments": [
     "backmatter",
+    "blindfragment",
     "frontmatter",
+    "sfragment",
+    "spfblock",
     "spfsketchenv",
     "spfstepenv"
   ]

@@ -1,17 +1,17 @@
 {
   "commands": [
-    "\\dfourier",
-    "\\Dfourier",
-    "\\dft",
     "\\DFT",
+    "\\Dfourier",
+    "\\Fourier",
+    "\\Laplace",
+    "\\Ztransf",
+    "\\dfourier",
+    "\\dft",
     "\\e",
     "\\fourier",
-    "\\Fourier",
     "\\im",
     "\\laplace",
-    "\\Laplace",
-    "\\ztransf",
-    "\\Ztransf"
+    "\\ztransf"
   ],
   "environments": []
 }

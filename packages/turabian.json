@@ -1,0 +1,11 @@
+{
+  "commands": [
+    "\\bibline",
+    "\\bibliography",
+    "\\content",
+    "\\headrulewidth",
+    "\\normalsize",
+    "\\papercontents"
+  ],
+  "environments": []
+}

@@ -1,9 +1,20 @@
 {
   "commands": [
-    "\\changehistoryname",
-    "\\glossaryname",
+    "\\MacroFont",
     "\\SortIndex",
-    "\\theHD@unique"
+    "\\and",
+    "\\changehistoryname",
+    "\\cs",
+    "\\encapchar",
+    "\\glossaryname",
+    "\\hdclindex",
+    "\\hdpindex",
+    "\\listoffigures",
+    "\\listoftables",
+    "\\tableofcontents",
+    "\\thebibliography",
+    "\\theglossary",
+    "\\theindex"
   ],
   "environments": []
 }

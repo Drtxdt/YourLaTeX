@@ -1,9 +1,30 @@
 {
   "commands": [
-    "\\ArmTeX@MathArmLetterDef",
-    "\\ArmTeX@OldArmFontDef",
-    "\\ArmTeX@OldNonArmFontDef",
-    "\\ArmTeX@OrthoFontDef"
+    "\\ArmTeX",
+    "\\Armalph",
+    "\\armalph",
+    "\\armalphs",
+    "\\armalphsoff",
+    "\\armdate",
+    "\\armdateoff",
+    "\\armfontsdefault",
+    "\\armfontsdefaultoff",
+    "\\armhyph",
+    "\\armhyphoff",
+    "\\armnames",
+    "\\armnamesoff",
+    "\\armnumber",
+    "\\armnumeral",
+    "\\armprime",
+    "\\armprimeoff",
+    "\\armtoday",
+    "\\aroff",
+    "\\ddots",
+    "\\latArmTeX",
+    "\\mathardefault",
+    "\\unarmnumber",
+    "\\unarmnumeral",
+    "\\vdots"
   ],
   "environments": []
 }

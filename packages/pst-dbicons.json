@@ -1,4 +1,23 @@
 {
-  "commands": [],
+  "commands": [
+    "\\annote",
+    "\\attrdist",
+    "\\attribute",
+    "\\attributeof",
+    "\\basename",
+    "\\csname",
+    "\\database",
+    "\\docdate",
+    "\\entity",
+    "\\filedate",
+    "\\fileversion",
+    "\\inrelationship",
+    "\\nodeconnections",
+    "\\noexpand",
+    "\\relationship",
+    "\\relationshipbetween",
+    "\\relationtype",
+    "\\seticonparams"
+  ],
   "environments": []
 }

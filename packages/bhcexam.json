@@ -1,0 +1,39 @@
+{
+  "commands": [
+    "\\Im",
+    "\\Re",
+    "\\author",
+    "\\baselinestretch",
+    "\\build",
+    "\\date",
+    "\\example",
+    "\\exercise",
+    "\\fivechoices",
+    "\\fourchoices",
+    "\\ge",
+    "\\geq",
+    "\\group",
+    "\\gt",
+    "\\headrulewidth",
+    "\\hint",
+    "\\key",
+    "\\le",
+    "\\leq",
+    "\\lt",
+    "\\method",
+    "\\methodonly",
+    "\\notice",
+    "\\question",
+    "\\score",
+    "\\sixchoices",
+    "\\subquestion",
+    "\\subtitle",
+    "\\threechoices",
+    "\\title"
+  ],
+  "environments": [
+    "groups",
+    "questions",
+    "solution"
+  ]
+}

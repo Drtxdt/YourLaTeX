@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\gathereditem",
+    "\\gatheritems",
+    "\\loopthroughitemswithcommand",
+    "\\xa"
+  ],
   "environments": []
 }

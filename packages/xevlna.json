@@ -1,4 +1,13 @@
 {
-  "commands": [],
+  "commands": [
+    "\\CSinterchartoks",
+    "\\CSnointerchartoks",
+    "\\ExamineCSpreposition",
+    "\\PreCSpreposition",
+    "\\ProcessCSpreposition",
+    "\\newXeTeXintercharclass",
+    "\\next",
+    "\\xevlnaDisable"
+  ],
   "environments": []
 }

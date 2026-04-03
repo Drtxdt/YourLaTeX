@@ -1,5 +1,12 @@
 {
-  "commands": [],
+  "commands": [
+    "\\csname",
+    "\\example",
+    "\\examplename",
+    "\\newboxtheorem",
+    "\\proof",
+    "\\proofname"
+  ],
   "environments": [
     "leftbar",
     "thmbox"

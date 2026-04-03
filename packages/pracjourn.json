@@ -1,0 +1,20 @@
+{
+  "commands": [
+    "\\ExecuteOptions",
+    "\\TPJcopyright",
+    "\\TPJissue",
+    "\\TPJrevision",
+    "\\abstractname",
+    "\\bottomfraction",
+    "\\csname",
+    "\\dash",
+    "\\dblfloatpagefraction",
+    "\\dbltopfraction",
+    "\\endabstract",
+    "\\floatpagefraction",
+    "\\textfraction",
+    "\\topfraction",
+    "\\typesetemail"
+  ],
+  "environments": []
+}

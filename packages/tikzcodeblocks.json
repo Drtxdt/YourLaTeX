@@ -1,8 +1,10 @@
 {
   "commands": [
+    "\\X",
     "\\arraystretch",
     "\\bild",
     "\\boolbox",
+    "\\dreieckseite",
     "\\dropdown",
     "\\einruecken",
     "\\emptyled",
@@ -13,14 +15,15 @@
     "\\intbox",
     "\\loopblocks",
     "\\moveindent",
+    "\\myshift",
+    "\\myspace",
     "\\schleife",
     "\\setcolor",
     "\\setupquotes",
     "\\stringbox",
     "\\usb",
     "\\wenndann",
-    "\\wenndannsonst",
-    "\\X"
+    "\\wenndannsonst"
   ],
   "environments": []
 }

@@ -1,9 +1,7 @@
 {
   "commands": [
     "\\codestyle",
-    "\\familydefault",
-    "\\hepfont@rm@shape",
-    "\\hepfont@sf@shape"
+    "\\familydefault"
   ],
   "environments": []
 }

@@ -1,4 +1,16 @@
 {
-  "commands": [],
+  "commands": [
+    "\\csname",
+    "\\endtensor",
+    "\\finishdots",
+    "\\indexdot",
+    "\\next",
+    "\\omitdot",
+    "\\sbadjust",
+    "\\spadjust",
+    "\\tensor",
+    "\\tensorformat",
+    "\\whenindex"
+  ],
   "environments": []
 }

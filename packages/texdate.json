@@ -1,4 +1,23 @@
 {
-  "commands": [],
+  "commands": [
+    "\\advancebydays",
+    "\\advancebymonths",
+    "\\advancebyweeks",
+    "\\csname",
+    "\\initcurrdate",
+    "\\initdate",
+    "\\nameddateformat",
+    "\\printdate",
+    "\\printfdate",
+    "\\regressbydays",
+    "\\regressbymonths",
+    "\\regressbyweeks",
+    "\\restoredate",
+    "\\savedate",
+    "\\setdateformat",
+    "\\texdatenumformat",
+    "\\texdcal",
+    "\\texdcalyear"
+  ],
   "environments": []
 }

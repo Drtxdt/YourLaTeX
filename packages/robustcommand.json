@@ -1,6 +1,4 @@
 {
-  "commands": [
-    "\\robust@new@command"
-  ],
+  "commands": [],
   "environments": []
 }

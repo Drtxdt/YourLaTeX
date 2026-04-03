@@ -1,6 +1,21 @@
 {
   "commands": [
-    "\\arro"
+    "\\arro",
+    "\\autoleftarrow",
+    "\\autoleftrightharpoons",
+    "\\autorightarrow",
+    "\\autorightleftharpoons",
+    "\\chemarrow",
+    "\\larrowfill",
+    "\\leftchemarrowfill",
+    "\\leftharpoondownfill",
+    "\\leftharpoonupfill",
+    "\\leftrightharpoonsfill",
+    "\\rarrowfill",
+    "\\rightchemarrowfill",
+    "\\rightharpoondownfill",
+    "\\rightharpoonupfill",
+    "\\rightleftharpoonsfill"
   ],
   "environments": []
 }

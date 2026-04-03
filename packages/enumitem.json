@@ -1,5 +1,13 @@
 {
-  "commands": [],
+  "commands": [
+    "\\DrawEnumitemLabel",
+    "\\SetEnumitemSize",
+    "\\csname",
+    "\\expandafter",
+    "\\makelabel",
+    "\\noexpand",
+    "\\value"
+  ],
   "environments": [
     "description*",
     "enumerate*",

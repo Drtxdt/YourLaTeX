@@ -1,7 +1,7 @@
 {
   "commands": [
-    "\\includegraphics",
-    "\\SetFigLayout"
+    "\\SetFigLayout",
+    "\\includegraphics"
   ],
   "environments": []
 }

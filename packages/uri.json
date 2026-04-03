@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\UrlLeft",
+    "\\uref"
+  ],
   "environments": []
 }

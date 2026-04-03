@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\ligs",
+    "\\ligtypeoff",
+    "\\ligtypeon",
+    "\\noligs"
+  ],
   "environments": []
 }

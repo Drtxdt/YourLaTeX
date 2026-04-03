@@ -1,6 +1,27 @@
 {
   "commands": [
-    "\\footrulewidth"
+    "\\footrulewidth",
+    "\\svnId",
+    "\\svnInfo",
+    "\\svnInfoDate",
+    "\\svnInfoDay",
+    "\\svnInfoFile",
+    "\\svnInfoHeadURL",
+    "\\svnInfoLongDate",
+    "\\svnInfoMaxDay",
+    "\\svnInfoMaxMonth",
+    "\\svnInfoMaxRevision",
+    "\\svnInfoMaxToday",
+    "\\svnInfoMaxYear",
+    "\\svnInfoMinRevision",
+    "\\svnInfoMonth",
+    "\\svnInfoOwner",
+    "\\svnInfoRevision",
+    "\\svnInfoTime",
+    "\\svnInfoYear",
+    "\\svnKeyword",
+    "\\svnMaxToday",
+    "\\svnToday"
   ],
   "environments": []
 }

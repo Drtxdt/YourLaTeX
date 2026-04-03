@@ -1,6 +1,8 @@
 {
   "commands": [
-    "\\patchcommand"
+    "\\patchcmdError",
+    "\\patchcommand",
+    "\\wrs"
   ],
   "environments": []
 }

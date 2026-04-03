@@ -1,4 +1,22 @@
 {
-  "commands": [],
+  "commands": [
+    "\\RequireAlephTeX",
+    "\\RequireHINT",
+    "\\RequireLuaHBTeX",
+    "\\RequireLuaMetaTeX",
+    "\\RequireLuaTeX",
+    "\\RequirePDFTeX",
+    "\\RequireProte",
+    "\\RequireTUTeX",
+    "\\RequireTexpadTeX",
+    "\\RequireVTeX",
+    "\\RequireXeTeX",
+    "\\RequireeTeX",
+    "\\RequirepTeX",
+    "\\RequirepTeXng",
+    "\\RequireupTeX",
+    "\\pdffalse",
+    "\\pdftrue"
+  ],
   "environments": []
 }

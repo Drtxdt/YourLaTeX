@@ -1,0 +1,17 @@
+{
+  "commands": [
+    "\\AtBeginDocument",
+    "\\AtEndDocument",
+    "\\boldnames",
+    "\\cemph",
+    "\\do",
+    "\\initauthors",
+    "\\maketitle",
+    "\\mkbibnamefamily",
+    "\\mkbibnamegiven",
+    "\\section",
+    "\\thesubsubsection",
+    "\\tocformat"
+  ],
+  "environments": []
+}

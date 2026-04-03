@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\MainFile",
+    "\\WinEdt",
+    "\\bibliography",
+    "\\include",
+    "\\input"
+  ],
   "environments": []
 }

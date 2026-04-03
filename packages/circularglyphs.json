@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\circularglyphcolor",
+    "\\tmpphrase"
+  ],
   "environments": []
 }

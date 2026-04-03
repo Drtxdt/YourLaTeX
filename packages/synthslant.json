@@ -3,15 +3,10 @@
     "\\negslantcontext",
     "\\slantcontext",
     "\\synthnegslant",
-    "\\synthslant",
-    "\\synthslant@engine@name",
-    "\\synthslant@identity@shear@box",
-    "\\synthslant@pdf@shear@box",
-    "\\synthslant@pstricks@shear@box",
-    "\\synthslant@tikz@shear@box",
-    "\\synthslantbox@fontspect@shear@box",
-    "\\synthslantbox@right@negslant@correction",
-    "\\synthslantbox@right@slant@correction"
+    "\\synthslant"
   ],
-  "environments": []
+  "environments": [
+    "negslantenvironment",
+    "slantenvironment"
+  ]
 }

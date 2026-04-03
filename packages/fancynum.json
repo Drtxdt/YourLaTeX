@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\fnum",
+    "\\next",
+    "\\setfnumdsym",
+    "\\setfnumgsym",
+    "\\setfnummsym"
+  ],
   "environments": []
 }

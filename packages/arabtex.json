@@ -1,4 +1,25 @@
 {
-  "commands": [],
+  "commands": [
+    "\\ArabTeX",
+    "\\arabtext",
+    "\\end",
+    "\\endarabtext",
+    "\\nastaliq",
+    "\\newarabfont",
+    "\\next",
+    "\\nxxp",
+    "\\oldarabfont",
+    "\\quiet",
+    "\\setarabfont",
+    "\\settransfont",
+    "\\startarab",
+    "\\thedatum",
+    "\\theversion",
+    "\\transtrue",
+    "\\wlog",
+    "\\xpa",
+    "\\xxpa",
+    "\\xxxpa"
+  ],
   "environments": []
 }

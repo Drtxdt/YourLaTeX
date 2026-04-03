@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\bizcard@marks"
+    "\\filedate",
+    "\\fileversion"
   ],
   "environments": [
     "bizcard"

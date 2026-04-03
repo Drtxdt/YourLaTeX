@@ -3,9 +3,12 @@
     "\\citedash",
     "\\dkbibannote",
     "\\dkbibdash",
+    "\\dkbibedition",
     "\\dkbibisbn",
     "\\dkbibissn",
-    "\\dkbiburl"
+    "\\dkbiburl",
+    "\\i",
+    "\\j"
   ],
   "environments": []
 }

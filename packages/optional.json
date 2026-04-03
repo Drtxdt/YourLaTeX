@@ -1,6 +1,8 @@
 {
   "commands": [
-    "\\ExplainOptions"
+    "\\ExplainOptions",
+    "\\UseOption",
+    "\\noexpand"
   ],
   "environments": []
 }

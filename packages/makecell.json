@@ -1,4 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\Xcline",
+    "\\arraystretch",
+    "\\celldiagratio",
+    "\\depth",
+    "\\endmcellbox",
+    "\\height"
+  ],
   "environments": []
 }

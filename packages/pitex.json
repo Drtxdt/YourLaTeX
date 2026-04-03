@@ -1,0 +1,20 @@
+{
+  "commands": [
+    "\\antigobblespace",
+    "\\attributenumber",
+    "\\bye",
+    "\\colorbox",
+    "\\fg",
+    "\\freedef",
+    "\\inputpitexfile",
+    "\\newattribute",
+    "\\newcatcodetable",
+    "\\og",
+    "\\pdfpoint",
+    "\\strut",
+    "\\trace",
+    "\\unsetattribute",
+    "\\untrace"
+  ],
+  "environments": []
+}

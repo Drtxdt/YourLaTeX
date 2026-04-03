@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\do",
+    "\\expandafter"
+  ],
   "environments": []
 }

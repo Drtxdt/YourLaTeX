@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\pdfsyncstart",
+    "\\pdfsyncstop"
+  ],
   "environments": []
 }

@@ -1,6 +1,26 @@
 {
   "commands": [
+    "\\CellShading",
+    "\\CircledViolationsOff",
+    "\\CircledViolationsOn",
+    "\\ExclOff",
+    "\\ExclOn",
+    "\\FingerBeforeLetter",
+    "\\LetterBeforeFinger",
     "\\Optimal",
+    "\\OptimalOff",
+    "\\OptimalOn",
+    "\\SetCellShading",
+    "\\ShadeTheCell",
+    "\\ShadingOff",
+    "\\ShadingOn",
+    "\\TipaOff",
+    "\\TipaOn",
+    "\\UnshadeTheCell",
+    "\\ip",
+    "\\ipa",
+    "\\ips",
+    "\\properlines",
     "\\rowletter"
   ],
   "environments": [

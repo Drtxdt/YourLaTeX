@@ -1,6 +1,10 @@
 {
   "commands": [
-    "\\ifnumeric"
+    "\\Romanbar",
+    "\\Romannum",
+    "\\gobbleminus",
+    "\\ifnumeric",
+    "\\romannum"
   ],
   "environments": []
 }

@@ -1,8 +1,5 @@
 {
   "commands": [
-    "\\@chapter",
-    "\\@makechapterhead",
-    "\\@makeschapterhead",
     "\\ebook",
     "\\familydefault",
     "\\pagefill",

@@ -1,6 +1,7 @@
 {
   "commands": [
     "\\drawnimstick",
+    "\\listofgames",
     "\\nimgame",
     "\\nimheapgap",
     "\\nimheaplift",

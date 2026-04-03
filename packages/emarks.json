@@ -1,4 +1,15 @@
 {
-  "commands": [],
+  "commands": [
+    "\\expandafter",
+    "\\getthebotmarks",
+    "\\getthefirstmarks",
+    "\\getthemarks",
+    "\\getthetopmarks",
+    "\\ifmarksequal",
+    "\\ifmarksvoid",
+    "\\marksthe",
+    "\\marksthecs",
+    "\\showthemarks"
+  ],
   "environments": []
 }

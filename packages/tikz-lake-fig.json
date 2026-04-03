@@ -1,4 +1,32 @@
 {
-  "commands": [],
+  "commands": [
+    "\\connectivitydiagram",
+    "\\headwater",
+    "\\headwaterprofile",
+    "\\headwaterprofileflatequal",
+    "\\incrementalcumulativeloads",
+    "\\isolated",
+    "\\isolatedflux",
+    "\\isolatedprofile",
+    "\\isolatedprofileflatequal",
+    "\\isolatedwireframe",
+    "\\lakediagramblue",
+    "\\lakediagramgreen",
+    "\\mystrut",
+    "\\primary",
+    "\\primaryprofile",
+    "\\primaryprofileblue",
+    "\\primaryprofileflatequal",
+    "\\primaryprofilegreen",
+    "\\primaryprofileplus",
+    "\\retentiontrapping",
+    "\\secondary",
+    "\\secondarypluswatershed",
+    "\\secondaryprofile",
+    "\\secondaryprofileflatequal",
+    "\\secondaryprofileplus",
+    "\\secondarywireframe",
+    "\\watershedconnectivity"
+  ],
   "environments": []
 }

@@ -1,9 +1,12 @@
 {
   "commands": [
-    "\\@ae@switch",
-    "\\ae@guills",
+    "\\aeguillfrenchdefault",
     "\\aeguills",
-    "\\ecguills"
+    "\\ecguills",
+    "\\filedate",
+    "\\fileversion",
+    "\\selectguillfont",
+    "\\x"
   ],
   "environments": []
 }

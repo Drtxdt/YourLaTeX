@@ -1,4 +1,14 @@
 {
-  "commands": [],
+  "commands": [
+    "\\DeclareGraphicsRule",
+    "\\expandafter",
+    "\\graphicspath",
+    "\\includegraphics",
+    "\\noexpand",
+    "\\reflectbox",
+    "\\resizebox",
+    "\\rotatebox",
+    "\\scalebox"
+  ],
   "environments": []
 }

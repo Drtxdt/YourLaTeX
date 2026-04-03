@@ -1,5 +1,11 @@
 {
-  "commands": [],
+  "commands": [
+    "\\LTRfootnoterule",
+    "\\setLTR",
+    "\\setLTRfootnoterule",
+    "\\setRTL",
+    "\\setRTLfootnoterule"
+  ],
   "environments": [
     "RTL"
   ]

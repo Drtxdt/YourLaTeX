@@ -1,0 +1,30 @@
+{
+  "commands": [
+    "\\Cf",
+    "\\Eg",
+    "\\Ie",
+    "\\abbrevinst",
+    "\\cf",
+    "\\cohort",
+    "\\coursecode",
+    "\\coursename",
+    "\\dof",
+    "\\eg",
+    "\\etal",
+    "\\etc",
+    "\\examname",
+    "\\faculty",
+    "\\footnotenoless",
+    "\\ie",
+    "\\instaddress",
+    "\\institute",
+    "\\instlogo",
+    "\\item",
+    "\\maxmarks",
+    "\\schoolordepartment",
+    "\\timeduration",
+    "\\vs",
+    "\\wrt"
+  ],
+  "environments": []
+}

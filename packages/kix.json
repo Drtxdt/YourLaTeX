@@ -1,9 +1,13 @@
 {
   "commands": [
+    "\\d",
     "\\kixdown",
     "\\kixlong",
     "\\kixsync",
-    "\\kixup"
+    "\\kixup",
+    "\\l",
+    "\\s",
+    "\\u"
   ],
   "environments": []
 }

@@ -1,13 +1,15 @@
 {
   "commands": [
+    "\\QRbillAddCustomReplacement",
+    "\\SetBillingInfoScheme",
+    "\\SetStaticData",
+    "\\SetupQrBill",
     "\\insertcreditor",
     "\\insertcurrency",
     "\\insertdebtor",
-    "\\QRbillAddCustomReplacement",
+    "\\qrbillfont",
     "\\qrbillsetup",
-    "\\SetBillingInfoScheme",
-    "\\SetStaticData",
-    "\\SetupQrBill"
+    "\\qrnewline"
   ],
   "environments": []
 }

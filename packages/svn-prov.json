@@ -1,4 +1,12 @@
 {
-  "commands": [],
+  "commands": [
+    "\\GetFileInfoSVN",
+    "\\ProvidesClassSVN",
+    "\\ProvidesFileSVN",
+    "\\ProvidesPackageSVN",
+    "\\Rev",
+    "\\fileversion",
+    "\\next"
+  ],
   "environments": []
 }

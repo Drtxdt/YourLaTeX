@@ -1,6 +1,29 @@
 {
   "commands": [
-    "\\encodingdefault"
+    "\\abstractname",
+    "\\alsoname",
+    "\\appendixname",
+    "\\bibname",
+    "\\ccname",
+    "\\chaptername",
+    "\\contentsname",
+    "\\enclname",
+    "\\encodingdefault",
+    "\\figurename",
+    "\\greekmode",
+    "\\greeknames",
+    "\\gt",
+    "\\headtoname",
+    "\\indexname",
+    "\\listfigurename",
+    "\\listtablename",
+    "\\lt",
+    "\\pagename",
+    "\\partname",
+    "\\prefacename",
+    "\\refname",
+    "\\seename",
+    "\\tablename"
   ],
   "environments": [
     "greek"

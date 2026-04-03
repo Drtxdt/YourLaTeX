@@ -1,18 +1,9 @@
 {
   "commands": [
-    "\\@jpneduenumerate@makenumber",
-    "\\@jpneduenumeratetext@avoid@caseauto@nostar",
-    "\\@jpneduenumeratetext@avoid@caseauto@star",
-    "\\@jpneduenumeratetext@avoid@casekeep@nostar",
-    "\\@jpneduenumeratetext@avoid@casekeep@star",
-    "\\@jpneduenumeratetext@avoid@stepauto@nostar",
-    "\\@jpneduenumeratetext@avoid@stepauto@star",
-    "\\@jpneduenumeratetext@avoid@stepkeep@nostar",
-    "\\@jpneduenumeratetext@avoid@stepkeep@star",
-    "\\@jpneduenumeratetext@makenumber",
     "\\case",
     "\\caseauto",
     "\\casekeep",
+    "\\equationreset",
     "\\labelenumi",
     "\\labelenumii",
     "\\labelenumiii",
@@ -23,6 +14,8 @@
     "\\subquestion"
   ],
   "environments": [
+    "Romanenumerate",
+    "Romanenumerate*",
     "bracketenumerate",
     "bracketenumerate*",
     "caseenumerate",
@@ -30,9 +23,7 @@
     "enumerate*",
     "itemize*",
     "romanenumerate",
-    "Romanenumerate",
     "romanenumerate*",
-    "Romanenumerate*",
     "stepenumerate",
     "stepenumerate*"
   ]

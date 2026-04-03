@@ -56,9 +56,9 @@
     "\\grHeawood",
     "\\grIcosahedral",
     "\\grKonisberg",
+    "\\grLCF",
     "\\grLabelSep",
     "\\grLadder",
-    "\\grLCF",
     "\\grLevi",
     "\\grMathSep",
     "\\grMcGee",
@@ -83,8 +83,9 @@
     "\\grWong",
     "\\grWriteExplicitLabel",
     "\\grWriteExplicitLabels",
-    "\\write@math",
-    "\\write@nomath"
+    "\\pgfmathresult",
+    "\\tkzaxpos",
+    "\\tkzbxpos"
   ],
   "environments": []
 }

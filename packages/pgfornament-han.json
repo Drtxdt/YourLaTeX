@@ -1,4 +1,16 @@
 {
-  "commands": [],
+  "commands": [
+    "\\OrnamentsFamily",
+    "\\c",
+    "\\i",
+    "\\k",
+    "\\l",
+    "\\m",
+    "\\p",
+    "\\pgfOrnamentsHanObject",
+    "\\pgfornamenthan",
+    "\\r",
+    "\\ubb"
+  ],
   "environments": []
 }

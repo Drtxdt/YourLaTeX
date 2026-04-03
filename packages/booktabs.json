@@ -1,4 +1,16 @@
 {
-  "commands": [],
+  "commands": [
+    "\\addlinespace",
+    "\\bottomrule",
+    "\\cmidrule",
+    "\\cmrsideswitch",
+    "\\futurenonspacelet",
+    "\\midrule",
+    "\\morecmidrules",
+    "\\next",
+    "\\nexttoken",
+    "\\specialrule",
+    "\\toprule"
+  ],
   "environments": []
 }

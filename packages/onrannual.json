@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "\\awardnumber",
+    "\\distribution",
+    "\\projecturl",
+    "\\refname"
+  ],
+  "environments": []
+}

@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\NEstore@KV@Option",
+    "\\filedate",
+    "\\fileversion",
     "\\overrightarc",
     "\\widearc"
   ],

@@ -1,6 +1,10 @@
 {
   "commands": [
-    "\\degree"
+    "\\celsius",
+    "\\degree",
+    "\\micro",
+    "\\ohm",
+    "\\perthousand"
   ],
   "environments": []
 }

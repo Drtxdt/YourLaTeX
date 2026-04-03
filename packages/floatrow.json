@@ -1,7 +1,27 @@
 {
   "commands": [
-    "\\float@listhead",
-    "\\listof"
+    "\\CommonHeight",
+    "\\FBafil",
+    "\\FBbfil",
+    "\\FBoheight",
+    "\\FCwidth",
+    "\\FRleftmargin",
+    "\\FRrightmargin",
+    "\\ProcessOptionsWithKV",
+    "\\captionskip",
+    "\\endfloatrow",
+    "\\floatfootskip",
+    "\\floatsetup",
+    "\\listof",
+    "\\newdimentocommand",
+    "\\newlengthtocommand",
+    "\\newskiptocommand",
+    "\\next",
+    "\\renewdimentocommand",
+    "\\renewlengthtocommand",
+    "\\renewskiptocommand",
+    "\\string",
+    "\\thempfn"
   ],
   "environments": [
     "subfloatrow",

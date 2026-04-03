@@ -1,4 +1,17 @@
 {
-  "commands": [],
+  "commands": [
+    "\\bibcite",
+    "\\bibliographycomment",
+    "\\cite",
+    "\\endthebibliography",
+    "\\fullcitenext",
+    "\\fullycite",
+    "\\newblock",
+    "\\noibid",
+    "\\protect",
+    "\\shortcite",
+    "\\shortcitenext",
+    "\\thebibliography"
+  ],
   "environments": []
 }

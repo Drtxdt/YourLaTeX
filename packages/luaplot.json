@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\luaplot"
+    "\\luaplot",
+    "\\luatikzpath"
   ],
   "environments": []
 }

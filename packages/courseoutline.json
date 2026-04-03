@@ -1,0 +1,35 @@
+{
+  "commands": [
+    "\\courselocation",
+    "\\coursename",
+    "\\coursenumber",
+    "\\coursesection",
+    "\\coursesession",
+    "\\coursetime",
+    "\\coursewebpage",
+    "\\department",
+    "\\instructor",
+    "\\instructoremail",
+    "\\instructoroffice",
+    "\\instructorofficehours",
+    "\\instructorphone",
+    "\\ta",
+    "\\taemail",
+    "\\taoffice",
+    "\\taofficehours",
+    "\\taphone",
+    "\\texts",
+    "\\tutoriallocation",
+    "\\tutorialtime",
+    "\\university"
+  ],
+  "environments": [
+    "administrivia",
+    "assignments",
+    "evaluation",
+    "introduction",
+    "schedule",
+    "textbooks",
+    "tutorials"
+  ]
+}

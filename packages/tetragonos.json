@@ -1,6 +1,5 @@
 {
   "commands": [
-    "\\get@first@char",
     "\\getTG",
     "\\loadTG",
     "\\saveTG"

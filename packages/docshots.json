@@ -1,5 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\hash"
+  ],
   "environments": [
     "docshot"
   ]

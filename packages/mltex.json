@@ -1,5 +1,6 @@
 {
   "commands": [
+    "\\fontencoding",
     "\\mlfontencoding",
     "\\origfontencoding"
   ],

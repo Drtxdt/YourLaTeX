@@ -3,17 +3,9 @@
     "\\Affirmation",
     "\\Coverpage",
     "\\Titelblatt",
-    "\\USCCover@isTwoColumn",
-    "\\USCCover@Pgkname",
-    "\\USCCover@setCourse",
-    "\\USCCover@setInstitute",
-    "\\USCCover@setLanguage",
-    "\\USCCover@setType",
-    "\\USCCover@TBlabel",
-    "\\USCCover@true",
-    "\\Versicherung"
+    "\\Versicherung",
+    "\\labelsenglish",
+    "\\labelsgerman"
   ],
-  "environments": [
-    "USCCover@TBlist"
-  ]
+  "environments": []
 }

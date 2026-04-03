@@ -19,7 +19,9 @@
     "\\IfPackageNotLoaded",
     "\\IfPackagesLoaded",
     "\\IfPackagesNotLoaded",
-    "\\IfUndefined"
+    "\\IfTikzLibraryLoaded",
+    "\\IfUndefined",
+    "\\do"
   ],
   "environments": []
 }

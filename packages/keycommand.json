@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\default",
+    "\\do",
+    "\\expandafter",
+    "\\next",
+    "\\noexpand"
+  ],
   "environments": []
 }

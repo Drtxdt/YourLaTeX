@@ -1,19 +1,13 @@
 {
   "commands": [
-    "\\@xpxpxp",
-    "\\IfNextSpace",
-    "\\IfNextToken",
-    "\\IfStarNextToken",
-    "\\INT@mod",
-    "\\INT@modified",
-    "\\INT@save",
-    "\\INT@save@nmod",
     "\\INTactOnEnv",
     "\\INTpatch",
     "\\INTrestore",
     "\\INTstore",
+    "\\IfNextSpace",
+    "\\IfNextToken",
+    "\\IfStarNextToken",
     "\\MakeNotSkipping",
-    "\\nextok@ifspace",
     "\\NextTestPatch",
     "\\NoNewlineSkipping",
     "\\NoNextSkipping",
@@ -28,7 +22,7 @@
     "\\StoreNewlineSkipping",
     "\\StoreSkippingCRs",
     "\\StoreStarSkipping",
-    "\\WCS@namemod@copy@to@from"
+    "\\expandafter"
   ],
   "environments": []
 }

@@ -1,9 +1,13 @@
 {
   "commands": [
-    "\\el@Error",
-    "\\el@GenericDef",
-    "\\el@GenericNumberCheck",
-    "\\el@GenericUnitSearch"
+    "\\ListProperties",
+    "\\NewList",
+    "\\csname",
+    "\\easylist",
+    "\\easynext",
+    "\\elCreateItem",
+    "\\elPredefinedStyle",
+    "\\endeasylist"
   ],
   "environments": []
 }

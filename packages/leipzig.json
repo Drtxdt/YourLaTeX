@@ -1,6 +1,5 @@
 {
   "commands": [
-    "\\@leipzig@default@style",
     "\\acronymfont",
     "\\acrpluralsuffix",
     "\\firstacronymfont",
@@ -11,7 +10,6 @@
     "\\glossarysection",
     "\\glossarysubentryfield",
     "\\glossentry",
-    "\\gls@tr@set@leipzig@toctitle",
     "\\glsgroupheading",
     "\\glsgroupskip",
     "\\glsinlinedescformat",
@@ -28,7 +26,6 @@
     "\\glspostinline",
     "\\glspostnamespace",
     "\\glstreenamefmt",
-    "\\leipzig@glossentrydesc",
     "\\leipzigfont",
     "\\leipzigname",
     "\\leipzigtype",

@@ -1,6 +1,7 @@
 {
   "commands": [
-    "\\Gelasio@scale"
+    "\\seriesdefault",
+    "\\sufigures"
   ],
   "environments": []
 }

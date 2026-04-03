@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\appendmask",
+    "\\clearmask",
+    "\\ifinmask",
+    "\\setkeys"
+  ],
   "environments": []
 }

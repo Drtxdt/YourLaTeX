@@ -1,0 +1,32 @@
+{
+  "commands": [
+    "\\address",
+    "\\and",
+    "\\baseclass",
+    "\\chair",
+    "\\chairlogo",
+    "\\curraddr",
+    "\\date",
+    "\\email",
+    "\\extratitle",
+    "\\footnote",
+    "\\footnotesize",
+    "\\keywords",
+    "\\maketitle",
+    "\\publishers",
+    "\\subjclass",
+    "\\subject",
+    "\\supervisors",
+    "\\thanks",
+    "\\thempfootnote",
+    "\\thesislogo",
+    "\\thesistype",
+    "\\titlehadjust",
+    "\\titlehead",
+    "\\titlevadjust",
+    "\\translator",
+    "\\unidologo",
+    "\\urladdr"
+  ],
+  "environments": []
+}

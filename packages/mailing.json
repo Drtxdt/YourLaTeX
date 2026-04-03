@@ -1,6 +1,8 @@
 {
   "commands": [
-    "\\addressfile"
+    "\\addressfile",
+    "\\mailingtext",
+    "\\makemailing"
   ],
   "environments": []
 }

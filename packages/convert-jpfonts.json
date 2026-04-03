@@ -1,7 +1,4 @@
 {
-  "commands": [
-    "\\@fonts",
-    "\\@fonts@han@zen"
-  ],
+  "commands": [],
   "environments": []
 }

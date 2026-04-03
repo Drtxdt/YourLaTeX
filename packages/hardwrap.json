@@ -2,9 +2,14 @@
   "commands": [
     "\\GenerateClassLogMacros",
     "\\GeneratePackageLogMacros",
-    "\\hw@generate@logging@macros",
-    "\\hw@generate@logging@macros@aux",
-    "\\setmaxprintline"
+    "\\HardWrapSetup",
+    "\\MessageBreak",
+    "\\emph",
+    "\\newline",
+    "\\next",
+    "\\setmaxprintline",
+    "\\textbf",
+    "\\textit"
   ],
   "environments": []
 }

@@ -1,0 +1,36 @@
+{
+  "commands": [
+    "\\afterloftitle",
+    "\\afterlottitle",
+    "\\aftertoctitle",
+    "\\biblistextra",
+    "\\bibname",
+    "\\cftchapterfont",
+    "\\cftchapterleader",
+    "\\cftchapterpagefont",
+    "\\chapterheadstart",
+    "\\chaptitlefont",
+    "\\contentsname",
+    "\\degree",
+    "\\degreemo",
+    "\\degreeyr",
+    "\\insertchapterspace",
+    "\\listfigurename",
+    "\\listtablename",
+    "\\maketitle",
+    "\\mugsdegree",
+    "\\mugsdegreemo",
+    "\\mugsdegreeyr",
+    "\\prebibhook",
+    "\\printchaptername",
+    "\\printchapternum",
+    "\\printchaptertitle",
+    "\\tableofcontents",
+    "\\texorpdfstring",
+    "\\title"
+  ],
+  "environments": [
+    "acknowledgments",
+    "dedication"
+  ]
+}

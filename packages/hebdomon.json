@@ -1,0 +1,23 @@
+{
+  "commands": [
+    "\\Chapter",
+    "\\Section",
+    "\\StudentName",
+    "\\Subsection",
+    "\\Subsubsection",
+    "\\baselinestretch",
+    "\\chapterformat",
+    "\\heading",
+    "\\hlight",
+    "\\marginsecnumber",
+    "\\mtcSSSfont",
+    "\\mtcSSfont",
+    "\\mtcSfont",
+    "\\mtcfont",
+    "\\mtifont",
+    "\\pcode"
+  ],
+  "environments": [
+    "code"
+  ]
+}

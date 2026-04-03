@@ -1,15 +1,19 @@
 {
   "commands": [
+    "\\Closesolutionfile",
     "\\Currentlabel",
     "\\Ifanswerfiles",
     "\\Iffileundefined",
     "\\Ifopen",
     "\\Newassociation",
+    "\\Opensolutionfile",
+    "\\Readsolutionfile",
+    "\\Tmp",
+    "\\Writetofile",
     "\\newsolution",
     "\\solutionextension",
     "\\solutionpoint",
-    "\\solutionstyle",
-    "\\Writetofile"
+    "\\solutionstyle"
   ],
   "environments": [
     "Filesave"

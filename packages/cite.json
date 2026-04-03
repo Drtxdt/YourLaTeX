@@ -1,7 +1,13 @@
 {
   "commands": [
+    "\\CiteMoveChars",
+    "\\cite",
     "\\citedash",
-    "\\CiteMoveChars"
+    "\\citeleft",
+    "\\citenum",
+    "\\citeonline",
+    "\\citepunct",
+    "\\expandafter"
   ],
   "environments": []
 }

@@ -1,4 +1,14 @@
 {
-  "commands": [],
+  "commands": [
+    "\\relationbarfill",
+    "\\relationbuildlifting",
+    "\\relationbuildprojectleft",
+    "\\relationbuildprojectright",
+    "\\relationleftproject",
+    "\\relationlifting",
+    "\\relationrightproject",
+    "\\relationverticalbarfillleft",
+    "\\relationverticalbarfillright"
+  ],
   "environments": []
 }

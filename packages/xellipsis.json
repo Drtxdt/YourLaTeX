@@ -1,4 +1,10 @@
 {
-  "commands": [],
+  "commands": [
+    "\\xelip",
+    "\\xelipchar",
+    "\\xelipend",
+    "\\xelippostchar",
+    "\\xelipprechar"
+  ],
   "environments": []
 }

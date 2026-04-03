@@ -1,9 +1,19 @@
 {
   "commands": [
-    "\\cjhebfamily",
+    "\\Footnote",
+    "\\LTR",
+    "\\RTL",
     "\\cjLR",
     "\\cjRL",
-    "\\thefootnote"
+    "\\cjhebfamily",
+    "\\setLR",
+    "\\setLTR",
+    "\\setRL",
+    "\\setRTL",
+    "\\setRTLmain",
+    "\\thefootnote",
+    "\\unsetLTR",
+    "\\unsetRTL"
   ],
   "environments": [
     "cjhebrew"

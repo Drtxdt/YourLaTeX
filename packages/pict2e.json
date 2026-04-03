@@ -1,4 +1,25 @@
 {
-  "commands": [],
+  "commands": [
+    "\\Line",
+    "\\Vector",
+    "\\beveljoin",
+    "\\buttcap",
+    "\\closepath",
+    "\\curveto",
+    "\\fillpath",
+    "\\line",
+    "\\lineto",
+    "\\miterjoin",
+    "\\moveto",
+    "\\polygon",
+    "\\polyline",
+    "\\polyvector",
+    "\\roundcap",
+    "\\roundjoin",
+    "\\sign",
+    "\\squarecap",
+    "\\strokepath",
+    "\\vector"
+  ],
   "environments": []
 }

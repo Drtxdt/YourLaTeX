@@ -1,11 +1,30 @@
 {
   "commands": [
+    "\\angleA",
+    "\\angleB",
+    "\\arrow",
+    "\\bendpt",
+    "\\cptC",
+    "\\cptD",
+    "\\label",
+    "\\linestyle",
     "\\link",
     "\\linkNoStar",
     "\\linkStar",
+    "\\linkparam",
     "\\lnklabel",
     "\\lnklabelNoStar",
-    "\\lnklabelStar"
+    "\\lnklabelStar",
+    "\\maxdim",
+    "\\ncHarc",
+    "\\nd",
+    "\\opt",
+    "\\ptA",
+    "\\ptB",
+    "\\reste",
+    "\\suite",
+    "\\text",
+    "\\txt"
   ],
   "environments": []
 }

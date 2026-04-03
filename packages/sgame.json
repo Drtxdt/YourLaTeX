@@ -1,4 +1,18 @@
 {
-  "commands": [],
+  "commands": [
+    "\\arraystretch",
+    "\\csname",
+    "\\endgame",
+    "\\endgstartabular",
+    "\\endgtabular",
+    "\\game",
+    "\\gamestretch",
+    "\\gstartabular",
+    "\\gtabular",
+    "\\sglinecolor",
+    "\\sgtextcolor",
+    "\\tabcolsep",
+    "\\tempstretch"
+  ],
   "environments": []
 }

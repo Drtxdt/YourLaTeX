@@ -1,6 +1,6 @@
 {
   "commands": [
-    "\\sourcedivision@failtopatch"
+    "\\do"
   ],
   "environments": []
 }

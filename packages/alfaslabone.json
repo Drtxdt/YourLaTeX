@@ -1,8 +1,10 @@
 {
   "commands": [
-    "\\AlphaSlabOne@scale",
+    "\\alfaslabonetabular",
     "\\familydefault",
-    "\\rmdefault"
+    "\\rmdefault",
+    "\\sufigures",
+    "\\supfigures"
   ],
   "environments": []
 }

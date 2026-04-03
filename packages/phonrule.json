@@ -1,9 +1,5 @@
 {
   "commands": [
-    "\\@env",
-    "\\@envb",
-    "\\@envl",
-    "\\@envr",
     "\\env",
     "\\envb",
     "\\envl",

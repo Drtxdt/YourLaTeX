@@ -1,4 +1,23 @@
 {
-  "commands": [],
+  "commands": [
+    "\\Thicklines",
+    "\\allinethickness",
+    "\\arc",
+    "\\blacken",
+    "\\circle",
+    "\\dottedjoin",
+    "\\dottedline",
+    "\\ellipse",
+    "\\filltype",
+    "\\jput",
+    "\\line",
+    "\\path",
+    "\\shade",
+    "\\spline",
+    "\\texture",
+    "\\thicklines",
+    "\\thinlines",
+    "\\whiten"
+  ],
   "environments": []
 }

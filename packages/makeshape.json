@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\mincorrect",
+    "\\setpaths"
+  ],
   "environments": []
 }

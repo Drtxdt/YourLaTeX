@@ -1,4 +1,13 @@
 {
-  "commands": [],
+  "commands": [
+    "\\TAEEexcluded",
+    "\\TAEEmax",
+    "\\TAEEmin",
+    "\\TAEEnb",
+    "\\TAEEseed",
+    "\\TAEEsep",
+    "\\TAEEtri",
+    "\\resisinlist"
+  ],
   "environments": []
 }

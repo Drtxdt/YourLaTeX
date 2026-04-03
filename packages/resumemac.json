@@ -1,0 +1,22 @@
+{
+  "commands": [
+    "\\TAGinfo",
+    "\\address",
+    "\\centerheading",
+    "\\centeroneaddress",
+    "\\centertwoaddresses",
+    "\\date",
+    "\\endtag",
+    "\\heading",
+    "\\leftheading",
+    "\\name",
+    "\\printheader",
+    "\\rightheading",
+    "\\specialheading",
+    "\\specialline",
+    "\\tag",
+    "\\today",
+    "\\wheretoputit"
+  ],
+  "environments": []
+}

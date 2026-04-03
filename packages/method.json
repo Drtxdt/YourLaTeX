@@ -7,13 +7,19 @@
     "\\headpara",
     "\\headtabbed",
     "\\init",
-    "\\meth@defheadpara",
-    "\\meth@defpara",
     "\\para",
     "\\postcond",
     "\\precond",
     "\\return",
-    "\\see"
+    "\\see",
+    "\\textdel",
+    "\\textdescr",
+    "\\texterror",
+    "\\textinit",
+    "\\textpostcond",
+    "\\textprecond",
+    "\\textreturn",
+    "\\textsee"
   ],
   "environments": [
     "data",

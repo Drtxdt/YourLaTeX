@@ -1,7 +1,26 @@
 {
   "commands": [
+    "\\Ae",
+    "\\Ai",
+    "\\Ee",
+    "\\Ei",
+    "\\ae",
+    "\\ai",
+    "\\be",
+    "\\csname",
+    "\\ie",
+    "\\ii",
+    "\\nddim",
     "\\ndjustformat",
-    "\\ndrefformat"
+    "\\ndref",
+    "\\ndrefformat",
+    "\\ndrules",
+    "\\ne",
+    "\\ni",
+    "\\nne",
+    "\\oe",
+    "\\oi",
+    "\\r"
   ],
   "environments": [
     "fitchproof",

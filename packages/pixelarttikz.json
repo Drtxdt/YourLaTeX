@@ -1,4 +1,27 @@
 {
-  "commands": [],
-  "environments": []
+  "commands": [
+    "\\AAanamcylcenter",
+    "\\AAanamcyllarg",
+    "\\NbColBloc",
+    "\\NbLigBloc",
+    "\\PATAAchiffres",
+    "\\PATAAcouleurs",
+    "\\PATAAlettres",
+    "\\PATAAtaille",
+    "\\PATchiffres",
+    "\\PATcouleurs",
+    "\\PATdecoup",
+    "\\PATlettres",
+    "\\PATtaille",
+    "\\PATunit",
+    "\\PAalphabet",
+    "\\PAtablenotice",
+    "\\PAtablfonte",
+    "\\PAtabllarg",
+    "\\runlistcolors"
+  ],
+  "environments": [
+    "EnvPixelArtTikz",
+    "EnvPixlArtTikz"
+  ]
 }

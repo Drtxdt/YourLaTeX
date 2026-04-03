@@ -1,7 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\setkeys"
+  ],
   "environments": [
-    "overpic",
-    "Overpic"
+    "Overpic",
+    "overpic"
   ]
 }

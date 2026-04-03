@@ -1,11 +1,5 @@
 {
   "commands": [
-    "\\@handoutsHandoutsToImport",
-    "\\@handoutsPrevUnit",
-    "\\@handoutsThisUnit",
-    "\\@handoutsUnitsToImport",
-    "\\@ifimportingthen",
-    "\\@somehandoutinfo",
     "\\allhandoutinfo",
     "\\cftpnumalign",
     "\\cftsecafterpnum",
@@ -14,7 +8,10 @@
     "\\cftsubsecafterpnum",
     "\\cftsubsecfont",
     "\\cftsubsecleader",
+    "\\csname",
     "\\footrulewidth",
+    "\\gnewcommand",
+    "\\grenewcommand",
     "\\headrulewidth",
     "\\importall",
     "\\importallhandouts",

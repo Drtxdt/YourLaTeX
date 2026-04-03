@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\PitonFileDate",
+    "\\PitonFileVersion"
+  ],
   "environments": []
 }

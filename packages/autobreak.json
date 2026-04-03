@@ -1,5 +1,8 @@
 {
-  "commands": [],
+  "commands": [
+    "\\MoveEqLeft",
+    "\\endalign"
+  ],
   "environments": [
     "autobreak"
   ]

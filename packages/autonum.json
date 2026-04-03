@@ -1,4 +1,13 @@
 {
-  "commands": [],
+  "commands": [
+    "\\csxdefall",
+    "\\csxdefaux",
+    "\\ifcsedef",
+    "\\meaningx",
+    "\\newcommandsequence",
+    "\\renewcommandsequence",
+    "\\skipInPDFTOC",
+    "\\vanishprotect"
+  ],
   "environments": []
 }

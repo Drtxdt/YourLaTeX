@@ -1,4 +1,17 @@
 {
-  "commands": [],
+  "commands": [
+    "\\BoxCpltTitle",
+    "\\BoxEchelleIcone",
+    "\\BoxHauteurLogo",
+    "\\BoxIcone",
+    "\\BoxLogo",
+    "\\BoxModifLabel",
+    "\\BoxOffsetLogo",
+    "\\BoxOpaciteIcone",
+    "\\BoxOpaciteLogo",
+    "\\BoxRotationIcone",
+    "\\BoxRotationLogo",
+    "\\BoxSubTitle"
+  ],
   "environments": []
 }

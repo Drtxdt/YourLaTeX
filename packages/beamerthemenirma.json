@@ -1,4 +1,24 @@
 {
-  "commands": [],
+  "commands": [
+    "\\addlogo",
+    "\\alterralogo",
+    "\\bluesheetfootline",
+    "\\bluesheets",
+    "\\buildlogobar",
+    "\\logobarlogo",
+    "\\logobartext",
+    "\\normalcolor",
+    "\\normalcolorhack",
+    "\\nulogo",
+    "\\nwologo",
+    "\\picturebar",
+    "\\resetlogo",
+    "\\setanysheetcolors",
+    "\\setbluesheetcolors",
+    "\\setwhitesheetcolors",
+    "\\underline",
+    "\\whitesheetfootline",
+    "\\whitesheets"
+  ],
   "environments": []
 }

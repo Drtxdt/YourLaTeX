@@ -1,7 +1,10 @@
 {
   "commands": [
-    "\\@TeXr@subtabenum",
-    "\\@TeXr@tabenum"
+    "\\endsubtabenum",
+    "\\endtabenum",
+    "\\noarrayjot",
+    "\\par",
+    "\\tempa"
   ],
   "environments": [
     "rsubtabenum",

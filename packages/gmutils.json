@@ -1,4 +1,15 @@
 {
-  "commands": [],
+  "commands": [
+    "\\HeShe",
+    "\\HimHer",
+    "\\HisHer",
+    "\\HisHers",
+    "\\Name",
+    "\\doifdefined",
+    "\\heshe",
+    "\\himher",
+    "\\hisher",
+    "\\hishers"
+  ],
   "environments": []
 }

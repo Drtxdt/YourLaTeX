@@ -1,6 +1,8 @@
 {
   "commands": [
     "\\bibinput",
+    "\\newbibignore",
+    "\\usebibentry",
     "\\usebibentryurl"
   ],
   "environments": []

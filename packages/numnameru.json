@@ -1,9 +1,7 @@
 {
   "commands": [
     "\\centnumbername",
-    "\\form@tnumber",
     "\\minusname",
-    "\\n@me@number",
     "\\numdigits",
     "\\numnameru",
     "\\rNamenumberC",

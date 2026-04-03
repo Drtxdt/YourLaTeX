@@ -1,8 +1,10 @@
 {
   "commands": [
     "\\braid",
-    "\\braid@clabel@strand",
-    "\\braid@olabel@strand"
+    "\\braidset",
+    "\\clabel",
+    "\\label",
+    "\\olabel"
   ],
   "environments": []
 }

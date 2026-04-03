@@ -1,7 +1,5 @@
 {
   "commands": [
-    "\\@iffont@checkfont",
-    "\\@iffont@firstfont",
     "\\iffontexists",
     "\\iffontsexist",
     "\\ifxfontexists",

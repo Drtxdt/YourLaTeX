@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "\\author",
+    "\\baselinestretch",
+    "\\blankline",
+    "\\cascadillabibliography",
+    "\\completed",
+    "\\copyrightyear",
+    "\\headrulewidth",
+    "\\immedsubsection",
+    "\\immedsubsubsection",
+    "\\institution",
+    "\\maketitle",
+    "\\thanks",
+    "\\thefootnote",
+    "\\title"
+  ],
+  "environments": []
+}

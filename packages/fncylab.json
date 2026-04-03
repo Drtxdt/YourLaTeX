@@ -1,4 +1,7 @@
 {
-  "commands": [],
+  "commands": [
+    "\\csname",
+    "\\labelformat"
+  ],
   "environments": []
 }

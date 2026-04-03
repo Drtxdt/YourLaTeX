@@ -1,6 +1,24 @@
 {
   "commands": [
-    "\\WFclear"
+    "\\SetWFbgd",
+    "\\SetWFfrm",
+    "\\SetWFtxt",
+    "\\WFclear",
+    "\\WFscalefactor",
+    "\\WFsplitdimens",
+    "\\caption",
+    "\\expandafter",
+    "\\noexpand",
+    "\\par",
+    "\\textcorrection",
+    "\\textoverhang",
+    "\\textplacement",
+    "\\width"
   ],
-  "environments": []
+  "environments": [
+    "wrapfigure",
+    "wrapfloat",
+    "wraptable",
+    "wraptext"
+  ]
 }

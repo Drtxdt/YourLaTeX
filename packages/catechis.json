@@ -1,5 +1,23 @@
 {
   "commands": [
+    "\\catanssty",
+    "\\catcitations",
+    "\\catcite",
+    "\\catcitesty",
+    "\\catcitetitle",
+    "\\catcitetitlesty",
+    "\\catcitetitleword",
+    "\\catcomment",
+    "\\catcommsty",
+    "\\catexplic",
+    "\\catexplicsty",
+    "\\catques",
+    "\\catquesnumsty",
+    "\\catquessty",
+    "\\catsrcsty",
+    "\\endcatcitations",
+    "\\restoreindents",
+    "\\scripture",
     "\\thecatquesnum"
   ],
   "environments": []

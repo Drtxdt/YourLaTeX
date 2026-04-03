@@ -1,5 +1,8 @@
 {
   "commands": [
+    "\\Label",
+    "\\csname",
+    "\\label",
     "\\proofname",
     "\\thechapter",
     "\\thesection"

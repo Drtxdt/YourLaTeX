@@ -1,4 +1,9 @@
 {
-  "commands": [],
+  "commands": [
+    "\\cistercianredraw",
+    "\\cistercianredrawlazy",
+    "\\cistercianstyle",
+    "\\csname"
+  ],
   "environments": []
 }

@@ -1,11 +1,10 @@
 {
   "commands": [
+    "\\bibitem",
     "\\collectsep",
-    "\\nc@breakafter",
-    "\\nc@breakbefore",
-    "\\nc@getcsname",
-    "\\nc@setcsname",
-    "\\nocollect"
+    "\\endthebibliography",
+    "\\nocollect",
+    "\\thebibliography"
   ],
   "environments": []
 }

@@ -1,11 +1,14 @@
 {
   "commands": [
     "\\timbreICMCbannerBoxConfig",
+    "\\timbreICMCbannerColor",
+    "\\timbreICMCbannerTexto",
     "\\timbreICMCcalculaBanner",
     "\\timbreICMCconfig",
     "\\timbreICMCfonterodape",
     "\\timbreICMCgeraLogo",
-    "\\timbreICMCsetwatermark"
+    "\\timbreICMCsetwatermark",
+    "\\timbreICMCtextoRodape"
   ],
   "environments": []
 }

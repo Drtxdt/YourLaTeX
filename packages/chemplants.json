@@ -1,5 +1,7 @@
 {
   "commands": [
+    "\\chpdate",
+    "\\chpversion",
     "\\measure",
     "\\setchpblockfontsize",
     "\\setchpblockscale",

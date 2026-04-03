@@ -1,0 +1,26 @@
+{
+  "commands": [
+    "\\BLogo",
+    "\\LLogo",
+    "\\RLogo",
+    "\\captionsgerman",
+    "\\captionsgermansav",
+    "\\captionsngerman",
+    "\\captionsngermansav",
+    "\\chair",
+    "\\dpoversion",
+    "\\figurename",
+    "\\maketitle",
+    "\\nomname",
+    "\\referees",
+    "\\supervisor",
+    "\\tablename",
+    "\\thesistime",
+    "\\titlepic",
+    "\\titlepicdesc"
+  ],
+  "environments": [
+    "abstract",
+    "nomenclature"
+  ]
+}

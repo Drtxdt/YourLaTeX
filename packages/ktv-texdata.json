@@ -1,5 +1,21 @@
 {
-  "commands": [],
+  "commands": [
+    "\\exx",
+    "\\xdetailoff",
+    "\\xdetailon",
+    "\\xdisablesection",
+    "\\xenablesection",
+    "\\xenv",
+    "\\xget",
+    "\\xgetall",
+    "\\xgetallbut",
+    "\\xkill",
+    "\\xkillall",
+    "\\xkillallbut",
+    "\\xlib",
+    "\\xopenhint",
+    "\\xspec"
+  ],
   "environments": [
     "hint"
   ]
